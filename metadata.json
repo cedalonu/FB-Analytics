@@ -1,0 +1,6 @@
+{
+  "name": "FB Analytics Pro",
+  "description": "AI-powered football analytics, match predictions, tactical deep dives, and live odds intelligence platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
