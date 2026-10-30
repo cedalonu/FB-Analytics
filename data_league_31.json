@@ -1,7 +1,7 @@
 {
   "leagueId": "31",
   "leagueName": "La Liga",
-  "timestamp": "2026-10-30T19:24:31.752Z",
+  "timestamp": "2026-10-30T19:27:21.345Z",
   "fixtures": [
     {
       "id": "fix_31_1_Villarreal",
@@ -449,8 +449,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 64,
         "matchFingerprint": "31_sevilla_osasuna_Mon 26-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:24:31.750Z",
-        "auditHash": "SHA256-IMMUTABLE-1288302F-2026-10-30",
+        "lockedAt": "2026-10-30T19:27:21.344Z",
+        "auditHash": "SHA256-IMMUTABLE-755D0CD2-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -497,8 +497,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 70,
         "matchFingerprint": "31_barcelona_real madrid_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:24:31.750Z",
-        "auditHash": "SHA256-IMMUTABLE-62CD9A3E-2026-10-30",
+        "lockedAt": "2026-10-30T19:27:21.344Z",
+        "auditHash": "SHA256-IMMUTABLE-2517A2C3-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -545,8 +545,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "31_real sociedad_levante_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:24:31.751Z",
-        "auditHash": "SHA256-IMMUTABLE-6D14AD8A-2026-10-30",
+        "lockedAt": "2026-10-30T19:27:21.344Z",
+        "auditHash": "SHA256-IMMUTABLE-1AD08F58-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -593,8 +593,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "31_celta de vigo_real betis_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:24:31.751Z",
-        "auditHash": "SHA256-IMMUTABLE-770230D5-2026-10-30",
+        "lockedAt": "2026-10-30T19:27:21.344Z",
+        "auditHash": "SHA256-IMMUTABLE-1189249-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -641,8 +641,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "31_athletic bilbao_getafe_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:24:31.751Z",
-        "auditHash": "SHA256-IMMUTABLE-15E45ECD-2026-10-30",
+        "lockedAt": "2026-10-30T19:27:21.344Z",
+        "auditHash": "SHA256-IMMUTABLE-7200DE15-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -689,8 +689,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 51,
         "matchFingerprint": "31_atletico madrid_deportivo de la coruna_Sat 24-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:24:31.751Z",
-        "auditHash": "SHA256-IMMUTABLE-7D2E81BB-2026-10-30",
+        "lockedAt": "2026-10-30T19:27:21.344Z",
+        "auditHash": "SHA256-IMMUTABLE-AB6BB27-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -737,8 +737,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "31_valencia_villarreal_Sat 24-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:24:31.751Z",
-        "auditHash": "SHA256-IMMUTABLE-A7DCE66-2026-10-30",
+        "lockedAt": "2026-10-30T19:27:21.344Z",
+        "auditHash": "SHA256-IMMUTABLE-7D676E7C-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -785,8 +785,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "31_racing santander_espanyol_Sat 24-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:24:31.751Z",
-        "auditHash": "SHA256-IMMUTABLE-11F38636-2026-10-30",
+        "lockedAt": "2026-10-30T19:27:21.345Z",
+        "auditHash": "SHA256-IMMUTABLE-75F1B6CB-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -833,8 +833,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "31_rayo vallecano_elche_Sat 24-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:24:31.751Z",
-        "auditHash": "SHA256-IMMUTABLE-788122C8-2026-10-30",
+        "lockedAt": "2026-10-30T19:27:21.345Z",
+        "auditHash": "SHA256-IMMUTABLE-F641A39-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -881,8 +881,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "31_alaves_malaga_Fri 23-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:24:31.751Z",
-        "auditHash": "SHA256-IMMUTABLE-6BEDF2C9-2026-10-30",
+        "lockedAt": "2026-10-30T19:27:21.345Z",
+        "auditHash": "SHA256-IMMUTABLE-C2CD036-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -929,8 +929,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 48,
         "matchFingerprint": "31_levante_athletic bilbao_Wed 21-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:24:31.751Z",
-        "auditHash": "SHA256-IMMUTABLE-2D12843C-2026-10-30",
+        "lockedAt": "2026-10-30T19:27:21.345Z",
+        "auditHash": "SHA256-IMMUTABLE-4B083EC3-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -977,8 +977,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "31_getafe_rayo vallecano_Mon 19-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:24:31.751Z",
-        "auditHash": "SHA256-IMMUTABLE-66D3A7C-2026-10-30",
+        "lockedAt": "2026-10-30T19:27:21.345Z",
+        "auditHash": "SHA256-IMMUTABLE-71AD8883-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -1025,8 +1025,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 62,
         "matchFingerprint": "31_real madrid_sevilla_Sun 18-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:24:31.751Z",
-        "auditHash": "SHA256-IMMUTABLE-33575838-2026-10-30",
+        "lockedAt": "2026-10-30T19:27:21.345Z",
+        "auditHash": "SHA256-IMMUTABLE-44C36AC7-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -1073,8 +1073,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 64,
         "matchFingerprint": "31_malaga_real sociedad_Sun 18-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:24:31.751Z",
-        "auditHash": "SHA256-IMMUTABLE-21F31C68-2026-10-30",
+        "lockedAt": "2026-10-30T19:27:21.345Z",
+        "auditHash": "SHA256-IMMUTABLE-5627A697-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -1121,8 +1121,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "31_celta de vigo_alaves_Sun 18-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:24:31.751Z",
-        "auditHash": "SHA256-IMMUTABLE-71A0D938-2026-10-30",
+        "lockedAt": "2026-10-30T19:27:21.345Z",
+        "auditHash": "SHA256-IMMUTABLE-164463C9-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
