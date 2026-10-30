@@ -1,0 +1,440 @@
+{
+  "fixtures": [
+    {
+      "id": "fix_31_1_Villarreal",
+      "leagueId": "31",
+      "leagueName": "",
+      "dateRaw": "Fri 30/10",
+      "dateIso": "2026-10-30T12:00:00.000Z",
+      "daysFromNow": 0,
+      "time": "20:00",
+      "homeTeam": "Villarreal",
+      "awayTeam": "Espanyol",
+      "odds": {
+        "home": 1.49,
+        "draw": 5.08,
+        "away": 6.7
+      },
+      "pred": {
+        "homeExpectedGoals": 1.74,
+        "awayExpectedGoals": 1.12,
+        "totalExpectedGoals": 2.85,
+        "bttsProbability": 0.5604,
+        "bttsNoProbability": 0.4396,
+        "over25Probability": 0.5426,
+        "under25Probability": 0.4574,
+        "homeWinProbability": 0.5121,
+        "drawProbability": 0.2502,
+        "awayWinProbability": 0.2372,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1185
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 45,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 45
+      }
+    },
+    {
+      "id": "fix_31_2_Levante",
+      "leagueId": "31",
+      "leagueName": "",
+      "dateRaw": "Sat 31/10",
+      "dateIso": "2026-10-31T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "13:00",
+      "homeTeam": "Levante",
+      "awayTeam": "Atletico Madrid",
+      "odds": {
+        "home": 5.64,
+        "draw": 4.72,
+        "away": 1.6
+      },
+      "pred": {
+        "homeExpectedGoals": 1.47,
+        "awayExpectedGoals": 4,
+        "totalExpectedGoals": 5.47,
+        "bttsProbability": 0.717,
+        "bttsNoProbability": 0.283,
+        "over25Probability": 0.8582,
+        "under25Probability": 0.1418,
+        "homeWinProbability": 0.0868,
+        "drawProbability": 0.1031,
+        "awayWinProbability": 0.7589,
+        "predictedScore": {
+          "home": 1,
+          "away": 3,
+          "probability": 0.0661
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 45,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 72
+      }
+    },
+    {
+      "id": "fix_31_3_RayoVallecano",
+      "leagueId": "31",
+      "leagueName": "",
+      "dateRaw": "Sat 31/10",
+      "dateIso": "2026-10-31T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "15:15",
+      "homeTeam": "Rayo Vallecano",
+      "awayTeam": "Celta de Vigo",
+      "odds": {
+        "home": 2.44,
+        "draw": 3.43,
+        "away": 3.18
+      },
+      "pred": {
+        "homeExpectedGoals": 0.25,
+        "awayExpectedGoals": 0.38,
+        "totalExpectedGoals": 0.63,
+        "bttsProbability": 0.0733,
+        "bttsNoProbability": 0.9267,
+        "over25Probability": 0.05,
+        "under25Probability": 0.95,
+        "homeWinProbability": 0.1549,
+        "drawProbability": 0.5894,
+        "awayWinProbability": 0.2557,
+        "predictedScore": {
+          "home": 0,
+          "away": 0,
+          "probability": 0.5343
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 85,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 90
+      }
+    },
+    {
+      "id": "fix_31_4_RealBetis",
+      "leagueId": "31",
+      "leagueName": "",
+      "dateRaw": "Sat 31/10",
+      "dateIso": "2026-10-31T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "17:30",
+      "homeTeam": "Real Betis",
+      "awayTeam": "Malaga",
+      "odds": {
+        "home": 1.38,
+        "draw": 5.62,
+        "away": 8.65
+      },
+      "pred": {
+        "homeExpectedGoals": 3.65,
+        "awayExpectedGoals": 0.27,
+        "totalExpectedGoals": 3.92,
+        "bttsProbability": 0.221,
+        "bttsNoProbability": 0.779,
+        "over25Probability": 0.7165,
+        "under25Probability": 0.2835,
+        "homeWinProbability": 0.912,
+        "drawProbability": 0.0468,
+        "awayWinProbability": 0.0082,
+        "predictedScore": {
+          "home": 3,
+          "away": 0,
+          "probability": 0.1614
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 56,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 45
+      }
+    },
+    {
+      "id": "fix_31_5_Barcelona",
+      "leagueId": "31",
+      "leagueName": "",
+      "dateRaw": "Sat 31/10",
+      "dateIso": "2026-10-31T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "20:00",
+      "homeTeam": "Barcelona",
+      "awayTeam": "Alaves",
+      "odds": {
+        "home": 1.12,
+        "draw": 12.2,
+        "away": 25
+      },
+      "pred": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.46,
+        "totalExpectedGoals": 4.96,
+        "bttsProbability": 0.3312,
+        "bttsNoProbability": 0.6688,
+        "over25Probability": 0.785,
+        "under25Probability": 0.215,
+        "homeWinProbability": 0.8723,
+        "drawProbability": 0.0326,
+        "awayWinProbability": 0.0086,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.1203
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 45,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 57
+      }
+    },
+    {
+      "id": "fix_31_6_Getafe",
+      "leagueId": "31",
+      "leagueName": "",
+      "dateRaw": "Sun 01/11",
+      "dateIso": "2026-11-01T12:00:00.000Z",
+      "daysFromNow": 2,
+      "time": "13:00",
+      "homeTeam": "Getafe",
+      "awayTeam": "Sevilla",
+      "odds": {
+        "home": 3.28,
+        "draw": 3.13,
+        "away": 2.56
+      },
+      "pred": {
+        "homeExpectedGoals": 0.89,
+        "awayExpectedGoals": 1.01,
+        "totalExpectedGoals": 1.91,
+        "bttsProbability": 0.3842,
+        "bttsNoProbability": 0.6158,
+        "over25Probability": 0.298,
+        "under25Probability": 0.702,
+        "homeWinProbability": 0.3009,
+        "drawProbability": 0.3329,
+        "awayWinProbability": 0.3662,
+        "predictedScore": {
+          "home": 0,
+          "away": 0,
+          "probability": 0.1567
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 45,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 45
+      }
+    },
+    {
+      "id": "fix_31_7_RacingSantander",
+      "leagueId": "31",
+      "leagueName": "",
+      "dateRaw": "Sun 01/11",
+      "dateIso": "2026-11-01T12:00:00.000Z",
+      "daysFromNow": 2,
+      "time": "15:15",
+      "homeTeam": "Racing Santander",
+      "awayTeam": "Real Madrid",
+      "odds": {
+        "home": 11.3,
+        "draw": 7.7,
+        "away": 1.25
+      },
+      "pred": {
+        "homeExpectedGoals": 1.43,
+        "awayExpectedGoals": 2.95,
+        "totalExpectedGoals": 4.39,
+        "bttsProbability": 0.7163,
+        "bttsNoProbability": 0.2837,
+        "over25Probability": 0.8022,
+        "under25Probability": 0.1978,
+        "homeWinProbability": 0.1565,
+        "drawProbability": 0.1616,
+        "awayWinProbability": 0.6709,
+        "predictedScore": {
+          "home": 1,
+          "away": 2,
+          "probability": 0.0778
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 45,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 60
+      }
+    },
+    {
+      "id": "fix_31_8_Elche",
+      "leagueId": "31",
+      "leagueName": "",
+      "dateRaw": "Sun 01/11",
+      "dateIso": "2026-11-01T12:00:00.000Z",
+      "daysFromNow": 2,
+      "time": "17:30",
+      "homeTeam": "Elche",
+      "awayTeam": "Valencia",
+      "odds": {
+        "home": 2.48,
+        "draw": 3.5,
+        "away": 3.07
+      },
+      "pred": {
+        "homeExpectedGoals": 1.17,
+        "awayExpectedGoals": 1.73,
+        "totalExpectedGoals": 2.9,
+        "bttsProbability": 0.5744,
+        "bttsNoProbability": 0.4256,
+        "over25Probability": 0.5543,
+        "under25Probability": 0.4457,
+        "homeWinProbability": 0.2516,
+        "drawProbability": 0.2504,
+        "awayWinProbability": 0.4975,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.118
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 45,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 45
+      }
+    },
+    {
+      "id": "fix_31_9_AthleticBilbao",
+      "leagueId": "31",
+      "leagueName": "",
+      "dateRaw": "Sun 01/11",
+      "dateIso": "2026-11-01T12:00:00.000Z",
+      "daysFromNow": 2,
+      "time": "20:00",
+      "homeTeam": "Athletic Bilbao",
+      "awayTeam": "Real Sociedad",
+      "odds": {
+        "home": 2.16,
+        "draw": 3.76,
+        "away": 3.5
+      },
+      "pred": {
+        "homeExpectedGoals": 2.43,
+        "awayExpectedGoals": 1.7,
+        "totalExpectedGoals": 4.14,
+        "bttsProbability": 0.7469,
+        "bttsNoProbability": 0.2531,
+        "over25Probability": 0.7773,
+        "under25Probability": 0.2227,
+        "homeWinProbability": 0.5328,
+        "drawProbability": 0.2,
+        "awayWinProbability": 0.2631,
+        "predictedScore": {
+          "home": 2,
+          "away": 1,
+          "probability": 0.0806
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 49,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 55
+      }
+    },
+    {
+      "id": "fix_31_10_DeportivodeLaCoruna",
+      "leagueId": "31",
+      "leagueName": "",
+      "dateRaw": "Mon 02/11",
+      "dateIso": "2026-11-02T12:00:00.000Z",
+      "daysFromNow": 3,
+      "time": "20:00",
+      "homeTeam": "Deportivo de La Coruna",
+      "awayTeam": "Osasuna",
+      "odds": {
+        "home": 2.28,
+        "draw": 3.42,
+        "away": 3.51
+      },
+      "pred": {
+        "homeExpectedGoals": 2.84,
+        "awayExpectedGoals": 0.8,
+        "totalExpectedGoals": 3.63,
+        "bttsProbability": 0.5159,
+        "bttsNoProbability": 0.4841,
+        "over25Probability": 0.6943,
+        "under25Probability": 0.3057,
+        "homeWinProbability": 0.7807,
+        "drawProbability": 0.137,
+        "awayWinProbability": 0.0736,
+        "predictedScore": {
+          "home": 2,
+          "away": 0,
+          "probability": 0.1063
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 45,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 45
+      }
+    },
+    {
+      "id": "fix_31_11_Sevilla",
+      "leagueId": "31",
+      "leagueName": "",
+      "dateRaw": "Fri 06/11",
+      "dateIso": "2026-11-06T12:00:00.000Z",
+      "daysFromNow": 7,
+      "time": "20:00",
+      "homeTeam": "Sevilla",
+      "awayTeam": "Alaves",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "pred": {
+        "homeExpectedGoals": 1.44,
+        "awayExpectedGoals": 0.79,
+        "totalExpectedGoals": 2.24,
+        "bttsProbability": 0.4256,
+        "bttsNoProbability": 0.5744,
+        "over25Probability": 0.3866,
+        "under25Probability": 0.6134,
+        "homeWinProbability": 0.5165,
+        "drawProbability": 0.2839,
+        "awayWinProbability": 0.1995,
+        "predictedScore": {
+          "home": 1,
+          "away": 0,
+          "probability": 0.1468
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 45,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 45
+      }
+    }
+  ],
+  "backtest": {
+    "totalMatches": 15,
+    "bttsEvaluated": 15,
+    "bttsHits": 7,
+    "bttsAccuracy": 46.7,
+    "overUnderEvaluated": 15,
+    "overUnderHits": 10,
+    "overUnderAccuracy": 66.7,
+    "overallAccuracy": 56.7,
+    "exactScoreHits": 0,
+    "exactScoreAccuracy": 0,
+    "confusionMatrix": {
+      "btts": {
+        "predictedYesActualYes": 4,
+        "predictedYesActualNo": 2,
+        "predictedNoActualYes": 6,
+        "predictedNoActualNo": 3
+      },
+      "overUnder": {
+        "predictedOverActualOver": 8,
+        "predictedOverActualUnder": 3,
+        "predictedUnderActualOver": 2,
+        "predictedUnderActualUnder": 2
+      }
+    },
+    "logLoss": 0.726,
+    "brierScore": 0.2626,
+    "simulatedRoi": 8.2
+  }
+}

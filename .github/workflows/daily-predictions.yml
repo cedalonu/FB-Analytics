@@ -24,33 +24,7 @@ jobs:
         run: npm install
 
       - name: Ejecutar consulta y predicciones
-        run: |
-          npx tsx -e "
-            import { getUpcomingFixtures, getFinishedResults, getLeagueTableAndStats } from './src/services/theFishyScraper.ts';
-            import { runBacktest, predictMatch } from './src/services/predictiveModel.ts';
-            import fs from 'fs';
-
-            async function run() {
-              const leagues = ['1', '31', '33', '32', '34']; // EPL, LaLiga, SerieA, Bundesliga, Ligue1
-              for (const l of leagues) {
-                try {
-                  const teams = await getLeagueTableAndStats(l);
-                  const fixtures = await getUpcomingFixtures(l, 7);
-                  const results = await getFinishedResults(l, 30);
-                  const backtest = runBacktest(results, teams);
-                  const preds = fixtures.map(f => ({ ...f, pred: predictMatch(f.homeTeam, f.awayTeam, teams) }));
-                  fs.writeFileSync(\`data_league_\${l}.json\`, JSON.stringify({ fixtures: preds, backtest: backtest.metrics }, null, 2));
-                  console.log(\`Liga \${l} actualizada correctamente.\`);
-                } catch (err) {
-                  console.warn(\`Aviso: No se pudo obtener datos en vivo para la liga \\${l}, usando datos base/fallback:\`, err);
-                  // Write fallback JSON so file always exists and action succeeds
-                  fs.writeFileSync(\`data_league_\${l}.json\`, JSON.stringify({ fixtures: [], backtest: { totalMatches: 0, accuracyBtts: 0, accuracyOu: 0 } }, null, 2));
-                }
-              }
-              console.log('Pronósticos actualizados.');
-            }
-            run();
-          "
+        run: npx tsx scripts/update-predictions.ts
 
       - name: Guardar o commitear datos actualizados
         run: |

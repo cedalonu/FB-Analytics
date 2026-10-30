@@ -1,0 +1,440 @@
+{
+  "fixtures": [
+    {
+      "id": "fix_1_1_Chelsea",
+      "leagueId": "1",
+      "leagueName": "",
+      "dateRaw": "Sat 31/10",
+      "dateIso": "2026-10-31T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "12:30",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Man Utd",
+      "odds": {
+        "home": 1.9,
+        "draw": 4.06,
+        "away": 4.11
+      },
+      "pred": {
+        "homeExpectedGoals": 4.23,
+        "awayExpectedGoals": 1.39,
+        "totalExpectedGoals": 5.62,
+        "bttsProbability": 0.6922,
+        "bttsNoProbability": 0.3078,
+        "over25Probability": 0.8528,
+        "under25Probability": 0.1472,
+        "homeWinProbability": 0.7759,
+        "drawProbability": 0.0891,
+        "awayWinProbability": 0.0691,
+        "predictedScore": {
+          "home": 4,
+          "away": 1,
+          "probability": 0.0672
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 45,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 71
+      }
+    },
+    {
+      "id": "fix_1_2_Bournemouth",
+      "leagueId": "1",
+      "leagueName": "",
+      "dateRaw": "Sat 31/10",
+      "dateIso": "2026-10-31T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "15:00",
+      "homeTeam": "Bournemouth",
+      "awayTeam": "Leeds",
+      "odds": {
+        "home": 2.16,
+        "draw": 3.56,
+        "away": 3.7
+      },
+      "pred": {
+        "homeExpectedGoals": 0.66,
+        "awayExpectedGoals": 0.64,
+        "totalExpectedGoals": 1.3,
+        "bttsProbability": 0.2349,
+        "bttsNoProbability": 0.7651,
+        "over25Probability": 0.1425,
+        "under25Probability": 0.8575,
+        "homeWinProbability": 0.3007,
+        "drawProbability": 0.4144,
+        "awayWinProbability": 0.2848,
+        "predictedScore": {
+          "home": 0,
+          "away": 0,
+          "probability": 0.2798
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 53,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 71
+      }
+    },
+    {
+      "id": "fix_1_3_Brentford",
+      "leagueId": "1",
+      "leagueName": "",
+      "dateRaw": "Sat 31/10",
+      "dateIso": "2026-10-31T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "15:00",
+      "homeTeam": "Brentford",
+      "awayTeam": "Nottingham Forest",
+      "odds": {
+        "home": 2.07,
+        "draw": 3.88,
+        "away": 3.65
+      },
+      "pred": {
+        "homeExpectedGoals": 3.63,
+        "awayExpectedGoals": 0.8,
+        "totalExpectedGoals": 4.42,
+        "bttsProbability": 0.5189,
+        "bttsNoProbability": 0.4811,
+        "over25Probability": 0.7855,
+        "under25Probability": 0.2145,
+        "homeWinProbability": 0.8413,
+        "drawProbability": 0.0856,
+        "awayWinProbability": 0.0413,
+        "predictedScore": {
+          "home": 3,
+          "away": 0,
+          "probability": 0.0954
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 45,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 57
+      }
+    },
+    {
+      "id": "fix_1_4_Coventry",
+      "leagueId": "1",
+      "leagueName": "",
+      "dateRaw": "Sat 31/10",
+      "dateIso": "2026-10-31T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "15:00",
+      "homeTeam": "Coventry",
+      "awayTeam": "Sunderland",
+      "odds": {
+        "home": 3.1,
+        "draw": 3.5,
+        "away": 2.46
+      },
+      "pred": {
+        "homeExpectedGoals": 1.82,
+        "awayExpectedGoals": 1.82,
+        "totalExpectedGoals": 3.64,
+        "bttsProbability": 0.7058,
+        "bttsNoProbability": 0.2942,
+        "over25Probability": 0.7023,
+        "under25Probability": 0.2977,
+        "homeWinProbability": 0.3857,
+        "drawProbability": 0.2286,
+        "awayWinProbability": 0.3845,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.0924
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 45,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 45
+      }
+    },
+    {
+      "id": "fix_1_5_Hull",
+      "leagueId": "1",
+      "leagueName": "",
+      "dateRaw": "Sat 31/10",
+      "dateIso": "2026-10-31T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "15:00",
+      "homeTeam": "Hull",
+      "awayTeam": "Ipswich",
+      "odds": {
+        "home": 2.73,
+        "draw": 3.53,
+        "away": 2.73
+      },
+      "pred": {
+        "homeExpectedGoals": 2.51,
+        "awayExpectedGoals": 0.97,
+        "totalExpectedGoals": 3.48,
+        "bttsProbability": 0.5722,
+        "bttsNoProbability": 0.4278,
+        "over25Probability": 0.6707,
+        "under25Probability": 0.3293,
+        "homeWinProbability": 0.6995,
+        "drawProbability": 0.1751,
+        "awayWinProbability": 0.1211,
+        "predictedScore": {
+          "home": 2,
+          "away": 0,
+          "probability": 0.0971
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 45,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 45
+      }
+    },
+    {
+      "id": "fix_1_6_ManCity",
+      "leagueId": "1",
+      "leagueName": "",
+      "dateRaw": "Sat 31/10",
+      "dateIso": "2026-10-31T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "15:00",
+      "homeTeam": "Man City",
+      "awayTeam": "Brighton",
+      "odds": {
+        "home": 1.7,
+        "draw": 4.62,
+        "away": 4.78
+      },
+      "pred": {
+        "homeExpectedGoals": 3.91,
+        "awayExpectedGoals": 2.92,
+        "totalExpectedGoals": 6.83,
+        "bttsProbability": 0.8747,
+        "bttsNoProbability": 0.1253,
+        "over25Probability": 0.9105,
+        "under25Probability": 0.0895,
+        "homeWinProbability": 0.5264,
+        "drawProbability": 0.1469,
+        "awayWinProbability": 0.2709,
+        "predictedScore": {
+          "home": 3,
+          "away": 2,
+          "probability": 0.0459
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 75,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 82
+      }
+    },
+    {
+      "id": "fix_1_7_Tottenham",
+      "leagueId": "1",
+      "leagueName": "",
+      "dateRaw": "Sat 31/10",
+      "dateIso": "2026-10-31T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "17:30",
+      "homeTeam": "Tottenham",
+      "awayTeam": "Crystal Palace",
+      "odds": {
+        "home": 1.58,
+        "draw": 4.62,
+        "away": 6
+      },
+      "pred": {
+        "homeExpectedGoals": 2.37,
+        "awayExpectedGoals": 0.78,
+        "totalExpectedGoals": 3.15,
+        "bttsProbability": 0.4951,
+        "bttsNoProbability": 0.5049,
+        "over25Probability": 0.607,
+        "under25Probability": 0.393,
+        "homeWinProbability": 0.7193,
+        "drawProbability": 0.1768,
+        "awayWinProbability": 0.1007,
+        "predictedScore": {
+          "home": 2,
+          "away": 0,
+          "probability": 0.12
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 45,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 45
+      }
+    },
+    {
+      "id": "fix_1_8_AstonVilla",
+      "leagueId": "1",
+      "leagueName": "",
+      "dateRaw": "Sat 31/10",
+      "dateIso": "2026-10-31T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "20:00",
+      "homeTeam": "Aston Villa",
+      "awayTeam": "Fulham",
+      "odds": {
+        "home": 2.03,
+        "draw": 3.88,
+        "away": 3.76
+      },
+      "pred": {
+        "homeExpectedGoals": 0.79,
+        "awayExpectedGoals": 0.54,
+        "totalExpectedGoals": 1.33,
+        "bttsProbability": 0.2357,
+        "bttsNoProbability": 0.7643,
+        "over25Probability": 0.1505,
+        "under25Probability": 0.8495,
+        "homeWinProbability": 0.3731,
+        "drawProbability": 0.4032,
+        "awayWinProbability": 0.2237,
+        "predictedScore": {
+          "home": 0,
+          "away": 0,
+          "probability": 0.2706
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 53,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 70
+      }
+    },
+    {
+      "id": "fix_1_9_Liverpool",
+      "leagueId": "1",
+      "leagueName": "",
+      "dateRaw": "Sun 01/11",
+      "dateIso": "2026-11-01T12:00:00.000Z",
+      "daysFromNow": 2,
+      "time": "16:30",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Arsenal",
+      "odds": {
+        "home": 3.1,
+        "draw": 3.53,
+        "away": 2.44
+      },
+      "pred": {
+        "homeExpectedGoals": 0.56,
+        "awayExpectedGoals": 1.23,
+        "totalExpectedGoals": 1.79,
+        "bttsProbability": 0.3106,
+        "bttsNoProbability": 0.6894,
+        "over25Probability": 0.2676,
+        "under25Probability": 0.7324,
+        "homeWinProbability": 0.1614,
+        "drawProbability": 0.3164,
+        "awayWinProbability": 0.5222,
+        "predictedScore": {
+          "home": 0,
+          "away": 1,
+          "probability": 0.1984
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 45,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 46
+      }
+    },
+    {
+      "id": "fix_1_10_Newcastle",
+      "leagueId": "1",
+      "leagueName": "",
+      "dateRaw": "Mon 02/11",
+      "dateIso": "2026-11-02T12:00:00.000Z",
+      "daysFromNow": 3,
+      "time": "20:00",
+      "homeTeam": "Newcastle",
+      "awayTeam": "Everton",
+      "odds": {
+        "home": 2.37,
+        "draw": 3.75,
+        "away": 3.05
+      },
+      "pred": {
+        "homeExpectedGoals": 1.46,
+        "awayExpectedGoals": 0.85,
+        "totalExpectedGoals": 2.31,
+        "bttsProbability": 0.4479,
+        "bttsNoProbability": 0.5521,
+        "over25Probability": 0.407,
+        "under25Probability": 0.593,
+        "homeWinProbability": 0.5058,
+        "drawProbability": 0.2813,
+        "awayWinProbability": 0.2127,
+        "predictedScore": {
+          "home": 1,
+          "away": 0,
+          "probability": 0.1371
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 45,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 45
+      }
+    },
+    {
+      "id": "fix_1_11_Everton",
+      "leagueId": "1",
+      "leagueName": "",
+      "dateRaw": "Fri 06/11",
+      "dateIso": "2026-11-06T12:00:00.000Z",
+      "daysFromNow": 7,
+      "time": "20:00",
+      "homeTeam": "Everton",
+      "awayTeam": "Coventry",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "pred": {
+        "homeExpectedGoals": 1.96,
+        "awayExpectedGoals": 0.31,
+        "totalExpectedGoals": 2.27,
+        "bttsProbability": 0.2341,
+        "bttsNoProbability": 0.7659,
+        "over25Probability": 0.395,
+        "under25Probability": 0.605,
+        "homeWinProbability": 0.7683,
+        "drawProbability": 0.1845,
+        "awayWinProbability": 0.0463,
+        "predictedScore": {
+          "home": 1,
+          "away": 0,
+          "probability": 0.1985
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 53,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 45
+      }
+    }
+  ],
+  "backtest": {
+    "totalMatches": 15,
+    "bttsEvaluated": 15,
+    "bttsHits": 6,
+    "bttsAccuracy": 40,
+    "overUnderEvaluated": 15,
+    "overUnderHits": 8,
+    "overUnderAccuracy": 53.3,
+    "overallAccuracy": 46.7,
+    "exactScoreHits": 4,
+    "exactScoreAccuracy": 26.7,
+    "confusionMatrix": {
+      "btts": {
+        "predictedYesActualYes": 1,
+        "predictedYesActualNo": 5,
+        "predictedNoActualYes": 4,
+        "predictedNoActualNo": 5
+      },
+      "overUnder": {
+        "predictedOverActualOver": 3,
+        "predictedOverActualUnder": 6,
+        "predictedUnderActualOver": 1,
+        "predictedUnderActualUnder": 5
+      }
+    },
+    "logLoss": 0.7396,
+    "brierScore": 0.2716,
+    "simulatedRoi": -10.9
+  }
+}
