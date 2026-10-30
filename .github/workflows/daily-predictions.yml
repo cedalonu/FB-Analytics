@@ -23,7 +23,7 @@ jobs:
       - name: Instalar dependencias
         run: |
           rm -f package-lock.json bun.lock
-          npm install --legacy-peer-deps
+          npm install --legacy-peer-deps --force
 
       - name: Ejecutar consulta y predicciones
         run: npx tsx scripts/update-predictions.ts

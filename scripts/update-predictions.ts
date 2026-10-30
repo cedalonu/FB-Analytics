@@ -60,7 +60,7 @@ async function run() {
           exactScoreAccuracy: 0,
           confusionMatrix: {
             btts: { predictedYesActualYes: 0, predictedYesActualNo: 0, predictedNoActualYes: 0, predictedNoActualNo: 0 },
-            overUnder: { predictedOverActualOver: 0, predictedOverActualUnder: 0, predictedOverActualUnder: 0, predictedUnderActualUnder: 0 }
+            overUnder: { predictedOverActualOver: 0, predictedOverActualUnder: 0, predictedUnderActualOver: 0, predictedUnderActualUnder: 0 }
           },
           logLoss: 0,
           brierScore: 0,
