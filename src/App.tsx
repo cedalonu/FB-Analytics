@@ -105,7 +105,9 @@ export default function App() {
       } catch (apiErr) {
         // Fallback to static JSON file (for GitHub Pages / static hosting)
         try {
-          const staticResp = await fetch(`./data_league_${tableId}.json`);
+          const baseUrl = import.meta.env.BASE_URL || '/';
+          const base = baseUrl.endsWith('/') ? baseUrl : baseUrl + '/';
+          const staticResp = await fetch(`${base}data_league_${tableId}.json`);
           const staticText = await staticResp.text();
           const staticJson = JSON.parse(staticText);
           if (staticJson && staticJson.fixtures) {

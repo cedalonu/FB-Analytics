@@ -35,23 +35,76 @@ export const ScreenerView: React.FC = () => {
     setIsLoading(true);
     if (mode === 'fixtures') {
       fetch('/api/screener?daysAhead=7')
-        .then((r) => r.json())
+        .then(async (r) => {
+          const text = await r.text();
+          return JSON.parse(text);
+        })
         .then((res) => {
           if (res.success && Array.isArray(res.fixtures)) {
             setFixtures(res.fixtures);
+          } else {
+            throw new Error();
           }
         })
-        .catch((err) => console.error('Error fetching screener fixtures:', err))
+        .catch(async () => {
+          try {
+            const leagueIds = ['1', '31', '32', '33', '34'];
+            const baseUrl = import.meta.env.BASE_URL || '/';
+            const base = baseUrl.endsWith('/') ? baseUrl : baseUrl + '/';
+            const allFixtures: ScreenerFixture[] = [];
+            for (const lid of leagueIds) {
+              try {
+                const resp = await fetch(`${base}data_league_${lid}.json`);
+                const json = await resp.json();
+                if (json && Array.isArray(json.fixtures)) {
+                  json.fixtures.forEach((f: any) => {
+                    const conf = f.prediction ? Math.round(Math.max(f.prediction.bttsProbability, f.prediction.bttsNoProbability, f.prediction.over25Probability, f.prediction.under25Probability) * 100) : 50;
+                    allFixtures.push({ ...f, leagueName: json.leagueName || lid, confidenceScore: conf });
+                  });
+                }
+              } catch {}
+            }
+            setFixtures(allFixtures);
+          } catch (e) {
+            console.error('Error in static screener fallback:', e);
+          }
+        })
         .finally(() => setIsLoading(false));
     } else {
       fetch('/api/screener-results?daysBehind=14')
-        .then((r) => r.json())
+        .then(async (r) => {
+          const text = await r.text();
+          return JSON.parse(text);
+        })
         .then((res) => {
           if (res.success && Array.isArray(res.results)) {
             setResults(res.results);
+          } else {
+            throw new Error();
           }
         })
-        .catch((err) => console.error('Error fetching screener results:', err))
+        .catch(async () => {
+          try {
+            const leagueIds = ['1', '31', '32', '33', '34'];
+            const baseUrl = import.meta.env.BASE_URL || '/';
+            const base = baseUrl.endsWith('/') ? baseUrl : baseUrl + '/';
+            const allResults: FinishedMatch[] = [];
+            for (const lid of leagueIds) {
+              try {
+                const resp = await fetch(`${base}data_league_${lid}.json`);
+                const json = await resp.json();
+                if (json && Array.isArray(json.results)) {
+                  json.results.forEach((r: any) => {
+                    allResults.push({ ...r, leagueName: json.leagueName || lid });
+                  });
+                }
+              } catch {}
+            }
+            setResults(allResults);
+          } catch (e) {
+            console.error('Error in static screener results fallback:', e);
+          }
+        })
         .finally(() => setIsLoading(false));
     }
   }, [mode]);
