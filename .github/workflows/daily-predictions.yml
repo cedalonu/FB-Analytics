@@ -1,0 +1,52 @@
+name: Actualizacion Diaria de Pronosticos
+
+on:
+  schedule:
+    # Ejecutar todos los dias a las 06:00 UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Permite ejecucion manual con un clic
+
+jobs:
+  update-predictions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Instalar dependencias
+        run: npm ci
+
+      - name: Ejecutar consulta y predicciones
+        run: |
+          npx tsx -e "
+            import { getUpcomingFixtures, getFinishedResults, getLeagueTableAndStats } from './src/services/theFishyScraper.ts';
+            import { runBacktest, predictMatch } from './src/services/predictiveModel.ts';
+            import fs from 'fs';
+
+            async function run() {
+              const leagues = ['1', '31', '33', '32', '34']; // EPL, LaLiga, SerieA, Bundesliga, Ligue1
+              for (const l of leagues) {
+                const teams = await getLeagueTableAndStats(l);
+                const fixtures = await getUpcomingFixtures(l, 7);
+                const results = await getFinishedResults(l, 30);
+                const backtest = runBacktest(results, teams);
+                const preds = fixtures.map(f => ({ ...f, pred: predictMatch(f.homeTeam, f.awayTeam, teams) }));
+                fs.writeFileSync(\`data_league_\${l}.json\`, JSON.stringify({ fixtures: preds, backtest: backtest.metrics }, null, 2));
+              }
+              console.log('Pronósticos actualizados.');
+            }
+            run();
+          "
+
+      - name: Guardar o commitear datos actualizados
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions@users.noreply.github.com"
+          git add data_league_*.json
+          git commit -m "chore(cron): actualización diaria de pronosticos TheFishy" || echo "Sin cambios"
+          git push

@@ -1,0 +1,6 @@
+{
+  "name": "FishyFootball Predictor & Backtester",
+  "description": "Dashboard de predicción y backtesting de partidos de fútbol (BTTS y Over/Under 2.5) utilizando estadísticas de TheFishy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
