@@ -39,21 +39,32 @@ export default function App() {
 
   const [, startTransition] = useTransition();
 
-  // Load available leagues once on mount
+  // Load available leagues once on mount with fallback
   useEffect(() => {
     fetch('/api/leagues')
-      .then((r) => r.json())
+      .then(async (r) => {
+        const text = await r.text();
+        return JSON.parse(text);
+      })
       .then((res) => {
         if (res.success && Array.isArray(res.leagues)) {
           setLeagues(res.leagues);
+        } else {
+          throw new Error();
         }
       })
-      .catch((err) => {
-        console.warn('Could not load leagues list:', err);
+      .catch(() => {
+        setLeagues([
+          { id: '1', name: 'Premier League', group: 'England' },
+          { id: '31', name: 'La Liga', group: 'Spain' },
+          { id: '32', name: 'Bundesliga', group: 'Germany' },
+          { id: '33', name: 'Serie A', group: 'Italy' },
+          { id: '34', name: 'Ligue 1', group: 'France' },
+        ]);
       });
   }, []);
 
-  // Fetch league data
+  // Fetch league data with static fallback
   const loadLeagueData = useCallback(
     async (tableId: string, ahead: number, behind: number, forceRefresh: boolean = false) => {
       if (forceRefresh) setIsRefreshing(true);
@@ -77,18 +88,36 @@ export default function App() {
         }
 
         const resp = await fetch(`/api/data?${queryParams.toString()}`);
-        const json = await resp.json();
+        const text = await resp.text();
+        let json;
+        try {
+          json = JSON.parse(text);
+        } catch {
+          throw new Error('Static hosting fallback');
+        }
 
         if (json.success && json.data) {
           setData(json.data);
-          // Reset optimization result when changing league
           setOptimizationResult(null);
         } else {
           setErrorMessage(json.error || 'Error al obtener datos de TheFishy');
         }
-      } catch (err: unknown) {
-        const msg = err instanceof Error ? err.message : 'Error de conexión con el servidor';
-        setErrorMessage(msg);
+      } catch (apiErr) {
+        // Fallback to static JSON file (for GitHub Pages / static hosting)
+        try {
+          const staticResp = await fetch(`./data_league_${tableId}.json`);
+          const staticText = await staticResp.text();
+          const staticJson = JSON.parse(staticText);
+          if (staticJson && staticJson.fixtures) {
+            setData(staticJson);
+            setOptimizationResult(null);
+          } else {
+            throw new Error('Invalid static data format');
+          }
+        } catch (staticErr: unknown) {
+          const msg = staticErr instanceof Error ? staticErr.message : 'Error al cargar datos estáticos';
+          setErrorMessage(`No se pudieron obtener datos. En GitHub Pages asegúrate de que el workflow diario haya generado los archivos JSON.`);
+        }
       } finally {
         setIsLoading(false);
         setIsRefreshing(false);
