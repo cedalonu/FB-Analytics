@@ -1,7 +1,7 @@
 {
   "leagueId": "33",
   "leagueName": "Serie A",
-  "timestamp": "2026-10-30T19:15:06.103Z",
+  "timestamp": "2026-10-30T19:17:31.194Z",
   "fixtures": [
     {
       "id": "fix_33_1_Bologna",
@@ -449,8 +449,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "33_fiorentina_atalanta_Thu 29-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:06.100Z",
-        "auditHash": "SHA256-IMMUTABLE-13E30C4-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:31.193Z",
+        "auditHash": "SHA256-IMMUTABLE-400E586C-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -497,8 +497,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 62,
         "matchFingerprint": "33_frosinone_lecce_Thu 29-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:06.101Z",
-        "auditHash": "SHA256-IMMUTABLE-322FFCE7-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:31.193Z",
+        "auditHash": "SHA256-IMMUTABLE-F1C8C68-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -545,8 +545,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "33_genoa_juventus_Wed 28-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:06.101Z",
-        "auditHash": "SHA256-IMMUTABLE-61F14A3F-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:31.193Z",
+        "auditHash": "SHA256-IMMUTABLE-20A4C0F0-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -593,8 +593,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 73,
         "matchFingerprint": "33_monza_napoli_Wed 28-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:06.101Z",
-        "auditHash": "SHA256-IMMUTABLE-6FA89B30-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:31.193Z",
+        "auditHash": "SHA256-IMMUTABLE-4F0ADB81-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -641,8 +641,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "33_ac milan_bologna_Wed 28-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:06.101Z",
-        "auditHash": "SHA256-IMMUTABLE-607619BE-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:31.193Z",
+        "auditHash": "SHA256-IMMUTABLE-5E3D5CF3-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -689,8 +689,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "33_parma_udinese_Wed 28-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:06.101Z",
-        "auditHash": "SHA256-IMMUTABLE-33B6E068-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:31.193Z",
+        "auditHash": "SHA256-IMMUTABLE-D95A8E7-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -737,8 +737,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 49,
         "matchFingerprint": "33_venezia_inter milan_Wed 28-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:06.101Z",
-        "auditHash": "SHA256-IMMUTABLE-46155A80-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:31.193Z",
+        "auditHash": "SHA256-IMMUTABLE-4C8D131-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -785,8 +785,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 60,
         "matchFingerprint": "33_as roma_cagliari_Tue 27-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:06.101Z",
-        "auditHash": "SHA256-IMMUTABLE-44257CDD-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:31.193Z",
+        "auditHash": "SHA256-IMMUTABLE-7A8DF9D4-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -833,8 +833,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 67,
         "matchFingerprint": "33_torino_como_Tue 27-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:06.102Z",
-        "auditHash": "SHA256-IMMUTABLE-4B6B381F-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:31.194Z",
+        "auditHash": "SHA256-IMMUTABLE-73483E92-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -881,8 +881,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 57,
         "matchFingerprint": "33_sassuolo_lazio_Tue 27-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:06.102Z",
-        "auditHash": "SHA256-IMMUTABLE-69332A46-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:31.194Z",
+        "auditHash": "SHA256-IMMUTABLE-55804C6B-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -929,8 +929,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "33_udinese_ac milan_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:06.102Z",
-        "auditHash": "SHA256-IMMUTABLE-77F6C9D5-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:31.194Z",
+        "auditHash": "SHA256-IMMUTABLE-36AA4086-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -977,8 +977,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "33_lecce_juventus_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:06.102Z",
-        "auditHash": "SHA256-IMMUTABLE-2314C2D8-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:31.194Z",
+        "auditHash": "SHA256-IMMUTABLE-1E37C677-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -1025,8 +1025,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 81,
         "matchFingerprint": "33_atalanta_frosinone_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:06.102Z",
-        "auditHash": "SHA256-IMMUTABLE-7847BCA9-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:31.194Z",
+        "auditHash": "SHA256-IMMUTABLE-466BBA08-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -1073,8 +1073,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "33_genoa_venezia_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:06.102Z",
-        "auditHash": "SHA256-IMMUTABLE-77489304-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:31.194Z",
+        "auditHash": "SHA256-IMMUTABLE-35FC09B5-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -1121,8 +1121,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 63,
         "matchFingerprint": "33_inter milan_fiorentina_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:06.102Z",
-        "auditHash": "SHA256-IMMUTABLE-3B2768F4-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:31.194Z",
+        "auditHash": "SHA256-IMMUTABLE-7C73F243-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {

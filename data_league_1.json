@@ -1,7 +1,7 @@
 {
   "leagueId": "1",
   "leagueName": "Premier League",
-  "timestamp": "2026-10-30T19:15:03.209Z",
+  "timestamp": "2026-10-30T19:17:30.153Z",
   "fixtures": [
     {
       "id": "fix_1_1_Chelsea",
@@ -449,8 +449,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 85,
         "matchFingerprint": "1_sunderland_leeds_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:03.203Z",
-        "auditHash": "SHA256-IMMUTABLE-44F054A2-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:30.149Z",
+        "auditHash": "SHA256-IMMUTABLE-7D2C4CA5-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -497,8 +497,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 75,
         "matchFingerprint": "1_crystal palace_newcastle_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:03.204Z",
-        "auditHash": "SHA256-IMMUTABLE-3AF9647B-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:30.150Z",
+        "auditHash": "SHA256-IMMUTABLE-2E9F7B3-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -545,8 +545,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "1_hull_brentford_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:03.204Z",
-        "auditHash": "SHA256-IMMUTABLE-7BC288A4-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:30.150Z",
+        "auditHash": "SHA256-IMMUTABLE-465A1B2E-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -593,8 +593,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 51,
         "matchFingerprint": "1_liverpool_brighton_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:03.205Z",
-        "auditHash": "SHA256-IMMUTABLE-2A182688-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:30.150Z",
+        "auditHash": "SHA256-IMMUTABLE-67FB82D5-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -641,8 +641,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 72,
         "matchFingerprint": "1_man utd_bournemouth_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:03.205Z",
-        "auditHash": "SHA256-IMMUTABLE-39B27BD-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:30.150Z",
+        "auditHash": "SHA256-IMMUTABLE-3A483490-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -689,8 +689,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "1_chelsea_tottenham_Sat 24-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:03.205Z",
-        "auditHash": "SHA256-IMMUTABLE-2EBB0C76-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:30.150Z",
+        "auditHash": "SHA256-IMMUTABLE-6C9E68C3-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -737,8 +737,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "1_arsenal_everton_Sat 24-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:03.205Z",
-        "auditHash": "SHA256-IMMUTABLE-2F19445-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:30.150Z",
+        "auditHash": "SHA256-IMMUTABLE-3AF1C808-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -785,8 +785,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 69,
         "matchFingerprint": "1_coventry_fulham_Sat 24-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:03.206Z",
-        "auditHash": "SHA256-IMMUTABLE-32DE4683-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:30.151Z",
+        "auditHash": "SHA256-IMMUTABLE-B0515CA-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -833,8 +833,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 56,
         "matchFingerprint": "1_aston villa_man city_Sat 24-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:03.206Z",
-        "auditHash": "SHA256-IMMUTABLE-1106B9C0-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:30.151Z",
+        "auditHash": "SHA256-IMMUTABLE-4EEA160D-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -881,8 +881,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "1_ipswich_nottingham forest_Fri 23-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:03.206Z",
-        "auditHash": "SHA256-IMMUTABLE-7EADBCBE-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:30.151Z",
+        "auditHash": "SHA256-IMMUTABLE-436EE6F5-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -929,8 +929,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "1_tottenham_coventry_Mon 19-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:03.207Z",
-        "auditHash": "SHA256-IMMUTABLE-31315214-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:30.151Z",
+        "auditHash": "SHA256-IMMUTABLE-6F14AE80-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -977,8 +977,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 75,
         "matchFingerprint": "1_nottingham forest_arsenal_Sun 18-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:03.207Z",
-        "auditHash": "SHA256-IMMUTABLE-41027FDF-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:30.151Z",
+        "auditHash": "SHA256-IMMUTABLE-31F2373-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -1025,8 +1025,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "1_bournemouth_sunderland_Sun 18-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:03.207Z",
-        "auditHash": "SHA256-IMMUTABLE-26C5A1B2-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:30.151Z",
+        "auditHash": "SHA256-IMMUTABLE-64A8FE1E-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -1073,8 +1073,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 52,
         "matchFingerprint": "1_brighton_crystal palace_Sun 18-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:03.207Z",
-        "auditHash": "SHA256-IMMUTABLE-14B84972-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:30.151Z",
+        "auditHash": "SHA256-IMMUTABLE-292B12FA-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
@@ -1121,8 +1121,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "1_leeds_man utd_Sun 18-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:15:03.207Z",
-        "auditHash": "SHA256-IMMUTABLE-2F664F63-2026-10-30",
+        "lockedAt": "2026-10-30T19:17:30.152Z",
+        "auditHash": "SHA256-IMMUTABLE-E7D0CEA-2026-10-30",
         "isImmutable": true
       },
       "evaluation": {
