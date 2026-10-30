@@ -19,6 +19,7 @@ function apiPlugin(): Plugin {
 
 export default defineConfig(() => {
   return {
+    base: '/FB-Analytics/',
     plugins: [react(), tailwindcss(), apiPlugin()],
     resolve: {
       alias: {

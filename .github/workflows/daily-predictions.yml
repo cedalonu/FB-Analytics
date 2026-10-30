@@ -9,6 +9,8 @@ on:
 jobs:
   update-predictions:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Clonar repositorio
         uses: actions/checkout@v4
