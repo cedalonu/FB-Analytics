@@ -1,7 +1,7 @@
 {
   "leagueId": "33",
   "leagueName": "Serie A",
-  "timestamp": "2026-10-30T19:27:22.089Z",
+  "timestamp": "2026-10-31T11:57:21.379Z",
   "fixtures": [
     {
       "id": "fix_33_1_Bologna",
@@ -9,7 +9,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Sat 31/10",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "14:00",
       "homeTeam": "Bologna",
       "awayTeam": "Monza",
@@ -46,14 +46,14 @@
       "leagueName": "Serie A",
       "dateRaw": "Sat 31/10",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "17:00",
       "homeTeam": "Udinese",
       "awayTeam": "AS Roma",
       "odds": {
-        "home": 5.97,
+        "home": 5.61,
         "draw": 4.58,
-        "away": 1.59
+        "away": 1.62
       },
       "pred": {
         "homeExpectedGoals": 0.25,
@@ -83,13 +83,13 @@
       "leagueName": "Serie A",
       "dateRaw": "Sat 31/10",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "19:45",
       "homeTeam": "AC Milan",
       "awayTeam": "Inter Milan",
       "odds": {
         "home": 3.62,
-        "draw": 3.79,
+        "draw": 3.8,
         "away": 2.1
       },
       "pred": {
@@ -120,7 +120,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Sun 01/11",
       "dateIso": "2026-11-01T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "11:30",
       "homeTeam": "Como",
       "awayTeam": "Venezia",
@@ -157,7 +157,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Sun 01/11",
       "dateIso": "2026-11-01T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "14:00",
       "homeTeam": "Frosinone",
       "awayTeam": "Torino",
@@ -194,14 +194,14 @@
       "leagueName": "Serie A",
       "dateRaw": "Sun 01/11",
       "dateIso": "2026-11-01T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "14:00",
       "homeTeam": "Lazio",
       "awayTeam": "Cagliari",
       "odds": {
-        "home": 1.48,
-        "draw": 4.64,
-        "away": 7.9
+        "home": 1.49,
+        "draw": 4.68,
+        "away": 7.7
       },
       "pred": {
         "homeExpectedGoals": 3.9,
@@ -231,7 +231,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Sun 01/11",
       "dateIso": "2026-11-01T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:00",
       "homeTeam": "Lecce",
       "awayTeam": "Genoa",
@@ -268,7 +268,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Sun 01/11",
       "dateIso": "2026-11-01T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "19:45",
       "homeTeam": "Juventus",
       "awayTeam": "Napoli",
@@ -305,7 +305,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Mon 02/11",
       "dateIso": "2026-11-02T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "17:30",
       "homeTeam": "Sassuolo",
       "awayTeam": "Fiorentina",
@@ -342,7 +342,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Mon 02/11",
       "dateIso": "2026-11-02T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "19:45",
       "homeTeam": "Atalanta",
       "awayTeam": "Parma",
@@ -379,7 +379,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Fri 06/11",
       "dateIso": "2026-11-06T12:00:00.000Z",
-      "daysFromNow": 7,
+      "daysFromNow": 6,
       "time": "19:45",
       "homeTeam": "Venezia",
       "awayTeam": "Udinese",
@@ -409,6 +409,154 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45
       }
+    },
+    {
+      "id": "fix_33_12_Cagliari",
+      "leagueId": "33",
+      "leagueName": "Serie A",
+      "dateRaw": "Sat 07/11",
+      "dateIso": "2026-11-07T12:00:00.000Z",
+      "daysFromNow": 7,
+      "time": "14:00",
+      "homeTeam": "Cagliari",
+      "awayTeam": "Frosinone",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "pred": {
+        "homeExpectedGoals": 0.7,
+        "awayExpectedGoals": 1.7,
+        "totalExpectedGoals": 2.4,
+        "bttsProbability": 0.4179,
+        "bttsNoProbability": 0.5821,
+        "over25Probability": 0.4309,
+        "under25Probability": 0.5691,
+        "homeWinProbability": 0.1432,
+        "drawProbability": 0.2477,
+        "awayWinProbability": 0.6087,
+        "predictedScore": {
+          "home": 0,
+          "away": 1,
+          "probability": 0.1476
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 45,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 45
+      }
+    },
+    {
+      "id": "fix_33_13_Torino",
+      "leagueId": "33",
+      "leagueName": "Serie A",
+      "dateRaw": "Sat 07/11",
+      "dateIso": "2026-11-07T12:00:00.000Z",
+      "daysFromNow": 7,
+      "time": "14:00",
+      "homeTeam": "Torino",
+      "awayTeam": "Lecce",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "pred": {
+        "homeExpectedGoals": 2.09,
+        "awayExpectedGoals": 1.31,
+        "totalExpectedGoals": 3.4,
+        "bttsProbability": 0.6448,
+        "bttsNoProbability": 0.3552,
+        "over25Probability": 0.6591,
+        "under25Probability": 0.3409,
+        "homeWinProbability": 0.5458,
+        "drawProbability": 0.221,
+        "awayWinProbability": 0.2317,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.0968
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 45,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 45
+      }
+    },
+    {
+      "id": "fix_33_14_Parma",
+      "leagueId": "33",
+      "leagueName": "Serie A",
+      "dateRaw": "Sat 07/11",
+      "dateIso": "2026-11-07T12:00:00.000Z",
+      "daysFromNow": 7,
+      "time": "17:00",
+      "homeTeam": "Parma",
+      "awayTeam": "Bologna",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "pred": {
+        "homeExpectedGoals": 0.34,
+        "awayExpectedGoals": 1.54,
+        "totalExpectedGoals": 1.87,
+        "bttsProbability": 0.2286,
+        "bttsNoProbability": 0.7714,
+        "over25Probability": 0.2889,
+        "under25Probability": 0.7111,
+        "homeWinProbability": 0.0728,
+        "drawProbability": 0.2533,
+        "awayWinProbability": 0.6738,
+        "predictedScore": {
+          "home": 0,
+          "away": 1,
+          "probability": 0.2314
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 54,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 45
+      }
+    },
+    {
+      "id": "fix_33_15_ASRoma",
+      "leagueId": "33",
+      "leagueName": "Serie A",
+      "dateRaw": "Sat 07/11",
+      "dateIso": "2026-11-07T12:00:00.000Z",
+      "daysFromNow": 7,
+      "time": "19:45",
+      "homeTeam": "AS Roma",
+      "awayTeam": "Sassuolo",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "pred": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.58,
+        "totalExpectedGoals": 5.08,
+        "bttsProbability": 0.3956,
+        "bttsNoProbability": 0.6044,
+        "over25Probability": 0.795,
+        "under25Probability": 0.205,
+        "homeWinProbability": 0.8626,
+        "drawProbability": 0.0384,
+        "awayWinProbability": 0.0125,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.1068
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 45,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 59
+      }
     }
   ],
   "results": [
@@ -418,7 +566,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Thu 29-Oct-2026",
       "dateIso": "2026-10-29T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "19:45",
       "homeTeam": "Fiorentina",
       "awayTeam": "Atalanta",
@@ -449,8 +597,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "33_fiorentina_atalanta_Thu 29-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:27:22.088Z",
-        "auditHash": "SHA256-IMMUTABLE-7EF6C174-2026-10-30",
+        "lockedAt": "2026-10-31T11:57:21.377Z",
+        "auditHash": "SHA256-IMMUTABLE-788051D0-2026-10-31",
         "isImmutable": true
       },
       "evaluation": {
@@ -466,7 +614,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Thu 29-Oct-2026",
       "dateIso": "2026-10-29T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "17:30",
       "homeTeam": "Frosinone",
       "awayTeam": "Lecce",
@@ -497,8 +645,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 62,
         "matchFingerprint": "33_frosinone_lecce_Thu 29-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:27:22.088Z",
-        "auditHash": "SHA256-IMMUTABLE-4E04F570-2026-10-30",
+        "lockedAt": "2026-10-31T11:57:21.377Z",
+        "auditHash": "SHA256-IMMUTABLE-568DE22C-2026-10-31",
         "isImmutable": true
       },
       "evaluation": {
@@ -514,7 +662,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Wed 28-Oct-2026",
       "dateIso": "2026-10-28T12:00:00.000Z",
-      "daysAgo": 2,
+      "daysAgo": 3,
       "time": "19:45",
       "homeTeam": "Genoa",
       "awayTeam": "Juventus",
@@ -545,8 +693,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "33_genoa_juventus_Wed 28-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:27:22.088Z",
-        "auditHash": "SHA256-IMMUTABLE-1E43A818-2026-10-30",
+        "lockedAt": "2026-10-31T11:57:21.377Z",
+        "auditHash": "SHA256-IMMUTABLE-26CC94D4-2026-10-31",
         "isImmutable": true
       },
       "evaluation": {
@@ -562,7 +710,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Wed 28-Oct-2026",
       "dateIso": "2026-10-28T12:00:00.000Z",
-      "daysAgo": 2,
+      "daysAgo": 3,
       "time": "19:45",
       "homeTeam": "Monza",
       "awayTeam": "Napoli",
@@ -593,8 +741,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 73,
         "matchFingerprint": "33_monza_napoli_Wed 28-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:27:22.088Z",
-        "auditHash": "SHA256-IMMUTABLE-10227279-2026-10-30",
+        "lockedAt": "2026-10-31T11:57:21.377Z",
+        "auditHash": "SHA256-IMMUTABLE-79985BD-2026-10-31",
         "isImmutable": true
       },
       "evaluation": {
@@ -610,7 +758,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Wed 28-Oct-2026",
       "dateIso": "2026-10-28T12:00:00.000Z",
-      "daysAgo": 2,
+      "daysAgo": 3,
       "time": "17:30",
       "homeTeam": "AC Milan",
       "awayTeam": "Bologna",
@@ -641,8 +789,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "33_ac milan_bologna_Wed 28-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:27:22.088Z",
-        "auditHash": "SHA256-IMMUTABLE-1F54F3EB-2026-10-30",
+        "lockedAt": "2026-10-31T11:57:21.378Z",
+        "auditHash": "SHA256-IMMUTABLE-16CC074E-2026-10-31",
         "isImmutable": true
       },
       "evaluation": {
@@ -658,7 +806,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Wed 28-Oct-2026",
       "dateIso": "2026-10-28T12:00:00.000Z",
-      "daysAgo": 2,
+      "daysAgo": 3,
       "time": "17:30",
       "homeTeam": "Parma",
       "awayTeam": "Udinese",
@@ -689,8 +837,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "33_parma_udinese_Wed 28-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:27:22.088Z",
-        "auditHash": "SHA256-IMMUTABLE-4C7E11EF-2026-10-30",
+        "lockedAt": "2026-10-31T11:57:21.378Z",
+        "auditHash": "SHA256-IMMUTABLE-5506FE8C-2026-10-31",
         "isImmutable": true
       },
       "evaluation": {
@@ -706,7 +854,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Wed 28-Oct-2026",
       "dateIso": "2026-10-28T12:00:00.000Z",
-      "daysAgo": 2,
+      "daysAgo": 3,
       "time": "17:30",
       "homeTeam": "Venezia",
       "awayTeam": "Inter Milan",
@@ -737,8 +885,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 49,
         "matchFingerprint": "33_venezia_inter milan_Wed 28-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:27:22.088Z",
-        "auditHash": "SHA256-IMMUTABLE-3A1F97D7-2026-10-30",
+        "lockedAt": "2026-10-31T11:57:21.378Z",
+        "auditHash": "SHA256-IMMUTABLE-42A88474-2026-10-31",
         "isImmutable": true
       },
       "evaluation": {
@@ -754,7 +902,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Tue 27-Oct-2026",
       "dateIso": "2026-10-27T12:00:00.000Z",
-      "daysAgo": 3,
+      "daysAgo": 4,
       "time": "19:45",
       "homeTeam": "AS Roma",
       "awayTeam": "Cagliari",
@@ -785,8 +933,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 60,
         "matchFingerprint": "33_as roma_cagliari_Tue 27-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:27:22.088Z",
-        "auditHash": "SHA256-IMMUTABLE-3BA590CC-2026-10-30",
+        "lockedAt": "2026-10-31T11:57:21.378Z",
+        "auditHash": "SHA256-IMMUTABLE-331CA42F-2026-10-31",
         "isImmutable": true
       },
       "evaluation": {
@@ -802,7 +950,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Tue 27-Oct-2026",
       "dateIso": "2026-10-27T12:00:00.000Z",
-      "daysAgo": 3,
+      "daysAgo": 4,
       "time": "19:45",
       "homeTeam": "Torino",
       "awayTeam": "Como",
@@ -833,8 +981,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 67,
         "matchFingerprint": "33_torino_como_Tue 27-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:27:22.088Z",
-        "auditHash": "SHA256-IMMUTABLE-345FD56B-2026-10-30",
+        "lockedAt": "2026-10-31T11:57:21.378Z",
+        "auditHash": "SHA256-IMMUTABLE-2BD6E8CE-2026-10-31",
         "isImmutable": true
       },
       "evaluation": {
@@ -850,7 +998,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Tue 27-Oct-2026",
       "dateIso": "2026-10-27T12:00:00.000Z",
-      "daysAgo": 3,
+      "daysAgo": 4,
       "time": "17:30",
       "homeTeam": "Sassuolo",
       "awayTeam": "Lazio",
@@ -881,8 +1029,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 57,
         "matchFingerprint": "33_sassuolo_lazio_Tue 27-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:27:22.089Z",
-        "auditHash": "SHA256-IMMUTABLE-1697E363-2026-10-30",
+        "lockedAt": "2026-10-31T11:57:21.378Z",
+        "auditHash": "SHA256-IMMUTABLE-E0EF6A7-2026-10-31",
         "isImmutable": true
       },
       "evaluation": {
@@ -898,7 +1046,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Sun 25-Oct-2026",
       "dateIso": "2026-10-25T12:00:00.000Z",
-      "daysAgo": 5,
+      "daysAgo": 6,
       "time": "19:45",
       "homeTeam": "Udinese",
       "awayTeam": "AC Milan",
@@ -929,8 +1077,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "33_udinese_ac milan_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:27:22.089Z",
-        "auditHash": "SHA256-IMMUTABLE-83E2882-2026-10-30",
+        "lockedAt": "2026-10-31T11:57:21.378Z",
+        "auditHash": "SHA256-IMMUTABLE-10C7153E-2026-10-31",
         "isImmutable": true
       },
       "evaluation": {
@@ -946,7 +1094,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Sun 25-Oct-2026",
       "dateIso": "2026-10-25T12:00:00.000Z",
-      "daysAgo": 5,
+      "daysAgo": 6,
       "time": "17:00",
       "homeTeam": "Lecce",
       "awayTeam": "Juventus",
@@ -977,8 +1125,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "33_lecce_juventus_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:27:22.089Z",
-        "auditHash": "SHA256-IMMUTABLE-5D202F7F-2026-10-30",
+        "lockedAt": "2026-10-31T11:57:21.378Z",
+        "auditHash": "SHA256-IMMUTABLE-65A91C3B-2026-10-31",
         "isImmutable": true
       },
       "evaluation": {
@@ -994,7 +1142,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Sun 25-Oct-2026",
       "dateIso": "2026-10-25T12:00:00.000Z",
-      "daysAgo": 5,
+      "daysAgo": 6,
       "time": "14:00",
       "homeTeam": "Atalanta",
       "awayTeam": "Frosinone",
@@ -1025,8 +1173,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 81,
         "matchFingerprint": "33_atalanta_frosinone_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:27:22.089Z",
-        "auditHash": "SHA256-IMMUTABLE-7835100-2026-10-30",
+        "lockedAt": "2026-10-31T11:57:21.378Z",
+        "auditHash": "SHA256-IMMUTABLE-1059BBC-2026-10-31",
         "isImmutable": true
       },
       "evaluation": {
@@ -1042,7 +1190,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Sun 25-Oct-2026",
       "dateIso": "2026-10-25T12:00:00.000Z",
-      "daysAgo": 5,
+      "daysAgo": 6,
       "time": "14:00",
       "homeTeam": "Genoa",
       "awayTeam": "Venezia",
@@ -1073,8 +1221,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "33_genoa_venezia_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:27:22.089Z",
-        "auditHash": "SHA256-IMMUTABLE-8EC5F53-2026-10-30",
+        "lockedAt": "2026-10-31T11:57:21.378Z",
+        "auditHash": "SHA256-IMMUTABLE-11754C0F-2026-10-31",
         "isImmutable": true
       },
       "evaluation": {
@@ -1090,7 +1238,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Sun 25-Oct-2026",
       "dateIso": "2026-10-25T12:00:00.000Z",
-      "daysAgo": 5,
+      "daysAgo": 6,
       "time": "11:30",
       "homeTeam": "Inter Milan",
       "awayTeam": "Fiorentina",
@@ -1121,8 +1269,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 63,
         "matchFingerprint": "33_inter milan_fiorentina_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-10-30T19:27:22.089Z",
-        "auditHash": "SHA256-IMMUTABLE-44A3A4B5-2026-10-30",
+        "lockedAt": "2026-10-31T11:57:21.378Z",
+        "auditHash": "SHA256-IMMUTABLE-3C1AB7F9-2026-10-31",
         "isImmutable": true
       },
       "evaluation": {
