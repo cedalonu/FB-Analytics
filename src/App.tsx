@@ -116,15 +116,21 @@ export default function App() {
             throw new Error('No se encontraron archivos JSON estáticos');
           }
           const staticText = await staticResp.text();
-          if (staticText.trim().startsWith('<!DOCTYPE') || !staticText.trim().startsWith('{')) {
+          if (staticText.trim().toLowerCase().startsWith('<!doctype') || staticText.trim().toLowerCase().startsWith('<html') || !staticText.trim().startsWith('{')) {
             throw new Error('Static file returned HTML');
           }
-          const staticJson = JSON.parse(staticText);
+          let staticJson;
+          try {
+            staticJson = JSON.parse(staticText);
+          } catch {
+            throw new Error('Error al parsear JSON estático');
+          }
+
           const fallbackTeams = staticJson.teams || {};
-          const leagueName = staticJson.leagueName || `Liga ${tableId}`;
+          const leagueName = staticJson.leagueName || leagues.find(l => l.id === tableId)?.name || `Liga ${tableId}`;
           const fixtures = (staticJson.fixtures || []).map((f: any) => ({
             ...f,
-            prediction: predictMatch(f.homeTeam, f.awayTeam, fallbackTeams, modelParams),
+            prediction: f.prediction || predictMatch(f.homeTeam, f.awayTeam, fallbackTeams, modelParams),
           }));
           const backtestResult = runBacktest((staticJson.results || []).map((r: any) => ({ ...r, leagueName })), fallbackTeams, modelParams);
 

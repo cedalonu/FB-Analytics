@@ -37,6 +37,9 @@ export const ScreenerView: React.FC = () => {
       fetch('/api/screener?daysAhead=7')
         .then(async (r) => {
           const text = await r.text();
+          if (text.trim().toLowerCase().startsWith('<!doctype') || text.trim().toLowerCase().startsWith('<html') || !text.trim().startsWith('{')) {
+            throw new Error('Not JSON');
+          }
           return JSON.parse(text);
         })
         .then((res) => {
@@ -54,8 +57,12 @@ export const ScreenerView: React.FC = () => {
             const allFixtures: ScreenerFixture[] = [];
             for (const lid of leagueIds) {
               try {
-                const resp = await fetch(`${base}data_league_${lid}.json`);
-                const json = await resp.json();
+                const resp = await fetch(`${base}data_league_${lid}.json?t=${Date.now()}`);
+                const text = await resp.text();
+                if (text.trim().toLowerCase().startsWith('<!doctype') || text.trim().toLowerCase().startsWith('<html') || !text.trim().startsWith('{')) {
+                  continue;
+                }
+                const json = JSON.parse(text);
                 if (json && Array.isArray(json.fixtures)) {
                   json.fixtures.forEach((f: any) => {
                     const conf = f.prediction ? Math.round(Math.max(f.prediction.bttsProbability, f.prediction.bttsNoProbability, f.prediction.over25Probability, f.prediction.under25Probability) * 100) : 50;
@@ -74,6 +81,9 @@ export const ScreenerView: React.FC = () => {
       fetch('/api/screener-results?daysBehind=14')
         .then(async (r) => {
           const text = await r.text();
+          if (text.trim().toLowerCase().startsWith('<!doctype') || text.trim().toLowerCase().startsWith('<html') || !text.trim().startsWith('{')) {
+            throw new Error('Not JSON');
+          }
           return JSON.parse(text);
         })
         .then((res) => {
@@ -91,8 +101,12 @@ export const ScreenerView: React.FC = () => {
             const allResults: FinishedMatch[] = [];
             for (const lid of leagueIds) {
               try {
-                const resp = await fetch(`${base}data_league_${lid}.json`);
-                const json = await resp.json();
+                const resp = await fetch(`${base}data_league_${lid}.json?t=${Date.now()}`);
+                const text = await resp.text();
+                if (text.trim().toLowerCase().startsWith('<!doctype') || text.trim().toLowerCase().startsWith('<html') || !text.trim().startsWith('{')) {
+                  continue;
+                }
+                const json = JSON.parse(text);
                 if (json && Array.isArray(json.results)) {
                   json.results.forEach((r: any) => {
                     allResults.push({ ...r, leagueName: json.leagueName || lid });
