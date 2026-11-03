@@ -65,8 +65,9 @@ export const ScreenerView: React.FC = () => {
                 const json = JSON.parse(text);
                 if (json && Array.isArray(json.fixtures)) {
                   json.fixtures.forEach((f: any) => {
-                    const conf = f.prediction ? Math.round(Math.max(f.prediction.bttsProbability, f.prediction.bttsNoProbability, f.prediction.over25Probability, f.prediction.under25Probability) * 100) : 50;
-                    allFixtures.push({ ...f, leagueName: json.leagueName || lid, confidenceScore: conf });
+                    const p = f.prediction || f.pred;
+                    const conf = p ? Math.round(Math.max(p.bttsProbability, p.bttsNoProbability, p.over25Probability, p.under25Probability) * 100) : 50;
+                    allFixtures.push({ ...f, prediction: p, leagueName: json.leagueName || lid, confidenceScore: conf });
                   });
                 }
               } catch {}
@@ -109,7 +110,8 @@ export const ScreenerView: React.FC = () => {
                 const json = JSON.parse(text);
                 if (json && Array.isArray(json.results)) {
                   json.results.forEach((r: any) => {
-                    allResults.push({ ...r, leagueName: json.leagueName || lid });
+                    const p = r.prediction || r.pred;
+                    allResults.push({ ...r, prediction: p, leagueName: json.leagueName || lid });
                   });
                 }
               } catch {}

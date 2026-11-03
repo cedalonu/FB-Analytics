@@ -21,7 +21,10 @@ async function run() {
       const results = await getFinishedResults(l, 30);
       const backtest = runBacktest(results, teams);
       const leagueName = LEAGUE_NAMES[l] || `Liga ${l}`;
-      const preds = fixtures.map(f => ({ ...f, leagueName, pred: predictMatch(f.homeTeam, f.awayTeam, teams) }));
+      const preds = fixtures.map(f => {
+        const p = predictMatch(f.homeTeam, f.awayTeam, teams);
+        return { ...f, leagueName, prediction: p, pred: p };
+      });
       const evaluatedResults = backtest.evaluatedMatches.map(r => ({ ...r, leagueName }));
 
       const payload = {

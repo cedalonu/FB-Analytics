@@ -130,9 +130,13 @@ export default function App() {
           const leagueName = staticJson.leagueName || leagues.find(l => l.id === tableId)?.name || `Liga ${tableId}`;
           const fixtures = (staticJson.fixtures || []).map((f: any) => ({
             ...f,
-            prediction: f.prediction || predictMatch(f.homeTeam, f.awayTeam, fallbackTeams, modelParams),
+            prediction: f.prediction || f.pred || predictMatch(f.homeTeam, f.awayTeam, fallbackTeams, modelParams),
           }));
-          const backtestResult = runBacktest((staticJson.results || []).map((r: any) => ({ ...r, leagueName })), fallbackTeams, modelParams);
+          const rawResults = (staticJson.results || []).map((r: any) => ({
+            ...r,
+            prediction: r.prediction || r.pred,
+          }));
+          const backtestResult = runBacktest(rawResults.map((r: any) => ({ ...r, leagueName })), fallbackTeams, modelParams);
 
           json = {
             success: true,
