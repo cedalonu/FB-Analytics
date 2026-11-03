@@ -1,7 +1,7 @@
 {
   "leagueId": "34",
   "leagueName": "Ligue 1",
-  "timestamp": "2026-11-03T12:07:09.677Z",
+  "timestamp": "2026-11-03T12:46:49.501Z",
   "fixtures": [
     {
       "id": "fix_34_1_Toulouse",
@@ -17,6 +17,27 @@
         "home": 2.08,
         "draw": 3.98,
         "away": 3.51
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.4,
+        "awayExpectedGoals": 1.38,
+        "totalExpectedGoals": 2.78,
+        "bttsProbability": 0.5709,
+        "bttsNoProbability": 0.4291,
+        "over25Probability": 0.5256,
+        "under25Probability": 0.4744,
+        "homeWinProbability": 0.3685,
+        "drawProbability": 0.2682,
+        "awayWinProbability": 0.363,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1271
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 45,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 45
       },
       "pred": {
         "homeExpectedGoals": 1.4,
@@ -55,6 +76,27 @@
         "draw": 4.04,
         "away": 1.87
       },
+      "prediction": {
+        "homeExpectedGoals": 0.82,
+        "awayExpectedGoals": 1.21,
+        "totalExpectedGoals": 2.03,
+        "bttsProbability": 0.4,
+        "bttsNoProbability": 0.6,
+        "over25Probability": 0.331,
+        "under25Probability": 0.669,
+        "homeWinProbability": 0.2419,
+        "drawProbability": 0.3134,
+        "awayWinProbability": 0.4446,
+        "predictedScore": {
+          "home": 0,
+          "away": 1,
+          "probability": 0.1514
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 45,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 45
+      },
       "pred": {
         "homeExpectedGoals": 0.82,
         "awayExpectedGoals": 1.21,
@@ -91,6 +133,27 @@
         "home": 1.16,
         "draw": 9.85,
         "away": 18.5
+      },
+      "prediction": {
+        "homeExpectedGoals": 2.95,
+        "awayExpectedGoals": 0.23,
+        "totalExpectedGoals": 3.18,
+        "bttsProbability": 0.1906,
+        "bttsNoProbability": 0.8094,
+        "over25Probability": 0.604,
+        "under25Probability": 0.396,
+        "homeWinProbability": 0.8986,
+        "drawProbability": 0.0779,
+        "awayWinProbability": 0.0127,
+        "predictedScore": {
+          "home": 2,
+          "away": 0,
+          "probability": 0.1818
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 62,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 45
       },
       "pred": {
         "homeExpectedGoals": 2.95,
@@ -129,6 +192,27 @@
         "draw": 3.9,
         "away": 3.28
       },
+      "prediction": {
+        "homeExpectedGoals": 1.41,
+        "awayExpectedGoals": 1.17,
+        "totalExpectedGoals": 2.58,
+        "bttsProbability": 0.5285,
+        "bttsNoProbability": 0.4715,
+        "over25Probability": 0.4761,
+        "under25Probability": 0.5239,
+        "homeWinProbability": 0.4168,
+        "drawProbability": 0.2779,
+        "awayWinProbability": 0.3051,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1326
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 45,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 45
+      },
       "pred": {
         "homeExpectedGoals": 1.41,
         "awayExpectedGoals": 1.17,
@@ -165,6 +249,27 @@
         "home": 3.54,
         "draw": 3.84,
         "away": 2.12
+      },
+      "prediction": {
+        "homeExpectedGoals": 0.92,
+        "awayExpectedGoals": 1.25,
+        "totalExpectedGoals": 2.17,
+        "bttsProbability": 0.4372,
+        "bttsNoProbability": 0.5628,
+        "over25Probability": 0.3695,
+        "under25Probability": 0.6305,
+        "homeWinProbability": 0.2644,
+        "drawProbability": 0.304,
+        "awayWinProbability": 0.4316,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1391
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 45,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 45
       },
       "pred": {
         "homeExpectedGoals": 0.92,
@@ -203,6 +308,27 @@
         "draw": 3.8,
         "away": 2.36
       },
+      "prediction": {
+        "homeExpectedGoals": 1.19,
+        "awayExpectedGoals": 0.96,
+        "totalExpectedGoals": 2.14,
+        "bttsProbability": 0.4359,
+        "bttsNoProbability": 0.5641,
+        "over25Probability": 0.3622,
+        "under25Probability": 0.6378,
+        "homeWinProbability": 0.4042,
+        "drawProbability": 0.3092,
+        "awayWinProbability": 0.2866,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1411
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 45,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 45
+      },
       "pred": {
         "homeExpectedGoals": 1.19,
         "awayExpectedGoals": 0.96,
@@ -239,6 +365,27 @@
         "home": 2.96,
         "draw": 3.52,
         "away": 2.55
+      },
+      "prediction": {
+        "homeExpectedGoals": 0.25,
+        "awayExpectedGoals": 1.01,
+        "totalExpectedGoals": 1.26,
+        "bttsProbability": 0.1452,
+        "bttsNoProbability": 0.8548,
+        "over25Probability": 0.1346,
+        "under25Probability": 0.8654,
+        "homeWinProbability": 0.0861,
+        "drawProbability": 0.3675,
+        "awayWinProbability": 0.5464,
+        "predictedScore": {
+          "home": 0,
+          "away": 0,
+          "probability": 0.2869
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 71,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 73
       },
       "pred": {
         "homeExpectedGoals": 0.25,
@@ -277,6 +424,27 @@
         "draw": 4.31,
         "away": 1.8
       },
+      "prediction": {
+        "homeExpectedGoals": 0.9,
+        "awayExpectedGoals": 1.81,
+        "totalExpectedGoals": 2.71,
+        "bttsProbability": 0.501,
+        "bttsNoProbability": 0.499,
+        "over25Probability": 0.5071,
+        "under25Probability": 0.4929,
+        "homeWinProbability": 0.1763,
+        "drawProbability": 0.2409,
+        "awayWinProbability": 0.5823,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1149
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 45,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 45
+      },
       "pred": {
         "homeExpectedGoals": 0.9,
         "awayExpectedGoals": 1.81,
@@ -313,6 +481,27 @@
         "home": 2.12,
         "draw": 4.16,
         "away": 3.3
+      },
+      "prediction": {
+        "homeExpectedGoals": 2.04,
+        "awayExpectedGoals": 2.07,
+        "totalExpectedGoals": 4.12,
+        "bttsProbability": 0.7628,
+        "bttsNoProbability": 0.2372,
+        "over25Probability": 0.7759,
+        "under25Probability": 0.2241,
+        "homeWinProbability": 0.387,
+        "drawProbability": 0.2121,
+        "awayWinProbability": 0.3984,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.0732
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 53,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 55
       },
       "pred": {
         "homeExpectedGoals": 2.04,
@@ -375,8 +564,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "34_lorient_brest_Mon 02-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:09.676Z",
-        "auditHash": "SHA256-IMMUTABLE-186A22DF-2026-11-03",
+        "lockedAt": "2026-11-03T12:46:49.499Z",
+        "auditHash": "SHA256-IMMUTABLE-7F0C13F-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -423,8 +612,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 76,
         "matchFingerprint": "34_marseille_toulouse_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:09.676Z",
-        "auditHash": "SHA256-IMMUTABLE-2901BE5F-2026-11-03",
+        "lockedAt": "2026-11-03T12:46:49.500Z",
+        "auditHash": "SHA256-IMMUTABLE-18880B40-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -471,8 +660,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 54,
         "matchFingerprint": "34_olympique lyonnais_angers_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:09.676Z",
-        "auditHash": "SHA256-IMMUTABLE-1D2BAE05-2026-11-03",
+        "lockedAt": "2026-11-03T12:46:49.500Z",
+        "auditHash": "SHA256-IMMUTABLE-2DA56124-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -519,8 +708,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "34_paris fc_monaco_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:09.676Z",
-        "auditHash": "SHA256-IMMUTABLE-18FAFE73-2026-11-03",
+        "lockedAt": "2026-11-03T12:46:49.500Z",
+        "auditHash": "SHA256-IMMUTABLE-8814B54-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -567,8 +756,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 72,
         "matchFingerprint": "34_strasbourg_auxerre_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:09.676Z",
-        "auditHash": "SHA256-IMMUTABLE-53600C3E-2026-11-03",
+        "lockedAt": "2026-11-03T12:46:49.500Z",
+        "auditHash": "SHA256-IMMUTABLE-63D9BF5D-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -615,8 +804,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "34_troyes_le mans_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:09.676Z",
-        "auditHash": "SHA256-IMMUTABLE-5319FED4-2026-11-03",
+        "lockedAt": "2026-11-03T12:46:49.500Z",
+        "auditHash": "SHA256-IMMUTABLE-6393B1F3-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -663,8 +852,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "34_lille_lens_Fri 30-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:09.676Z",
-        "auditHash": "SHA256-IMMUTABLE-7F9B95BE-2026-11-03",
+        "lockedAt": "2026-11-03T12:46:49.500Z",
+        "auditHash": "SHA256-IMMUTABLE-6FEAB723-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -711,8 +900,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 50,
         "matchFingerprint": "34_le havre_paris saint germain_Fri 30-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:09.676Z",
-        "auditHash": "SHA256-IMMUTABLE-747462D9-2026-11-03",
+        "lockedAt": "2026-11-03T12:46:49.500Z",
+        "auditHash": "SHA256-IMMUTABLE-7B11EA08-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -759,8 +948,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 71,
         "matchFingerprint": "34_nice_rennes_Fri 30-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:09.676Z",
-        "auditHash": "SHA256-IMMUTABLE-93B2B90-2026-11-03",
+        "lockedAt": "2026-11-03T12:46:49.500Z",
+        "auditHash": "SHA256-IMMUTABLE-73E878F-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -807,8 +996,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "34_paris saint germain_olympique lyonnais_Mon 26-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:09.676Z",
-        "auditHash": "SHA256-IMMUTABLE-BD2DF4B-2026-11-03",
+        "lockedAt": "2026-11-03T12:46:49.500Z",
+        "auditHash": "SHA256-IMMUTABLE-1C4C926A-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -855,8 +1044,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 84,
         "matchFingerprint": "34_angers_lorient_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:09.677Z",
-        "auditHash": "SHA256-IMMUTABLE-6DC05E43-2026-11-03",
+        "lockedAt": "2026-11-03T12:46:49.500Z",
+        "auditHash": "SHA256-IMMUTABLE-7E3A1143-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -903,8 +1092,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "34_auxerre_le mans_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:09.677Z",
-        "auditHash": "SHA256-IMMUTABLE-192E243D-2026-11-03",
+        "lockedAt": "2026-11-03T12:46:49.500Z",
+        "auditHash": "SHA256-IMMUTABLE-29A7D73D-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -951,8 +1140,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 67,
         "matchFingerprint": "34_marseille_le havre_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:09.677Z",
-        "auditHash": "SHA256-IMMUTABLE-57264576-2026-11-03",
+        "lockedAt": "2026-11-03T12:46:49.500Z",
+        "auditHash": "SHA256-IMMUTABLE-46AC9276-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -999,8 +1188,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 66,
         "matchFingerprint": "34_rennes_strasbourg_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:09.677Z",
-        "auditHash": "SHA256-IMMUTABLE-7C13695E-2026-11-03",
+        "lockedAt": "2026-11-03T12:46:49.500Z",
+        "auditHash": "SHA256-IMMUTABLE-6B99B65E-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -1047,8 +1236,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 80,
         "matchFingerprint": "34_toulouse_troyes_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:09.677Z",
-        "auditHash": "SHA256-IMMUTABLE-2BFC6A1B-2026-11-03",
+        "lockedAt": "2026-11-03T12:46:49.500Z",
+        "auditHash": "SHA256-IMMUTABLE-1B82B71B-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
