@@ -36,6 +36,7 @@ async function run() {
       };
 
       fs.writeFileSync(`data_league_${l}.json`, JSON.stringify(payload, null, 2));
+      fs.writeFileSync(`public/data_league_${l}.json`, JSON.stringify(payload, null, 2));
       console.log(`Liga ${l} actualizada correctamente.`);
     } catch (err) {
       console.warn(`Aviso: No se pudo obtener datos en vivo para la liga ${l}, usando datos base/fallback:`, err);
@@ -69,6 +70,7 @@ async function run() {
         parameters: DEFAULT_PARAMETERS
       };
       fs.writeFileSync(`data_league_${l}.json`, JSON.stringify(fallbackPayload, null, 2));
+      fs.writeFileSync(`public/data_league_${l}.json`, JSON.stringify(fallbackPayload, null, 2));
     }
   }
   console.log('Pronósticos actualizados exitosamente.');

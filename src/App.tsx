@@ -43,6 +43,10 @@ export default function App() {
   useEffect(() => {
     fetch('/api/leagues')
       .then(async (r) => {
+        const contentType = r.headers.get('content-type') || '';
+        if (!r.ok || !contentType.includes('application/json')) {
+          throw new Error('Not JSON');
+        }
         const text = await r.text();
         return JSON.parse(text);
       })
@@ -72,54 +76,83 @@ export default function App() {
       setErrorMessage(null);
 
       try {
-        const queryParams = new URLSearchParams({
-          table: tableId,
-          daysAhead: String(ahead),
-          daysBehind: String(behind),
-          homeAdv: String(modelParams.homeAdvantage),
-          extWeight: String(modelParams.extendedStatsWeight),
-          formWeight: String(modelParams.formWeight),
-          bttsThresh: String(modelParams.bttsThreshold),
-          overThresh: String(modelParams.over25Threshold),
-        });
-
-        if (forceRefresh) {
-          queryParams.set('forceRefresh', 'true');
-        }
-
-        const resp = await fetch(`/api/data?${queryParams.toString()}`);
-        const text = await resp.text();
         let json;
         try {
+          const queryParams = new URLSearchParams({
+            table: tableId,
+            daysAhead: String(ahead),
+            daysBehind: String(behind),
+            homeAdv: String(modelParams.homeAdvantage),
+            extWeight: String(modelParams.extendedStatsWeight),
+            formWeight: String(modelParams.formWeight),
+            bttsThresh: String(modelParams.bttsThreshold),
+            overThresh: String(modelParams.over25Threshold),
+          });
+
+          if (forceRefresh) {
+            queryParams.set('forceRefresh', 'true');
+          }
+
+          const resp = await fetch(`/api/data?${queryParams.toString()}`);
+          const contentType = resp.headers.get('content-type') || '';
+          if (!resp.ok || !contentType.includes('application/json')) {
+            throw new Error('Not JSON API response (static hosting)');
+          }
+          const text = await resp.text();
           json = JSON.parse(text);
-        } catch {
-          throw new Error('Static hosting fallback');
+          if (!json.success || !json.data) {
+            throw new Error(json.error || 'Error en API');
+          }
+        } catch (apiErr) {
+          // Fallback to static JSON file (for GitHub Pages / static hosting)
+          const baseUrl = import.meta.env.BASE_URL || '/';
+          const base = baseUrl.endsWith('/') ? baseUrl : baseUrl + '/';
+          
+          let staticResp = await fetch(`${base}data_league_${tableId}.json?t=${Date.now()}`);
+          if (!staticResp.ok) {
+            staticResp = await fetch(`${base}data_league_1.json?t=${Date.now()}`);
+          }
+          if (!staticResp.ok) {
+            throw new Error('No se encontraron archivos JSON estáticos');
+          }
+          const staticText = await staticResp.text();
+          if (staticText.trim().startsWith('<!DOCTYPE') || !staticText.trim().startsWith('{')) {
+            throw new Error('Static file returned HTML');
+          }
+          const staticJson = JSON.parse(staticText);
+          const fallbackTeams = staticJson.teams || {};
+          const leagueName = staticJson.leagueName || `Liga ${tableId}`;
+          const fixtures = (staticJson.fixtures || []).map((f: any) => ({
+            ...f,
+            prediction: predictMatch(f.homeTeam, f.awayTeam, fallbackTeams, modelParams),
+          }));
+          const backtestResult = runBacktest((staticJson.results || []).map((r: any) => ({ ...r, leagueName })), fallbackTeams, modelParams);
+
+          json = {
+            success: true,
+            data: {
+              ...staticJson,
+              leagueId: tableId,
+              leagueName,
+              timestamp: new Date().toISOString(),
+              fixtures,
+              results: backtestResult.evaluatedMatches,
+              teams: fallbackTeams,
+              backtest: backtestResult.metrics,
+              parameters: modelParams,
+            },
+          };
         }
 
         if (json.success && json.data) {
           setData(json.data);
           setOptimizationResult(null);
         } else {
-          setErrorMessage(json.error || 'Error al obtener datos de TheFishy');
+          setErrorMessage(json.error || 'Error al obtener datos');
         }
-      } catch (apiErr) {
-        // Fallback to static JSON file (for GitHub Pages / static hosting)
-        try {
-          const baseUrl = import.meta.env.BASE_URL || '/';
-          const base = baseUrl.endsWith('/') ? baseUrl : baseUrl + '/';
-          const staticResp = await fetch(`${base}data_league_${tableId}.json`);
-          const staticText = await staticResp.text();
-          const staticJson = JSON.parse(staticText);
-          if (staticJson && staticJson.fixtures) {
-            setData(staticJson);
-            setOptimizationResult(null);
-          } else {
-            throw new Error('Invalid static data format');
-          }
-        } catch (staticErr: unknown) {
-          const msg = staticErr instanceof Error ? staticErr.message : 'Error al cargar datos estáticos';
-          setErrorMessage(`No se pudieron obtener datos. En GitHub Pages asegúrate de que el workflow diario haya generado los archivos JSON.`);
-        }
+      } catch (staticErr: unknown) {
+        const msg = staticErr instanceof Error ? staticErr.message : 'Error desconocido';
+        setErrorMessage(`No se pudieron obtener datos. En GitHub Pages asegúrate de que el workflow diario haya generado los archivos JSON (${msg}).`);
       } finally {
         setIsLoading(false);
         setIsRefreshing(false);
