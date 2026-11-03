@@ -1,7 +1,7 @@
 {
   "leagueId": "31",
   "leagueName": "La Liga",
-  "timestamp": "2026-11-03T12:07:07.894Z",
+  "timestamp": "2026-11-03T19:35:47.981Z",
   "fixtures": [
     {
       "id": "fix_31_1_Sevilla",
@@ -17,6 +17,27 @@
         "home": 2.05,
         "draw": 3.48,
         "away": 4.15
+      },
+      "prediction": {
+        "homeExpectedGoals": 2.52,
+        "awayExpectedGoals": 0.81,
+        "totalExpectedGoals": 3.33,
+        "bttsProbability": 0.514,
+        "bttsNoProbability": 0.486,
+        "over25Probability": 0.643,
+        "under25Probability": 0.357,
+        "homeWinProbability": 0.7358,
+        "drawProbability": 0.1647,
+        "awayWinProbability": 0.095,
+        "predictedScore": {
+          "home": 2,
+          "away": 0,
+          "probability": 0.1132
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 45,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 45
       },
       "pred": {
         "homeExpectedGoals": 2.52,
@@ -55,6 +76,27 @@
         "draw": 3.72,
         "away": 2.92
       },
+      "prediction": {
+        "homeExpectedGoals": 2.01,
+        "awayExpectedGoals": 1.22,
+        "totalExpectedGoals": 3.24,
+        "bttsProbability": 0.6167,
+        "bttsNoProbability": 0.3833,
+        "over25Probability": 0.6268,
+        "under25Probability": 0.3732,
+        "homeWinProbability": 0.5497,
+        "drawProbability": 0.2263,
+        "awayWinProbability": 0.2228,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1025
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 45,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 45
+      },
       "pred": {
         "homeExpectedGoals": 2.01,
         "awayExpectedGoals": 1.22,
@@ -91,6 +133,27 @@
         "home": 2.3,
         "draw": 3.52,
         "away": 3.37
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.12,
+        "awayExpectedGoals": 1.59,
+        "totalExpectedGoals": 2.71,
+        "bttsProbability": 0.5428,
+        "bttsNoProbability": 0.4572,
+        "over25Probability": 0.5077,
+        "under25Probability": 0.4923,
+        "homeWinProbability": 0.2616,
+        "drawProbability": 0.264,
+        "awayWinProbability": 0.4741,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1258
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 45,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 45
       },
       "pred": {
         "homeExpectedGoals": 1.12,
@@ -129,6 +192,27 @@
         "draw": 3.52,
         "away": 2.23
       },
+      "prediction": {
+        "homeExpectedGoals": 0.54,
+        "awayExpectedGoals": 0.4,
+        "totalExpectedGoals": 0.93,
+        "bttsProbability": 0.141,
+        "bttsNoProbability": 0.859,
+        "over25Probability": 0.0685,
+        "under25Probability": 0.9315,
+        "homeWinProbability": 0.3026,
+        "drawProbability": 0.4915,
+        "awayWinProbability": 0.2058,
+        "predictedScore": {
+          "home": 0,
+          "away": 0,
+          "probability": 0.3983
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 72,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 86
+      },
       "pred": {
         "homeExpectedGoals": 0.54,
         "awayExpectedGoals": 0.4,
@@ -165,6 +249,27 @@
         "home": 9,
         "draw": 5.85,
         "away": 1.36
+      },
+      "prediction": {
+        "homeExpectedGoals": 0.25,
+        "awayExpectedGoals": 4,
+        "totalExpectedGoals": 4.25,
+        "bttsProbability": 0.2081,
+        "bttsNoProbability": 0.7919,
+        "over25Probability": 0.7454,
+        "under25Probability": 0.2546,
+        "homeWinProbability": 0.0055,
+        "drawProbability": 0.0344,
+        "awayWinProbability": 0.909,
+        "predictedScore": {
+          "home": 0,
+          "away": 3,
+          "probability": 0.1519
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 58,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 49
       },
       "pred": {
         "homeExpectedGoals": 0.25,
@@ -203,6 +308,27 @@
         "draw": 3.8,
         "away": 2.19
       },
+      "prediction": {
+        "homeExpectedGoals": 0.67,
+        "awayExpectedGoals": 3.3,
+        "totalExpectedGoals": 3.97,
+        "bttsProbability": 0.4617,
+        "bttsNoProbability": 0.5383,
+        "over25Probability": 0.737,
+        "under25Probability": 0.263,
+        "homeWinProbability": 0.0404,
+        "drawProbability": 0.0951,
+        "awayWinProbability": 0.8448,
+        "predictedScore": {
+          "home": 0,
+          "away": 3,
+          "probability": 0.1134
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 45,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 47
+      },
       "pred": {
         "homeExpectedGoals": 0.67,
         "awayExpectedGoals": 3.3,
@@ -239,6 +365,27 @@
         "home": 1.76,
         "draw": 4.16,
         "away": 4.88
+      },
+      "prediction": {
+        "homeExpectedGoals": 3.35,
+        "awayExpectedGoals": 1.22,
+        "totalExpectedGoals": 4.57,
+        "bttsProbability": 0.6682,
+        "bttsNoProbability": 0.3318,
+        "over25Probability": 0.8128,
+        "under25Probability": 0.1872,
+        "homeWinProbability": 0.7544,
+        "drawProbability": 0.1269,
+        "awayWinProbability": 0.0973,
+        "predictedScore": {
+          "home": 3,
+          "away": 1,
+          "probability": 0.0792
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 45,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 63
       },
       "pred": {
         "homeExpectedGoals": 3.35,
@@ -277,6 +424,27 @@
         "draw": 3.9,
         "away": 4.52
       },
+      "prediction": {
+        "homeExpectedGoals": 1.64,
+        "awayExpectedGoals": 0.32,
+        "totalExpectedGoals": 1.96,
+        "bttsProbability": 0.2231,
+        "bttsNoProbability": 0.7769,
+        "over25Probability": 0.3121,
+        "under25Probability": 0.6879,
+        "homeWinProbability": 0.7045,
+        "drawProbability": 0.233,
+        "awayWinProbability": 0.0621,
+        "predictedScore": {
+          "home": 1,
+          "away": 0,
+          "probability": 0.2271
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 55,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 45
+      },
       "pred": {
         "homeExpectedGoals": 1.64,
         "awayExpectedGoals": 0.32,
@@ -314,6 +482,27 @@
         "draw": 4.68,
         "away": 7.4
       },
+      "prediction": {
+        "homeExpectedGoals": 2.24,
+        "awayExpectedGoals": 0.2,
+        "totalExpectedGoals": 2.44,
+        "bttsProbability": 0.164,
+        "bttsNoProbability": 0.836,
+        "over25Probability": 0.4393,
+        "under25Probability": 0.5607,
+        "homeWinProbability": 0.8413,
+        "drawProbability": 0.1351,
+        "awayWinProbability": 0.0214,
+        "predictedScore": {
+          "home": 2,
+          "away": 0,
+          "probability": 0.2186
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 67,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 45
+      },
       "pred": {
         "homeExpectedGoals": 2.24,
         "awayExpectedGoals": 0.2,
@@ -350,6 +539,27 @@
         "home": 3.82,
         "draw": 4.41,
         "away": 1.9
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.56,
+        "awayExpectedGoals": 2.6,
+        "totalExpectedGoals": 4.16,
+        "bttsProbability": 0.73,
+        "bttsNoProbability": 0.27,
+        "over25Probability": 0.7783,
+        "under25Probability": 0.2217,
+        "homeWinProbability": 0.2148,
+        "drawProbability": 0.1883,
+        "awayWinProbability": 0.5914,
+        "predictedScore": {
+          "home": 1,
+          "away": 2,
+          "probability": 0.0824
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 46,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 56
       },
       "pred": {
         "homeExpectedGoals": 1.56,
@@ -412,8 +622,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 47,
         "matchFingerprint": "31_deportivo de la coruna_osasuna_Mon 02-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:07.893Z",
-        "auditHash": "SHA256-IMMUTABLE-5029954-2026-11-03",
+        "lockedAt": "2026-11-03T19:35:47.980Z",
+        "auditHash": "SHA256-IMMUTABLE-473A411B-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -460,8 +670,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 53,
         "matchFingerprint": "31_athletic bilbao_real sociedad_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:07.893Z",
-        "auditHash": "SHA256-IMMUTABLE-5151A20E-2026-11-03",
+        "lockedAt": "2026-11-03T19:35:47.980Z",
+        "auditHash": "SHA256-IMMUTABLE-6C76B62B-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -508,8 +718,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "31_elche_valencia_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:07.894Z",
-        "auditHash": "SHA256-IMMUTABLE-2C08C27D-2026-11-03",
+        "lockedAt": "2026-11-03T19:35:47.980Z",
+        "auditHash": "SHA256-IMMUTABLE-162EE569-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -556,8 +766,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 63,
         "matchFingerprint": "31_racing santander_real madrid_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:07.894Z",
-        "auditHash": "SHA256-IMMUTABLE-7369262E-2026-11-03",
+        "lockedAt": "2026-11-03T19:35:47.980Z",
+        "auditHash": "SHA256-IMMUTABLE-31317E48-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -604,8 +814,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "31_getafe_sevilla_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:07.894Z",
-        "auditHash": "SHA256-IMMUTABLE-7ED4AAF1-2026-11-03",
+        "lockedAt": "2026-11-03T19:35:47.980Z",
+        "auditHash": "SHA256-IMMUTABLE-3C9D030B-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -652,8 +862,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 57,
         "matchFingerprint": "31_barcelona_alaves_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:07.894Z",
-        "auditHash": "SHA256-IMMUTABLE-6D3DD256-2026-11-03",
+        "lockedAt": "2026-11-03T19:35:47.980Z",
+        "auditHash": "SHA256-IMMUTABLE-2B062A70-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -700,8 +910,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 47,
         "matchFingerprint": "31_real betis_malaga_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:07.894Z",
-        "auditHash": "SHA256-IMMUTABLE-3F5B9B32-2026-11-03",
+        "lockedAt": "2026-11-03T19:35:47.980Z",
+        "auditHash": "SHA256-IMMUTABLE-7E6CBCE8-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -748,8 +958,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 78,
         "matchFingerprint": "31_rayo vallecano_celta de vigo_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:07.894Z",
-        "auditHash": "SHA256-IMMUTABLE-191E8BAC-2026-11-03",
+        "lockedAt": "2026-11-03T19:35:47.980Z",
+        "auditHash": "SHA256-IMMUTABLE-29191C3A-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -796,8 +1006,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 63,
         "matchFingerprint": "31_levante_atletico madrid_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:07.894Z",
-        "auditHash": "SHA256-IMMUTABLE-69CCD0AB-2026-11-03",
+        "lockedAt": "2026-11-03T19:35:47.980Z",
+        "auditHash": "SHA256-IMMUTABLE-53FB876F-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -844,8 +1054,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "31_villarreal_espanyol_Fri 30-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:07.894Z",
-        "auditHash": "SHA256-IMMUTABLE-48FE0AF5-2026-11-03",
+        "lockedAt": "2026-11-03T19:35:47.980Z",
+        "auditHash": "SHA256-IMMUTABLE-6C6630F-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -892,8 +1102,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 59,
         "matchFingerprint": "31_sevilla_osasuna_Mon 26-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:07.894Z",
-        "auditHash": "SHA256-IMMUTABLE-605E7B94-2026-11-03",
+        "lockedAt": "2026-11-03T19:35:47.980Z",
+        "auditHash": "SHA256-IMMUTABLE-5D69DC86-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -940,8 +1150,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 73,
         "matchFingerprint": "31_barcelona_real madrid_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:07.894Z",
-        "auditHash": "SHA256-IMMUTABLE-70BC1E9A-2026-11-03",
+        "lockedAt": "2026-11-03T19:35:47.980Z",
+        "auditHash": "SHA256-IMMUTABLE-2E8476B4-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -988,8 +1198,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "31_real sociedad_levante_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:07.894Z",
-        "auditHash": "SHA256-IMMUTABLE-17B6071E-2026-11-03",
+        "lockedAt": "2026-11-03T19:35:47.981Z",
+        "auditHash": "SHA256-IMMUTABLE-59EDAEE5-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -1036,8 +1246,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "31_celta de vigo_real betis_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:07.894Z",
-        "auditHash": "SHA256-IMMUTABLE-495702F9-2026-11-03",
+        "lockedAt": "2026-11-03T19:35:47.981Z",
+        "auditHash": "SHA256-IMMUTABLE-74715540-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -1084,8 +1294,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "31_athletic bilbao_getafe_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:07:07.894Z",
-        "auditHash": "SHA256-IMMUTABLE-71CD0E5C-2026-11-03",
+        "lockedAt": "2026-11-03T19:35:47.981Z",
+        "auditHash": "SHA256-IMMUTABLE-4BFB49DD-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
