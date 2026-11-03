@@ -1,7 +1,7 @@
 {
   "leagueId": "34",
   "leagueName": "Ligue 1",
-  "timestamp": "2026-11-03T12:46:49.501Z",
+  "timestamp": "2026-11-03T13:56:04.256Z",
   "fixtures": [
     {
       "id": "fix_34_1_Toulouse",
@@ -564,8 +564,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "34_lorient_brest_Mon 02-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:49.499Z",
-        "auditHash": "SHA256-IMMUTABLE-7F0C13F-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:04.255Z",
+        "auditHash": "SHA256-IMMUTABLE-17E834E2-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -612,8 +612,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 76,
         "matchFingerprint": "34_marseille_toulouse_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:49.500Z",
-        "auditHash": "SHA256-IMMUTABLE-18880B40-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:04.256Z",
+        "auditHash": "SHA256-IMMUTABLE-7509981-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -660,8 +660,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 54,
         "matchFingerprint": "34_olympique lyonnais_angers_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:49.500Z",
-        "auditHash": "SHA256-IMMUTABLE-2DA56124-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:04.256Z",
+        "auditHash": "SHA256-IMMUTABLE-4D7E05E5-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -708,8 +708,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "34_paris fc_monaco_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:49.500Z",
-        "auditHash": "SHA256-IMMUTABLE-8814B54-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:04.256Z",
+        "auditHash": "SHA256-IMMUTABLE-1757596D-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -756,8 +756,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 72,
         "matchFingerprint": "34_strasbourg_auxerre_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:49.500Z",
-        "auditHash": "SHA256-IMMUTABLE-63D9BF5D-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:04.256Z",
+        "auditHash": "SHA256-IMMUTABLE-7C4D9BE2-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -804,8 +804,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "34_troyes_le mans_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:49.500Z",
-        "auditHash": "SHA256-IMMUTABLE-6393B1F3-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:04.256Z",
+        "auditHash": "SHA256-IMMUTABLE-7C93A94C-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -852,8 +852,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "34_lille_lens_Fri 30-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:49.500Z",
-        "auditHash": "SHA256-IMMUTABLE-6FEAB723-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:04.256Z",
+        "auditHash": "SHA256-IMMUTABLE-50121262-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -900,8 +900,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 50,
         "matchFingerprint": "34_le havre_paris saint germain_Fri 30-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:49.500Z",
-        "auditHash": "SHA256-IMMUTABLE-7B11EA08-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:04.256Z",
+        "auditHash": "SHA256-IMMUTABLE-5B394547-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -948,8 +948,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 71,
         "matchFingerprint": "34_nice_rennes_Fri 30-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:49.500Z",
-        "auditHash": "SHA256-IMMUTABLE-73E878F-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:04.256Z",
+        "auditHash": "SHA256-IMMUTABLE-27172C50-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -996,8 +996,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "34_paris saint germain_olympique lyonnais_Mon 26-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:49.500Z",
-        "auditHash": "SHA256-IMMUTABLE-1C4C926A-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:04.256Z",
+        "auditHash": "SHA256-IMMUTABLE-3C25372B-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -1044,8 +1044,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 84,
         "matchFingerprint": "34_angers_lorient_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:49.500Z",
-        "auditHash": "SHA256-IMMUTABLE-7E3A1143-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:04.256Z",
+        "auditHash": "SHA256-IMMUTABLE-61ED49FC-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -1092,8 +1092,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "34_auxerre_le mans_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:49.500Z",
-        "auditHash": "SHA256-IMMUTABLE-29A7D73D-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:04.256Z",
+        "auditHash": "SHA256-IMMUTABLE-49807BFE-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -1140,8 +1140,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 67,
         "matchFingerprint": "34_marseille_le havre_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:49.500Z",
-        "auditHash": "SHA256-IMMUTABLE-46AC9276-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:04.256Z",
+        "auditHash": "SHA256-IMMUTABLE-26D3EDB5-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -1188,8 +1188,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 66,
         "matchFingerprint": "34_rennes_strasbourg_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:49.500Z",
-        "auditHash": "SHA256-IMMUTABLE-6B99B65E-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:04.256Z",
+        "auditHash": "SHA256-IMMUTABLE-4BC1119D-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -1236,8 +1236,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 80,
         "matchFingerprint": "34_toulouse_troyes_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:49.500Z",
-        "auditHash": "SHA256-IMMUTABLE-1B82B71B-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:04.256Z",
+        "auditHash": "SHA256-IMMUTABLE-455EDA6-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {

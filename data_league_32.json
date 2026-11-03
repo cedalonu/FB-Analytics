@@ -1,7 +1,7 @@
 {
   "leagueId": "32",
   "leagueName": "Bundesliga",
-  "timestamp": "2026-11-03T12:46:48.815Z",
+  "timestamp": "2026-11-03T13:56:01.611Z",
   "fixtures": [
     {
       "id": "fix_32_1_Hamburger",
@@ -564,8 +564,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "32_eintracht frankfurt_hamburger_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:48.814Z",
-        "auditHash": "SHA256-IMMUTABLE-5D1D0543-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:01.610Z",
+        "auditHash": "SHA256-IMMUTABLE-798C592A-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -612,8 +612,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "32_union berlin_fc koln_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:48.814Z",
-        "auditHash": "SHA256-IMMUTABLE-54DE75B3-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:01.610Z",
+        "auditHash": "SHA256-IMMUTABLE-386F21CC-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -660,8 +660,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 59,
         "matchFingerprint": "32_bayern munich_borussia dortmund_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:48.814Z",
-        "auditHash": "SHA256-IMMUTABLE-13024457-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:01.611Z",
+        "auditHash": "SHA256-IMMUTABLE-2F71985D-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -708,8 +708,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "32_augsburg_freiburg_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:48.814Z",
-        "auditHash": "SHA256-IMMUTABLE-6EA4C2C9-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:01.611Z",
+        "auditHash": "SHA256-IMMUTABLE-52356EC3-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -756,8 +756,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "32_borussia monchengladbach_sc paderborn 07_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:48.814Z",
-        "auditHash": "SHA256-IMMUTABLE-26386AED-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:01.611Z",
+        "auditHash": "SHA256-IMMUTABLE-9C916E7-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -804,8 +804,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 68,
         "matchFingerprint": "32_leverkusen_vfb stuttgart_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:48.814Z",
-        "auditHash": "SHA256-IMMUTABLE-1CDB78A5-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:01.611Z",
+        "auditHash": "SHA256-IMMUTABLE-6C249F-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -852,8 +852,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 79,
         "matchFingerprint": "32_schalke_rb leipzig_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:48.814Z",
-        "auditHash": "SHA256-IMMUTABLE-4C90BBF7-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:01.611Z",
+        "auditHash": "SHA256-IMMUTABLE-69000FFD-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -900,8 +900,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 63,
         "matchFingerprint": "32_werder bremen_hoffenheim_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:48.814Z",
-        "auditHash": "SHA256-IMMUTABLE-2199D82E-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:01.611Z",
+        "auditHash": "SHA256-IMMUTABLE-3E092C34-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -948,8 +948,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 81,
         "matchFingerprint": "32_elversberg_mainz_Fri 30-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:48.814Z",
-        "auditHash": "SHA256-IMMUTABLE-4C5836FF-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:01.611Z",
+        "auditHash": "SHA256-IMMUTABLE-2FE8E2F9-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -996,8 +996,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "32_freiburg_bayern munich_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:48.814Z",
-        "auditHash": "SHA256-IMMUTABLE-12252F4F-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:01.611Z",
+        "auditHash": "SHA256-IMMUTABLE-A4A24B7-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -1044,8 +1044,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 83,
         "matchFingerprint": "32_hoffenheim_leverkusen_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:48.814Z",
-        "auditHash": "SHA256-IMMUTABLE-47B9D94D-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:01.611Z",
+        "auditHash": "SHA256-IMMUTABLE-2B4A8547-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -1092,8 +1092,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 53,
         "matchFingerprint": "32_borussia dortmund_eintracht frankfurt_Sat 24-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:48.815Z",
-        "auditHash": "SHA256-IMMUTABLE-57D4385E-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:01.611Z",
+        "auditHash": "SHA256-IMMUTABLE-3B64E477-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -1140,8 +1140,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 52,
         "matchFingerprint": "32_augsburg_union berlin_Sat 24-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:48.815Z",
-        "auditHash": "SHA256-IMMUTABLE-5AE695B0-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:01.611Z",
+        "auditHash": "SHA256-IMMUTABLE-3E7741C9-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -1188,8 +1188,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "32_fc koln_schalke_Sat 24-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:48.815Z",
-        "auditHash": "SHA256-IMMUTABLE-1005243D-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:01.611Z",
+        "auditHash": "SHA256-IMMUTABLE-2C747824-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
@@ -1236,8 +1236,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 76,
         "matchFingerprint": "32_mainz_werder bremen_Sat 24-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-03T12:46:48.815Z",
-        "auditHash": "SHA256-IMMUTABLE-56B3882D-2026-11-03",
+        "lockedAt": "2026-11-03T13:56:01.611Z",
+        "auditHash": "SHA256-IMMUTABLE-7322DC14-2026-11-03",
         "isImmutable": true
       },
       "evaluation": {
