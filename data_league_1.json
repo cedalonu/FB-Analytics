@@ -1,7 +1,7 @@
 {
   "leagueId": "1",
   "leagueName": "Premier League",
-  "timestamp": "2026-11-05T14:24:35.351Z",
+  "timestamp": "2026-11-06T14:00:06.819Z",
   "fixtures": [
     {
       "id": "fix_1_1_Everton",
@@ -9,13 +9,13 @@
       "leagueName": "Premier League",
       "dateRaw": "Fri 06/11",
       "dateIso": "2026-11-06T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "20:00",
       "homeTeam": "Everton",
       "awayTeam": "Coventry",
       "odds": {
-        "home": 1.75,
-        "draw": 4.16,
+        "home": 1.74,
+        "draw": 4.22,
         "away": 4.93
       },
       "prediction": {
@@ -67,14 +67,14 @@
       "leagueName": "Premier League",
       "dateRaw": "Sat 07/11",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "12:30",
       "homeTeam": "Leeds",
       "awayTeam": "Tottenham",
       "odds": {
-        "home": 2.68,
+        "home": 2.78,
         "draw": 3.57,
-        "away": 2.76
+        "away": 2.66
       },
       "prediction": {
         "homeExpectedGoals": 1.1,
@@ -125,14 +125,14 @@
       "leagueName": "Premier League",
       "dateRaw": "Sat 07/11",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Arsenal",
       "awayTeam": "Hull",
       "odds": {
-        "home": 1.18,
-        "draw": 8.4,
-        "away": 19
+        "home": 1.2,
+        "draw": 7.95,
+        "away": 18.5
       },
       "prediction": {
         "homeExpectedGoals": 3.25,
@@ -183,7 +183,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Sat 07/11",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Fulham",
       "awayTeam": "Newcastle",
@@ -241,14 +241,14 @@
       "leagueName": "Premier League",
       "dateRaw": "Sat 07/11",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:30",
       "homeTeam": "Nottingham Forest",
       "awayTeam": "Man City",
       "odds": {
-        "home": 4.58,
-        "draw": 4.26,
-        "away": 1.78
+        "home": 4.88,
+        "draw": 4.32,
+        "away": 1.73
       },
       "prediction": {
         "homeExpectedGoals": 0.25,
@@ -299,7 +299,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Sun 08/11",
       "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "14:00",
       "homeTeam": "Brighton",
       "awayTeam": "Brentford",
@@ -357,14 +357,14 @@
       "leagueName": "Premier League",
       "dateRaw": "Sun 08/11",
       "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "14:00",
       "homeTeam": "Crystal Palace",
       "awayTeam": "Liverpool",
       "odds": {
-        "home": 5.18,
-        "draw": 4.57,
-        "away": 1.66
+        "home": 5.44,
+        "draw": 4.62,
+        "away": 1.62
       },
       "prediction": {
         "homeExpectedGoals": 0.62,
@@ -415,7 +415,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Sun 08/11",
       "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "14:00",
       "homeTeam": "Ipswich",
       "awayTeam": "Bournemouth",
@@ -473,14 +473,14 @@
       "leagueName": "Premier League",
       "dateRaw": "Sun 08/11",
       "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "14:00",
       "homeTeam": "Sunderland",
       "awayTeam": "Chelsea",
       "odds": {
-        "home": 3.72,
-        "draw": 3.82,
-        "away": 2.06
+        "home": 3.9,
+        "draw": 3.88,
+        "away": 1.99
       },
       "prediction": {
         "homeExpectedGoals": 0.25,
@@ -531,7 +531,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Sun 08/11",
       "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "16:30",
       "homeTeam": "Man Utd",
       "awayTeam": "Aston Villa",
@@ -591,7 +591,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Mon 02-Nov-2026",
       "dateIso": "2026-11-02T12:00:00.000Z",
-      "daysAgo": 3,
+      "daysAgo": 4,
       "time": "20:00",
       "homeTeam": "Newcastle",
       "awayTeam": "Everton",
@@ -622,8 +622,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "1_newcastle_everton_Mon 02-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-05T14:24:35.349Z",
-        "auditHash": "SHA256-IMMUTABLE-3CCF3AE1-2026-11-05",
+        "lockedAt": "2026-11-06T14:00:06.816Z",
+        "auditHash": "SHA256-IMMUTABLE-466BF235-2026-11-06",
         "isImmutable": true
       },
       "evaluation": {
@@ -639,7 +639,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Sun 01-Nov-2026",
       "dateIso": "2026-11-01T12:00:00.000Z",
-      "daysAgo": 4,
+      "daysAgo": 5,
       "time": "16:30",
       "homeTeam": "Liverpool",
       "awayTeam": "Arsenal",
@@ -670,8 +670,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 53,
         "matchFingerprint": "1_liverpool_arsenal_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-05T14:24:35.349Z",
-        "auditHash": "SHA256-IMMUTABLE-138B89E8-2026-11-05",
+        "lockedAt": "2026-11-06T14:00:06.816Z",
+        "auditHash": "SHA256-IMMUTABLE-69394902-2026-11-06",
         "isImmutable": true
       },
       "evaluation": {
@@ -687,7 +687,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Sat 31-Oct-2026",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 5,
+      "daysAgo": 6,
       "time": "20:00",
       "homeTeam": "Aston Villa",
       "awayTeam": "Fulham",
@@ -718,8 +718,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 63,
         "matchFingerprint": "1_aston villa_fulham_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-05T14:24:35.350Z",
-        "auditHash": "SHA256-IMMUTABLE-1487E487-2026-11-05",
+        "lockedAt": "2026-11-06T14:00:06.816Z",
+        "auditHash": "SHA256-IMMUTABLE-683CF10D-2026-11-06",
         "isImmutable": true
       },
       "evaluation": {
@@ -735,7 +735,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Sat 31-Oct-2026",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 5,
+      "daysAgo": 6,
       "time": "17:30",
       "homeTeam": "Tottenham",
       "awayTeam": "Crystal Palace",
@@ -766,8 +766,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "1_tottenham_crystal palace_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-05T14:24:35.350Z",
-        "auditHash": "SHA256-IMMUTABLE-78A88965-2026-11-05",
+        "lockedAt": "2026-11-06T14:00:06.816Z",
+        "auditHash": "SHA256-IMMUTABLE-41C4C2F-2026-11-06",
         "isImmutable": true
       },
       "evaluation": {
@@ -783,7 +783,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Sat 31-Oct-2026",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 5,
+      "daysAgo": 6,
       "time": "15:00",
       "homeTeam": "Bournemouth",
       "awayTeam": "Leeds",
@@ -814,8 +814,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 61,
         "matchFingerprint": "1_bournemouth_leeds_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-05T14:24:35.350Z",
-        "auditHash": "SHA256-IMMUTABLE-6B5AA90C-2026-11-05",
+        "lockedAt": "2026-11-06T14:00:06.817Z",
+        "auditHash": "SHA256-IMMUTABLE-116A2C69-2026-11-06",
         "isImmutable": true
       },
       "evaluation": {
@@ -831,7 +831,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Sat 31-Oct-2026",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 5,
+      "daysAgo": 6,
       "time": "15:00",
       "homeTeam": "Brentford",
       "awayTeam": "Nottingham Forest",
@@ -862,8 +862,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 48,
         "matchFingerprint": "1_brentford_nottingham forest_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-05T14:24:35.350Z",
-        "auditHash": "SHA256-IMMUTABLE-6D34A3A6-2026-11-05",
+        "lockedAt": "2026-11-06T14:00:06.817Z",
+        "auditHash": "SHA256-IMMUTABLE-160686E5-2026-11-06",
         "isImmutable": true
       },
       "evaluation": {
@@ -879,7 +879,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Sat 31-Oct-2026",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 5,
+      "daysAgo": 6,
       "time": "15:00",
       "homeTeam": "Coventry",
       "awayTeam": "Sunderland",
@@ -910,8 +910,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 63,
         "matchFingerprint": "1_coventry_sunderland_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-05T14:24:35.350Z",
-        "auditHash": "SHA256-IMMUTABLE-461DFC61-2026-11-05",
+        "lockedAt": "2026-11-06T14:00:06.817Z",
+        "auditHash": "SHA256-IMMUTABLE-3D1D2E2A-2026-11-06",
         "isImmutable": true
       },
       "evaluation": {
@@ -927,7 +927,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Sat 31-Oct-2026",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 5,
+      "daysAgo": 6,
       "time": "15:00",
       "homeTeam": "Hull",
       "awayTeam": "Ipswich",
@@ -958,8 +958,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 54,
         "matchFingerprint": "1_hull_ipswich_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-05T14:24:35.350Z",
-        "auditHash": "SHA256-IMMUTABLE-765A626E-2026-11-05",
+        "lockedAt": "2026-11-06T14:00:06.817Z",
+        "auditHash": "SHA256-IMMUTABLE-CE0C81D-2026-11-06",
         "isImmutable": true
       },
       "evaluation": {
@@ -975,7 +975,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Sat 31-Oct-2026",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 5,
+      "daysAgo": 6,
       "time": "15:00",
       "homeTeam": "Man City",
       "awayTeam": "Brighton",
@@ -1006,8 +1006,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 73,
         "matchFingerprint": "1_man city_brighton_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-05T14:24:35.350Z",
-        "auditHash": "SHA256-IMMUTABLE-1E1C1FC8-2026-11-05",
+        "lockedAt": "2026-11-06T14:00:06.817Z",
+        "auditHash": "SHA256-IMMUTABLE-5EA8B5AD-2026-11-06",
         "isImmutable": true
       },
       "evaluation": {
@@ -1023,7 +1023,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Sat 31-Oct-2026",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 5,
+      "daysAgo": 6,
       "time": "12:30",
       "homeTeam": "Chelsea",
       "awayTeam": "Man Utd",
@@ -1054,8 +1054,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 63,
         "matchFingerprint": "1_chelsea_man utd_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-05T14:24:35.350Z",
-        "auditHash": "SHA256-IMMUTABLE-76606161-2026-11-05",
+        "lockedAt": "2026-11-06T14:00:06.817Z",
+        "auditHash": "SHA256-IMMUTABLE-CDAC92A-2026-11-06",
         "isImmutable": true
       },
       "evaluation": {
@@ -1071,7 +1071,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Sun 25-Oct-2026",
       "dateIso": "2026-10-25T12:00:00.000Z",
-      "daysAgo": 11,
+      "daysAgo": 12,
       "time": "16:30",
       "homeTeam": "Sunderland",
       "awayTeam": "Leeds",
@@ -1102,8 +1102,8 @@
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 90,
         "matchFingerprint": "1_sunderland_leeds_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-05T14:24:35.350Z",
-        "auditHash": "SHA256-IMMUTABLE-5FE3C868-2026-11-05",
+        "lockedAt": "2026-11-06T14:00:06.817Z",
+        "auditHash": "SHA256-IMMUTABLE-23576223-2026-11-06",
         "isImmutable": true
       },
       "evaluation": {
@@ -1119,7 +1119,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Sun 25-Oct-2026",
       "dateIso": "2026-10-25T12:00:00.000Z",
-      "daysAgo": 11,
+      "daysAgo": 12,
       "time": "14:00",
       "homeTeam": "Crystal Palace",
       "awayTeam": "Newcastle",
@@ -1150,8 +1150,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 75,
         "matchFingerprint": "1_crystal palace_newcastle_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-05T14:24:35.350Z",
-        "auditHash": "SHA256-IMMUTABLE-7327742E-2026-11-05",
+        "lockedAt": "2026-11-06T14:00:06.818Z",
+        "auditHash": "SHA256-IMMUTABLE-1013B67C-2026-11-06",
         "isImmutable": true
       },
       "evaluation": {
@@ -1167,7 +1167,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Sun 25-Oct-2026",
       "dateIso": "2026-10-25T12:00:00.000Z",
-      "daysAgo": 11,
+      "daysAgo": 12,
       "time": "14:00",
       "homeTeam": "Hull",
       "awayTeam": "Brentford",
@@ -1198,8 +1198,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "1_hull_brentford_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-05T14:24:35.350Z",
-        "auditHash": "SHA256-IMMUTABLE-4030EE38-2026-11-05",
+        "lockedAt": "2026-11-06T14:00:06.818Z",
+        "auditHash": "SHA256-IMMUTABLE-3C93E71E-2026-11-06",
         "isImmutable": true
       },
       "evaluation": {
@@ -1215,7 +1215,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Sun 25-Oct-2026",
       "dateIso": "2026-10-25T12:00:00.000Z",
-      "daysAgo": 11,
+      "daysAgo": 12,
       "time": "14:00",
       "homeTeam": "Liverpool",
       "awayTeam": "Brighton",
@@ -1246,8 +1246,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 45,
         "matchFingerprint": "1_liverpool_brighton_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-05T14:24:35.350Z",
-        "auditHash": "SHA256-IMMUTABLE-912A7C6-2026-11-05",
+        "lockedAt": "2026-11-06T14:00:06.818Z",
+        "auditHash": "SHA256-IMMUTABLE-7A2882E4-2026-11-06",
         "isImmutable": true
       },
       "evaluation": {
@@ -1263,7 +1263,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Sun 25-Oct-2026",
       "dateIso": "2026-10-25T12:00:00.000Z",
-      "daysAgo": 11,
+      "daysAgo": 12,
       "time": "14:00",
       "homeTeam": "Man Utd",
       "awayTeam": "Bournemouth",
@@ -1294,8 +1294,8 @@
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 74,
         "matchFingerprint": "1_man utd_bournemouth_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-05T14:24:35.351Z",
-        "auditHash": "SHA256-IMMUTABLE-1A847098-2026-11-05",
+        "lockedAt": "2026-11-06T14:00:06.818Z",
+        "auditHash": "SHA256-IMMUTABLE-68B6B9F3-2026-11-06",
         "isImmutable": true
       },
       "evaluation": {
