@@ -1,0 +1,458 @@
+{
+  "leagueId": "369",
+  "leagueName": "Copa Colombia",
+  "timestamp": "2026-11-07T13:32:40.928Z",
+  "fixtures": [
+    {
+      "id": "fix_369_1_InterBogota",
+      "leagueId": "369",
+      "leagueName": "Copa Colombia",
+      "dateRaw": "Tue 10/11",
+      "dateIso": "2026-11-10T12:00:00.000Z",
+      "daysFromNow": 3,
+      "time": "23:30",
+      "homeTeam": "Inter Bogota",
+      "awayTeam": "America de Cali",
+      "odds": {
+        "home": 3.1,
+        "draw": 3.25,
+        "away": 2.3
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        }
+      },
+      "confidenceScore": 57
+    },
+    {
+      "id": "fix_369_2_OnceCaldas",
+      "leagueId": "369",
+      "leagueName": "Copa Colombia",
+      "dateRaw": "Wed 11/11",
+      "dateIso": "2026-11-11T12:00:00.000Z",
+      "daysFromNow": 4,
+      "time": "01:30",
+      "homeTeam": "Once Caldas",
+      "awayTeam": "Atletico Nacional",
+      "odds": {
+        "home": 2.72,
+        "draw": 3.25,
+        "away": 2.52
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        }
+      },
+      "confidenceScore": 57
+    }
+  ],
+  "results": [
+    {
+      "id": "res_369_1_SantaFe",
+      "leagueId": "369",
+      "leagueName": "Copa Colombia",
+      "dateRaw": "Mon 02-Nov-2026",
+      "dateIso": "2026-11-02T12:00:00.000Z",
+      "daysAgo": 5,
+      "time": "01:15",
+      "homeTeam": "Santa Fe",
+      "awayTeam": "Once Caldas",
+      "score": "0-2",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "totalGoals": 2,
+      "actualBtts": false,
+      "actualOver25": false,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "369_santa fe_once caldas_Mon 02-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:40.928Z",
+        "auditHash": "SHA256-IMMUTABLE-2D9CBC61-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": false,
+        "overUnderHit": false,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_369_2_Barranquilla",
+      "leagueId": "369",
+      "leagueName": "Copa Colombia",
+      "dateRaw": "Thu 22-Oct-2026",
+      "dateIso": "2026-10-22T12:00:00.000Z",
+      "daysAgo": 16,
+      "time": "01:30",
+      "homeTeam": "Barranquilla",
+      "awayTeam": "America de Cali",
+      "score": "0-4",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "totalGoals": 4,
+      "actualBtts": false,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "369_barranquilla_america de cali_Thu 22-Oct_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:40.928Z",
+        "auditHash": "SHA256-IMMUTABLE-FCD095C-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": false,
+        "overUnderHit": true,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_369_3_InterBogota",
+      "leagueId": "369",
+      "leagueName": "Copa Colombia",
+      "dateRaw": "Fri 16-Oct-2026",
+      "dateIso": "2026-10-16T12:00:00.000Z",
+      "daysAgo": 22,
+      "time": "00:00",
+      "homeTeam": "Inter Bogota",
+      "awayTeam": "Llaneros",
+      "score": "4-1",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "totalGoals": 5,
+      "actualBtts": true,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "369_inter bogota_llaneros_Fri 16-Oct_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:40.928Z",
+        "auditHash": "SHA256-IMMUTABLE-7BEBB971-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": true,
+        "bothHit": true,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_369_4_AtleticoNacional",
+      "leagueId": "369",
+      "leagueName": "Copa Colombia",
+      "dateRaw": "Thu 15-Oct-2026",
+      "dateIso": "2026-10-15T12:00:00.000Z",
+      "daysAgo": 23,
+      "time": "02:30",
+      "homeTeam": "Atletico Nacional",
+      "awayTeam": "Independiente Medellin",
+      "score": "3-2",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "totalGoals": 5,
+      "actualBtts": true,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "369_atletico nacional_independiente medellin_Thu 15-Oct_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:40.928Z",
+        "auditHash": "SHA256-IMMUTABLE-2B4BA69C-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": true,
+        "bothHit": true,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_369_5_SantaFe",
+      "leagueId": "369",
+      "leagueName": "Copa Colombia",
+      "dateRaw": "Sun 11-Oct-2026",
+      "dateIso": "2026-10-11T12:00:00.000Z",
+      "daysAgo": 27,
+      "time": "20:00",
+      "homeTeam": "Santa Fe",
+      "awayTeam": "Fortaleza FC",
+      "score": "2-2",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "totalGoals": 4,
+      "actualBtts": true,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "369_santa fe_fortaleza fc_Sun 11-Oct_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:40.928Z",
+        "auditHash": "SHA256-IMMUTABLE-70108B60-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": true,
+        "bothHit": true,
+        "exactScoreHit": false
+      }
+    }
+  ],
+  "teams": {},
+  "backtest": {
+    "totalMatches": 5,
+    "bttsEvaluated": 5,
+    "bttsHits": 3,
+    "bttsAccuracy": 60,
+    "overUnderEvaluated": 5,
+    "overUnderHits": 4,
+    "overUnderAccuracy": 80,
+    "overallAccuracy": 70,
+    "exactScoreHits": 0,
+    "exactScoreAccuracy": 0,
+    "confusionMatrix": {
+      "btts": {
+        "predictedYesActualYes": 3,
+        "predictedYesActualNo": 2,
+        "predictedNoActualYes": 0,
+        "predictedNoActualNo": 0
+      },
+      "overUnder": {
+        "predictedOverActualOver": 4,
+        "predictedOverActualUnder": 1,
+        "predictedUnderActualOver": 0,
+        "predictedUnderActualUnder": 0
+      }
+    },
+    "logLoss": 0.6595,
+    "brierScore": 0.2332,
+    "simulatedRoi": 33.7
+  },
+  "parameters": {
+    "homeAdvantage": 1.18,
+    "extendedStatsWeight": 0.35,
+    "formWeight": 0.2,
+    "bttsThreshold": 0.5,
+    "over25Threshold": 0.5
+  }
+}

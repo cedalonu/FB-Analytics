@@ -33,9 +33,13 @@ export const ScreenerView: React.FC = () => {
 
   useEffect(() => {
     setIsLoading(true);
+    const baseUrl = import.meta.env.BASE_URL || '/';
+    const base = baseUrl.endsWith('/') ? baseUrl : baseUrl + '/';
+
     if (mode === 'fixtures') {
-      fetch('/api/screener?daysAhead=7')
+      fetch(`${base}screener.json?t=${Date.now()}`)
         .then(async (r) => {
+          if (!r.ok) throw new Error('Not static');
           const text = await r.text();
           if (text.trim().toLowerCase().startsWith('<!doctype') || text.trim().toLowerCase().startsWith('<html') || !text.trim().startsWith('{')) {
             throw new Error('Not JSON');
@@ -50,10 +54,20 @@ export const ScreenerView: React.FC = () => {
           }
         })
         .catch(async () => {
+          // Fallback to API
           try {
-            const leagueIds = ['1', '31', '32', '33', '34'];
-            const baseUrl = import.meta.env.BASE_URL || '/';
-            const base = baseUrl.endsWith('/') ? baseUrl : baseUrl + '/';
+            const apiResp = await fetch('/api/screener?daysAhead=7');
+            const apiText = await apiResp.text();
+            const apiJson = JSON.parse(apiText);
+            if (apiJson.success && Array.isArray(apiJson.fixtures)) {
+              setFixtures(apiJson.fixtures);
+              return;
+            }
+          } catch {}
+
+          // Final fallback to individual league files
+          try {
+            const leagueIds = ['1', '2', '3', '4', '31', '32', '33', '34', '10', '17', '18', '30'];
             const allFixtures: ScreenerFixture[] = [];
             for (const lid of leagueIds) {
               try {
@@ -79,8 +93,9 @@ export const ScreenerView: React.FC = () => {
         })
         .finally(() => setIsLoading(false));
     } else {
-      fetch('/api/screener-results?daysBehind=14')
+      fetch(`${base}screener-results.json?t=${Date.now()}`)
         .then(async (r) => {
+          if (!r.ok) throw new Error('Not static');
           const text = await r.text();
           if (text.trim().toLowerCase().startsWith('<!doctype') || text.trim().toLowerCase().startsWith('<html') || !text.trim().startsWith('{')) {
             throw new Error('Not JSON');
@@ -95,10 +110,20 @@ export const ScreenerView: React.FC = () => {
           }
         })
         .catch(async () => {
+          // Fallback to API
           try {
-            const leagueIds = ['1', '31', '32', '33', '34'];
-            const baseUrl = import.meta.env.BASE_URL || '/';
-            const base = baseUrl.endsWith('/') ? baseUrl : baseUrl + '/';
+            const apiResp = await fetch('/api/screener-results?daysBehind=14');
+            const apiText = await apiResp.text();
+            const apiJson = JSON.parse(apiText);
+            if (apiJson.success && Array.isArray(apiJson.results)) {
+              setResults(apiJson.results);
+              return;
+            }
+          } catch {}
+
+          // Final fallback to individual league files
+          try {
+            const leagueIds = ['1', '2', '3', '4', '31', '32', '33', '34', '10', '17', '18', '30'];
             const allResults: FinishedMatch[] = [];
             for (const lid of leagueIds) {
               try {

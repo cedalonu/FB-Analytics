@@ -1,0 +1,99 @@
+{
+  "leagueId": "172",
+  "leagueName": "China FA Cup",
+  "timestamp": "2026-11-07T13:32:44.275Z",
+  "fixtures": [],
+  "results": [
+    {
+      "id": "res_172_1_YunnanYukun",
+      "leagueId": "172",
+      "leagueName": "China FA Cup",
+      "dateRaw": "Sun 01-Nov-2026",
+      "dateIso": "2026-11-01T12:00:00.000Z",
+      "daysAgo": 6,
+      "time": "11:35",
+      "homeTeam": "Yunnan Yukun",
+      "awayTeam": "Dalian Zhixing",
+      "score": "4-3",
+      "homeGoals": 4,
+      "awayGoals": 3,
+      "totalGoals": 7,
+      "actualBtts": true,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "172_yunnan yukun_dalian zhixing_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:44.275Z",
+        "auditHash": "SHA256-IMMUTABLE-28025791-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": true,
+        "bothHit": true,
+        "exactScoreHit": false
+      }
+    }
+  ],
+  "teams": {},
+  "backtest": {
+    "totalMatches": 1,
+    "bttsEvaluated": 1,
+    "bttsHits": 1,
+    "bttsAccuracy": 100,
+    "overUnderEvaluated": 1,
+    "overUnderHits": 1,
+    "overUnderAccuracy": 100,
+    "overallAccuracy": 100,
+    "exactScoreHits": 0,
+    "exactScoreAccuracy": 0,
+    "confusionMatrix": {
+      "btts": {
+        "predictedYesActualYes": 1,
+        "predictedYesActualNo": 0,
+        "predictedNoActualYes": 0,
+        "predictedNoActualNo": 0
+      },
+      "overUnder": {
+        "predictedOverActualOver": 1,
+        "predictedOverActualUnder": 0,
+        "predictedUnderActualOver": 0,
+        "predictedUnderActualUnder": 0
+      }
+    },
+    "logLoss": 0.5883,
+    "brierScore": 0.1978,
+    "simulatedRoi": 91
+  },
+  "parameters": {
+    "homeAdvantage": 1.18,
+    "extendedStatsWeight": 0.35,
+    "formWeight": 0.2,
+    "bttsThreshold": 0.5,
+    "over25Threshold": 0.5
+  }
+}

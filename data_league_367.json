@@ -1,0 +1,296 @@
+{
+  "leagueId": "367",
+  "leagueName": "Copa Do Brasil",
+  "timestamp": "2026-11-07T13:32:38.513Z",
+  "fixtures": [
+    {
+      "id": "fix_367_1_AtleticoMG",
+      "leagueId": "367",
+      "leagueName": "Copa Do Brasil",
+      "dateRaw": "Sat 07/11",
+      "dateIso": "2026-11-07T12:00:00.000Z",
+      "daysFromNow": 0,
+      "time": "21:00",
+      "homeTeam": "Atletico MG",
+      "awayTeam": "Gremio",
+      "odds": {
+        "home": 1.62,
+        "draw": 4.1,
+        "away": 5.4
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        }
+      },
+      "confidenceScore": 57
+    },
+    {
+      "id": "fix_367_2_VascodaGama",
+      "leagueId": "367",
+      "leagueName": "Copa Do Brasil",
+      "dateRaw": "Sun 08/11",
+      "dateIso": "2026-11-08T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "20:00",
+      "homeTeam": "Vasco da Gama",
+      "awayTeam": "Palmeiras",
+      "odds": {
+        "home": 2.6,
+        "draw": 3.35,
+        "away": 2.75
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        }
+      },
+      "confidenceScore": 57
+    }
+  ],
+  "results": [
+    {
+      "id": "res_367_1_Gremio",
+      "leagueId": "367",
+      "leagueName": "Copa Do Brasil",
+      "dateRaw": "Sun 01-Nov-2026",
+      "dateIso": "2026-11-01T12:00:00.000Z",
+      "daysAgo": 6,
+      "time": "21:30",
+      "homeTeam": "Gremio",
+      "awayTeam": "Atletico MG",
+      "score": "2-0",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "totalGoals": 2,
+      "actualBtts": false,
+      "actualOver25": false,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "367_gremio_atletico mg_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:38.513Z",
+        "auditHash": "SHA256-IMMUTABLE-337225B0-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": false,
+        "overUnderHit": false,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_367_2_Palmeiras",
+      "leagueId": "367",
+      "leagueName": "Copa Do Brasil",
+      "dateRaw": "Sun 01-Nov-2026",
+      "dateIso": "2026-11-01T12:00:00.000Z",
+      "daysAgo": 6,
+      "time": "19:00",
+      "homeTeam": "Palmeiras",
+      "awayTeam": "Vasco da Gama",
+      "score": "1-0",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "totalGoals": 1,
+      "actualBtts": false,
+      "actualOver25": false,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "367_palmeiras_vasco da gama_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:38.513Z",
+        "auditHash": "SHA256-IMMUTABLE-704D1299-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": false,
+        "overUnderHit": false,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    }
+  ],
+  "teams": {},
+  "backtest": {
+    "totalMatches": 2,
+    "bttsEvaluated": 2,
+    "bttsHits": 0,
+    "bttsAccuracy": 0,
+    "overUnderEvaluated": 2,
+    "overUnderHits": 0,
+    "overUnderAccuracy": 0,
+    "overallAccuracy": 0,
+    "exactScoreHits": 0,
+    "exactScoreAccuracy": 0,
+    "confusionMatrix": {
+      "btts": {
+        "predictedYesActualYes": 0,
+        "predictedYesActualNo": 2,
+        "predictedNoActualYes": 0,
+        "predictedNoActualNo": 0
+      },
+      "overUnder": {
+        "predictedOverActualOver": 0,
+        "predictedOverActualUnder": 2,
+        "predictedUnderActualOver": 0,
+        "predictedUnderActualUnder": 0
+      }
+    },
+    "logLoss": 0.8109,
+    "brierScore": 0.3086,
+    "simulatedRoi": -100
+  },
+  "parameters": {
+    "homeAdvantage": 1.18,
+    "extendedStatsWeight": 0.35,
+    "formWeight": 0.2,
+    "bttsThreshold": 0.5,
+    "over25Threshold": 0.5
+  }
+}

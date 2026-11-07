@@ -2,34 +2,69 @@ import { getUpcomingFixtures, getFinishedResults, getLeagueTableAndStats } from 
 import { runBacktest, predictMatch, DEFAULT_PARAMETERS } from '../src/services/predictiveModel';
 import fs from 'fs';
 
-const LEAGUE_NAMES: Record<string, string> = {
-  '1': 'Premier League',
-  '31': 'La Liga',
-  '32': 'Bundesliga',
-  '33': 'Serie A',
-  '34': 'Ligue 1'
-};
-
 async function run() {
-  console.log('Iniciando actualización diaria de pronósticos...');
-  const leagues = ['1', '31', '33', '32', '34']; // EPL, LaLiga, SerieA, Bundesliga, Ligue1
-  for (const l of leagues) {
+  console.log('Iniciando actualización rápida de pronósticos y screener global (Ligas Principales)...');
+  
+  const majorLeagues = [
+    { id: '1', name: 'Premier League', group: 'England' },
+    { id: '2', name: 'Championship', group: 'England' },
+    { id: '3', name: 'League One', group: 'England' },
+    { id: '4', name: 'League Two', group: 'England' },
+    { id: '31', name: 'La Liga', group: 'Spain' },
+    { id: '32', name: 'Bundesliga', group: 'Germany' },
+    { id: '33', name: 'Serie A', group: 'Italy' },
+    { id: '34', name: 'Ligue 1', group: 'France' },
+    { id: '10', name: 'Scottish Premiership', group: 'Scotland' },
+    { id: '17', name: 'Champions League', group: 'UEFA' },
+    { id: '18', name: 'Europa League', group: 'UEFA' },
+    { id: '36', name: 'Eredivisie', group: 'Netherlands' },
+    { id: '37', name: 'Primeira Liga', group: 'Portugal' },
+    { id: '35', name: 'Belgian Pro League', group: 'Belgium' },
+    { id: '38', name: 'Swiss Super League', group: 'Switzerland' },
+    { id: '30', name: 'MLS', group: 'America' },
+    { id: '77', name: 'Liga MX', group: 'Mexico' },
+    { id: '78', name: 'Argentine Liga Profesional', group: 'Argentina' },
+    { id: '76', name: 'Brazil Serie A', group: 'Brazil' },
+    { id: '74', name: 'Australia A-League', group: 'Australia' },
+  ];
+
+  const allFixtures: any[] = [];
+  const allResults: any[] = [];
+
+  for (const l of majorLeagues) {
     try {
-      console.log(`Procesando liga ${l} (${LEAGUE_NAMES[l] || l})...`);
-      const teams = await getLeagueTableAndStats(l);
-      const fixtures = await getUpcomingFixtures(l, 7);
-      const results = await getFinishedResults(l, 30);
-      const backtest = runBacktest(results, teams);
-      const leagueName = LEAGUE_NAMES[l] || `Liga ${l}`;
+      console.log(`Procesando liga ${l.id} (${l.name})...`);
+      const teams = await getLeagueTableAndStats(l.id);
+      const fixtures = await getUpcomingFixtures(l.id, 7);
+      const results = await getFinishedResults(l.id, 30);
+      const backtest = runBacktest(results, teams, DEFAULT_PARAMETERS, l.id);
+      
       const preds = fixtures.map(f => {
-        const p = predictMatch(f.homeTeam, f.awayTeam, teams);
-        return { ...f, leagueName, prediction: p, pred: p };
+        const p = predictMatch(f.homeTeam, f.awayTeam, teams, DEFAULT_PARAMETERS);
+        const maxProb = Math.max(p.bttsProbability, p.bttsNoProbability, p.over25Probability, p.under25Probability);
+        const confidenceScore = Math.round(maxProb * 100);
+        return { 
+          ...f, 
+          leagueId: l.id,
+          leagueName: l.name, 
+          prediction: p, 
+          pred: p,
+          confidenceScore 
+        };
       });
-      const evaluatedResults = backtest.evaluatedMatches.map(r => ({ ...r, leagueName }));
+
+      const evaluatedResults = backtest.evaluatedMatches.map(r => ({ 
+        ...r, 
+        leagueId: l.id,
+        leagueName: l.name 
+      }));
+
+      allFixtures.push(...preds);
+      allResults.push(...evaluatedResults);
 
       const payload = {
-        leagueId: l,
-        leagueName,
+        leagueId: l.id,
+        leagueName: l.name,
         timestamp: new Date().toISOString(),
         fixtures: preds,
         results: evaluatedResults,
@@ -38,45 +73,44 @@ async function run() {
         parameters: DEFAULT_PARAMETERS
       };
 
-      fs.writeFileSync(`data_league_${l}.json`, JSON.stringify(payload, null, 2));
-      fs.writeFileSync(`public/data_league_${l}.json`, JSON.stringify(payload, null, 2));
-      console.log(`Liga ${l} actualizada correctamente.`);
+      fs.writeFileSync(`data_league_${l.id}.json`, JSON.stringify(payload, null, 2));
+      try {
+        if (!fs.existsSync('public')) fs.mkdirSync('public', { recursive: true });
+        fs.writeFileSync(`public/data_league_${l.id}.json`, JSON.stringify(payload, null, 2));
+      } catch {}
+
+      console.log(`Liga ${l.id} (${l.name}) actualizada correctamente.`);
     } catch (err) {
-      console.warn(`Aviso: No se pudo obtener datos en vivo para la liga ${l}, usando datos base/fallback:`, err);
-      const leagueName = LEAGUE_NAMES[l] || `Liga ${l}`;
-      const fallbackPayload = {
-        leagueId: l,
-        leagueName,
-        timestamp: new Date().toISOString(),
-        fixtures: [],
-        results: [],
-        teams: {},
-        backtest: {
-          totalMatches: 0,
-          bttsEvaluated: 0,
-          bttsHits: 0,
-          bttsAccuracy: 0,
-          overUnderEvaluated: 0,
-          overUnderHits: 0,
-          overUnderAccuracy: 0,
-          overallAccuracy: 0,
-          exactScoreHits: 0,
-          exactScoreAccuracy: 0,
-          confusionMatrix: {
-            btts: { predictedYesActualYes: 0, predictedYesActualNo: 0, predictedNoActualYes: 0, predictedNoActualNo: 0 },
-            overUnder: { predictedOverActualOver: 0, predictedOverActualUnder: 0, predictedUnderActualOver: 0, predictedUnderActualUnder: 0 }
-          },
-          logLoss: 0,
-          brierScore: 0,
-          simulatedRoi: 0
-        },
-        parameters: DEFAULT_PARAMETERS
-      };
-      fs.writeFileSync(`data_league_${l}.json`, JSON.stringify(fallbackPayload, null, 2));
-      fs.writeFileSync(`public/data_league_${l}.json`, JSON.stringify(fallbackPayload, null, 2));
+      console.warn(`Aviso: No se pudo obtener datos en vivo para la liga ${l.id} (${l.name}):`, err);
     }
   }
-  console.log('Pronósticos actualizados exitosamente.');
+
+  allFixtures.sort((a, b) => b.confidenceScore - a.confidenceScore);
+  allResults.sort((a, b) => a.daysAgo - b.daysAgo);
+
+  const screenerPayload = {
+    success: true,
+    count: allFixtures.length,
+    fixtures: allFixtures,
+    timestamp: new Date().toISOString()
+  };
+
+  const resultsPayload = {
+    success: true,
+    count: allResults.length,
+    results: allResults,
+    timestamp: new Date().toISOString()
+  };
+
+  fs.writeFileSync('screener.json', JSON.stringify(screenerPayload, null, 2));
+  fs.writeFileSync('screener-results.json', JSON.stringify(resultsPayload, null, 2));
+  try {
+    if (!fs.existsSync('public')) fs.mkdirSync('public', { recursive: true });
+    fs.writeFileSync('public/screener.json', JSON.stringify(screenerPayload, null, 2));
+    fs.writeFileSync('public/screener-results.json', JSON.stringify(resultsPayload, null, 2));
+  } catch {}
+
+  console.log(`Actualización rápida completa. Total partidos próximos: ${allFixtures.length}, Resultados backtest: ${allResults.length}`);
 }
 
 run().catch(err => {

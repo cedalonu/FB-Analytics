@@ -1,0 +1,44 @@
+{
+  "leagueId": "389",
+  "leagueName": "CONCACAF Champions Cup",
+  "timestamp": "2026-11-07T13:32:43.035Z",
+  "fixtures": [],
+  "results": [],
+  "teams": {},
+  "backtest": {
+    "totalMatches": 0,
+    "bttsEvaluated": 0,
+    "bttsHits": 0,
+    "bttsAccuracy": 0,
+    "overUnderEvaluated": 0,
+    "overUnderHits": 0,
+    "overUnderAccuracy": 0,
+    "overallAccuracy": 0,
+    "exactScoreHits": 0,
+    "exactScoreAccuracy": 0,
+    "confusionMatrix": {
+      "btts": {
+        "predictedYesActualYes": 0,
+        "predictedYesActualNo": 0,
+        "predictedNoActualYes": 0,
+        "predictedNoActualNo": 0
+      },
+      "overUnder": {
+        "predictedOverActualOver": 0,
+        "predictedOverActualUnder": 0,
+        "predictedUnderActualOver": 0,
+        "predictedUnderActualUnder": 0
+      }
+    },
+    "logLoss": 0,
+    "brierScore": 0,
+    "simulatedRoi": 0
+  },
+  "parameters": {
+    "homeAdvantage": 1.18,
+    "extendedStatsWeight": 0.35,
+    "formWeight": 0.2,
+    "bttsThreshold": 0.5,
+    "over25Threshold": 0.5
+  }
+}

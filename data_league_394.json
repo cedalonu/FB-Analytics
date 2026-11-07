@@ -1,0 +1,207 @@
+{
+  "leagueId": "394",
+  "leagueName": "Copa Chile",
+  "timestamp": "2026-11-07T13:32:39.481Z",
+  "fixtures": [],
+  "results": [
+    {
+      "id": "res_394_1_UniversidaddeChile",
+      "leagueId": "394",
+      "leagueName": "Copa Chile",
+      "dateRaw": "Thu 05-Nov-2026",
+      "dateIso": "2026-11-05T12:00:00.000Z",
+      "daysAgo": 2,
+      "time": "22:00",
+      "homeTeam": "Universidad de Chile",
+      "awayTeam": "Antofagasta",
+      "score": "4-0",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "totalGoals": 4,
+      "actualBtts": false,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "394_universidad de chile_antofagasta_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:39.480Z",
+        "auditHash": "SHA256-IMMUTABLE-3966EDAE-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": false,
+        "overUnderHit": true,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_394_2_UnionLaCalera",
+      "leagueId": "394",
+      "leagueName": "Copa Chile",
+      "dateRaw": "Wed 04-Nov-2026",
+      "dateIso": "2026-11-04T12:00:00.000Z",
+      "daysAgo": 3,
+      "time": "22:00",
+      "homeTeam": "Union La Calera",
+      "awayTeam": "Coquimbo Unido",
+      "score": "0-2",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "totalGoals": 2,
+      "actualBtts": false,
+      "actualOver25": false,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "394_union la calera_coquimbo unido_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:39.480Z",
+        "auditHash": "SHA256-IMMUTABLE-652870E5-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": false,
+        "overUnderHit": false,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_394_3_ColoColo",
+      "leagueId": "394",
+      "leagueName": "Copa Chile",
+      "dateRaw": "Mon 02-Nov-2026",
+      "dateIso": "2026-11-02T12:00:00.000Z",
+      "daysAgo": 5,
+      "time": "22:00",
+      "homeTeam": "Colo Colo",
+      "awayTeam": "Puerto Montt",
+      "score": "3-0",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "totalGoals": 3,
+      "actualBtts": false,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "394_colo colo_puerto montt_Mon 02-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:39.481Z",
+        "auditHash": "SHA256-IMMUTABLE-3B4E7D2F-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": false,
+        "overUnderHit": true,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    }
+  ],
+  "teams": {},
+  "backtest": {
+    "totalMatches": 3,
+    "bttsEvaluated": 3,
+    "bttsHits": 0,
+    "bttsAccuracy": 0,
+    "overUnderEvaluated": 3,
+    "overUnderHits": 2,
+    "overUnderAccuracy": 66.7,
+    "overallAccuracy": 33.3,
+    "exactScoreHits": 0,
+    "exactScoreAccuracy": 0,
+    "confusionMatrix": {
+      "btts": {
+        "predictedYesActualYes": 0,
+        "predictedYesActualNo": 3,
+        "predictedNoActualYes": 0,
+        "predictedNoActualNo": 0
+      },
+      "overUnder": {
+        "predictedOverActualOver": 2,
+        "predictedOverActualUnder": 1,
+        "predictedUnderActualOver": 0,
+        "predictedUnderActualUnder": 0
+      }
+    },
+    "logLoss": 0.7514,
+    "brierScore": 0.2789,
+    "simulatedRoi": -36.3
+  },
+  "parameters": {
+    "homeAdvantage": 1.18,
+    "extendedStatsWeight": 0.35,
+    "formWeight": 0.2,
+    "bttsThreshold": 0.5,
+    "over25Threshold": 0.5
+  }
+}

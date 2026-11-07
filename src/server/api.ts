@@ -40,13 +40,21 @@ apiRouter.get('/leagues', async (_req: Request, res: Response) => {
 });
 
 // GET /api/screener - Scans ALL available leagues for upcoming prediction opportunities
-apiRouter.get('/screener', async (req: Request, res: Response) => {
+apiRouter.get('/screener', async (_req: Request, res: Response) => {
   try {
-    const daysAhead = Math.min(7, Math.max(1, parseInt(String(req.query.daysAhead || '7'), 10)));
+    const screenerPath = path.resolve(process.cwd(), 'screener.json');
+    if (fs.existsSync(screenerPath)) {
+      const content = fs.readFileSync(screenerPath, 'utf-8');
+      const json = JSON.parse(content);
+      if (json && json.success) {
+        return res.json(json);
+      }
+    }
+
+    const daysAhead = 7;
     const leagues = await getAvailableLeagues();
     const allFixtures: (FixtureMatch & { leagueId: string; leagueName: string; confidenceScore: number })[] = [];
 
-    // Process leagues in parallel batches of 15 to avoid overwhelming network while scanning all 200+ leagues
     const batchSize = 15;
     for (let i = 0; i < leagues.length; i += batchSize) {
       const batch = leagues.slice(i, i + batchSize);
@@ -72,9 +80,7 @@ apiRouter.get('/screener', async (req: Request, res: Response) => {
               });
             }
           }
-        } catch (err) {
-          // Ignore individual league fetch errors during global scan
-        }
+        } catch (err) {}
       });
       await Promise.all(promises);
     }
@@ -88,9 +94,18 @@ apiRouter.get('/screener', async (req: Request, res: Response) => {
 });
 
 // GET /api/screener-results - Scans finished results across ALL available leagues for backtesting
-apiRouter.get('/screener-results', async (req: Request, res: Response) => {
+apiRouter.get('/screener-results', async (_req: Request, res: Response) => {
   try {
-    const daysBehind = Math.min(14, Math.max(1, parseInt(String(req.query.daysBehind || '14'), 10)));
+    const resultsPath = path.resolve(process.cwd(), 'screener-results.json');
+    if (fs.existsSync(resultsPath)) {
+      const content = fs.readFileSync(resultsPath, 'utf-8');
+      const json = JSON.parse(content);
+      if (json && json.success) {
+        return res.json(json);
+      }
+    }
+
+    const daysBehind = 14;
     const leagues = await getAvailableLeagues();
     let allResults: FinishedMatch[] = [];
 
@@ -108,14 +123,12 @@ apiRouter.get('/screener-results', async (req: Request, res: Response) => {
             const backtest = runBacktest(rawResults.map(r => ({ ...r, leagueName: league.name })), teams, DEFAULT_PARAMETERS, league.id);
             allResults.push(...backtest.evaluatedMatches);
           }
-        } catch (err) {
-          // Ignore individual league errors
-        }
+        } catch (err) {}
       });
       await Promise.all(promises);
     }
 
-    allResults.sort((a, b) => a.daysAgo - b.daysAgo);
+    allResults.sort((a, b) => b.daysAgo - a.daysAgo);
     res.json({ success: true, count: allResults.length, results: allResults });
   } catch (err: unknown) {
     const message = err instanceof Error ? err.message : 'Unknown error';

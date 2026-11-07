@@ -1,7 +1,7 @@
 {
   "leagueId": "34",
   "leagueName": "Ligue 1",
-  "timestamp": "2026-11-07T12:44:00.450Z",
+  "timestamp": "2026-11-07T13:32:43.821Z",
   "fixtures": [
     {
       "id": "fix_34_1_Auxerre",
@@ -19,47 +19,60 @@
         "away": 1.87
       },
       "prediction": {
-        "homeExpectedGoals": 0.81,
-        "awayExpectedGoals": 1.21,
-        "totalExpectedGoals": 2.02,
-        "bttsProbability": 0.3982,
-        "bttsNoProbability": 0.6018,
-        "over25Probability": 0.33,
-        "under25Probability": 0.67,
-        "homeWinProbability": 0.2391,
-        "drawProbability": 0.3133,
-        "awayWinProbability": 0.4476,
+        "homeExpectedGoals": 0.8,
+        "awayExpectedGoals": 1.23,
+        "totalExpectedGoals": 2.03,
+        "bttsProbability": 0.3973,
+        "bttsNoProbability": 0.6027,
+        "over25Probability": 0.3319,
+        "under25Probability": 0.6681,
+        "homeWinProbability": 0.2715,
+        "drawProbability": 0.311,
+        "awayWinProbability": 0.5263,
         "predictedScore": {
           "home": 0,
           "away": 1,
-          "probability": 0.1525
+          "probability": 0.1541
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 45,
+        "bttsConfidence": 40,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 45
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1619,
+          "awayElo": 1795,
+          "eloWinProb": 0.345
+        }
       },
       "pred": {
-        "homeExpectedGoals": 0.81,
-        "awayExpectedGoals": 1.21,
-        "totalExpectedGoals": 2.02,
-        "bttsProbability": 0.3982,
-        "bttsNoProbability": 0.6018,
-        "over25Probability": 0.33,
-        "under25Probability": 0.67,
-        "homeWinProbability": 0.2391,
-        "drawProbability": 0.3133,
-        "awayWinProbability": 0.4476,
+        "homeExpectedGoals": 0.8,
+        "awayExpectedGoals": 1.23,
+        "totalExpectedGoals": 2.03,
+        "bttsProbability": 0.3973,
+        "bttsNoProbability": 0.6027,
+        "over25Probability": 0.3319,
+        "under25Probability": 0.6681,
+        "homeWinProbability": 0.2715,
+        "drawProbability": 0.311,
+        "awayWinProbability": 0.5263,
         "predictedScore": {
           "home": 0,
           "away": 1,
-          "probability": 0.1525
+          "probability": 0.1541
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 45,
+        "bttsConfidence": 40,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 45
-      }
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1619,
+          "awayElo": 1795,
+          "eloWinProb": 0.345
+        }
+      },
+      "confidenceScore": 67
     },
     {
       "id": "fix_34_2_ParisSaintGermain",
@@ -77,47 +90,60 @@
         "away": 21
       },
       "prediction": {
-        "homeExpectedGoals": 2.92,
-        "awayExpectedGoals": 0.23,
-        "totalExpectedGoals": 3.15,
-        "bttsProbability": 0.1909,
-        "bttsNoProbability": 0.8091,
-        "over25Probability": 0.599,
-        "under25Probability": 0.401,
-        "homeWinProbability": 0.897,
-        "drawProbability": 0.0797,
-        "awayWinProbability": 0.013,
+        "homeExpectedGoals": 3,
+        "awayExpectedGoals": 0.22,
+        "totalExpectedGoals": 3.22,
+        "bttsProbability": 0.187,
+        "bttsNoProbability": 0.813,
+        "over25Probability": 0.6123,
+        "under25Probability": 0.3877,
+        "homeWinProbability": 0.892,
+        "drawProbability": 0.0742,
+        "awayWinProbability": 0.0521,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1833
+          "probability": 0.1798
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 62,
+        "bttsConfidence": 63,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 45
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1859,
+          "awayElo": 1589,
+          "eloWinProb": 0.873
+        }
       },
       "pred": {
-        "homeExpectedGoals": 2.92,
-        "awayExpectedGoals": 0.23,
-        "totalExpectedGoals": 3.15,
-        "bttsProbability": 0.1909,
-        "bttsNoProbability": 0.8091,
-        "over25Probability": 0.599,
-        "under25Probability": 0.401,
-        "homeWinProbability": 0.897,
-        "drawProbability": 0.0797,
-        "awayWinProbability": 0.013,
+        "homeExpectedGoals": 3,
+        "awayExpectedGoals": 0.22,
+        "totalExpectedGoals": 3.22,
+        "bttsProbability": 0.187,
+        "bttsNoProbability": 0.813,
+        "over25Probability": 0.6123,
+        "under25Probability": 0.3877,
+        "homeWinProbability": 0.892,
+        "drawProbability": 0.0742,
+        "awayWinProbability": 0.0521,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1833
+          "probability": 0.1798
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 62,
+        "bttsConfidence": 63,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 45
-      }
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1859,
+          "awayElo": 1589,
+          "eloWinProb": 0.873
+        }
+      },
+      "confidenceScore": 81
     },
     {
       "id": "fix_34_3_Rennes",
@@ -135,47 +161,60 @@
         "away": 3.22
       },
       "prediction": {
-        "homeExpectedGoals": 1.4,
-        "awayExpectedGoals": 1.17,
+        "homeExpectedGoals": 1.39,
+        "awayExpectedGoals": 1.18,
         "totalExpectedGoals": 2.57,
-        "bttsProbability": 0.5271,
-        "bttsNoProbability": 0.4729,
-        "over25Probability": 0.4737,
-        "under25Probability": 0.5263,
-        "homeWinProbability": 0.4126,
-        "drawProbability": 0.2788,
-        "awayWinProbability": 0.3084,
+        "bttsProbability": 0.5273,
+        "bttsNoProbability": 0.4727,
+        "over25Probability": 0.4734,
+        "under25Probability": 0.5266,
+        "homeWinProbability": 0.4477,
+        "drawProbability": 0.2791,
+        "awayWinProbability": 0.3708,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.133
+          "probability": 0.1331
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 45,
+        "bttsConfidence": 40,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 45
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1763,
+          "awayElo": 1815,
+          "eloWinProb": 0.519
+        }
       },
       "pred": {
-        "homeExpectedGoals": 1.4,
-        "awayExpectedGoals": 1.17,
+        "homeExpectedGoals": 1.39,
+        "awayExpectedGoals": 1.18,
         "totalExpectedGoals": 2.57,
-        "bttsProbability": 0.5271,
-        "bttsNoProbability": 0.4729,
-        "over25Probability": 0.4737,
-        "under25Probability": 0.5263,
-        "homeWinProbability": 0.4126,
-        "drawProbability": 0.2788,
-        "awayWinProbability": 0.3084,
+        "bttsProbability": 0.5273,
+        "bttsNoProbability": 0.4727,
+        "over25Probability": 0.4734,
+        "under25Probability": 0.5266,
+        "homeWinProbability": 0.4477,
+        "drawProbability": 0.2791,
+        "awayWinProbability": 0.3708,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.133
+          "probability": 0.1331
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 45,
+        "bttsConfidence": 40,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 45
-      }
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1763,
+          "awayElo": 1815,
+          "eloWinProb": 0.519
+        }
+      },
+      "confidenceScore": 53
     },
     {
       "id": "fix_34_4_Angers",
@@ -193,47 +232,60 @@
         "away": 2.12
       },
       "prediction": {
-        "homeExpectedGoals": 0.91,
-        "awayExpectedGoals": 1.26,
+        "homeExpectedGoals": 0.9,
+        "awayExpectedGoals": 1.27,
         "totalExpectedGoals": 2.17,
-        "bttsProbability": 0.4354,
-        "bttsNoProbability": 0.5646,
-        "over25Probability": 0.3683,
-        "under25Probability": 0.6317,
-        "homeWinProbability": 0.2613,
-        "drawProbability": 0.3039,
-        "awayWinProbability": 0.4347,
+        "bttsProbability": 0.4348,
+        "bttsNoProbability": 0.5652,
+        "over25Probability": 0.3695,
+        "under25Probability": 0.6305,
+        "homeWinProbability": 0.3086,
+        "drawProbability": 0.3026,
+        "awayWinProbability": 0.4947,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1389
+          "probability": 0.1383
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 45,
+        "bttsConfidence": 40,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 45
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1596,
+          "awayElo": 1726,
+          "eloWinProb": 0.408
+        }
       },
       "pred": {
-        "homeExpectedGoals": 0.91,
-        "awayExpectedGoals": 1.26,
+        "homeExpectedGoals": 0.9,
+        "awayExpectedGoals": 1.27,
         "totalExpectedGoals": 2.17,
-        "bttsProbability": 0.4354,
-        "bttsNoProbability": 0.5646,
-        "over25Probability": 0.3683,
-        "under25Probability": 0.6317,
-        "homeWinProbability": 0.2613,
-        "drawProbability": 0.3039,
-        "awayWinProbability": 0.4347,
+        "bttsProbability": 0.4348,
+        "bttsNoProbability": 0.5652,
+        "over25Probability": 0.3695,
+        "under25Probability": 0.6305,
+        "homeWinProbability": 0.3086,
+        "drawProbability": 0.3026,
+        "awayWinProbability": 0.4947,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1389
+          "probability": 0.1383
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 45,
+        "bttsConfidence": 40,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 45
-      }
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1596,
+          "awayElo": 1726,
+          "eloWinProb": 0.408
+        }
+      },
+      "confidenceScore": 63
     },
     {
       "id": "fix_34_5_Brest",
@@ -251,47 +303,60 @@
         "away": 2.5
       },
       "prediction": {
-        "homeExpectedGoals": 1.17,
-        "awayExpectedGoals": 0.96,
+        "homeExpectedGoals": 1.16,
+        "awayExpectedGoals": 0.97,
         "totalExpectedGoals": 2.13,
-        "bttsProbability": 0.4348,
-        "bttsNoProbability": 0.5652,
-        "over25Probability": 0.3597,
-        "under25Probability": 0.6403,
-        "homeWinProbability": 0.397,
-        "drawProbability": 0.3105,
-        "awayWinProbability": 0.2924,
+        "bttsProbability": 0.4351,
+        "bttsNoProbability": 0.5649,
+        "over25Probability": 0.3592,
+        "under25Probability": 0.6408,
+        "homeWinProbability": 0.4082,
+        "drawProbability": 0.3111,
+        "awayWinProbability": 0.3895,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1415
+          "probability": 0.1418
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 45,
+        "bttsConfidence": 40,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 45
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1698,
+          "awayElo": 1805,
+          "eloWinProb": 0.44
+        }
       },
       "pred": {
-        "homeExpectedGoals": 1.17,
-        "awayExpectedGoals": 0.96,
+        "homeExpectedGoals": 1.16,
+        "awayExpectedGoals": 0.97,
         "totalExpectedGoals": 2.13,
-        "bttsProbability": 0.4348,
-        "bttsNoProbability": 0.5652,
-        "over25Probability": 0.3597,
-        "under25Probability": 0.6403,
-        "homeWinProbability": 0.397,
-        "drawProbability": 0.3105,
-        "awayWinProbability": 0.2924,
+        "bttsProbability": 0.4351,
+        "bttsNoProbability": 0.5649,
+        "over25Probability": 0.3592,
+        "under25Probability": 0.6408,
+        "homeWinProbability": 0.4082,
+        "drawProbability": 0.3111,
+        "awayWinProbability": 0.3895,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1415
+          "probability": 0.1418
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 45,
+        "bttsConfidence": 40,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 45
-      }
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1698,
+          "awayElo": 1805,
+          "eloWinProb": 0.44
+        }
+      },
+      "confidenceScore": 64
     },
     {
       "id": "fix_34_6_LeHavre",
@@ -310,46 +375,59 @@
       },
       "prediction": {
         "homeExpectedGoals": 0.25,
-        "awayExpectedGoals": 1.01,
-        "totalExpectedGoals": 1.26,
-        "bttsProbability": 0.145,
-        "bttsNoProbability": 0.855,
-        "over25Probability": 0.134,
-        "under25Probability": 0.866,
-        "homeWinProbability": 0.0863,
-        "drawProbability": 0.3682,
-        "awayWinProbability": 0.5454,
+        "awayExpectedGoals": 1.03,
+        "totalExpectedGoals": 1.28,
+        "bttsProbability": 0.1464,
+        "bttsNoProbability": 0.8536,
+        "over25Probability": 0.138,
+        "under25Probability": 0.862,
+        "homeWinProbability": 0.1748,
+        "drawProbability": 0.3634,
+        "awayWinProbability": 0.589,
         "predictedScore": {
           "home": 0,
           "away": 0,
-          "probability": 0.2876
+          "probability": 0.2827
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 71,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 73
+        "overUnderConfidence": 72,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1679,
+          "eloWinProb": 0.342
+        }
       },
       "pred": {
         "homeExpectedGoals": 0.25,
-        "awayExpectedGoals": 1.01,
-        "totalExpectedGoals": 1.26,
-        "bttsProbability": 0.145,
-        "bttsNoProbability": 0.855,
-        "over25Probability": 0.134,
-        "under25Probability": 0.866,
-        "homeWinProbability": 0.0863,
-        "drawProbability": 0.3682,
-        "awayWinProbability": 0.5454,
+        "awayExpectedGoals": 1.03,
+        "totalExpectedGoals": 1.28,
+        "bttsProbability": 0.1464,
+        "bttsNoProbability": 0.8536,
+        "over25Probability": 0.138,
+        "under25Probability": 0.862,
+        "homeWinProbability": 0.1748,
+        "drawProbability": 0.3634,
+        "awayWinProbability": 0.589,
         "predictedScore": {
           "home": 0,
           "away": 0,
-          "probability": 0.2876
+          "probability": 0.2827
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 71,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 73
-      }
+        "overUnderConfidence": 72,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1679,
+          "eloWinProb": 0.342
+        }
+      },
+      "confidenceScore": 86
     },
     {
       "id": "fix_34_7_LeMans",
@@ -367,47 +445,60 @@
         "away": 1.8
       },
       "prediction": {
-        "homeExpectedGoals": 0.89,
-        "awayExpectedGoals": 1.82,
-        "totalExpectedGoals": 2.7,
-        "bttsProbability": 0.4986,
-        "bttsNoProbability": 0.5014,
-        "over25Probability": 0.5064,
-        "under25Probability": 0.4936,
-        "homeWinProbability": 0.1737,
-        "drawProbability": 0.2401,
-        "awayWinProbability": 0.5856,
+        "homeExpectedGoals": 0.87,
+        "awayExpectedGoals": 1.84,
+        "totalExpectedGoals": 2.72,
+        "bttsProbability": 0.4963,
+        "bttsNoProbability": 0.5037,
+        "over25Probability": 0.5101,
+        "under25Probability": 0.4899,
+        "homeWinProbability": 0.2337,
+        "drawProbability": 0.2364,
+        "awayWinProbability": 0.6122,
         "predictedScore": {
           "home": 0,
           "away": 1,
-          "probability": 0.1152
+          "probability": 0.1154
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 45,
+        "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 45
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1579,
+          "awayElo": 1746,
+          "eloWinProb": 0.357
+        }
       },
       "pred": {
-        "homeExpectedGoals": 0.89,
-        "awayExpectedGoals": 1.82,
-        "totalExpectedGoals": 2.7,
-        "bttsProbability": 0.4986,
-        "bttsNoProbability": 0.5014,
-        "over25Probability": 0.5064,
-        "under25Probability": 0.4936,
-        "homeWinProbability": 0.1737,
-        "drawProbability": 0.2401,
-        "awayWinProbability": 0.5856,
+        "homeExpectedGoals": 0.87,
+        "awayExpectedGoals": 1.84,
+        "totalExpectedGoals": 2.72,
+        "bttsProbability": 0.4963,
+        "bttsNoProbability": 0.5037,
+        "over25Probability": 0.5101,
+        "under25Probability": 0.4899,
+        "homeWinProbability": 0.2337,
+        "drawProbability": 0.2364,
+        "awayWinProbability": 0.6122,
         "predictedScore": {
           "home": 0,
           "away": 1,
-          "probability": 0.1152
+          "probability": 0.1154
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 45,
+        "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 45
-      }
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1579,
+          "awayElo": 1746,
+          "eloWinProb": 0.357
+        }
+      },
+      "confidenceScore": 51
     },
     {
       "id": "fix_34_8_Lens",
@@ -421,51 +512,64 @@
       "awayTeam": "Marseille",
       "odds": {
         "home": 2.28,
-        "draw": 4.08,
-        "away": 3.01
+        "draw": 4.11,
+        "away": 3
       },
       "prediction": {
-        "homeExpectedGoals": 2.02,
-        "awayExpectedGoals": 2.08,
+        "homeExpectedGoals": 2.01,
+        "awayExpectedGoals": 2.09,
         "totalExpectedGoals": 4.1,
-        "bttsProbability": 0.7614,
-        "bttsNoProbability": 0.2386,
+        "bttsProbability": 0.7613,
+        "bttsNoProbability": 0.2387,
         "over25Probability": 0.7742,
         "under25Probability": 0.2258,
-        "homeWinProbability": 0.3821,
-        "drawProbability": 0.2124,
-        "awayWinProbability": 0.403,
+        "homeWinProbability": 0.4291,
+        "drawProbability": 0.2123,
+        "awayWinProbability": 0.4312,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.0737
+          "probability": 0.0736
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 52,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 55
+        "overUnderConfidence": 55,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1716,
+          "awayElo": 1765,
+          "eloWinProb": 0.523
+        }
       },
       "pred": {
-        "homeExpectedGoals": 2.02,
-        "awayExpectedGoals": 2.08,
+        "homeExpectedGoals": 2.01,
+        "awayExpectedGoals": 2.09,
         "totalExpectedGoals": 4.1,
-        "bttsProbability": 0.7614,
-        "bttsNoProbability": 0.2386,
+        "bttsProbability": 0.7613,
+        "bttsNoProbability": 0.2387,
         "over25Probability": 0.7742,
         "under25Probability": 0.2258,
-        "homeWinProbability": 0.3821,
-        "drawProbability": 0.2124,
-        "awayWinProbability": 0.403,
+        "homeWinProbability": 0.4291,
+        "drawProbability": 0.2123,
+        "awayWinProbability": 0.4312,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.0737
+          "probability": 0.0736
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 52,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 55
-      }
+        "overUnderConfidence": 55,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1716,
+          "awayElo": 1765,
+          "eloWinProb": 0.523
+        }
+      },
+      "confidenceScore": 77
     }
   ],
   "results": [
@@ -486,28 +590,34 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 2.52,
-        "awayExpectedGoals": 1.14,
-        "totalExpectedGoals": 3.66,
-        "bttsProbability": 0.6259,
-        "bttsNoProbability": 0.3741,
-        "over25Probability": 0.7029,
-        "under25Probability": 0.2971,
-        "homeWinProbability": 0.6657,
-        "drawProbability": 0.1817,
-        "awayWinProbability": 0.1481,
+        "homeExpectedGoals": 2.54,
+        "awayExpectedGoals": 1.13,
+        "totalExpectedGoals": 3.67,
+        "bttsProbability": 0.6245,
+        "bttsNoProbability": 0.3755,
+        "over25Probability": 0.7043,
+        "under25Probability": 0.2957,
+        "homeWinProbability": 0.6729,
+        "drawProbability": 0.1801,
+        "awayWinProbability": 0.207,
         "predictedScore": {
           "home": 2,
           "away": 1,
-          "probability": 0.0932
+          "probability": 0.0929
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 45,
+        "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 45,
+        "overUnderConfidence": 41,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1706,
+          "awayElo": 1641,
+          "eloWinProb": 0.679
+        },
         "matchFingerprint": "34_toulouse_strasbourg_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T12:44:00.449Z",
-        "auditHash": "SHA256-IMMUTABLE-6F102BBE-2026-11-07",
+        "lockedAt": "2026-11-07T13:32:43.819Z",
+        "auditHash": "SHA256-IMMUTABLE-786C1DC1-2026-11-07",
         "isImmutable": true
       },
       "evaluation": {
@@ -537,25 +647,31 @@
         "homeExpectedGoals": 0.76,
         "awayExpectedGoals": 1.48,
         "totalExpectedGoals": 2.23,
-        "bttsProbability": 0.4166,
-        "bttsNoProbability": 0.5834,
-        "over25Probability": 0.386,
-        "under25Probability": 0.614,
-        "homeWinProbability": 0.1846,
-        "drawProbability": 0.2792,
-        "awayWinProbability": 0.536,
+        "bttsProbability": 0.4164,
+        "bttsNoProbability": 0.5836,
+        "over25Probability": 0.3864,
+        "under25Probability": 0.6136,
+        "homeWinProbability": 0.3176,
+        "drawProbability": 0.2789,
+        "awayWinProbability": 0.5011,
         "predictedScore": {
           "home": 0,
           "away": 1,
-          "probability": 0.1511
+          "probability": 0.1512
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 45,
+        "bttsConfidence": 40,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 45,
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1679,
+          "awayElo": 1698,
+          "eloWinProb": 0.566
+        },
         "matchFingerprint": "34_lorient_brest_Mon 02-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T12:44:00.449Z",
-        "auditHash": "SHA256-IMMUTABLE-59042DB8-2026-11-07",
+        "lockedAt": "2026-11-07T13:32:43.820Z",
+        "auditHash": "SHA256-IMMUTABLE-63E2F738-2026-11-07",
         "isImmutable": true
       },
       "evaluation": {
@@ -582,28 +698,34 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 3.27,
-        "awayExpectedGoals": 2.08,
-        "totalExpectedGoals": 5.35,
-        "bttsProbability": 0.8261,
-        "bttsNoProbability": 0.1739,
-        "over25Probability": 0.8817,
-        "under25Probability": 0.1183,
-        "homeWinProbability": 0.5934,
-        "drawProbability": 0.1609,
-        "awayWinProbability": 0.2255,
+        "homeExpectedGoals": 3.29,
+        "awayExpectedGoals": 2.07,
+        "totalExpectedGoals": 5.36,
+        "bttsProbability": 0.8248,
+        "bttsNoProbability": 0.1752,
+        "over25Probability": 0.8816,
+        "under25Probability": 0.1184,
+        "homeWinProbability": 0.6235,
+        "drawProbability": 0.1598,
+        "awayWinProbability": 0.2591,
         "predictedScore": {
           "home": 3,
           "away": 2,
-          "probability": 0.0599
+          "probability": 0.0598
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 65,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 76,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1765,
+          "awayElo": 1706,
+          "eloWinProb": 0.671
+        },
         "matchFingerprint": "34_marseille_toulouse_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T12:44:00.449Z",
-        "auditHash": "SHA256-IMMUTABLE-11260A11-2026-11-07",
+        "lockedAt": "2026-11-07T13:32:43.820Z",
+        "auditHash": "SHA256-IMMUTABLE-58C02B65-2026-11-07",
         "isImmutable": true
       },
       "evaluation": {
@@ -630,28 +752,34 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 4.35,
-        "awayExpectedGoals": 0.31,
-        "totalExpectedGoals": 4.65,
-        "bttsProbability": 0.2411,
-        "bttsNoProbability": 0.7589,
-        "over25Probability": 0.7684,
-        "under25Probability": 0.2316,
-        "homeWinProbability": 0.8915,
-        "drawProbability": 0.0286,
-        "awayWinProbability": 0.0053,
+        "homeExpectedGoals": 4.44,
+        "awayExpectedGoals": 0.3,
+        "totalExpectedGoals": 4.74,
+        "bttsProbability": 0.2355,
+        "bttsNoProbability": 0.7645,
+        "over25Probability": 0.7698,
+        "under25Probability": 0.2302,
+        "homeWinProbability": 0.867,
+        "drawProbability": 0.0263,
+        "awayWinProbability": 0.063,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1419
+          "probability": 0.1416
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 52,
+        "bttsConfidence": 53,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 54,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1805,
+          "awayElo": 1596,
+          "eloWinProb": 0.829
+        },
         "matchFingerprint": "34_olympique lyonnais_angers_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T12:44:00.449Z",
-        "auditHash": "SHA256-IMMUTABLE-5F11FA67-2026-11-07",
+        "lockedAt": "2026-11-07T13:32:43.820Z",
+        "auditHash": "SHA256-IMMUTABLE-1799D19B-2026-11-07",
         "isImmutable": true
       },
       "evaluation": {
@@ -678,28 +806,34 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 2.13,
-        "awayExpectedGoals": 0.67,
-        "totalExpectedGoals": 2.79,
-        "bttsProbability": 0.4322,
-        "bttsNoProbability": 0.5678,
-        "over25Probability": 0.5267,
-        "under25Probability": 0.4733,
-        "homeWinProbability": 0.7055,
-        "drawProbability": 0.1945,
-        "awayWinProbability": 0.0984,
+        "homeExpectedGoals": 2.14,
+        "awayExpectedGoals": 0.66,
+        "totalExpectedGoals": 2.8,
+        "bttsProbability": 0.4313,
+        "bttsNoProbability": 0.5687,
+        "over25Probability": 0.5283,
+        "under25Probability": 0.4717,
+        "homeWinProbability": 0.6907,
+        "drawProbability": 0.1932,
+        "awayWinProbability": 0.1826,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1387
+          "probability": 0.139
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 45,
+        "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 45,
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1795,
+          "awayElo": 1746,
+          "eloWinProb": 0.658
+        },
         "matchFingerprint": "34_paris fc_monaco_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T12:44:00.449Z",
-        "auditHash": "SHA256-IMMUTABLE-3AD2DED6-2026-11-07",
+        "lockedAt": "2026-11-07T13:32:43.820Z",
+        "auditHash": "SHA256-IMMUTABLE-559FBE40-2026-11-07",
         "isImmutable": true
       },
       "evaluation": {
@@ -729,13 +863,13 @@
         "homeExpectedGoals": 4.5,
         "awayExpectedGoals": 1.7,
         "totalExpectedGoals": 6.2,
-        "bttsProbability": 0.7387,
-        "bttsNoProbability": 0.2613,
-        "over25Probability": 0.8596,
-        "under25Probability": 0.1404,
-        "homeWinProbability": 0.7381,
-        "drawProbability": 0.0912,
-        "awayWinProbability": 0.0837,
+        "bttsProbability": 0.7381,
+        "bttsNoProbability": 0.2619,
+        "over25Probability": 0.8594,
+        "under25Probability": 0.1406,
+        "homeWinProbability": 0.698,
+        "drawProbability": 0.091,
+        "awayWinProbability": 0.1863,
         "predictedScore": {
           "home": 4,
           "away": 1,
@@ -745,9 +879,15 @@
         "bttsConfidence": 48,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 72,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1641,
+          "awayElo": 1619,
+          "eloWinProb": 0.623
+        },
         "matchFingerprint": "34_strasbourg_auxerre_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T12:44:00.449Z",
-        "auditHash": "SHA256-IMMUTABLE-264E8663-2026-11-07",
+        "lockedAt": "2026-11-07T13:32:43.820Z",
+        "auditHash": "SHA256-IMMUTABLE-CD9F1DF-2026-11-07",
         "isImmutable": true
       },
       "evaluation": {
@@ -777,25 +917,31 @@
         "homeExpectedGoals": 1.23,
         "awayExpectedGoals": 1.49,
         "totalExpectedGoals": 2.72,
-        "bttsProbability": 0.5561,
-        "bttsNoProbability": 0.4439,
-        "over25Probability": 0.512,
-        "under25Probability": 0.488,
-        "homeWinProbability": 0.3066,
-        "drawProbability": 0.2689,
-        "awayWinProbability": 0.4242,
+        "bttsProbability": 0.5562,
+        "bttsNoProbability": 0.4438,
+        "over25Probability": 0.5119,
+        "under25Probability": 0.4881,
+        "homeWinProbability": 0.4119,
+        "drawProbability": 0.269,
+        "awayWinProbability": 0.4132,
         "predictedScore": {
           "home": 1,
           "away": 1,
           "probability": 0.1279
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 45,
+        "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 45,
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1589,
+          "awayElo": 1579,
+          "eloWinProb": 0.606
+        },
         "matchFingerprint": "34_troyes_le mans_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T12:44:00.449Z",
-        "auditHash": "SHA256-IMMUTABLE-4972D407-2026-11-07",
+        "lockedAt": "2026-11-07T13:32:43.820Z",
+        "auditHash": "SHA256-IMMUTABLE-6E04FE3A-2026-11-07",
         "isImmutable": true
       },
       "evaluation": {
@@ -822,34 +968,40 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 2.05,
-        "awayExpectedGoals": 0.62,
-        "totalExpectedGoals": 2.67,
-        "bttsProbability": 0.4059,
-        "bttsNoProbability": 0.5941,
-        "over25Probability": 0.4976,
-        "under25Probability": 0.5024,
-        "homeWinProbability": 0.7044,
-        "drawProbability": 0.1995,
-        "awayWinProbability": 0.0948,
+        "homeExpectedGoals": 2.07,
+        "awayExpectedGoals": 0.61,
+        "totalExpectedGoals": 2.68,
+        "bttsProbability": 0.4042,
+        "bttsNoProbability": 0.5958,
+        "over25Probability": 0.501,
+        "under25Probability": 0.499,
+        "homeWinProbability": 0.7131,
+        "drawProbability": 0.1968,
+        "awayWinProbability": 0.1581,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.146
+          "probability": 0.1467
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 45,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 45,
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1815,
+          "awayElo": 1716,
+          "eloWinProb": 0.72
+        },
         "matchFingerprint": "34_lille_lens_Fri 30-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T12:44:00.449Z",
-        "auditHash": "SHA256-IMMUTABLE-614D3E5E-2026-11-07",
+        "lockedAt": "2026-11-07T13:32:43.820Z",
+        "auditHash": "SHA256-IMMUTABLE-17D34D4C-2026-11-07",
         "isImmutable": true
       },
       "evaluation": {
         "bttsHit": true,
-        "overUnderHit": true,
-        "bothHit": true,
+        "overUnderHit": false,
+        "bothHit": false,
         "exactScoreHit": false
       }
     },
@@ -870,28 +1022,34 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 0.27,
+        "homeExpectedGoals": 0.26,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 4.27,
-        "bttsProbability": 0.219,
-        "bttsNoProbability": 0.781,
-        "over25Probability": 0.7473,
-        "under25Probability": 0.2527,
-        "homeWinProbability": 0.006,
-        "drawProbability": 0.0353,
-        "awayWinProbability": 0.9076,
+        "totalExpectedGoals": 4.26,
+        "bttsProbability": 0.2125,
+        "bttsNoProbability": 0.7875,
+        "over25Probability": 0.7462,
+        "under25Probability": 0.2538,
+        "homeWinProbability": 0.0581,
+        "drawProbability": 0.0347,
+        "awayWinProbability": 0.8861,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.1496
+          "probability": 0.1509
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 56,
+        "bttsConfidence": 57,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 49,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1859,
+          "eloWinProb": 0.155
+        },
         "matchFingerprint": "34_le havre_paris saint germain_Fri 30-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T12:44:00.449Z",
-        "auditHash": "SHA256-IMMUTABLE-4E2C7D7B-2026-11-07",
+        "lockedAt": "2026-11-07T13:32:43.820Z",
+        "auditHash": "SHA256-IMMUTABLE-43993C5-2026-11-07",
         "isImmutable": true
       },
       "evaluation": {
@@ -919,27 +1077,33 @@
       "actualOver25": true,
       "prediction": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 1.56,
-        "totalExpectedGoals": 6.06,
-        "bttsProbability": 0.7136,
-        "bttsNoProbability": 0.2864,
-        "over25Probability": 0.8539,
-        "under25Probability": 0.1461,
-        "homeWinProbability": 0.7566,
-        "drawProbability": 0.0851,
-        "awayWinProbability": 0.0715,
+        "awayExpectedGoals": 1.57,
+        "totalExpectedGoals": 6.07,
+        "bttsProbability": 0.7146,
+        "bttsNoProbability": 0.2854,
+        "over25Probability": 0.8541,
+        "under25Probability": 0.1459,
+        "homeWinProbability": 0.6804,
+        "drawProbability": 0.0854,
+        "awayWinProbability": 0.2077,
         "predictedScore": {
           "home": 4,
           "away": 1,
-          "probability": 0.0622
+          "probability": 0.0621
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 45,
+        "bttsConfidence": 43,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 71,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1726,
+          "awayElo": 1763,
+          "eloWinProb": 0.54
+        },
         "matchFingerprint": "34_nice_rennes_Fri 30-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T12:44:00.449Z",
-        "auditHash": "SHA256-IMMUTABLE-2629120E-2026-11-07",
+        "lockedAt": "2026-11-07T13:32:43.820Z",
+        "auditHash": "SHA256-IMMUTABLE-5167E3F8-2026-11-07",
         "isImmutable": true
       },
       "evaluation": {
@@ -966,28 +1130,34 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 1.92,
+        "homeExpectedGoals": 1.93,
         "awayExpectedGoals": 0.57,
-        "totalExpectedGoals": 2.49,
-        "bttsProbability": 0.3764,
-        "bttsNoProbability": 0.6236,
-        "over25Probability": 0.4529,
-        "under25Probability": 0.5471,
-        "homeWinProbability": 0.6902,
-        "drawProbability": 0.2128,
-        "awayWinProbability": 0.0961,
+        "totalExpectedGoals": 2.5,
+        "bttsProbability": 0.3756,
+        "bttsNoProbability": 0.6244,
+        "over25Probability": 0.4546,
+        "under25Probability": 0.5454,
+        "homeWinProbability": 0.6832,
+        "drawProbability": 0.2113,
+        "awayWinProbability": 0.1789,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1536
+          "probability": 0.1534
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 45,
+        "bttsConfidence": 40,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 45,
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1859,
+          "awayElo": 1805,
+          "eloWinProb": 0.665
+        },
         "matchFingerprint": "34_paris saint germain_olympique lyonnais_Mon 26-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T12:44:00.449Z",
-        "auditHash": "SHA256-IMMUTABLE-68B74C79-2026-11-07",
+        "lockedAt": "2026-11-07T13:32:43.820Z",
+        "auditHash": "SHA256-IMMUTABLE-7978DA6F-2026-11-07",
         "isImmutable": true
       },
       "evaluation": {
@@ -1015,27 +1185,33 @@
       "actualOver25": false,
       "prediction": {
         "homeExpectedGoals": 0.28,
-        "awayExpectedGoals": 0.72,
+        "awayExpectedGoals": 0.73,
         "totalExpectedGoals": 1,
-        "bttsProbability": 0.1293,
-        "bttsNoProbability": 0.8707,
-        "over25Probability": 0.0801,
-        "under25Probability": 0.9199,
-        "homeWinProbability": 0.1255,
-        "drawProbability": 0.4548,
-        "awayWinProbability": 0.4197,
+        "bttsProbability": 0.1291,
+        "bttsNoProbability": 0.8709,
+        "over25Probability": 0.0808,
+        "under25Probability": 0.9192,
+        "homeWinProbability": 0.2465,
+        "drawProbability": 0.4532,
+        "awayWinProbability": 0.4589,
         "predictedScore": {
           "home": 0,
           "away": 0,
-          "probability": 0.3727
+          "probability": 0.3713
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 74,
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 84,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1596,
+          "awayElo": 1679,
+          "eloWinProb": 0.474
+        },
         "matchFingerprint": "34_angers_lorient_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T12:44:00.449Z",
-        "auditHash": "SHA256-IMMUTABLE-23FC6D5A-2026-11-07",
+        "lockedAt": "2026-11-07T13:32:43.820Z",
+        "auditHash": "SHA256-IMMUTABLE-4F220981-2026-11-07",
         "isImmutable": true
       },
       "evaluation": {
@@ -1062,28 +1238,34 @@
       "actualBtts": true,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 1.77,
+        "homeExpectedGoals": 1.78,
         "awayExpectedGoals": 0.81,
         "totalExpectedGoals": 2.58,
-        "bttsProbability": 0.4672,
-        "bttsNoProbability": 0.5328,
-        "over25Probability": 0.4763,
-        "under25Probability": 0.5237,
-        "homeWinProbability": 0.5946,
-        "drawProbability": 0.2432,
-        "awayWinProbability": 0.1617,
+        "bttsProbability": 0.4667,
+        "bttsNoProbability": 0.5333,
+        "over25Probability": 0.4772,
+        "under25Probability": 0.5228,
+        "homeWinProbability": 0.6144,
+        "drawProbability": 0.2423,
+        "awayWinProbability": 0.2278,
         "predictedScore": {
           "home": 1,
           "away": 0,
           "probability": 0.1275
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 45,
+        "bttsConfidence": 40,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 45,
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1619,
+          "awayElo": 1579,
+          "eloWinProb": 0.647
+        },
         "matchFingerprint": "34_auxerre_le mans_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T12:44:00.449Z",
-        "auditHash": "SHA256-IMMUTABLE-22A88684-2026-11-07",
+        "lockedAt": "2026-11-07T13:32:43.820Z",
+        "auditHash": "SHA256-IMMUTABLE-107EB506-2026-11-07",
         "isImmutable": true
       },
       "evaluation": {
@@ -1111,27 +1293,33 @@
       "actualOver25": true,
       "prediction": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 1.15,
-        "totalExpectedGoals": 5.65,
-        "bttsProbability": 0.6174,
-        "bttsNoProbability": 0.3826,
-        "over25Probability": 0.8338,
-        "under25Probability": 0.1662,
-        "homeWinProbability": 0.8058,
-        "drawProbability": 0.0664,
-        "awayWinProbability": 0.0412,
+        "awayExpectedGoals": 1.12,
+        "totalExpectedGoals": 5.62,
+        "bttsProbability": 0.6091,
+        "bttsNoProbability": 0.3909,
+        "over25Probability": 0.8322,
+        "under25Probability": 0.1678,
+        "homeWinProbability": 0.8303,
+        "drawProbability": 0.065,
+        "awayWinProbability": 0.0711,
         "predictedScore": {
           "home": 4,
           "away": 1,
-          "probability": 0.0691
+          "probability": 0.0694
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 45,
+        "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 67,
+        "overUnderConfidence": 66,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1765,
+          "awayElo": 1500,
+          "eloWinProb": 0.87
+        },
         "matchFingerprint": "34_marseille_le havre_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T12:44:00.450Z",
-        "auditHash": "SHA256-IMMUTABLE-5615B6B4-2026-11-07",
+        "lockedAt": "2026-11-07T13:32:43.821Z",
+        "auditHash": "SHA256-IMMUTABLE-6F24DB2A-2026-11-07",
         "isImmutable": true
       },
       "evaluation": {
@@ -1159,27 +1347,33 @@
       "actualOver25": true,
       "prediction": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.98,
-        "totalExpectedGoals": 5.48,
-        "bttsProbability": 0.5638,
-        "bttsNoProbability": 0.4362,
-        "over25Probability": 0.8236,
-        "under25Probability": 0.1764,
-        "homeWinProbability": 0.8244,
-        "drawProbability": 0.0581,
-        "awayWinProbability": 0.0309,
+        "awayExpectedGoals": 0.97,
+        "totalExpectedGoals": 5.47,
+        "bttsProbability": 0.5599,
+        "bttsNoProbability": 0.4401,
+        "over25Probability": 0.8229,
+        "under25Probability": 0.1771,
+        "homeWinProbability": 0.7977,
+        "drawProbability": 0.0576,
+        "awayWinProbability": 0.1086,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.0714
+          "probability": 0.0723
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 45,
+        "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 65,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1763,
+          "awayElo": 1641,
+          "eloWinProb": 0.746
+        },
         "matchFingerprint": "34_rennes_strasbourg_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T12:44:00.450Z",
-        "auditHash": "SHA256-IMMUTABLE-52BC8EA5-2026-11-07",
+        "lockedAt": "2026-11-07T13:32:43.821Z",
+        "auditHash": "SHA256-IMMUTABLE-684D9FB2-2026-11-07",
         "isImmutable": true
       },
       "evaluation": {
@@ -1756,9 +1950,9 @@
     "bttsHits": 9,
     "bttsAccuracy": 60,
     "overUnderEvaluated": 15,
-    "overUnderHits": 12,
-    "overUnderAccuracy": 80,
-    "overallAccuracy": 70,
+    "overUnderHits": 11,
+    "overUnderAccuracy": 73.3,
+    "overallAccuracy": 66.7,
     "exactScoreHits": 1,
     "exactScoreAccuracy": 6.7,
     "confusionMatrix": {
@@ -1770,14 +1964,14 @@
       },
       "overUnder": {
         "predictedOverActualOver": 7,
-        "predictedOverActualUnder": 3,
+        "predictedOverActualUnder": 4,
         "predictedUnderActualOver": 0,
-        "predictedUnderActualUnder": 5
+        "predictedUnderActualUnder": 4
       }
     },
-    "logLoss": 0.628,
-    "brierScore": 0.2153,
-    "simulatedRoi": 33.7
+    "logLoss": 0.6293,
+    "brierScore": 0.2158,
+    "simulatedRoi": 27.3
   },
   "parameters": {
     "homeAdvantage": 1.18,

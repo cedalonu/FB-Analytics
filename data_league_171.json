@@ -1,0 +1,978 @@
+{
+  "leagueId": "171",
+  "leagueName": "Japan J-League Cup",
+  "timestamp": "2026-11-07T13:32:48.245Z",
+  "fixtures": [
+    {
+      "id": "fix_171_1_KawasakiFrontale",
+      "leagueId": "171",
+      "leagueName": "Japan J-League Cup",
+      "dateRaw": "Wed 11/11",
+      "dateIso": "2026-11-11T12:00:00.000Z",
+      "daysFromNow": 4,
+      "time": "10:00",
+      "homeTeam": "Kawasaki Frontale",
+      "awayTeam": "Kashiwa Reysol",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        }
+      },
+      "confidenceScore": 57
+    },
+    {
+      "id": "fix_171_2_VisselKobe",
+      "leagueId": "171",
+      "leagueName": "Japan J-League Cup",
+      "dateRaw": "Wed 11/11",
+      "dateIso": "2026-11-11T12:00:00.000Z",
+      "daysFromNow": 4,
+      "time": "10:00",
+      "homeTeam": "Vissel Kobe",
+      "awayTeam": "Machida Zelvia",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        }
+      },
+      "confidenceScore": 57
+    },
+    {
+      "id": "fix_171_3_YokohamaFM",
+      "leagueId": "171",
+      "leagueName": "Japan J-League Cup",
+      "dateRaw": "Wed 11/11",
+      "dateIso": "2026-11-11T12:00:00.000Z",
+      "daysFromNow": 4,
+      "time": "10:00",
+      "homeTeam": "Yokohama FM",
+      "awayTeam": "Kashima Antlers",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        }
+      },
+      "confidenceScore": 57
+    },
+    {
+      "id": "fix_171_4_UrawaRedDiamonds",
+      "leagueId": "171",
+      "leagueName": "Japan J-League Cup",
+      "dateRaw": "Wed 11/11",
+      "dateIso": "2026-11-11T12:00:00.000Z",
+      "daysFromNow": 4,
+      "time": "10:30",
+      "homeTeam": "Urawa Red Diamonds",
+      "awayTeam": "Cerezo Osaka",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        }
+      },
+      "confidenceScore": 57
+    }
+  ],
+  "results": [
+    {
+      "id": "res_171_1_MitoHollyhock",
+      "leagueId": "171",
+      "leagueName": "Japan J-League Cup",
+      "dateRaw": "Wed 28-Oct-2026",
+      "dateIso": "2026-10-28T12:00:00.000Z",
+      "daysAgo": 10,
+      "time": "10:00",
+      "homeTeam": "Mito Hollyhock",
+      "awayTeam": "Cerezo Osaka",
+      "score": "1-3",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "totalGoals": 4,
+      "actualBtts": true,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "171_mito hollyhock_cerezo osaka_Wed 28-Oct_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:48.243Z",
+        "auditHash": "SHA256-IMMUTABLE-4AA0EB71-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": true,
+        "bothHit": true,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_171_2_NagoyaGrampusEight",
+      "leagueId": "171",
+      "leagueName": "Japan J-League Cup",
+      "dateRaw": "Wed 28-Oct-2026",
+      "dateIso": "2026-10-28T12:00:00.000Z",
+      "daysAgo": 10,
+      "time": "10:00",
+      "homeTeam": "Nagoya Grampus Eight",
+      "awayTeam": "Urawa Red Diamonds",
+      "score": "1-2",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "totalGoals": 3,
+      "actualBtts": true,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "171_nagoya grampus eight_urawa red diamonds_Wed 28-Oct_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:48.244Z",
+        "auditHash": "SHA256-IMMUTABLE-451C9B80-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": true,
+        "bothHit": true,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_171_3_SaganTosu",
+      "leagueId": "171",
+      "leagueName": "Japan J-League Cup",
+      "dateRaw": "Wed 28-Oct-2026",
+      "dateIso": "2026-10-28T12:00:00.000Z",
+      "daysAgo": 10,
+      "time": "10:00",
+      "homeTeam": "Sagan Tosu",
+      "awayTeam": "Kawasaki Frontale",
+      "score": "0-2",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "totalGoals": 2,
+      "actualBtts": false,
+      "actualOver25": false,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "171_sagan tosu_kawasaki frontale_Wed 28-Oct_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:48.244Z",
+        "auditHash": "SHA256-IMMUTABLE-4DDF90CF-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": false,
+        "overUnderHit": false,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_171_4_YokohamaFM",
+      "leagueId": "171",
+      "leagueName": "Japan J-League Cup",
+      "dateRaw": "Wed 28-Oct-2026",
+      "dateIso": "2026-10-28T12:00:00.000Z",
+      "daysAgo": 10,
+      "time": "10:00",
+      "homeTeam": "Yokohama FM",
+      "awayTeam": "Sanfrecce Hiroshima",
+      "score": "4-3",
+      "homeGoals": 4,
+      "awayGoals": 3,
+      "totalGoals": 7,
+      "actualBtts": true,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "171_yokohama fm_sanfrecce hiroshima_Wed 28-Oct_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:48.244Z",
+        "auditHash": "SHA256-IMMUTABLE-1EB14A9F-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": true,
+        "bothHit": true,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_171_5_GainareTottori",
+      "leagueId": "171",
+      "leagueName": "Japan J-League Cup",
+      "dateRaw": "Wed 14-Oct-2026",
+      "dateIso": "2026-10-14T12:00:00.000Z",
+      "daysAgo": 24,
+      "time": "11:00",
+      "homeTeam": "Gainare Tottori",
+      "awayTeam": "Cerezo Osaka",
+      "score": "2-3",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "totalGoals": 5,
+      "actualBtts": true,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "171_gainare tottori_cerezo osaka_Wed 14-Oct_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:48.244Z",
+        "auditHash": "SHA256-IMMUTABLE-6B6EDECF-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": true,
+        "bothHit": true,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_171_6_JubiloIwata",
+      "leagueId": "171",
+      "leagueName": "Japan J-League Cup",
+      "dateRaw": "Wed 14-Oct-2026",
+      "dateIso": "2026-10-14T12:00:00.000Z",
+      "daysAgo": 24,
+      "time": "11:00",
+      "homeTeam": "Jubilo Iwata",
+      "awayTeam": "Kawasaki Frontale",
+      "score": "0-4",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "totalGoals": 4,
+      "actualBtts": false,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "171_jubilo iwata_kawasaki frontale_Wed 14-Oct_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:48.244Z",
+        "auditHash": "SHA256-IMMUTABLE-A1EA790-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": false,
+        "overUnderHit": true,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_171_7_MatsumotoYamaga",
+      "leagueId": "171",
+      "leagueName": "Japan J-League Cup",
+      "dateRaw": "Wed 14-Oct-2026",
+      "dateIso": "2026-10-14T12:00:00.000Z",
+      "daysAgo": 24,
+      "time": "11:00",
+      "homeTeam": "Matsumoto Yamaga",
+      "awayTeam": "Sanfrecce Hiroshima",
+      "score": "0-1",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "totalGoals": 1,
+      "actualBtts": false,
+      "actualOver25": false,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "171_matsumoto yamaga_sanfrecce hiroshima_Wed 14-Oct_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:48.244Z",
+        "auditHash": "SHA256-IMMUTABLE-74C87B23-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": false,
+        "overUnderHit": false,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_171_8_MitoHollyhock",
+      "leagueId": "171",
+      "leagueName": "Japan J-League Cup",
+      "dateRaw": "Wed 14-Oct-2026",
+      "dateIso": "2026-10-14T12:00:00.000Z",
+      "daysAgo": 24,
+      "time": "11:00",
+      "homeTeam": "Mito Hollyhock",
+      "awayTeam": "FC Tokyo",
+      "score": "1-0",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "totalGoals": 1,
+      "actualBtts": false,
+      "actualOver25": false,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "171_mito hollyhock_fc tokyo_Wed 14-Oct_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:48.244Z",
+        "auditHash": "SHA256-IMMUTABLE-7D888E49-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": false,
+        "overUnderHit": false,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_171_9_NagoyaGrampusEight",
+      "leagueId": "171",
+      "leagueName": "Japan J-League Cup",
+      "dateRaw": "Wed 14-Oct-2026",
+      "dateIso": "2026-10-14T12:00:00.000Z",
+      "daysAgo": 24,
+      "time": "11:00",
+      "homeTeam": "Nagoya Grampus Eight",
+      "awayTeam": "Okayama",
+      "score": "3-3",
+      "homeGoals": 3,
+      "awayGoals": 3,
+      "totalGoals": 6,
+      "actualBtts": true,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "171_nagoya grampus eight_okayama_Wed 14-Oct_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:48.244Z",
+        "auditHash": "SHA256-IMMUTABLE-79D9C820-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": true,
+        "bothHit": true,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_171_10_SaganTosu",
+      "leagueId": "171",
+      "leagueName": "Japan J-League Cup",
+      "dateRaw": "Wed 14-Oct-2026",
+      "dateIso": "2026-10-14T12:00:00.000Z",
+      "daysAgo": 24,
+      "time": "11:00",
+      "homeTeam": "Sagan Tosu",
+      "awayTeam": "Fukuoka",
+      "score": "2-1",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "totalGoals": 3,
+      "actualBtts": true,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "171_sagan tosu_fukuoka_Wed 14-Oct_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:48.244Z",
+        "auditHash": "SHA256-IMMUTABLE-5E1AEC27-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": true,
+        "bothHit": true,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_171_11_YokohamaFM",
+      "leagueId": "171",
+      "leagueName": "Japan J-League Cup",
+      "dateRaw": "Wed 14-Oct-2026",
+      "dateIso": "2026-10-14T12:00:00.000Z",
+      "daysAgo": 24,
+      "time": "11:00",
+      "homeTeam": "Yokohama FM",
+      "awayTeam": "Shimizu S-Pulse",
+      "score": "2-1",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "totalGoals": 3,
+      "actualBtts": true,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "171_yokohama fm_shimizu s-pulse_Wed 14-Oct_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:48.244Z",
+        "auditHash": "SHA256-IMMUTABLE-27E1ACB8-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": true,
+        "bothHit": true,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_171_12_YokohamaFC",
+      "leagueId": "171",
+      "leagueName": "Japan J-League Cup",
+      "dateRaw": "Wed 14-Oct-2026",
+      "dateIso": "2026-10-14T12:00:00.000Z",
+      "daysAgo": 24,
+      "time": "10:30",
+      "homeTeam": "Yokohama FC",
+      "awayTeam": "Urawa Red Diamonds",
+      "score": "0-4",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "totalGoals": 4,
+      "actualBtts": false,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 1.15,
+        "totalExpectedGoals": 2.86,
+        "bttsProbability": 0.5663,
+        "bttsNoProbability": 0.4337,
+        "over25Probability": 0.5445,
+        "under25Probability": 0.4555,
+        "homeWinProbability": 0.531,
+        "drawProbability": 0.2524,
+        "awayWinProbability": 0.3047,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1193
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.5,
+        "eloBlend": {
+          "homeElo": 1500,
+          "awayElo": 1500,
+          "eloWinProb": 0.592
+        },
+        "matchFingerprint": "171_yokohama fc_urawa red diamonds_Wed 14-Oct_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-07T13:32:48.244Z",
+        "auditHash": "SHA256-IMMUTABLE-49CDC59E-2026-11-07",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": false,
+        "overUnderHit": true,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    }
+  ],
+  "teams": {},
+  "backtest": {
+    "totalMatches": 12,
+    "bttsEvaluated": 12,
+    "bttsHits": 7,
+    "bttsAccuracy": 58.3,
+    "overUnderEvaluated": 12,
+    "overUnderHits": 9,
+    "overUnderAccuracy": 75,
+    "overallAccuracy": 66.7,
+    "exactScoreHits": 0,
+    "exactScoreAccuracy": 0,
+    "confusionMatrix": {
+      "btts": {
+        "predictedYesActualYes": 7,
+        "predictedYesActualNo": 5,
+        "predictedNoActualYes": 0,
+        "predictedNoActualNo": 0
+      },
+      "overUnder": {
+        "predictedOverActualOver": 9,
+        "predictedOverActualUnder": 3,
+        "predictedUnderActualOver": 0,
+        "predictedUnderActualUnder": 0
+      }
+    },
+    "logLoss": 0.6661,
+    "brierScore": 0.2365,
+    "simulatedRoi": 27.3
+  },
+  "parameters": {
+    "homeAdvantage": 1.18,
+    "extendedStatsWeight": 0.35,
+    "formWeight": 0.2,
+    "bttsThreshold": 0.5,
+    "over25Threshold": 0.5
+  }
+}
