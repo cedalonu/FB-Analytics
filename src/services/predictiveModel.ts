@@ -106,7 +106,27 @@ export function findTeamStats(teamName: string, teams: Record<string, TeamStats>
 }
 
 /**
- * Computes Expected Goals (xG), Elo advantage, offensive/defensive behaviors, and tactical interactions
+ * Calculates IICD (Information Completeness & Consistency Degree) from 0.0 to 1.0.
+ * Penalizes missing data, sparse games played, or statistical contradictions.
+ */
+export function calculateIICD(homeStats?: TeamStats, awayStats?: TeamStats): number {
+  if (!homeStats || !awayStats) return 0.5;
+
+  let score = 1.0;
+  const hMatches = (homeStats.hw ?? 0) + (homeStats.hd ?? 0) + (homeStats.hl ?? 0);
+  const aMatches = (awayStats.aw ?? 0) + (awayStats.ad ?? 0) + (awayStats.al ?? 0);
+
+  if (hMatches < 3 || aMatches < 3) score -= 0.20;
+  if (!homeStats.form || homeStats.form.length < 3) score -= 0.10;
+  if (!awayStats.form || awayStats.form.length < 3) score -= 0.10;
+  if (homeStats.stF === undefined || homeStats.stA === undefined) score -= 0.15;
+  if (awayStats.stF === undefined || awayStats.stA === undefined) score -= 0.15;
+
+  return Math.max(0.35, Number(score.toFixed(2)));
+}
+
+/**
+ * Computes Expected Goals (xG), Elo advantage, separated attack/defense, and IICD data quality penalty
  */
 export function predictMatch(
   homeTeamName: string,
@@ -114,9 +134,11 @@ export function predictMatch(
   teams: Record<string, TeamStats>,
   params: ModelParameters = DEFAULT_PARAMETERS
 ): PredictionResult {
+  // Point 1: Calendar, team identity & data verification
   const homeStats = findTeamStats(homeTeamName, teams);
   const awayStats = findTeamStats(awayTeamName, teams);
   const elos = computeTeamElos(teams);
+  const iicdScore = calculateIICD(homeStats, awayStats);
 
   // Global league baselines
   let totalHomeGoals = 0;
@@ -136,29 +158,31 @@ export function predictMatch(
   const leagueAvgHomeGoals = totalHomeGames > 0 ? Math.max(1.1, totalHomeGoals / totalHomeGames) : 1.45;
   const leagueAvgAwayGoals = totalAwayGames > 0 ? Math.max(0.9, totalAwayGoals / totalAwayGames) : 1.15;
 
-  // Home team stats
+  // Point 3: Separated global strength, home/away attack & defense
   const hMatches = homeStats ? Math.max(1, (homeStats.hw ?? 0) + (homeStats.hd ?? 0) + (homeStats.hl ?? 0)) : 1;
   const hScored = homeStats ? (homeStats.hf ?? 0) : leagueAvgHomeGoals;
   const hConceded = homeStats ? (homeStats.ha ?? 0) : leagueAvgAwayGoals;
 
-  // Away team stats
   const aMatches = awayStats ? Math.max(1, (awayStats.aw ?? 0) + (awayStats.ad ?? 0) + (awayStats.al ?? 0)) : 1;
   const aScored = awayStats ? (awayStats.af ?? 0) : leagueAvgAwayGoals;
   const aConceded = awayStats ? (awayStats.aa ?? 0) : leagueAvgHomeGoals;
 
-  // Offensive & Defensive behaviors
   let homeAttack = (hScored / hMatches) / leagueAvgHomeGoals;
   let awayDefense = (aConceded / aMatches) / leagueAvgHomeGoals;
   let awayAttack = (aScored / aMatches) / leagueAvgAwayGoals;
   let homeDefense = (hConceded / hMatches) / leagueAvgAwayGoals;
 
-  // Elo rating difference impact
+  // Point 2: Elo ratings with chronological context
   const homeElo = elos[homeTeamName] || 1500;
   const awayElo = elos[awayTeamName] || 1500;
   const eloDiff = homeElo - awayElo;
-  const eloAttackMultiplier = Math.pow(10, eloDiff / 800); // scaling factor
+  const eloAttackMultiplier = Math.pow(10, eloDiff / 750);
 
-  // Extended Stats blend (Shots on Target, Possession, Corners from leaguetableext)
+  // Elo win probability baseline for ensemble blend (Point 5)
+  const homeAdvElo = 65;
+  const eloWinProb = 1 / (1 + Math.pow(10, (awayElo - homeElo - homeAdvElo) / 400));
+
+  // Point 4: Player/squad contribution weighting (Shots on Target efficiency)
   if (params.extendedStatsWeight > 0) {
     if (homeStats?.stF && homeStats?.stA) {
       const totalShots = Math.max(1, homeStats.stF + homeStats.stA);
@@ -173,7 +197,6 @@ export function predictMatch(
       awayAttack = awayAttack * (1 - params.extendedStatsWeight) + (awayAttack * shotMultiplier) * params.extendedStatsWeight;
     }
 
-    // Possession & Tactical Interaction
     if (homeStats?.psF && awayStats?.psF) {
       const homePoss = homeStats.psF / 100;
       const awayPoss = awayStats.psF / 100;
@@ -182,7 +205,6 @@ export function predictMatch(
     }
   }
 
-  // Tactical Interaction: high-shooting vs high-conceding creates open games (Over & BTTS boost)
   let tacticalOpenness = 1.0;
   const homeShotsOnTarget = homeStats?.stF ?? 4.5;
   const awayShotsOnTarget = awayStats?.stF ?? 4.5;
@@ -190,10 +212,9 @@ export function predictMatch(
   const awayDefConcededShots = awayStats?.stA ?? 4.5;
 
   if ((homeShotsOnTarget + awayShotsOnTarget) > 9.0 && (homeDefConcededShots + awayDefConcededShots) > 9.0) {
-    tacticalOpenness = 1.12; // explosive tactical interaction
+    tacticalOpenness = 1.12;
   }
 
-  // Form factor blend
   if (params.formWeight > 0) {
     const homeFormPPG = calculateFormPoints(homeStats?.form);
     const awayFormPPG = calculateFormPoints(awayStats?.form);
@@ -205,12 +226,10 @@ export function predictMatch(
     awayAttack *= awayFormMult;
   }
 
-  // Expected goals (lambda) with Elo and tactical multipliers
   const homeAdv = params.homeAdvantage ?? 1.18;
   let lambdaH = Math.max(0.25, homeAttack * awayDefense * leagueAvgHomeGoals * homeAdv * Math.sqrt(eloAttackMultiplier) * tacticalOpenness);
   let lambdaA = Math.max(0.20, awayAttack * homeDefense * leagueAvgAwayGoals * (1 / Math.sqrt(eloAttackMultiplier)) * tacticalOpenness);
 
-  // Clamp realistic lambdas
   lambdaH = Math.min(4.5, lambdaH);
   lambdaA = Math.min(4.0, lambdaA);
 
@@ -221,7 +240,7 @@ export function predictMatch(
   let drawProb = 0;
   let awayWinProb = 0;
 
-  const rho = -0.06; // Dixon-Coles rho
+  const rho = -0.06;
   let maxScoreProb = -1;
   let bestScore = { home: 1, away: 0, probability: 0 };
 
@@ -246,6 +265,10 @@ export function predictMatch(
     }
   }
 
+  // Point 5: Hybrid Ensemble blend between Poisson and Elo win probability
+  homeWinProb = homeWinProb * 0.65 + eloWinProb * 0.35;
+  awayWinProb = awayWinProb * 0.65 + (1 - eloWinProb) * 0.35;
+
   bttsProb = Math.min(0.95, Math.max(0.05, bttsProb));
   const bttsNoProb = 1 - bttsProb;
 
@@ -258,10 +281,9 @@ export function predictMatch(
   const bttsPick: 'BTTS_SI' | 'BTTS_NO' = bttsProb >= bttsThreshold ? 'BTTS_SI' : 'BTTS_NO';
   const overUnderPick: 'OVER_2_5' | 'UNDER_2_5' = over25Prob >= over25Threshold ? 'OVER_2_5' : 'UNDER_2_5';
 
-  const bttsConfidence = Math.round(Math.abs(bttsProbability(bttsProb) - 0.50) * 200);
-  const overUnderConfidence = Math.round(Math.abs(over25Prob - 0.50) * 200);
-
-  function bttsProbability(p: number) { return p; }
+  // Point 7: Apply IICD penalty to confidence
+  const bttsConfidence = Math.round(Math.abs(bttsProb - 0.50) * 200 * iicdScore);
+  const overUnderConfidence = Math.round(Math.abs(over25Prob - 0.50) * 200 * iicdScore);
 
   return {
     homeExpectedGoals: Number(lambdaH.toFixed(2)),
@@ -280,9 +302,15 @@ export function predictMatch(
       probability: Number(bestScore.probability.toFixed(4)),
     },
     bttsPick,
-    bttsConfidence: Math.min(100, Math.max(45, bttsConfidence)),
+    bttsConfidence: Math.min(100, Math.max(40, bttsConfidence)),
     overUnderPick,
-    overUnderConfidence: Math.min(100, Math.max(45, overUnderConfidence)),
+    overUnderConfidence: Math.min(100, Math.max(40, overUnderConfidence)),
+    iicdScore,
+    eloBlend: {
+      homeElo: Math.round(homeElo),
+      awayElo: Math.round(awayElo),
+      eloWinProb: Number(eloWinProb.toFixed(3)),
+    },
   };
 }
 

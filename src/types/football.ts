@@ -62,6 +62,8 @@ export interface PredictionResult {
   lockedAt?: string;
   auditHash?: string;
   isImmutable?: boolean;
+  iicdScore?: number; // Information Completeness & Consistency Degree (0.0 to 1.0)
+  eloBlend?: { homeElo: number; awayElo: number; eloWinProb: number };
 }
 
 export interface FixtureMatch {
