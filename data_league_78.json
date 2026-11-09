@@ -1,230 +1,70 @@
 {
   "leagueId": "78",
   "leagueName": "Argentine Liga Profesional",
-  "timestamp": "2026-11-08T13:02:14.797Z",
-  "fixtures": [
-    {
-      "id": "fix_78_1_Aldosivi",
-      "leagueId": "78",
-      "leagueName": "Argentine Liga Profesional",
-      "dateRaw": "Sun 08/11",
-      "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysFromNow": 0,
-      "time": "21:00",
-      "homeTeam": "Aldosivi",
-      "awayTeam": "River Plate",
-      "odds": {
-        "home": 7,
-        "draw": 4.35,
-        "away": 1.47
-      },
-      "prediction": {
-        "homeExpectedGoals": 0.29,
-        "awayExpectedGoals": 1.95,
-        "totalExpectedGoals": 2.24,
-        "bttsProbability": 0.2186,
-        "bttsNoProbability": 0.7814,
-        "over25Probability": 0.3871,
-        "under25Probability": 0.6129,
-        "homeWinProbability": 0.0923,
-        "drawProbability": 0.1826,
-        "awayWinProbability": 0.7884,
-        "predictedScore": {
-          "home": 0,
-          "away": 1,
-          "probability": 0.2041
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 56,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1476,
-          "awayElo": 1799,
-          "eloWinProb": 0.185
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 0.29,
-        "awayExpectedGoals": 1.95,
-        "totalExpectedGoals": 2.24,
-        "bttsProbability": 0.2186,
-        "bttsNoProbability": 0.7814,
-        "over25Probability": 0.3871,
-        "under25Probability": 0.6129,
-        "homeWinProbability": 0.0923,
-        "drawProbability": 0.1826,
-        "awayWinProbability": 0.7884,
-        "predictedScore": {
-          "home": 0,
-          "away": 1,
-          "probability": 0.2041
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 56,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1476,
-          "awayElo": 1799,
-          "eloWinProb": 0.185
-        }
-      },
-      "confidenceScore": 78
-    },
-    {
-      "id": "fix_78_2_GimnasiaLaPlata",
-      "leagueId": "78",
-      "leagueName": "Argentine Liga Profesional",
-      "dateRaw": "Sun 08/11",
-      "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysFromNow": 0,
-      "time": "21:00",
-      "homeTeam": "Gimnasia La Plata",
-      "awayTeam": "Belgrano",
-      "odds": {
-        "home": 2.49,
-        "draw": 3.4,
-        "away": 2.86
-      },
-      "prediction": {
-        "homeExpectedGoals": 1.08,
-        "awayExpectedGoals": 0.89,
-        "totalExpectedGoals": 1.96,
-        "bttsProbability": 0.3959,
-        "bttsNoProbability": 0.6041,
-        "over25Probability": 0.3135,
-        "under25Probability": 0.6865,
-        "homeWinProbability": 0.4694,
-        "drawProbability": 0.3261,
-        "awayWinProbability": 0.3186,
-        "predictedScore": {
-          "home": 0,
-          "away": 0,
-          "probability": 0.1484
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1778,
-          "awayElo": 1755,
-          "eloWinProb": 0.624
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 1.08,
-        "awayExpectedGoals": 0.89,
-        "totalExpectedGoals": 1.96,
-        "bttsProbability": 0.3959,
-        "bttsNoProbability": 0.6041,
-        "over25Probability": 0.3135,
-        "under25Probability": 0.6865,
-        "homeWinProbability": 0.4694,
-        "drawProbability": 0.3261,
-        "awayWinProbability": 0.3186,
-        "predictedScore": {
-          "home": 0,
-          "away": 0,
-          "probability": 0.1484
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1778,
-          "awayElo": 1755,
-          "eloWinProb": 0.624
-        }
-      },
-      "confidenceScore": 69
-    },
-    {
-      "id": "fix_78_3_CentralCordoba",
-      "leagueId": "78",
-      "leagueName": "Argentine Liga Profesional",
-      "dateRaw": "Sun 08/11",
-      "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysFromNow": 0,
-      "time": "22:30",
-      "homeTeam": "Central Cordoba",
-      "awayTeam": "Lanus",
-      "odds": {
-        "home": 5.6,
-        "draw": 3.5,
-        "away": 1.72
-      },
-      "prediction": {
-        "homeExpectedGoals": 0.54,
-        "awayExpectedGoals": 2.82,
-        "totalExpectedGoals": 3.36,
-        "bttsProbability": 0.3922,
-        "bttsNoProbability": 0.6078,
-        "over25Probability": 0.6435,
-        "under25Probability": 0.3565,
-        "homeWinProbability": 0.1126,
-        "drawProbability": 0.1181,
-        "awayWinProbability": 0.8052,
-        "predictedScore": {
-          "home": 0,
-          "away": 2,
-          "probability": 0.1382
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1503,
-          "awayElo": 1768,
-          "eloWinProb": 0.24
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 0.54,
-        "awayExpectedGoals": 2.82,
-        "totalExpectedGoals": 3.36,
-        "bttsProbability": 0.3922,
-        "bttsNoProbability": 0.6078,
-        "over25Probability": 0.6435,
-        "under25Probability": 0.3565,
-        "homeWinProbability": 0.1126,
-        "drawProbability": 0.1181,
-        "awayWinProbability": 0.8052,
-        "predictedScore": {
-          "home": 0,
-          "away": 2,
-          "probability": 0.1382
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1503,
-          "awayElo": 1768,
-          "eloWinProb": 0.24
-        }
-      },
-      "confidenceScore": 64
-    }
-  ],
+  "timestamp": "2026-11-09T15:44:22.871Z",
+  "fixtures": [],
   "results": [
     {
-      "id": "res_78_1_Instituto",
+      "id": "res_78_1_CentralCordoba",
       "leagueId": "78",
       "leagueName": "Argentine Liga Profesional",
       "dateRaw": "Sun 08-Nov-2026",
       "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysAgo": 0,
+      "daysAgo": 1,
+      "time": "22:30",
+      "homeTeam": "Central Cordoba",
+      "awayTeam": "Lanus",
+      "score": "1-1",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "totalGoals": 2,
+      "actualBtts": true,
+      "actualOver25": false,
+      "prediction": {
+        "homeExpectedGoals": 0.54,
+        "awayExpectedGoals": 2.68,
+        "totalExpectedGoals": 3.23,
+        "bttsProbability": 0.3912,
+        "bttsNoProbability": 0.6088,
+        "over25Probability": 0.6194,
+        "under25Probability": 0.3806,
+        "homeWinProbability": 0.116,
+        "drawProbability": 0.1292,
+        "awayWinProbability": 0.7959,
+        "predictedScore": {
+          "home": 0,
+          "away": 2,
+          "probability": 0.1429
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1507,
+          "awayElo": 1772,
+          "eloWinProb": 0.24
+        },
+        "matchFingerprint": "78_central cordoba_lanus_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-09T15:44:22.870Z",
+        "auditHash": "SHA256-IMMUTABLE-507C2275-2026-11-09",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": false,
+        "overUnderHit": false,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_78_2_Instituto",
+      "leagueId": "78",
+      "leagueName": "Argentine Liga Profesional",
+      "dateRaw": "Sun 08-Nov-2026",
+      "dateIso": "2026-11-08T12:00:00.000Z",
+      "daysAgo": 1,
       "time": "01:00",
       "homeTeam": "Instituto",
       "awayTeam": "Newells",
@@ -237,13 +77,13 @@
       "prediction": {
         "homeExpectedGoals": 3.24,
         "awayExpectedGoals": 0.6,
-        "totalExpectedGoals": 3.84,
-        "bttsProbability": 0.4286,
-        "bttsNoProbability": 0.5714,
-        "over25Probability": 0.7201,
-        "under25Probability": 0.2799,
-        "homeWinProbability": 0.8387,
-        "drawProbability": 0.0935,
+        "totalExpectedGoals": 3.85,
+        "bttsProbability": 0.4285,
+        "bttsNoProbability": 0.5715,
+        "over25Probability": 0.7203,
+        "under25Probability": 0.2797,
+        "homeWinProbability": 0.8388,
+        "drawProbability": 0.0934,
         "awayWinProbability": 0.0888,
         "predictedScore": {
           "home": 3,
@@ -261,8 +101,8 @@
           "eloWinProb": 0.814
         },
         "matchFingerprint": "78_instituto_newells_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:14.794Z",
-        "auditHash": "SHA256-IMMUTABLE-3D0B6114-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:22.870Z",
+        "auditHash": "SHA256-IMMUTABLE-57509932-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -273,12 +113,12 @@
       }
     },
     {
-      "id": "res_78_2_BocaJuniors",
+      "id": "res_78_3_BocaJuniors",
       "leagueId": "78",
       "leagueName": "Argentine Liga Profesional",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "20:30",
       "homeTeam": "Boca Juniors",
       "awayTeam": "Defensa y Justicia",
@@ -294,11 +134,11 @@
         "totalExpectedGoals": 2.8,
         "bttsProbability": 0.2883,
         "bttsNoProbability": 0.7117,
-        "over25Probability": 0.527,
-        "under25Probability": 0.473,
-        "homeWinProbability": 0.8122,
-        "drawProbability": 0.137,
-        "awayWinProbability": 0.0965,
+        "over25Probability": 0.5272,
+        "under25Probability": 0.4728,
+        "homeWinProbability": 0.8123,
+        "drawProbability": 0.1369,
+        "awayWinProbability": 0.0964,
         "predictedScore": {
           "home": 2,
           "away": 0,
@@ -315,8 +155,8 @@
           "eloWinProb": 0.796
         },
         "matchFingerprint": "78_boca juniors_defensa y justicia_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:14.795Z",
-        "auditHash": "SHA256-IMMUTABLE-6E9268C0-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:22.870Z",
+        "auditHash": "SHA256-IMMUTABLE-6349E7C2-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -327,12 +167,12 @@
       }
     },
     {
-      "id": "res_78_3_ArgentinosJuniors",
+      "id": "res_78_4_ArgentinosJuniors",
       "leagueId": "78",
       "leagueName": "Argentine Liga Profesional",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "20:30",
       "homeTeam": "Argentinos Juniors",
       "awayTeam": "Huracan",
@@ -343,15 +183,15 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 1.56,
+        "homeExpectedGoals": 1.57,
         "awayExpectedGoals": 0.44,
         "totalExpectedGoals": 2,
         "bttsProbability": 0.2855,
         "bttsNoProbability": 0.7145,
-        "over25Probability": 0.3236,
-        "under25Probability": 0.6764,
-        "homeWinProbability": 0.6881,
-        "drawProbability": 0.2556,
+        "over25Probability": 0.3237,
+        "under25Probability": 0.6763,
+        "homeWinProbability": 0.6882,
+        "drawProbability": 0.2555,
         "awayWinProbability": 0.1456,
         "predictedScore": {
           "home": 1,
@@ -369,8 +209,8 @@
           "eloWinProb": 0.76
         },
         "matchFingerprint": "78_argentinos juniors_huracan_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:14.795Z",
-        "auditHash": "SHA256-IMMUTABLE-724F1BFD-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:22.870Z",
+        "auditHash": "SHA256-IMMUTABLE-892BCDE-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -381,12 +221,12 @@
       }
     },
     {
-      "id": "res_78_4_RosarioCentral",
+      "id": "res_78_5_RosarioCentral",
       "leagueId": "78",
       "leagueName": "Argentine Liga Profesional",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "20:30",
       "homeTeam": "Rosario Central",
       "awayTeam": "Estudiantes Rio Cuarto",
@@ -423,8 +263,8 @@
           "eloWinProb": 0.951
         },
         "matchFingerprint": "78_rosario central_estudiantes rio cuarto_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:14.795Z",
-        "auditHash": "SHA256-IMMUTABLE-5FA89581-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:22.870Z",
+        "auditHash": "SHA256-IMMUTABLE-BED1CBD-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -435,12 +275,12 @@
       }
     },
     {
-      "id": "res_78_5_GimnasiaMendoza",
+      "id": "res_78_6_GimnasiaMendoza",
       "leagueId": "78",
       "leagueName": "Argentine Liga Profesional",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "18:00",
       "homeTeam": "Gimnasia Mendoza",
       "awayTeam": "Independiente Rivadavia",
@@ -454,11 +294,11 @@
         "homeExpectedGoals": 1.04,
         "awayExpectedGoals": 1,
         "totalExpectedGoals": 2.04,
-        "bttsProbability": 0.4169,
-        "bttsNoProbability": 0.5831,
-        "over25Probability": 0.3343,
-        "under25Probability": 0.6657,
-        "homeWinProbability": 0.3514,
+        "bttsProbability": 0.417,
+        "bttsNoProbability": 0.583,
+        "over25Probability": 0.3344,
+        "under25Probability": 0.6656,
+        "homeWinProbability": 0.3515,
         "drawProbability": 0.3209,
         "awayWinProbability": 0.4399,
         "predictedScore": {
@@ -477,8 +317,8 @@
           "eloWinProb": 0.355
         },
         "matchFingerprint": "78_gimnasia mendoza_independiente rivadavia_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:14.795Z",
-        "auditHash": "SHA256-IMMUTABLE-6F11F3EC-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:22.870Z",
+        "auditHash": "SHA256-IMMUTABLE-9C99963-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -489,12 +329,12 @@
       }
     },
     {
-      "id": "res_78_6_Talleres",
+      "id": "res_78_7_Talleres",
       "leagueId": "78",
       "leagueName": "Argentine Liga Profesional",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "18:00",
       "homeTeam": "Talleres",
       "awayTeam": "Estudiantes",
@@ -508,11 +348,11 @@
         "homeExpectedGoals": 0.84,
         "awayExpectedGoals": 1.03,
         "totalExpectedGoals": 1.87,
-        "bttsProbability": 0.3738,
-        "bttsNoProbability": 0.6262,
-        "over25Probability": 0.2887,
-        "under25Probability": 0.7113,
-        "homeWinProbability": 0.3346,
+        "bttsProbability": 0.3739,
+        "bttsNoProbability": 0.6261,
+        "over25Probability": 0.2888,
+        "under25Probability": 0.7112,
+        "homeWinProbability": 0.3347,
         "drawProbability": 0.335,
         "awayWinProbability": 0.4476,
         "predictedScore": {
@@ -531,8 +371,8 @@
           "eloWinProb": 0.434
         },
         "matchFingerprint": "78_talleres_estudiantes_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:14.795Z",
-        "auditHash": "SHA256-IMMUTABLE-23E23616-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:22.871Z",
+        "auditHash": "SHA256-IMMUTABLE-FC6D915-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -543,12 +383,12 @@
       }
     },
     {
-      "id": "res_78_7_Banfield",
+      "id": "res_78_8_Banfield",
       "leagueId": "78",
       "leagueName": "Argentine Liga Profesional",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "01:00",
       "homeTeam": "Banfield",
       "awayTeam": "Atletico Tucuman",
@@ -562,13 +402,13 @@
         "homeExpectedGoals": 1.33,
         "awayExpectedGoals": 1.15,
         "totalExpectedGoals": 2.48,
-        "bttsProbability": 0.5109,
-        "bttsNoProbability": 0.4891,
-        "over25Probability": 0.4517,
-        "under25Probability": 0.5483,
-        "homeWinProbability": 0.4668,
-        "drawProbability": 0.2852,
-        "awayWinProbability": 0.3478,
+        "bttsProbability": 0.511,
+        "bttsNoProbability": 0.489,
+        "over25Probability": 0.4518,
+        "under25Probability": 0.5482,
+        "homeWinProbability": 0.4669,
+        "drawProbability": 0.2851,
+        "awayWinProbability": 0.3477,
         "predictedScore": {
           "home": 1,
           "away": 1,
@@ -585,8 +425,8 @@
           "eloWinProb": 0.591
         },
         "matchFingerprint": "78_banfield_atletico tucuman_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:14.795Z",
-        "auditHash": "SHA256-IMMUTABLE-A966226-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:22.871Z",
+        "auditHash": "SHA256-IMMUTABLE-6DBDB05A-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -597,12 +437,12 @@
       }
     },
     {
-      "id": "res_78_8_Tigre",
+      "id": "res_78_9_Tigre",
       "leagueId": "78",
       "leagueName": "Argentine Liga Profesional",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "01:00",
       "homeTeam": "Tigre",
       "awayTeam": "Sarmiento",
@@ -613,16 +453,16 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 1.82,
+        "homeExpectedGoals": 1.83,
         "awayExpectedGoals": 0.7,
         "totalExpectedGoals": 2.52,
         "bttsProbability": 0.4269,
         "bttsNoProbability": 0.5731,
-        "over25Probability": 0.4611,
-        "under25Probability": 0.5389,
-        "homeWinProbability": 0.6332,
+        "over25Probability": 0.4613,
+        "under25Probability": 0.5387,
+        "homeWinProbability": 0.6333,
         "drawProbability": 0.2322,
-        "awayWinProbability": 0.2155,
+        "awayWinProbability": 0.2154,
         "predictedScore": {
           "home": 1,
           "away": 0,
@@ -639,8 +479,8 @@
           "eloWinProb": 0.627
         },
         "matchFingerprint": "78_tigre_sarmiento_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:14.796Z",
-        "auditHash": "SHA256-IMMUTABLE-62870D38-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:22.871Z",
+        "auditHash": "SHA256-IMMUTABLE-3595E6C8-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -651,12 +491,12 @@
       }
     },
     {
-      "id": "res_78_9_Independiente",
+      "id": "res_78_10_Independiente",
       "leagueId": "78",
       "leagueName": "Argentine Liga Profesional",
       "dateRaw": "Fri 06-Nov-2026",
       "dateIso": "2026-11-06T12:00:00.000Z",
-      "daysAgo": 2,
+      "daysAgo": 3,
       "time": "22:15",
       "homeTeam": "Independiente",
       "awayTeam": "Deportivo Riestra",
@@ -672,10 +512,10 @@
         "totalExpectedGoals": 1.92,
         "bttsProbability": 0.1584,
         "bttsNoProbability": 0.8416,
-        "over25Probability": 0.3023,
-        "under25Probability": 0.6977,
-        "homeWinProbability": 0.7783,
-        "drawProbability": 0.2098,
+        "over25Probability": 0.3025,
+        "under25Probability": 0.6975,
+        "homeWinProbability": 0.7784,
+        "drawProbability": 0.2097,
         "awayWinProbability": 0.085,
         "predictedScore": {
           "home": 1,
@@ -693,8 +533,8 @@
           "eloWinProb": 0.826
         },
         "matchFingerprint": "78_independiente_deportivo riestra_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:14.796Z",
-        "auditHash": "SHA256-IMMUTABLE-4AB08A0A-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:22.871Z",
+        "auditHash": "SHA256-IMMUTABLE-1D3281F6-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -705,12 +545,12 @@
       }
     },
     {
-      "id": "res_78_10_SanLorenzo",
+      "id": "res_78_11_SanLorenzo",
       "leagueId": "78",
       "leagueName": "Argentine Liga Profesional",
       "dateRaw": "Fri 06-Nov-2026",
       "dateIso": "2026-11-06T12:00:00.000Z",
-      "daysAgo": 2,
+      "daysAgo": 3,
       "time": "22:15",
       "homeTeam": "San Lorenzo",
       "awayTeam": "Platense",
@@ -724,17 +564,17 @@
         "homeExpectedGoals": 0.89,
         "awayExpectedGoals": 1.12,
         "totalExpectedGoals": 2.01,
-        "bttsProbability": 0.4041,
-        "bttsNoProbability": 0.5959,
-        "over25Probability": 0.3251,
-        "under25Probability": 0.6749,
-        "homeWinProbability": 0.4092,
+        "bttsProbability": 0.4042,
+        "bttsNoProbability": 0.5958,
+        "over25Probability": 0.3252,
+        "under25Probability": 0.6748,
+        "homeWinProbability": 0.4093,
         "drawProbability": 0.321,
-        "awayWinProbability": 0.3821,
+        "awayWinProbability": 0.382,
         "predictedScore": {
           "home": 0,
           "away": 1,
-          "probability": 0.1426
+          "probability": 0.1425
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -747,8 +587,8 @@
           "eloWinProb": 0.652
         },
         "matchFingerprint": "78_san lorenzo_platense_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:14.796Z",
-        "auditHash": "SHA256-IMMUTABLE-4D8CF113-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:22.871Z",
+        "auditHash": "SHA256-IMMUTABLE-39719431-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -759,12 +599,12 @@
       }
     },
     {
-      "id": "res_78_11_UnionSantaFe",
+      "id": "res_78_12_UnionSantaFe",
       "leagueId": "78",
       "leagueName": "Argentine Liga Profesional",
       "dateRaw": "Fri 06-Nov-2026",
       "dateIso": "2026-11-06T12:00:00.000Z",
-      "daysAgo": 2,
+      "daysAgo": 3,
       "time": "22:15",
       "homeTeam": "Union Santa Fe",
       "awayTeam": "Velez",
@@ -780,11 +620,11 @@
         "totalExpectedGoals": 3.04,
         "bttsProbability": 0.6084,
         "bttsNoProbability": 0.3916,
-        "over25Probability": 0.5848,
-        "under25Probability": 0.4152,
-        "homeWinProbability": 0.3333,
+        "over25Probability": 0.5849,
+        "under25Probability": 0.4151,
+        "homeWinProbability": 0.3334,
         "drawProbability": 0.2497,
-        "awayWinProbability": 0.5041,
+        "awayWinProbability": 0.504,
         "predictedScore": {
           "home": 1,
           "away": 1,
@@ -801,8 +641,8 @@
           "eloWinProb": 0.409
         },
         "matchFingerprint": "78_union santa fe_velez_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:14.796Z",
-        "auditHash": "SHA256-IMMUTABLE-773004B8-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:22.871Z",
+        "auditHash": "SHA256-IMMUTABLE-D73A599-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -813,12 +653,12 @@
       }
     },
     {
-      "id": "res_78_12_BarracasCentral",
+      "id": "res_78_13_BarracasCentral",
       "leagueId": "78",
       "leagueName": "Argentine Liga Profesional",
       "dateRaw": "Fri 06-Nov-2026",
       "dateIso": "2026-11-06T12:00:00.000Z",
-      "daysAgo": 2,
+      "daysAgo": 3,
       "time": "18:00",
       "homeTeam": "Barracas Central",
       "awayTeam": "Racing Club",
@@ -832,17 +672,17 @@
         "homeExpectedGoals": 1.53,
         "awayExpectedGoals": 0.64,
         "totalExpectedGoals": 2.18,
-        "bttsProbability": 0.3785,
-        "bttsNoProbability": 0.6215,
-        "over25Probability": 0.3707,
-        "under25Probability": 0.6293,
-        "homeWinProbability": 0.6378,
+        "bttsProbability": 0.3786,
+        "bttsNoProbability": 0.6214,
+        "over25Probability": 0.3709,
+        "under25Probability": 0.6291,
+        "homeWinProbability": 0.6379,
         "drawProbability": 0.2695,
         "awayWinProbability": 0.1869,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1673
+          "probability": 0.1672
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -855,8 +695,8 @@
           "eloWinProb": 0.741
         },
         "matchFingerprint": "78_barracas central_racing club_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:14.796Z",
-        "auditHash": "SHA256-IMMUTABLE-33B29726-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:22.871Z",
+        "auditHash": "SHA256-IMMUTABLE-1DBDE725-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -867,12 +707,12 @@
       }
     },
     {
-      "id": "res_78_13_GimnasiaLaPlata",
+      "id": "res_78_14_GimnasiaLaPlata",
       "leagueId": "78",
       "leagueName": "Argentine Liga Profesional",
       "dateRaw": "Thu 05-Nov-2026",
       "dateIso": "2026-11-05T12:00:00.000Z",
-      "daysAgo": 3,
+      "daysAgo": 4,
       "time": "22:15",
       "homeTeam": "Gimnasia La Plata",
       "awayTeam": "Belgrano",
@@ -888,15 +728,15 @@
         "totalExpectedGoals": 1.96,
         "bttsProbability": 0.3959,
         "bttsNoProbability": 0.6041,
-        "over25Probability": 0.3135,
-        "under25Probability": 0.6865,
-        "homeWinProbability": 0.4694,
+        "over25Probability": 0.3136,
+        "under25Probability": 0.6864,
+        "homeWinProbability": 0.4695,
         "drawProbability": 0.3261,
-        "awayWinProbability": 0.3186,
+        "awayWinProbability": 0.3185,
         "predictedScore": {
           "home": 0,
           "away": 0,
-          "probability": 0.1484
+          "probability": 0.1483
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -909,8 +749,8 @@
           "eloWinProb": 0.624
         },
         "matchFingerprint": "78_gimnasia la plata_belgrano_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:14.796Z",
-        "auditHash": "SHA256-IMMUTABLE-47E7DCAB-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:22.871Z",
+        "auditHash": "SHA256-IMMUTABLE-4E5BC436-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -921,12 +761,12 @@
       }
     },
     {
-      "id": "res_78_14_Aldosivi",
+      "id": "res_78_15_Aldosivi",
       "leagueId": "78",
       "leagueName": "Argentine Liga Profesional",
       "dateRaw": "Thu 05-Nov-2026",
       "dateIso": "2026-11-05T12:00:00.000Z",
-      "daysAgo": 3,
+      "daysAgo": 4,
       "time": "18:00",
       "homeTeam": "Aldosivi",
       "awayTeam": "River Plate",
@@ -963,68 +803,14 @@
           "eloWinProb": 0.185
         },
         "matchFingerprint": "78_aldosivi_river plate_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:14.796Z",
-        "auditHash": "SHA256-IMMUTABLE-5507CE78-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:22.871Z",
+        "auditHash": "SHA256-IMMUTABLE-168DE3C6-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
         "bttsHit": true,
         "overUnderHit": true,
         "bothHit": true,
-        "exactScoreHit": false
-      }
-    },
-    {
-      "id": "res_78_15_AtleticoTucuman",
-      "leagueId": "78",
-      "leagueName": "Argentine Liga Profesional",
-      "dateRaw": "Tue 03-Nov-2026",
-      "dateIso": "2026-11-03T12:00:00.000Z",
-      "daysAgo": 5,
-      "time": "00:15",
-      "homeTeam": "Atletico Tucuman",
-      "awayTeam": "Argentinos Juniors",
-      "score": "1-2",
-      "homeGoals": 1,
-      "awayGoals": 2,
-      "totalGoals": 3,
-      "actualBtts": true,
-      "actualOver25": true,
-      "prediction": {
-        "homeExpectedGoals": 0.62,
-        "awayExpectedGoals": 1.81,
-        "totalExpectedGoals": 2.43,
-        "bttsProbability": 0.3924,
-        "bttsNoProbability": 0.6076,
-        "over25Probability": 0.4369,
-        "under25Probability": 0.5631,
-        "homeWinProbability": 0.1646,
-        "drawProbability": 0.2307,
-        "awayWinProbability": 0.6851,
-        "predictedScore": {
-          "home": 0,
-          "away": 1,
-          "probability": 0.1535
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1585,
-          "awayElo": 1836,
-          "eloWinProb": 0.255
-        },
-        "matchFingerprint": "78_atletico tucuman_argentinos juniors_Tue 03-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:14.797Z",
-        "auditHash": "SHA256-IMMUTABLE-4B387179-2026-11-08",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": false,
-        "overUnderHit": false,
-        "bothHit": false,
         "exactScoreHit": false
       }
     }
@@ -1048,18 +834,18 @@
       "pts": 47,
       "ppg": 1.46,
       "form": "WDLLDD",
-      "ycF": 1.9,
+      "ycF": 2.1,
       "ycA": 1.4,
       "rcF": 0.1,
       "rcA": 0.1,
       "psF": 38,
-      "psA": 50,
+      "psA": 49,
       "cF": 3.1,
-      "cA": 5.1,
-      "stF": 2,
-      "stA": 4.4,
+      "cA": 5.3,
+      "stF": 2.1,
+      "stA": 4.6,
       "sntF": 3.6,
-      "sntA": 6.1
+      "sntA": 6.3
     },
     "Boca Juniors": {
       "pos": 1,
@@ -1188,33 +974,33 @@
     "Lanus": {
       "pos": 9,
       "team": "Lanus",
-      "p": 31,
+      "p": 32,
       "hw": 7,
       "hd": 6,
       "hl": 3,
       "hf": 18,
       "ha": 12,
       "aw": 6,
-      "ad": 4,
+      "ad": 5,
       "al": 5,
-      "af": 18,
-      "aa": 14,
+      "af": 19,
+      "aa": 15,
       "gd": 10,
-      "pts": 49,
-      "ppg": 1.58,
-      "form": "WdWWDD",
-      "ycF": 2.6,
+      "pts": 50,
+      "ppg": 1.56,
+      "form": "dWWDDD",
+      "ycF": 2.5,
       "ycA": 1.9,
       "rcF": 0.1,
       "rcA": 0.1,
-      "psF": 49,
-      "psA": 51,
-      "cF": 3.3,
-      "cA": 5.2,
+      "psF": 50,
+      "psA": 50,
+      "cF": 3.4,
+      "cA": 5,
       "stF": 3.4,
-      "stA": 4,
-      "sntF": 4.6,
-      "sntA": 6.5
+      "stA": 3.8,
+      "sntF": 4.9,
+      "sntA": 6.4
     },
     "San Lorenzo": {
       "pos": 18,
@@ -1405,21 +1191,21 @@
     "Central Cordoba": {
       "pos": 27,
       "team": "Central Cordoba",
-      "p": 31,
+      "p": 32,
       "hw": 5,
-      "hd": 3,
+      "hd": 4,
       "hl": 7,
-      "hf": 15,
-      "ha": 22,
+      "hf": 16,
+      "ha": 23,
       "aw": 1,
       "ad": 5,
       "al": 10,
       "af": 7,
       "aa": 24,
       "gd": -24,
-      "pts": 26,
-      "ppg": 0.83,
-      "form": "DDDLLL",
+      "pts": 27,
+      "ppg": 0.84,
+      "form": "DDLLLD",
       "ycF": 2.6,
       "ycA": 1.9,
       "rcF": 0.1,
@@ -1957,13 +1743,13 @@
       },
       "overUnder": {
         "predictedOverActualOver": 1,
-        "predictedOverActualUnder": 3,
-        "predictedUnderActualOver": 4,
+        "predictedOverActualUnder": 4,
+        "predictedUnderActualOver": 3,
         "predictedUnderActualUnder": 7
       }
     },
-    "logLoss": 0.7047,
-    "brierScore": 0.2532,
+    "logLoss": 0.7094,
+    "brierScore": 0.2555,
     "simulatedRoi": 1.9
   },
   "parameters": {

@@ -1,7 +1,7 @@
 {
   "leagueId": "30",
   "leagueName": "MLS",
-  "timestamp": "2026-11-08T13:02:10.045Z",
+  "timestamp": "2026-11-09T15:44:19.361Z",
   "fixtures": [],
   "results": [
     {
@@ -10,7 +10,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sun 08-Nov-2026",
       "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysAgo": 0,
+      "daysAgo": 1,
       "time": "00:00",
       "homeTeam": "Austin FC",
       "awayTeam": "Portland",
@@ -47,8 +47,8 @@
           "eloWinProb": 0.395
         },
         "matchFingerprint": "30_austin fc_portland_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:10.043Z",
-        "auditHash": "SHA256-IMMUTABLE-133814E1-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:19.359Z",
+        "auditHash": "SHA256-IMMUTABLE-5F1241CB-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -64,7 +64,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sun 08-Nov-2026",
       "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysAgo": 0,
+      "daysAgo": 1,
       "time": "00:00",
       "homeTeam": "FC Dallas",
       "awayTeam": "Colorado",
@@ -101,8 +101,8 @@
           "eloWinProb": 0.754
         },
         "matchFingerprint": "30_fc dallas_colorado_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:10.043Z",
-        "auditHash": "SHA256-IMMUTABLE-11F066BA-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:19.359Z",
+        "auditHash": "SHA256-IMMUTABLE-7BC5429A-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -118,7 +118,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sun 08-Nov-2026",
       "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysAgo": 0,
+      "daysAgo": 1,
       "time": "00:00",
       "homeTeam": "Houston",
       "awayTeam": "St. Louis City",
@@ -155,8 +155,8 @@
           "eloWinProb": 0.522
         },
         "matchFingerprint": "30_houston_st. louis city_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:10.044Z",
-        "auditHash": "SHA256-IMMUTABLE-52669B9D-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:19.360Z",
+        "auditHash": "SHA256-IMMUTABLE-1FE3BD9A-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -172,7 +172,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sun 08-Nov-2026",
       "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysAgo": 0,
+      "daysAgo": 1,
       "time": "00:00",
       "homeTeam": "Minnesota United",
       "awayTeam": "San Jose",
@@ -209,8 +209,8 @@
           "eloWinProb": 0.487
         },
         "matchFingerprint": "30_minnesota united_san jose_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:10.044Z",
-        "auditHash": "SHA256-IMMUTABLE-20E67B45-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:19.360Z",
+        "auditHash": "SHA256-IMMUTABLE-6CCF2B84-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -226,7 +226,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sun 08-Nov-2026",
       "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysAgo": 0,
+      "daysAgo": 1,
       "time": "00:00",
       "homeTeam": "Real Salt Lake",
       "awayTeam": "LA Galaxy",
@@ -263,8 +263,8 @@
           "eloWinProb": 0.64
         },
         "matchFingerprint": "30_real salt lake_la galaxy_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:10.044Z",
-        "auditHash": "SHA256-IMMUTABLE-1B7EF3C-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:19.360Z",
+        "auditHash": "SHA256-IMMUTABLE-709269FB-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -280,7 +280,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sun 08-Nov-2026",
       "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysAgo": 0,
+      "daysAgo": 1,
       "time": "00:00",
       "homeTeam": "San Diego",
       "awayTeam": "Sporting KC",
@@ -317,8 +317,8 @@
           "eloWinProb": 0.777
         },
         "matchFingerprint": "30_san diego_sporting kc_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:10.044Z",
-        "auditHash": "SHA256-IMMUTABLE-30BAC067-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:19.360Z",
+        "auditHash": "SHA256-IMMUTABLE-5CFAE662-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -334,7 +334,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sun 08-Nov-2026",
       "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysAgo": 0,
+      "daysAgo": 1,
       "time": "00:00",
       "homeTeam": "Seattle",
       "awayTeam": "Los Angeles FC",
@@ -371,8 +371,8 @@
           "eloWinProb": 0.516
         },
         "matchFingerprint": "30_seattle_los angeles fc_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:10.044Z",
-        "auditHash": "SHA256-IMMUTABLE-2959F2F1-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:19.360Z",
+        "auditHash": "SHA256-IMMUTABLE-48F06646-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -388,7 +388,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "21:00",
       "homeTeam": "Chicago",
       "awayTeam": "Columbus",
@@ -399,25 +399,25 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 2.58,
-        "awayExpectedGoals": 1.88,
-        "totalExpectedGoals": 4.45,
-        "bttsProbability": 0.7812,
-        "bttsNoProbability": 0.2188,
-        "over25Probability": 0.8154,
-        "under25Probability": 0.1846,
-        "homeWinProbability": 0.5704,
-        "drawProbability": 0.1929,
-        "awayWinProbability": 0.3005,
+        "homeExpectedGoals": 2.88,
+        "awayExpectedGoals": 2.11,
+        "totalExpectedGoals": 4.99,
+        "bttsProbability": 0.8221,
+        "bttsNoProbability": 0.1779,
+        "over25Probability": 0.8636,
+        "under25Probability": 0.1364,
+        "homeWinProbability": 0.5764,
+        "drawProbability": 0.179,
+        "awayWinProbability": 0.3001,
         "predictedScore": {
           "home": 2,
-          "away": 1,
-          "probability": 0.0725
+          "away": 2,
+          "probability": 0.0628
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 56,
+        "bttsConfidence": 64,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 63,
+        "overUnderConfidence": 73,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1773,
@@ -425,8 +425,8 @@
           "eloWinProb": 0.656
         },
         "matchFingerprint": "30_chicago_columbus_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:10.044Z",
-        "auditHash": "SHA256-IMMUTABLE-20B6A512-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:19.360Z",
+        "auditHash": "SHA256-IMMUTABLE-612C1FB3-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -442,7 +442,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "21:00",
       "homeTeam": "Cincinnati",
       "awayTeam": "Nashville Sc",
@@ -479,8 +479,8 @@
           "eloWinProb": 0.21
         },
         "matchFingerprint": "30_cincinnati_nashville sc_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:10.044Z",
-        "auditHash": "SHA256-IMMUTABLE-57B8A103-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:19.360Z",
+        "auditHash": "SHA256-IMMUTABLE-1A91B834-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -496,7 +496,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "21:00",
       "homeTeam": "D.C. United",
       "awayTeam": "New York City",
@@ -533,8 +533,8 @@
           "eloWinProb": 0.423
         },
         "matchFingerprint": "30_d.c. united_new york city_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:10.045Z",
-        "auditHash": "SHA256-IMMUTABLE-2D826EB6-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:19.360Z",
+        "auditHash": "SHA256-IMMUTABLE-44C7EA62-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -550,7 +550,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "21:00",
       "homeTeam": "Inter Miami",
       "awayTeam": "Charlotte FC",
@@ -587,8 +587,8 @@
           "eloWinProb": 0.66
         },
         "matchFingerprint": "30_inter miami_charlotte fc_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:10.045Z",
-        "auditHash": "SHA256-IMMUTABLE-30F0DDBB-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:19.360Z",
+        "auditHash": "SHA256-IMMUTABLE-5CC4C92D-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -604,7 +604,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "21:00",
       "homeTeam": "Montreal",
       "awayTeam": "Vancouver",
@@ -641,8 +641,8 @@
           "eloWinProb": 0.129
         },
         "matchFingerprint": "30_montreal_vancouver_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:10.045Z",
-        "auditHash": "SHA256-IMMUTABLE-16E42700-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:19.360Z",
+        "auditHash": "SHA256-IMMUTABLE-76D17FE8-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -658,7 +658,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "21:00",
       "homeTeam": "NY Red Bulls",
       "awayTeam": "Atlanta United",
@@ -695,8 +695,8 @@
           "eloWinProb": 0.66
         },
         "matchFingerprint": "30_ny red bulls_atlanta united_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:10.045Z",
-        "auditHash": "SHA256-IMMUTABLE-45DEBD0E-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:19.360Z",
+        "auditHash": "SHA256-IMMUTABLE-2C6B9C0A-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -712,7 +712,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "21:00",
       "homeTeam": "Orlando",
       "awayTeam": "New England",
@@ -749,8 +749,8 @@
           "eloWinProb": 0.41
         },
         "matchFingerprint": "30_orlando_new england_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:10.045Z",
-        "auditHash": "SHA256-IMMUTABLE-3D993068-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:19.360Z",
+        "auditHash": "SHA256-IMMUTABLE-501C7680-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -766,7 +766,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "21:00",
       "homeTeam": "Philadelphia",
       "awayTeam": "Toronto FC",
@@ -803,8 +803,8 @@
           "eloWinProb": 0.771
         },
         "matchFingerprint": "30_philadelphia_toronto fc_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-08T13:02:10.045Z",
-        "auditHash": "SHA256-IMMUTABLE-5224A502-2026-11-08",
+        "lockedAt": "2026-11-09T15:44:19.361Z",
+        "auditHash": "SHA256-IMMUTABLE-2025B435-2026-11-09",
         "isImmutable": true
       },
       "evaluation": {
@@ -1020,18 +1020,18 @@
       "pts": 47,
       "ppg": 1.38,
       "form": "WWWWWW",
-      "ycF": 1.4,
-      "ycA": 1.8,
+      "ycF": 1.5,
+      "ycA": 2,
       "rcF": 0,
       "rcA": 0,
-      "psF": 50,
-      "psA": 44,
-      "cF": 5,
-      "cA": 4,
-      "stF": 3.8,
-      "stA": 4.8,
-      "sntF": 4.4,
-      "sntA": 4
+      "psF": 51,
+      "psA": 43,
+      "cF": 5.2,
+      "cA": 4.3,
+      "stF": 4.1,
+      "stA": 5.1,
+      "sntF": 4.6,
+      "sntA": 4.2
     },
     "Orlando": {
       "pos": 8,
@@ -1772,8 +1772,8 @@
         "predictedUnderActualUnder": 2
       }
     },
-    "logLoss": 0.6739,
-    "brierScore": 0.2404,
+    "logLoss": 0.6703,
+    "brierScore": 0.2394,
     "simulatedRoi": 8.2
   },
   "parameters": {
