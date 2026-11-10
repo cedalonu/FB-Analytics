@@ -1,7 +1,7 @@
 {
   "leagueId": "77",
   "leagueName": "Liga MX",
-  "timestamp": "2026-11-09T15:44:21.141Z",
+  "timestamp": "2026-11-10T14:38:54.735Z",
   "fixtures": [
     {
       "id": "fix_77_1_ClubQueretaro",
@@ -9,14 +9,14 @@
       "leagueName": "Liga MX",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "23:00",
       "homeTeam": "Club Queretaro",
       "awayTeam": "Monterrey",
       "odds": {
-        "home": 3.7,
-        "draw": 3.85,
-        "away": 1.93
+        "home": 3.54,
+        "draw": 3.76,
+        "away": 2
       },
       "prediction": {
         "homeExpectedGoals": 1.53,
@@ -82,7 +82,7 @@
       "leagueName": "Liga MX",
       "dateRaw": "Mon 09-Nov-2026",
       "dateIso": "2026-11-09T12:00:00.000Z",
-      "daysAgo": 0,
+      "daysAgo": 1,
       "time": "02:10",
       "homeTeam": "Club Leon",
       "awayTeam": "Guadalajara",
@@ -119,8 +119,8 @@
           "eloWinProb": 0.454
         },
         "matchFingerprint": "77_club leon_guadalajara_Mon 09-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:21.140Z",
-        "auditHash": "SHA256-IMMUTABLE-100961BF-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:54.734Z",
+        "auditHash": "SHA256-IMMUTABLE-5E43A80E-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -136,7 +136,7 @@
       "leagueName": "Liga MX",
       "dateRaw": "Mon 09-Nov-2026",
       "dateIso": "2026-11-09T12:00:00.000Z",
-      "daysAgo": 0,
+      "daysAgo": 1,
       "time": "00:00",
       "homeTeam": "Club Queretaro",
       "awayTeam": "Puebla",
@@ -173,8 +173,8 @@
           "eloWinProb": 0.605
         },
         "matchFingerprint": "77_club queretaro_puebla_Mon 09-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:21.140Z",
-        "auditHash": "SHA256-IMMUTABLE-35345486-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:54.734Z",
+        "auditHash": "SHA256-IMMUTABLE-7C91652B-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -190,7 +190,7 @@
       "leagueName": "Liga MX",
       "dateRaw": "Sun 08-Nov-2026",
       "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "03:10",
       "homeTeam": "Pumas UNAM",
       "awayTeam": "Club America",
@@ -227,8 +227,8 @@
           "eloWinProb": 0.371
         },
         "matchFingerprint": "77_pumas unam_club america_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:21.140Z",
-        "auditHash": "SHA256-IMMUTABLE-3FFB4AF3-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:54.734Z",
+        "auditHash": "SHA256-IMMUTABLE-71CA6EBE-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -244,7 +244,7 @@
       "leagueName": "Liga MX",
       "dateRaw": "Sun 08-Nov-2026",
       "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "01:00",
       "homeTeam": "Tigres UANL",
       "awayTeam": "Cruz Azul",
@@ -281,8 +281,8 @@
           "eloWinProb": 0.261
         },
         "matchFingerprint": "77_tigres uanl_cruz azul_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:21.140Z",
-        "auditHash": "SHA256-IMMUTABLE-53E534BD-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:54.734Z",
+        "auditHash": "SHA256-IMMUTABLE-5AAEE6E-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -298,7 +298,7 @@
       "leagueName": "Liga MX",
       "dateRaw": "Sun 08-Nov-2026",
       "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "01:00",
       "homeTeam": "Toluca",
       "awayTeam": "Monterrey",
@@ -335,8 +335,8 @@
           "eloWinProb": 0.733
         },
         "matchFingerprint": "77_toluca_monterrey_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:21.141Z",
-        "auditHash": "SHA256-IMMUTABLE-1A66674A-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:54.734Z",
+        "auditHash": "SHA256-IMMUTABLE-33D3DF24-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -352,7 +352,7 @@
       "leagueName": "Liga MX",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 2,
+      "daysAgo": 3,
       "time": "23:00",
       "homeTeam": "Club Atlas",
       "awayTeam": "CF Pachuca",
@@ -389,8 +389,8 @@
           "eloWinProb": 0.613
         },
         "matchFingerprint": "77_club atlas_cf pachuca_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:21.141Z",
-        "auditHash": "SHA256-IMMUTABLE-36E07AFE-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:54.734Z",
+        "auditHash": "SHA256-IMMUTABLE-7AE53E94-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -406,7 +406,7 @@
       "leagueName": "Liga MX",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 2,
+      "daysAgo": 3,
       "time": "03:00",
       "homeTeam": "Atlante FC",
       "awayTeam": "Santos Laguna",
@@ -443,8 +443,8 @@
           "eloWinProb": 0.36
         },
         "matchFingerprint": "77_atlante fc_santos laguna_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:21.141Z",
-        "auditHash": "SHA256-IMMUTABLE-1918419-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:54.734Z",
+        "auditHash": "SHA256-IMMUTABLE-4FCBCA87-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -460,7 +460,7 @@
       "leagueName": "Liga MX",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 2,
+      "daysAgo": 3,
       "time": "01:00",
       "homeTeam": "Atletico San Luis",
       "awayTeam": "FC Juarez",
@@ -497,8 +497,8 @@
           "eloWinProb": 0.75
         },
         "matchFingerprint": "77_atletico san luis_fc juarez_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:21.141Z",
-        "auditHash": "SHA256-IMMUTABLE-1C9BD766-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:54.734Z",
+        "auditHash": "SHA256-IMMUTABLE-319E6F08-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -514,7 +514,7 @@
       "leagueName": "Liga MX",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 2,
+      "daysAgo": 3,
       "time": "01:00",
       "homeTeam": "Necaxa",
       "awayTeam": "Club Tijuana",
@@ -551,8 +551,8 @@
           "eloWinProb": 0.388
         },
         "matchFingerprint": "77_necaxa_club tijuana_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:21.141Z",
-        "auditHash": "SHA256-IMMUTABLE-70732948-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:54.735Z",
+        "auditHash": "SHA256-IMMUTABLE-41529069-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -568,7 +568,7 @@
       "leagueName": "Liga MX",
       "dateRaw": "Mon 02-Nov-2026",
       "dateIso": "2026-11-02T12:00:00.000Z",
-      "daysAgo": 7,
+      "daysAgo": 8,
       "time": "01:10",
       "homeTeam": "Cruz Azul",
       "awayTeam": "Club Leon",
@@ -605,8 +605,8 @@
           "eloWinProb": 0.745
         },
         "matchFingerprint": "77_cruz azul_club leon_Mon 02-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:21.141Z",
-        "auditHash": "SHA256-IMMUTABLE-5178ECD-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:54.735Z",
+        "auditHash": "SHA256-IMMUTABLE-5351D51C-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -622,7 +622,7 @@
       "leagueName": "Liga MX",
       "dateRaw": "Sun 01-Nov-2026",
       "dateIso": "2026-11-01T12:00:00.000Z",
-      "daysAgo": 8,
+      "daysAgo": 9,
       "time": "23:00",
       "homeTeam": "Santos Laguna",
       "awayTeam": "Necaxa",
@@ -659,8 +659,8 @@
           "eloWinProb": 0.803
         },
         "matchFingerprint": "77_santos laguna_necaxa_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:21.141Z",
-        "auditHash": "SHA256-IMMUTABLE-5D7274B6-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:54.735Z",
+        "auditHash": "SHA256-IMMUTABLE-F382E67-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -676,7 +676,7 @@
       "leagueName": "Liga MX",
       "dateRaw": "Sun 01-Nov-2026",
       "dateIso": "2026-11-01T12:00:00.000Z",
-      "daysAgo": 8,
+      "daysAgo": 9,
       "time": "03:10",
       "homeTeam": "Club America",
       "awayTeam": "Toluca",
@@ -713,8 +713,8 @@
           "eloWinProb": 0.639
         },
         "matchFingerprint": "77_club america_toluca_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:21.141Z",
-        "auditHash": "SHA256-IMMUTABLE-68BE7DB0-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:54.735Z",
+        "auditHash": "SHA256-IMMUTABLE-49073C01-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -730,7 +730,7 @@
       "leagueName": "Liga MX",
       "dateRaw": "Sun 01-Nov-2026",
       "dateIso": "2026-11-01T12:00:00.000Z",
-      "daysAgo": 8,
+      "daysAgo": 9,
       "time": "01:07",
       "homeTeam": "Guadalajara",
       "awayTeam": "Atlante FC",
@@ -767,8 +767,8 @@
           "eloWinProb": 0.853
         },
         "matchFingerprint": "77_guadalajara_atlante fc_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:21.141Z",
-        "auditHash": "SHA256-IMMUTABLE-2415179A-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:54.735Z",
+        "auditHash": "SHA256-IMMUTABLE-724F5DE9-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -784,7 +784,7 @@
       "leagueName": "Liga MX",
       "dateRaw": "Sun 01-Nov-2026",
       "dateIso": "2026-11-01T12:00:00.000Z",
-      "daysAgo": 8,
+      "daysAgo": 9,
       "time": "01:05",
       "homeTeam": "Monterrey",
       "awayTeam": "Club Tijuana",
@@ -821,8 +821,8 @@
           "eloWinProb": 0.567
         },
         "matchFingerprint": "77_monterrey_club tijuana_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:21.141Z",
-        "auditHash": "SHA256-IMMUTABLE-4D0E96B1-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:54.735Z",
+        "auditHash": "SHA256-IMMUTABLE-12BAF9E-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -838,7 +838,7 @@
       "leagueName": "Liga MX",
       "dateRaw": "Sat 31-Oct-2026",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 9,
+      "daysAgo": 10,
       "time": "23:00",
       "homeTeam": "CF Pachuca",
       "awayTeam": "Tigres UANL",
@@ -875,8 +875,8 @@
           "eloWinProb": 0.759
         },
         "matchFingerprint": "77_cf pachuca_tigres uanl_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:21.141Z",
-        "auditHash": "SHA256-IMMUTABLE-D8E0A8A-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:54.735Z",
+        "auditHash": "SHA256-IMMUTABLE-5BC850D9-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {

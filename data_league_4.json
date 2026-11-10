@@ -1,7 +1,7 @@
 {
   "leagueId": "4",
   "leagueName": "League Two",
-  "timestamp": "2026-11-09T15:44:00.591Z",
+  "timestamp": "2026-11-10T14:38:34.202Z",
   "fixtures": [
     {
       "id": "fix_4_1_Exeter",
@@ -9,14 +9,14 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "12:30",
       "homeTeam": "Exeter",
       "awayTeam": "Cheltenham",
       "odds": {
-        "home": 2.09,
-        "draw": 3.32,
-        "away": 3.57
+        "home": 2.07,
+        "draw": 3.45,
+        "away": 3.6
       },
       "prediction": {
         "homeExpectedGoals": 1.74,
@@ -80,13 +80,13 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "15:00",
       "homeTeam": "Bristol Rovers",
       "awayTeam": "Chesterfield",
       "odds": {
-        "home": 2.93,
-        "draw": 3.36,
+        "home": 2.9,
+        "draw": 3.5,
         "away": 2.39
       },
       "prediction": {
@@ -151,14 +151,14 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "15:00",
       "homeTeam": "Colchester",
       "awayTeam": "Gillingham",
       "odds": {
-        "home": 2.09,
-        "draw": 3.4,
-        "away": 3.46
+        "home": 2.14,
+        "draw": 3.5,
+        "away": 3.4
       },
       "prediction": {
         "homeExpectedGoals": 0.78,
@@ -222,14 +222,14 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "15:00",
       "homeTeam": "Crewe",
       "awayTeam": "Newport County",
       "odds": {
-        "home": 2.04,
-        "draw": 3.48,
-        "away": 3.51
+        "home": 2.02,
+        "draw": 3.55,
+        "away": 3.65
       },
       "prediction": {
         "homeExpectedGoals": 2.17,
@@ -293,14 +293,14 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "15:00",
       "homeTeam": "Port Vale",
       "awayTeam": "Accrington Stanley",
       "odds": {
-        "home": 1.91,
-        "draw": 3.36,
-        "away": 4.15
+        "home": 1.96,
+        "draw": 3.4,
+        "away": 4
       },
       "prediction": {
         "homeExpectedGoals": 1.09,
@@ -364,14 +364,14 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "15:00",
       "homeTeam": "Rochdale",
       "awayTeam": "York",
       "odds": {
-        "home": 4.23,
-        "draw": 4.15,
-        "away": 1.7
+        "home": 4.3,
+        "draw": 4.2,
+        "away": 1.72
       },
       "prediction": {
         "homeExpectedGoals": 1.87,
@@ -435,14 +435,14 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "15:00",
       "homeTeam": "Rotherham",
       "awayTeam": "Crawley Town",
       "odds": {
-        "home": 2.2,
-        "draw": 3.57,
-        "away": 3.07
+        "home": 2.09,
+        "draw": 3.7,
+        "away": 3.35
       },
       "prediction": {
         "homeExpectedGoals": 1.93,
@@ -506,14 +506,14 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "15:00",
       "homeTeam": "Salford",
       "awayTeam": "Northampton",
       "odds": {
-        "home": 1.65,
-        "draw": 3.9,
-        "away": 5
+        "home": 1.71,
+        "draw": 3.8,
+        "away": 4.9
       },
       "prediction": {
         "homeExpectedGoals": 1.57,
@@ -577,14 +577,14 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "15:00",
       "homeTeam": "Shrewsbury",
       "awayTeam": "Oldham",
       "odds": {
-        "home": 2.65,
-        "draw": 3.32,
-        "away": 2.62
+        "home": 2.6,
+        "draw": 3.45,
+        "away": 2.65
       },
       "prediction": {
         "homeExpectedGoals": 1.44,
@@ -648,7 +648,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "15:00",
       "homeTeam": "Swindon",
       "awayTeam": "Grimsby",
@@ -719,7 +719,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "15:00",
       "homeTeam": "Walsall",
       "awayTeam": "Barnet",
@@ -790,14 +790,14 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "17:30",
       "homeTeam": "Fleetwood Town",
       "awayTeam": "Tranmere",
       "odds": {
-        "home": 1.88,
-        "draw": 3.67,
-        "away": 3.91
+        "home": 1.94,
+        "draw": 3.6,
+        "away": 3.85
       },
       "prediction": {
         "homeExpectedGoals": 1.39,
@@ -863,7 +863,7 @@
       "leagueName": "League Two",
       "dateRaw": "Tue 03-Nov-2026",
       "dateIso": "2026-11-03T12:00:00.000Z",
-      "daysAgo": 6,
+      "daysAgo": 7,
       "time": "19:45",
       "homeTeam": "Northampton",
       "awayTeam": "Oldham",
@@ -900,8 +900,8 @@
           "eloWinProb": 0.577
         },
         "matchFingerprint": "4_northampton_oldham_Tue 03-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:00.589Z",
-        "auditHash": "SHA256-IMMUTABLE-32E5076-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:34.200Z",
+        "auditHash": "SHA256-IMMUTABLE-495B506B-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -917,7 +917,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 31-Oct-2026",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 9,
+      "daysAgo": 10,
       "time": "15:00",
       "homeTeam": "Accrington Stanley",
       "awayTeam": "Northampton",
@@ -954,8 +954,8 @@
           "eloWinProb": 0.731
         },
         "matchFingerprint": "4_accrington stanley_northampton_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:00.589Z",
-        "auditHash": "SHA256-IMMUTABLE-584E931C-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:34.200Z",
+        "auditHash": "SHA256-IMMUTABLE-5B27CC03-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -971,7 +971,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 31-Oct-2026",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 9,
+      "daysAgo": 10,
       "time": "15:00",
       "homeTeam": "Colchester",
       "awayTeam": "Walsall",
@@ -1008,8 +1008,8 @@
           "eloWinProb": 0.305
         },
         "matchFingerprint": "4_colchester_walsall_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:00.589Z",
-        "auditHash": "SHA256-IMMUTABLE-6C0A8C30-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:34.200Z",
+        "auditHash": "SHA256-IMMUTABLE-476BD2EF-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -1025,7 +1025,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 31-Oct-2026",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 9,
+      "daysAgo": 10,
       "time": "15:00",
       "homeTeam": "Crewe",
       "awayTeam": "Barnet",
@@ -1062,8 +1062,8 @@
           "eloWinProb": 0.491
         },
         "matchFingerprint": "4_crewe_barnet_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:00.589Z",
-        "auditHash": "SHA256-IMMUTABLE-84DBF2A-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:34.201Z",
+        "auditHash": "SHA256-IMMUTABLE-443BE198-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -1079,7 +1079,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 31-Oct-2026",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 9,
+      "daysAgo": 10,
       "time": "15:00",
       "homeTeam": "Fleetwood Town",
       "awayTeam": "Bristol Rovers",
@@ -1116,8 +1116,8 @@
           "eloWinProb": 0.633
         },
         "matchFingerprint": "4_fleetwood town_bristol rovers_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:00.589Z",
-        "auditHash": "SHA256-IMMUTABLE-39BFCD90-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:34.201Z",
+        "auditHash": "SHA256-IMMUTABLE-12C9D332-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -1133,7 +1133,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 31-Oct-2026",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 9,
+      "daysAgo": 10,
       "time": "15:00",
       "homeTeam": "Oldham",
       "awayTeam": "Crawley Town",
@@ -1170,8 +1170,8 @@
           "eloWinProb": 0.702
         },
         "matchFingerprint": "4_oldham_crawley town_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:00.589Z",
-        "auditHash": "SHA256-IMMUTABLE-41F16EA0-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:34.201Z",
+        "auditHash": "SHA256-IMMUTABLE-A983222-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -1187,7 +1187,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 31-Oct-2026",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 9,
+      "daysAgo": 10,
       "time": "15:00",
       "homeTeam": "Salford",
       "awayTeam": "Exeter",
@@ -1224,8 +1224,8 @@
           "eloWinProb": 0.79
         },
         "matchFingerprint": "4_salford_exeter_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:00.590Z",
-        "auditHash": "SHA256-IMMUTABLE-492CCC57-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:34.201Z",
+        "auditHash": "SHA256-IMMUTABLE-35CD715-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -1241,7 +1241,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 31-Oct-2026",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 9,
+      "daysAgo": 10,
       "time": "15:00",
       "homeTeam": "Shrewsbury",
       "awayTeam": "Gillingham",
@@ -1278,8 +1278,8 @@
           "eloWinProb": 0.504
         },
         "matchFingerprint": "4_shrewsbury_gillingham_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:00.590Z",
-        "auditHash": "SHA256-IMMUTABLE-6EB74FC4-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:34.201Z",
+        "auditHash": "SHA256-IMMUTABLE-222DAC58-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -1295,7 +1295,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 31-Oct-2026",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 9,
+      "daysAgo": 10,
       "time": "15:00",
       "homeTeam": "Swindon",
       "awayTeam": "Rotherham",
@@ -1332,8 +1332,8 @@
           "eloWinProb": 0.729
         },
         "matchFingerprint": "4_swindon_rotherham_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:00.590Z",
-        "auditHash": "SHA256-IMMUTABLE-4BE76910-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:34.201Z",
+        "auditHash": "SHA256-IMMUTABLE-A23A5C-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -1349,7 +1349,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 31-Oct-2026",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 9,
+      "daysAgo": 10,
       "time": "15:00",
       "homeTeam": "Tranmere",
       "awayTeam": "Cheltenham",
@@ -1386,8 +1386,8 @@
           "eloWinProb": 0.553
         },
         "matchFingerprint": "4_tranmere_cheltenham_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:00.590Z",
-        "auditHash": "SHA256-IMMUTABLE-52E21BAB-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:34.201Z",
+        "auditHash": "SHA256-IMMUTABLE-658783F-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -1403,7 +1403,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 31-Oct-2026",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 9,
+      "daysAgo": 10,
       "time": "12:30",
       "homeTeam": "Grimsby",
       "awayTeam": "York",
@@ -1440,8 +1440,8 @@
           "eloWinProb": 0.61
         },
         "matchFingerprint": "4_grimsby_york_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:00.590Z",
-        "auditHash": "SHA256-IMMUTABLE-3EE023C3-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:34.201Z",
+        "auditHash": "SHA256-IMMUTABLE-749638D1-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -1457,7 +1457,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 31-Oct-2026",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 9,
+      "daysAgo": 10,
       "time": "12:30",
       "homeTeam": "Port Vale",
       "awayTeam": "Rochdale",
@@ -1494,8 +1494,8 @@
           "eloWinProb": 0.619
         },
         "matchFingerprint": "4_port vale_rochdale_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:00.590Z",
-        "auditHash": "SHA256-IMMUTABLE-6B793D16-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:34.201Z",
+        "auditHash": "SHA256-IMMUTABLE-47FD1F7E-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -1511,7 +1511,7 @@
       "leagueName": "League Two",
       "dateRaw": "Fri 30-Oct-2026",
       "dateIso": "2026-10-30T12:00:00.000Z",
-      "daysAgo": 10,
+      "daysAgo": 11,
       "time": "19:45",
       "homeTeam": "Newport County",
       "awayTeam": "Chesterfield",
@@ -1548,8 +1548,8 @@
           "eloWinProb": 0.559
         },
         "matchFingerprint": "4_newport county_chesterfield_Fri 30-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:00.590Z",
-        "auditHash": "SHA256-IMMUTABLE-7DBA09B0-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:34.201Z",
+        "auditHash": "SHA256-IMMUTABLE-35BC52E4-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -1565,7 +1565,7 @@
       "leagueName": "League Two",
       "dateRaw": "Tue 27-Oct-2026",
       "dateIso": "2026-10-27T12:00:00.000Z",
-      "daysAgo": 13,
+      "daysAgo": 14,
       "time": "19:45",
       "homeTeam": "Barnet",
       "awayTeam": "York",
@@ -1602,8 +1602,8 @@
           "eloWinProb": 0.709
         },
         "matchFingerprint": "4_barnet_york_Tue 27-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:00.590Z",
-        "auditHash": "SHA256-IMMUTABLE-57068432-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:34.201Z",
+        "auditHash": "SHA256-IMMUTABLE-5C6FD862-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -1619,7 +1619,7 @@
       "leagueName": "League Two",
       "dateRaw": "Mon 26-Oct-2026",
       "dateIso": "2026-10-26T12:00:00.000Z",
-      "daysAgo": 14,
+      "daysAgo": 15,
       "time": "20:00",
       "homeTeam": "Walsall",
       "awayTeam": "Salford",
@@ -1656,8 +1656,8 @@
           "eloWinProb": 0.473
         },
         "matchFingerprint": "4_walsall_salford_Mon 26-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:00.590Z",
-        "auditHash": "SHA256-IMMUTABLE-6B5F62E3-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:34.201Z",
+        "auditHash": "SHA256-IMMUTABLE-4816F9B1-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {

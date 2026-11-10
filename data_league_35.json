@@ -1,7 +1,7 @@
 {
   "leagueId": "35",
   "leagueName": "Belgian Pro League",
-  "timestamp": "2026-11-09T15:44:16.928Z",
+  "timestamp": "2026-11-10T14:38:50.448Z",
   "fixtures": [],
   "results": [
     {
@@ -10,7 +10,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 08-Nov-2026",
       "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "18:15",
       "homeTeam": "Sint Truidense VV",
       "awayTeam": "Zulte-Waregem",
@@ -47,8 +47,8 @@
           "eloWinProb": 0.632
         },
         "matchFingerprint": "35_sint truidense vv_zulte-waregem_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:16.927Z",
-        "auditHash": "SHA256-IMMUTABLE-783C3C72-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:50.447Z",
+        "auditHash": "SHA256-IMMUTABLE-5F0F259B-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -64,7 +64,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 08-Nov-2026",
       "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "17:30",
       "homeTeam": "Union St Gilloise",
       "awayTeam": "KRC Genk",
@@ -101,8 +101,8 @@
           "eloWinProb": 0.826
         },
         "matchFingerprint": "35_union st gilloise_krc genk_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:16.927Z",
-        "auditHash": "SHA256-IMMUTABLE-326A507E-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:50.447Z",
+        "auditHash": "SHA256-IMMUTABLE-9B5B28B-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -118,7 +118,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 08-Nov-2026",
       "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "15:00",
       "homeTeam": "Gent",
       "awayTeam": "Kortrijk",
@@ -155,8 +155,8 @@
           "eloWinProb": 0.923
         },
         "matchFingerprint": "35_gent_kortrijk_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:16.927Z",
-        "auditHash": "SHA256-IMMUTABLE-63FD38A-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:50.447Z",
+        "auditHash": "SHA256-IMMUTABLE-2EF4717D-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -172,7 +172,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 08-Nov-2026",
       "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysAgo": 1,
+      "daysAgo": 2,
       "time": "12:30",
       "homeTeam": "Club Brugge",
       "awayTeam": "Anderlecht",
@@ -209,8 +209,8 @@
           "eloWinProb": 0.753
         },
         "matchFingerprint": "35_club brugge_anderlecht_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:16.927Z",
-        "auditHash": "SHA256-IMMUTABLE-38B0AA5A-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:50.447Z",
+        "auditHash": "SHA256-IMMUTABLE-FFC0C67-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -226,7 +226,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 2,
+      "daysAgo": 3,
       "time": "19:45",
       "homeTeam": "La Louviere",
       "awayTeam": "Cercle Brugge",
@@ -263,8 +263,8 @@
           "eloWinProb": 0.549
         },
         "matchFingerprint": "35_la louviere_cercle brugge_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:16.927Z",
-        "auditHash": "SHA256-IMMUTABLE-3232097B-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:50.447Z",
+        "auditHash": "SHA256-IMMUTABLE-5AE6A76E-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -280,7 +280,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 2,
+      "daysAgo": 3,
       "time": "19:45",
       "homeTeam": "Royal Antwerp",
       "awayTeam": "Lommel",
@@ -317,8 +317,8 @@
           "eloWinProb": 0.457
         },
         "matchFingerprint": "35_royal antwerp_lommel_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:16.927Z",
-        "auditHash": "SHA256-IMMUTABLE-413CB382-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:50.447Z",
+        "auditHash": "SHA256-IMMUTABLE-1888158F-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -334,7 +334,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 2,
+      "daysAgo": 3,
       "time": "17:15",
       "homeTeam": "Leuven",
       "awayTeam": "KV Mechelen",
@@ -371,8 +371,8 @@
           "eloWinProb": 0.606
         },
         "matchFingerprint": "35_leuven_kv mechelen_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:16.928Z",
-        "auditHash": "SHA256-IMMUTABLE-10D5DB72-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:50.447Z",
+        "auditHash": "SHA256-IMMUTABLE-17DEC2A0-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -388,7 +388,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 07-Nov-2026",
       "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 2,
+      "daysAgo": 3,
       "time": "15:00",
       "homeTeam": "Westerlo",
       "awayTeam": "Charleroi",
@@ -425,8 +425,8 @@
           "eloWinProb": 0.336
         },
         "matchFingerprint": "35_westerlo_charleroi_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:16.928Z",
-        "auditHash": "SHA256-IMMUTABLE-2C3D62EB-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:50.447Z",
+        "auditHash": "SHA256-IMMUTABLE-54F200FD-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -442,7 +442,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Fri 06-Nov-2026",
       "dateIso": "2026-11-06T12:00:00.000Z",
-      "daysAgo": 3,
+      "daysAgo": 4,
       "time": "19:45",
       "homeTeam": "Standard de Liege",
       "awayTeam": "Waasland-Beveren",
@@ -479,8 +479,8 @@
           "eloWinProb": 0.729
         },
         "matchFingerprint": "35_standard de liege_waasland-beveren_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:16.928Z",
-        "auditHash": "SHA256-IMMUTABLE-55CC4009-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:50.447Z",
+        "auditHash": "SHA256-IMMUTABLE-7E80DE1B-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -496,7 +496,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Wed 04-Nov-2026",
       "dateIso": "2026-11-04T12:00:00.000Z",
-      "daysAgo": 5,
+      "daysAgo": 6,
       "time": "19:30",
       "homeTeam": "Kortrijk",
       "awayTeam": "KV Mechelen",
@@ -533,8 +533,8 @@
           "eloWinProb": 0.403
         },
         "matchFingerprint": "35_kortrijk_kv mechelen_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:16.928Z",
-        "auditHash": "SHA256-IMMUTABLE-4A022D8-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:50.447Z",
+        "auditHash": "SHA256-IMMUTABLE-2D54C0EA-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -550,7 +550,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 01-Nov-2026",
       "dateIso": "2026-11-01T12:00:00.000Z",
-      "daysAgo": 8,
+      "daysAgo": 9,
       "time": "18:15",
       "homeTeam": "Charleroi",
       "awayTeam": "La Louviere",
@@ -587,8 +587,8 @@
           "eloWinProb": 0.889
         },
         "matchFingerprint": "35_charleroi_la louviere_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:16.928Z",
-        "auditHash": "SHA256-IMMUTABLE-5A1C2A08-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:50.447Z",
+        "auditHash": "SHA256-IMMUTABLE-7D2F37E6-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -604,7 +604,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 01-Nov-2026",
       "dateIso": "2026-11-01T12:00:00.000Z",
-      "daysAgo": 8,
+      "daysAgo": 9,
       "time": "17:30",
       "homeTeam": "Lommel",
       "awayTeam": "Gent",
@@ -641,8 +641,8 @@
           "eloWinProb": 0.379
         },
         "matchFingerprint": "35_lommel_gent_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:16.928Z",
-        "auditHash": "SHA256-IMMUTABLE-1E344A9E-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:50.447Z",
+        "auditHash": "SHA256-IMMUTABLE-A805374-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -658,7 +658,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 01-Nov-2026",
       "dateIso": "2026-11-01T12:00:00.000Z",
-      "daysAgo": 8,
+      "daysAgo": 9,
       "time": "15:00",
       "homeTeam": "Sint Truidense VV",
       "awayTeam": "Leuven",
@@ -695,8 +695,8 @@
           "eloWinProb": 0.591
         },
         "matchFingerprint": "35_sint truidense vv_leuven_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:16.928Z",
-        "auditHash": "SHA256-IMMUTABLE-6B928A83-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:50.447Z",
+        "auditHash": "SHA256-IMMUTABLE-42DDEC71-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -712,7 +712,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 01-Nov-2026",
       "dateIso": "2026-11-01T12:00:00.000Z",
-      "daysAgo": 8,
+      "daysAgo": 9,
       "time": "12:30",
       "homeTeam": "Cercle Brugge",
       "awayTeam": "Royal Antwerp",
@@ -749,8 +749,8 @@
           "eloWinProb": 0.543
         },
         "matchFingerprint": "35_cercle brugge_royal antwerp_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:16.928Z",
-        "auditHash": "SHA256-IMMUTABLE-7649ED3E-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:50.447Z",
+        "auditHash": "SHA256-IMMUTABLE-610174B0-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
@@ -766,7 +766,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 31-Oct-2026",
       "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 9,
+      "daysAgo": 10,
       "time": "19:45",
       "homeTeam": "Anderlecht",
       "awayTeam": "Westerlo",
@@ -803,8 +803,8 @@
           "eloWinProb": 0.703
         },
         "matchFingerprint": "35_anderlecht_westerlo_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-09T15:44:16.928Z",
-        "auditHash": "SHA256-IMMUTABLE-37FDFBEC-2026-11-09",
+        "lockedAt": "2026-11-10T14:38:50.448Z",
+        "auditHash": "SHA256-IMMUTABLE-60B299DF-2026-11-10",
         "isImmutable": true
       },
       "evaluation": {
