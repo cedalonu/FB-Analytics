@@ -1,7 +1,7 @@
 {
   "leagueId": "35",
   "leagueName": "Belgian Pro League",
-  "timestamp": "2026-11-11T11:19:51.584Z",
+  "timestamp": "2026-11-11T13:52:49.544Z",
   "fixtures": [
     {
       "id": "fix_35_1_CercleBrugge",
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.632
         },
         "matchFingerprint": "35_sint truidense vv_zulte-waregem_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.581Z",
-        "auditHash": "SHA256-IMMUTABLE-4F3C87CA-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:49.537Z",
+        "auditHash": "SHA256-IMMUTABLE-558FA57-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.826
         },
         "matchFingerprint": "35_union st gilloise_krc genk_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.581Z",
-        "auditHash": "SHA256-IMMUTABLE-61CEB46-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:49.537Z",
+        "auditHash": "SHA256-IMMUTABLE-5AB26D67-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.923
         },
         "matchFingerprint": "35_gent_kortrijk_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.581Z",
-        "auditHash": "SHA256-IMMUTABLE-3EC70F4E-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:49.537Z",
+        "auditHash": "SHA256-IMMUTABLE-6CA36E91-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.753
         },
         "matchFingerprint": "35_club brugge_anderlecht_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.581Z",
-        "auditHash": "SHA256-IMMUTABLE-296E96-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:49.537Z",
+        "auditHash": "SHA256-IMMUTABLE-546C138B-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.549
         },
         "matchFingerprint": "35_la louviere_cercle brugge_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.581Z",
-        "auditHash": "SHA256-IMMUTABLE-6AB9453F-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:49.537Z",
+        "auditHash": "SHA256-IMMUTABLE-40B138A0-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.457
         },
         "matchFingerprint": "35_royal antwerp_lommel_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.581Z",
-        "auditHash": "SHA256-IMMUTABLE-8B577BE-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:49.537Z",
+        "auditHash": "SHA256-IMMUTABLE-4BE00A63-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.606
         },
         "matchFingerprint": "35_leuven_kv mechelen_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.582Z",
-        "auditHash": "SHA256-IMMUTABLE-27B16052-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:49.537Z",
+        "auditHash": "SHA256-IMMUTABLE-7C46E292-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.336
         },
         "matchFingerprint": "35_westerlo_charleroi_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.582Z",
-        "auditHash": "SHA256-IMMUTABLE-64C49EAF-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:49.537Z",
+        "auditHash": "SHA256-IMMUTABLE-46A5DF11-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.729
         },
         "matchFingerprint": "35_standard de liege_waasland-beveren_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.582Z",
-        "auditHash": "SHA256-IMMUTABLE-71AC8433-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:49.537Z",
+        "auditHash": "SHA256-IMMUTABLE-1D1701F3-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.403
         },
         "matchFingerprint": "35_kortrijk_kv mechelen_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.582Z",
-        "auditHash": "SHA256-IMMUTABLE-3D275E9C-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:49.537Z",
+        "auditHash": "SHA256-IMMUTABLE-6E431F24-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.889
         },
         "matchFingerprint": "35_charleroi_la louviere_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.582Z",
-        "auditHash": "SHA256-IMMUTABLE-6D5C9A34-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:49.537Z",
+        "auditHash": "SHA256-IMMUTABLE-18C717F4-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.379
         },
         "matchFingerprint": "35_lommel_gent_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.582Z",
-        "auditHash": "SHA256-IMMUTABLE-1A52F126-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:49.538Z",
+        "auditHash": "SHA256-IMMUTABLE-6EE87347-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.591
         },
         "matchFingerprint": "35_sint truidense vv_leuven_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.582Z",
-        "auditHash": "SHA256-IMMUTABLE-330B4EBF-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:49.538Z",
+        "auditHash": "SHA256-IMMUTABLE-218A3362-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.543
         },
         "matchFingerprint": "35_cercle brugge_royal antwerp_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.582Z",
-        "auditHash": "SHA256-IMMUTABLE-512ED6FE-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:49.538Z",
+        "auditHash": "SHA256-IMMUTABLE-366AB23-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.703
         },
         "matchFingerprint": "35_anderlecht_westerlo_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.582Z",
-        "auditHash": "SHA256-IMMUTABLE-708537B0-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:49.538Z",
+        "auditHash": "SHA256-IMMUTABLE-3AE5462F-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {

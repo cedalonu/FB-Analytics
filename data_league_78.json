@@ -1,7 +1,7 @@
 {
   "leagueId": "78",
   "leagueName": "Argentine Liga Profesional",
-  "timestamp": "2026-11-11T11:19:53.592Z",
+  "timestamp": "2026-11-11T13:52:55.324Z",
   "fixtures": [
     {
       "id": "fix_78_1_ArgentinosJuniors",
@@ -616,8 +616,8 @@
           "eloWinProb": 0.24
         },
         "matchFingerprint": "78_central cordoba_lanus_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.589Z",
-        "auditHash": "SHA256-IMMUTABLE-12B3DD6B-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:55.320Z",
+        "auditHash": "SHA256-IMMUTABLE-3CA12655-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -670,8 +670,8 @@
           "eloWinProb": 0.814
         },
         "matchFingerprint": "78_instituto_newells_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.589Z",
-        "auditHash": "SHA256-IMMUTABLE-BDF66AE-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:55.320Z",
+        "auditHash": "SHA256-IMMUTABLE-35CCAF98-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -724,8 +724,8 @@
           "eloWinProb": 0.796
         },
         "matchFingerprint": "78_boca juniors_defensa y justicia_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.589Z",
-        "auditHash": "SHA256-IMMUTABLE-3986185E-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:55.320Z",
+        "auditHash": "SHA256-IMMUTABLE-F98CF74-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -778,8 +778,8 @@
           "eloWinProb": 0.76
         },
         "matchFingerprint": "78_argentinos juniors_huracan_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.589Z",
-        "auditHash": "SHA256-IMMUTABLE-5A9D4302-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:55.320Z",
+        "auditHash": "SHA256-IMMUTABLE-7B757414-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -832,8 +832,8 @@
           "eloWinProb": 0.951
         },
         "matchFingerprint": "78_rosario central_estudiantes rio cuarto_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.589Z",
-        "auditHash": "SHA256-IMMUTABLE-6F1D1C9D-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:55.320Z",
+        "auditHash": "SHA256-IMMUTABLE-66F59A79-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -886,8 +886,8 @@
           "eloWinProb": 0.355
         },
         "matchFingerprint": "78_gimnasia mendoza_independiente rivadavia_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.589Z",
-        "auditHash": "SHA256-IMMUTABLE-6CF99943-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:55.321Z",
+        "auditHash": "SHA256-IMMUTABLE-69191DF2-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -940,8 +940,8 @@
           "eloWinProb": 0.434
         },
         "matchFingerprint": "78_talleres_estudiantes_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.590Z",
-        "auditHash": "SHA256-IMMUTABLE-72F6D66A-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:55.321Z",
+        "auditHash": "SHA256-IMMUTABLE-631BDE21-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -994,8 +994,8 @@
           "eloWinProb": 0.591
         },
         "matchFingerprint": "78_banfield_atletico tucuman_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.590Z",
-        "auditHash": "SHA256-IMMUTABLE-A8DB305-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:55.321Z",
+        "auditHash": "SHA256-IMMUTABLE-1F5F9870-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1048,8 +1048,8 @@
           "eloWinProb": 0.627
         },
         "matchFingerprint": "78_tigre_sarmiento_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.590Z",
-        "auditHash": "SHA256-IMMUTABLE-2D9A168D-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:55.321Z",
+        "auditHash": "SHA256-IMMUTABLE-57876202-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1102,8 +1102,8 @@
           "eloWinProb": 0.826
         },
         "matchFingerprint": "78_independiente_deportivo riestra_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.590Z",
-        "auditHash": "SHA256-IMMUTABLE-7F9D80B5-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:55.321Z",
+        "auditHash": "SHA256-IMMUTABLE-55B03540-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1156,8 +1156,8 @@
           "eloWinProb": 0.652
         },
         "matchFingerprint": "78_san lorenzo_platense_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.590Z",
-        "auditHash": "SHA256-IMMUTABLE-635E6E7A-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:55.321Z",
+        "auditHash": "SHA256-IMMUTABLE-39712305-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1210,8 +1210,8 @@
           "eloWinProb": 0.409
         },
         "matchFingerprint": "78_union santa fe_velez_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.590Z",
-        "auditHash": "SHA256-IMMUTABLE-55BC57BC-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:55.322Z",
+        "auditHash": "SHA256-IMMUTABLE-7FA9A312-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1264,8 +1264,8 @@
           "eloWinProb": 0.741
         },
         "matchFingerprint": "78_barracas central_racing club_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.590Z",
-        "auditHash": "SHA256-IMMUTABLE-7F121B86-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:55.322Z",
+        "auditHash": "SHA256-IMMUTABLE-5524D030-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1318,8 +1318,8 @@
           "eloWinProb": 0.624
         },
         "matchFingerprint": "78_gimnasia la plata_belgrano_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.590Z",
-        "auditHash": "SHA256-IMMUTABLE-14D4391F-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:55.322Z",
+        "auditHash": "SHA256-IMMUTABLE-3EC18475-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1372,8 +1372,8 @@
           "eloWinProb": 0.185
         },
         "matchFingerprint": "78_aldosivi_river plate_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.590Z",
-        "auditHash": "SHA256-IMMUTABLE-79BDE11B-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:55.322Z",
+        "auditHash": "SHA256-IMMUTABLE-5C54D38F-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {

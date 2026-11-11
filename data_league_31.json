@@ -1,7 +1,7 @@
 {
   "leagueId": "31",
   "leagueName": "La Liga",
-  "timestamp": "2026-11-11T11:19:46.548Z",
+  "timestamp": "2026-11-11T13:52:37.202Z",
   "fixtures": [
     {
       "id": "fix_31_1_AthleticBilbao",
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.433
         },
         "matchFingerprint": "31_atletico madrid_barcelona_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:46.544Z",
-        "auditHash": "SHA256-IMMUTABLE-710CBB04-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:37.194Z",
+        "auditHash": "SHA256-IMMUTABLE-2E6A29D6-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.665
         },
         "matchFingerprint": "31_celta de vigo_levante_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:46.544Z",
-        "auditHash": "SHA256-IMMUTABLE-52D48D72-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:37.194Z",
+        "auditHash": "SHA256-IMMUTABLE-4CA25768-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.706
         },
         "matchFingerprint": "31_villarreal_getafe_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:46.545Z",
-        "auditHash": "SHA256-IMMUTABLE-23974815-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:37.195Z",
+        "auditHash": "SHA256-IMMUTABLE-7BDF9CC5-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.758
         },
         "matchFingerprint": "31_real sociedad_rayo vallecano_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:46.545Z",
-        "auditHash": "SHA256-IMMUTABLE-2334E6D5-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:37.195Z",
+        "auditHash": "SHA256-IMMUTABLE-3D543451-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.303
         },
         "matchFingerprint": "31_elche_real betis_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:46.545Z",
-        "auditHash": "SHA256-IMMUTABLE-7A5FBA3C-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:37.195Z",
+        "auditHash": "SHA256-IMMUTABLE-25172A9E-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.182
         },
         "matchFingerprint": "31_valencia_real madrid_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:46.545Z",
-        "auditHash": "SHA256-IMMUTABLE-59ED2333-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:37.195Z",
+        "auditHash": "SHA256-IMMUTABLE-69BF7F3-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.434
         },
         "matchFingerprint": "31_osasuna_athletic bilbao_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:46.545Z",
-        "auditHash": "SHA256-IMMUTABLE-E2C82CA-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:37.195Z",
+        "auditHash": "SHA256-IMMUTABLE-6EB59DF0-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.529
         },
         "matchFingerprint": "31_espanyol_deportivo de la coruna_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:46.545Z",
-        "auditHash": "SHA256-IMMUTABLE-62AE67FF-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:37.195Z",
+        "auditHash": "SHA256-IMMUTABLE-2254CD9-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.434
         },
         "matchFingerprint": "31_malaga_racing santander_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:46.545Z",
-        "auditHash": "SHA256-IMMUTABLE-49B43A1A-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:37.195Z",
+        "auditHash": "SHA256-IMMUTABLE-16D4E10C-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.675
         },
         "matchFingerprint": "31_sevilla_alaves_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:46.545Z",
-        "auditHash": "SHA256-IMMUTABLE-2FDFF87F-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:37.195Z",
+        "auditHash": "SHA256-IMMUTABLE-30A922A7-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.706
         },
         "matchFingerprint": "31_deportivo de la coruna_osasuna_Mon 02-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:46.545Z",
-        "auditHash": "SHA256-IMMUTABLE-2E65C18C-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:37.195Z",
+        "auditHash": "SHA256-IMMUTABLE-7111234E-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.529
         },
         "matchFingerprint": "31_athletic bilbao_real sociedad_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:46.545Z",
-        "auditHash": "SHA256-IMMUTABLE-256B1A88-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:37.195Z",
+        "auditHash": "SHA256-IMMUTABLE-7A0BCA52-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.633
         },
         "matchFingerprint": "31_elche_valencia_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:46.546Z",
-        "auditHash": "SHA256-IMMUTABLE-691AF164-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:37.195Z",
+        "auditHash": "SHA256-IMMUTABLE-891D61F-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.251
         },
         "matchFingerprint": "31_racing santander_real madrid_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:46.546Z",
-        "auditHash": "SHA256-IMMUTABLE-34269FD4-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:37.196Z",
+        "auditHash": "SHA256-IMMUTABLE-6B504506-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.443
         },
         "matchFingerprint": "31_getafe_sevilla_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:46.546Z",
-        "auditHash": "SHA256-IMMUTABLE-3CD3A829-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:37.196Z",
+        "auditHash": "SHA256-IMMUTABLE-62A33CB1-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {

@@ -1,7 +1,7 @@
 {
   "leagueId": "17",
   "leagueName": "Champions League",
-  "timestamp": "2026-11-11T11:19:49.587Z",
+  "timestamp": "2026-11-11T13:52:43.607Z",
   "fixtures": [
     {
       "id": "fix_17_1_BodoGlimt",
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.587
         },
         "matchFingerprint": "17_borussia dortmund_real betis_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:49.583Z",
-        "auditHash": "SHA256-IMMUTABLE-618020E4-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:43.603Z",
+        "auditHash": "SHA256-IMMUTABLE-66ED27EC-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.191
         },
         "matchFingerprint": "17_lens_como_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:49.583Z",
-        "auditHash": "SHA256-IMMUTABLE-7AAEDCBA-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:43.604Z",
+        "auditHash": "SHA256-IMMUTABLE-4DBE6C35-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.615
         },
         "matchFingerprint": "17_porto_napoli_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:49.583Z",
-        "auditHash": "SHA256-IMMUTABLE-29DBDE73-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:43.604Z",
+        "auditHash": "SHA256-IMMUTABLE-616E9584-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.34
         },
         "matchFingerprint": "17_psv eindhoven_club brugge_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:49.583Z",
-        "auditHash": "SHA256-IMMUTABLE-38D70353-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:43.604Z",
+        "auditHash": "SHA256-IMMUTABLE-7069BA64-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.256
         },
         "matchFingerprint": "17_rb leipzig_man city_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:49.583Z",
-        "auditHash": "SHA256-IMMUTABLE-4BB64374-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:43.604Z",
+        "auditHash": "SHA256-IMMUTABLE-7CB7057B-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.172
         },
         "matchFingerprint": "17_slavia prague_arsenal_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:49.584Z",
-        "auditHash": "SHA256-IMMUTABLE-66066161-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:43.604Z",
+        "auditHash": "SHA256-IMMUTABLE-6266E76F-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.686
         },
         "matchFingerprint": "17_viking fk_sabah_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:49.584Z",
-        "auditHash": "SHA256-IMMUTABLE-1B7B5A8A-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:43.604Z",
+        "auditHash": "SHA256-IMMUTABLE-1C175CA6-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.178
         },
         "matchFingerprint": "17_aek athens_real madrid_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:49.584Z",
-        "auditHash": "SHA256-IMMUTABLE-63937493-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:43.605Z",
+        "auditHash": "SHA256-IMMUTABLE-2C00BD82-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.373
         },
         "matchFingerprint": "17_fenerbahce_liverpool_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:49.584Z",
-        "auditHash": "SHA256-IMMUTABLE-53DDE355-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:43.605Z",
+        "auditHash": "SHA256-IMMUTABLE-748F659A-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.383
         },
         "matchFingerprint": "17_atletico madrid_bayern munich_Tue 03-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:49.584Z",
-        "auditHash": "SHA256-IMMUTABLE-257E2F5B-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:43.605Z",
+        "auditHash": "SHA256-IMMUTABLE-121487B6-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.606
         },
         "matchFingerprint": "17_barcelona_aston villa_Tue 03-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:49.584Z",
-        "auditHash": "SHA256-IMMUTABLE-6DA45066-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:43.605Z",
+        "auditHash": "SHA256-IMMUTABLE-36119955-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.727
         },
         "matchFingerprint": "17_bodo glimt_lille_Tue 03-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:49.584Z",
-        "auditHash": "SHA256-IMMUTABLE-1A626CCB-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:43.605Z",
+        "auditHash": "SHA256-IMMUTABLE-1D304A46-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.371
         },
         "matchFingerprint": "17_feyenoord_inter milan_Tue 03-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:49.584Z",
-        "auditHash": "SHA256-IMMUTABLE-62E183C2-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:43.605Z",
+        "auditHash": "SHA256-IMMUTABLE-658BC52D-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.864
         },
         "matchFingerprint": "17_lask linz_slovan bratislava_Tue 03-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:49.585Z",
-        "auditHash": "SHA256-IMMUTABLE-7BD5B92-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:43.605Z",
+        "auditHash": "SHA256-IMMUTABLE-3F5012C2-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.657
         },
         "matchFingerprint": "17_man utd_as roma_Tue 03-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:49.585Z",
-        "auditHash": "SHA256-IMMUTABLE-6C1A081A-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:43.605Z",
+        "auditHash": "SHA256-IMMUTABLE-5C5340B6-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {

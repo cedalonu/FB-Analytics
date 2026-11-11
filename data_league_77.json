@@ -1,7 +1,7 @@
 {
   "leagueId": "77",
   "leagueName": "Liga MX",
-  "timestamp": "2026-11-11T11:19:53.079Z",
+  "timestamp": "2026-11-11T13:52:53.708Z",
   "fixtures": [
     {
       "id": "fix_77_1_ClubQueretaro",
@@ -758,8 +758,8 @@
           "eloWinProb": 0.454
         },
         "matchFingerprint": "77_club leon_guadalajara_Mon 09-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.076Z",
-        "auditHash": "SHA256-IMMUTABLE-7183991D-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:53.702Z",
+        "auditHash": "SHA256-IMMUTABLE-612980EC-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -812,8 +812,8 @@
           "eloWinProb": 0.605
         },
         "matchFingerprint": "77_club queretaro_puebla_Mon 09-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.076Z",
-        "auditHash": "SHA256-IMMUTABLE-6951741C-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:53.702Z",
+        "auditHash": "SHA256-IMMUTABLE-3BFE8E25-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -866,8 +866,8 @@
           "eloWinProb": 0.371
         },
         "matchFingerprint": "77_pumas unam_club america_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.076Z",
-        "auditHash": "SHA256-IMMUTABLE-5E8A7DAF-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:53.702Z",
+        "auditHash": "SHA256-IMMUTABLE-313797B8-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -920,8 +920,8 @@
           "eloWinProb": 0.261
         },
         "matchFingerprint": "77_tigres uanl_cruz azul_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.076Z",
-        "auditHash": "SHA256-IMMUTABLE-D9502A1-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:53.702Z",
+        "auditHash": "SHA256-IMMUTABLE-3AE7E898-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -974,8 +974,8 @@
           "eloWinProb": 0.733
         },
         "matchFingerprint": "77_toluca_monterrey_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.076Z",
-        "auditHash": "SHA256-IMMUTABLE-4713D033-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:53.702Z",
+        "auditHash": "SHA256-IMMUTABLE-7466B62A-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1028,8 +1028,8 @@
           "eloWinProb": 0.613
         },
         "matchFingerprint": "77_club atlas_cf pachuca_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.076Z",
-        "auditHash": "SHA256-IMMUTABLE-67A54D85-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:53.702Z",
+        "auditHash": "SHA256-IMMUTABLE-3A52678E-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1082,8 +1082,8 @@
           "eloWinProb": 0.36
         },
         "matchFingerprint": "77_atlante fc_santos laguna_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.076Z",
-        "auditHash": "SHA256-IMMUTABLE-630BBB96-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:53.703Z",
+        "auditHash": "SHA256-IMMUTABLE-6FA15E92-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1136,8 +1136,8 @@
           "eloWinProb": 0.75
         },
         "matchFingerprint": "77_atletico san luis_fc juarez_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.077Z",
-        "auditHash": "SHA256-IMMUTABLE-44DE5FF8-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:53.703Z",
+        "auditHash": "SHA256-IMMUTABLE-723145EF-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1190,8 +1190,8 @@
           "eloWinProb": 0.388
         },
         "matchFingerprint": "77_necaxa_club tijuana_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.077Z",
-        "auditHash": "SHA256-IMMUTABLE-2E129F5A-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:53.703Z",
+        "auditHash": "SHA256-IMMUTABLE-BFB963-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1244,8 +1244,8 @@
           "eloWinProb": 0.745
         },
         "matchFingerprint": "77_cruz azul_club leon_Mon 02-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.077Z",
-        "auditHash": "SHA256-IMMUTABLE-6691C62B-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:53.703Z",
+        "auditHash": "SHA256-IMMUTABLE-6C1B53DE-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1298,8 +1298,8 @@
           "eloWinProb": 0.803
         },
         "matchFingerprint": "77_santos laguna_necaxa_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.077Z",
-        "auditHash": "SHA256-IMMUTABLE-407C2A8-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:53.703Z",
+        "auditHash": "SHA256-IMMUTABLE-315AA89F-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1352,8 +1352,8 @@
           "eloWinProb": 0.639
         },
         "matchFingerprint": "77_club america_toluca_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.077Z",
-        "auditHash": "SHA256-IMMUTABLE-35C74AF2-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:53.703Z",
+        "auditHash": "SHA256-IMMUTABLE-87464FB-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1406,8 +1406,8 @@
           "eloWinProb": 0.853
         },
         "matchFingerprint": "77_guadalajara_atlante fc_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.077Z",
-        "auditHash": "SHA256-IMMUTABLE-7A70B108-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:53.703Z",
+        "auditHash": "SHA256-IMMUTABLE-4D1DCB11-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1460,8 +1460,8 @@
           "eloWinProb": 0.567
         },
         "matchFingerprint": "77_monterrey_club tijuana_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.077Z",
-        "auditHash": "SHA256-IMMUTABLE-146BA0AD-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:53.703Z",
+        "auditHash": "SHA256-IMMUTABLE-41BE86A4-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1514,8 +1514,8 @@
           "eloWinProb": 0.759
         },
         "matchFingerprint": "77_cf pachuca_tigres uanl_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:53.077Z",
-        "auditHash": "SHA256-IMMUTABLE-6F0841E8-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:53.703Z",
+        "auditHash": "SHA256-IMMUTABLE-63A4D821-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {

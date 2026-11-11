@@ -1,7 +1,7 @@
 {
   "leagueId": "37",
   "leagueName": "Primeira Liga",
-  "timestamp": "2026-11-11T11:19:51.105Z",
+  "timestamp": "2026-11-11T13:52:47.776Z",
   "fixtures": [
     {
       "id": "fix_37_1_Maritimo",
@@ -643,226 +643,84 @@
       "confidenceScore": 79
     },
     {
-      "id": "fix_37_10_SportingLisbon",
+      "id": "fix_37_10_Alverca",
       "leagueId": "37",
       "leagueName": "Primeira Liga",
-      "dateRaw": "Fri 04/12",
-      "dateIso": "2026-11-13T12:00:00.000Z",
-      "daysFromNow": 2,
-      "time": "20:15",
-      "homeTeam": "Sporting Lisbon",
-      "awayTeam": "Maritimo",
+      "dateRaw": "Sun 06/12",
+      "dateIso": "2026-11-15T12:00:00.000Z",
+      "daysFromNow": 4,
+      "time": "16:00",
+      "homeTeam": "Alverca",
+      "awayTeam": "Moreirense",
       "odds": {
         "home": null,
         "draw": null,
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.52,
-        "totalExpectedGoals": 5.02,
-        "bttsProbability": 0.3658,
-        "bttsNoProbability": 0.6342,
-        "over25Probability": 0.7903,
-        "under25Probability": 0.2097,
-        "homeWinProbability": 0.8632,
-        "drawProbability": 0.0356,
-        "awayWinProbability": 0.0574,
+        "homeExpectedGoals": 1.42,
+        "awayExpectedGoals": 0.84,
+        "totalExpectedGoals": 2.26,
+        "bttsProbability": 0.4378,
+        "bttsNoProbability": 0.5622,
+        "over25Probability": 0.3931,
+        "under25Probability": 0.6069,
+        "homeWinProbability": 0.527,
+        "drawProbability": 0.286,
+        "awayWinProbability": 0.287,
         "predictedScore": {
-          "home": 4,
+          "home": 1,
           "away": 0,
-          "probability": 0.1131
+          "probability": 0.141
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 58,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1789,
-          "awayElo": 1545,
-          "eloWinProb": 0.856
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.52,
-        "totalExpectedGoals": 5.02,
-        "bttsProbability": 0.3658,
-        "bttsNoProbability": 0.6342,
-        "over25Probability": 0.7903,
-        "under25Probability": 0.2097,
-        "homeWinProbability": 0.8632,
-        "drawProbability": 0.0356,
-        "awayWinProbability": 0.0574,
-        "predictedScore": {
-          "home": 4,
-          "away": 0,
-          "probability": 0.1131
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 58,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1789,
-          "awayElo": 1545,
-          "eloWinProb": 0.856
-        }
-      },
-      "confidenceScore": 79
-    },
-    {
-      "id": "fix_37_11_CDNacional",
-      "leagueId": "37",
-      "leagueName": "Primeira Liga",
-      "dateRaw": "Sat 05/12",
-      "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 3,
-      "time": "15:30",
-      "homeTeam": "CD Nacional",
-      "awayTeam": "Benfica",
-      "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
-      },
-      "prediction": {
-        "homeExpectedGoals": 0.67,
-        "awayExpectedGoals": 4,
-        "totalExpectedGoals": 4.67,
-        "bttsProbability": 0.4535,
-        "bttsNoProbability": 0.5465,
-        "over25Probability": 0.793,
-        "under25Probability": 0.207,
-        "homeWinProbability": 0.0997,
-        "drawProbability": 0.06,
-        "awayWinProbability": 0.8281,
-        "predictedScore": {
-          "home": 0,
-          "away": 3,
-          "probability": 0.1005
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 59,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1580,
-          "awayElo": 1844,
-          "eloWinProb": 0.241
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 0.67,
-        "awayExpectedGoals": 4,
-        "totalExpectedGoals": 4.67,
-        "bttsProbability": 0.4535,
-        "bttsNoProbability": 0.5465,
-        "over25Probability": 0.793,
-        "under25Probability": 0.207,
-        "homeWinProbability": 0.0997,
-        "drawProbability": 0.06,
-        "awayWinProbability": 0.8281,
-        "predictedScore": {
-          "home": 0,
-          "away": 3,
-          "probability": 0.1005
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 59,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1580,
-          "awayElo": 1844,
-          "eloWinProb": 0.241
-        }
-      },
-      "confidenceScore": 79
-    },
-    {
-      "id": "fix_37_12_SantaClara",
-      "leagueId": "37",
-      "leagueName": "Primeira Liga",
-      "dateRaw": "Sat 05/12",
-      "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 3,
-      "time": "18:00",
-      "homeTeam": "Santa Clara",
-      "awayTeam": "Porto",
-      "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
-      },
-      "prediction": {
-        "homeExpectedGoals": 0.58,
-        "awayExpectedGoals": 2.46,
-        "totalExpectedGoals": 3.04,
-        "bttsProbability": 0.4033,
-        "bttsNoProbability": 0.5967,
-        "over25Probability": 0.5809,
-        "under25Probability": 0.4191,
-        "homeWinProbability": 0.1767,
-        "drawProbability": 0.1527,
-        "awayWinProbability": 0.7216,
-        "predictedScore": {
-          "home": 0,
-          "away": 2,
-          "probability": 0.1452
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
+        "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1747,
-          "awayElo": 1892,
-          "eloWinProb": 0.387
+          "homeElo": 1624,
+          "awayElo": 1635,
+          "eloWinProb": 0.577
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.58,
-        "awayExpectedGoals": 2.46,
-        "totalExpectedGoals": 3.04,
-        "bttsProbability": 0.4033,
-        "bttsNoProbability": 0.5967,
-        "over25Probability": 0.5809,
-        "under25Probability": 0.4191,
-        "homeWinProbability": 0.1767,
-        "drawProbability": 0.1527,
-        "awayWinProbability": 0.7216,
+        "homeExpectedGoals": 1.42,
+        "awayExpectedGoals": 0.84,
+        "totalExpectedGoals": 2.26,
+        "bttsProbability": 0.4378,
+        "bttsNoProbability": 0.5622,
+        "over25Probability": 0.3931,
+        "under25Probability": 0.6069,
+        "homeWinProbability": 0.527,
+        "drawProbability": 0.286,
+        "awayWinProbability": 0.287,
         "predictedScore": {
-          "home": 0,
-          "away": 2,
-          "probability": 0.1452
+          "home": 1,
+          "away": 0,
+          "probability": 0.141
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
+        "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1747,
-          "awayElo": 1892,
-          "eloWinProb": 0.387
+          "homeElo": 1624,
+          "awayElo": 1635,
+          "eloWinProb": 0.577
         }
       },
-      "confidenceScore": 60
+      "confidenceScore": 61
     },
     {
-      "id": "fix_37_13_Braga",
+      "id": "fix_37_11_Braga",
       "leagueId": "37",
       "leagueName": "Primeira Liga",
-      "dateRaw": "Sat 05/12",
-      "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 3,
-      "time": "20:30",
+      "dateRaw": "Sun 06/12",
+      "dateIso": "2026-11-15T12:00:00.000Z",
+      "daysFromNow": 4,
+      "time": "16:00",
       "homeTeam": "Braga",
       "awayTeam": "Arouca",
       "odds": {
@@ -927,13 +785,155 @@
       "confidenceScore": 80
     },
     {
+      "id": "fix_37_12_CDNacional",
+      "leagueId": "37",
+      "leagueName": "Primeira Liga",
+      "dateRaw": "Sun 06/12",
+      "dateIso": "2026-11-15T12:00:00.000Z",
+      "daysFromNow": 4,
+      "time": "16:00",
+      "homeTeam": "CD Nacional",
+      "awayTeam": "Benfica",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 0.67,
+        "awayExpectedGoals": 4,
+        "totalExpectedGoals": 4.67,
+        "bttsProbability": 0.4535,
+        "bttsNoProbability": 0.5465,
+        "over25Probability": 0.793,
+        "under25Probability": 0.207,
+        "homeWinProbability": 0.0997,
+        "drawProbability": 0.06,
+        "awayWinProbability": 0.8281,
+        "predictedScore": {
+          "home": 0,
+          "away": 3,
+          "probability": 0.1005
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 59,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1580,
+          "awayElo": 1844,
+          "eloWinProb": 0.241
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 0.67,
+        "awayExpectedGoals": 4,
+        "totalExpectedGoals": 4.67,
+        "bttsProbability": 0.4535,
+        "bttsNoProbability": 0.5465,
+        "over25Probability": 0.793,
+        "under25Probability": 0.207,
+        "homeWinProbability": 0.0997,
+        "drawProbability": 0.06,
+        "awayWinProbability": 0.8281,
+        "predictedScore": {
+          "home": 0,
+          "away": 3,
+          "probability": 0.1005
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 59,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1580,
+          "awayElo": 1844,
+          "eloWinProb": 0.241
+        }
+      },
+      "confidenceScore": 79
+    },
+    {
+      "id": "fix_37_13_Estoril-Praia",
+      "leagueId": "37",
+      "leagueName": "Primeira Liga",
+      "dateRaw": "Sun 06/12",
+      "dateIso": "2026-11-15T12:00:00.000Z",
+      "daysFromNow": 4,
+      "time": "16:00",
+      "homeTeam": "Estoril-Praia",
+      "awayTeam": "Vitoria Guimaraes",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 0.66,
+        "awayExpectedGoals": 0.79,
+        "totalExpectedGoals": 1.45,
+        "bttsProbability": 0.2718,
+        "bttsNoProbability": 0.7282,
+        "over25Probability": 0.1791,
+        "under25Probability": 0.8209,
+        "homeWinProbability": 0.3281,
+        "drawProbability": 0.3883,
+        "awayWinProbability": 0.4195,
+        "predictedScore": {
+          "home": 0,
+          "away": 0,
+          "probability": 0.2415
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 46,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 64,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1481,
+          "awayElo": 1589,
+          "eloWinProb": 0.438
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 0.66,
+        "awayExpectedGoals": 0.79,
+        "totalExpectedGoals": 1.45,
+        "bttsProbability": 0.2718,
+        "bttsNoProbability": 0.7282,
+        "over25Probability": 0.1791,
+        "under25Probability": 0.8209,
+        "homeWinProbability": 0.3281,
+        "drawProbability": 0.3883,
+        "awayWinProbability": 0.4195,
+        "predictedScore": {
+          "home": 0,
+          "away": 0,
+          "probability": 0.2415
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 46,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 64,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1481,
+          "awayElo": 1589,
+          "eloWinProb": 0.438
+        }
+      },
+      "confidenceScore": 82
+    },
+    {
       "id": "fix_37_14_EstreladaAmadora",
       "leagueId": "37",
       "leagueName": "Primeira Liga",
       "dateRaw": "Sun 06/12",
       "dateIso": "2026-11-15T12:00:00.000Z",
       "daysFromNow": 4,
-      "time": "15:30",
+      "time": "16:00",
       "homeTeam": "Estrela da Amadora",
       "awayTeam": "Gil Vicente",
       "odds": {
@@ -998,35 +998,35 @@
       "confidenceScore": 59
     },
     {
-      "id": "fix_37_15_RioAve",
+      "id": "fix_37_15_Famalicao",
       "leagueId": "37",
       "leagueName": "Primeira Liga",
       "dateRaw": "Sun 06/12",
       "dateIso": "2026-11-15T12:00:00.000Z",
       "daysFromNow": 4,
-      "time": "15:30",
-      "homeTeam": "Rio Ave",
-      "awayTeam": "Casa Pia",
+      "time": "16:00",
+      "homeTeam": "Famalicao",
+      "awayTeam": "Academico de Viseu",
       "odds": {
         "home": null,
         "draw": null,
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 0.7,
-        "awayExpectedGoals": 1.58,
-        "totalExpectedGoals": 2.28,
-        "bttsProbability": 0.4065,
-        "bttsNoProbability": 0.5935,
-        "over25Probability": 0.399,
-        "under25Probability": 0.601,
-        "homeWinProbability": 0.3019,
-        "drawProbability": 0.264,
-        "awayWinProbability": 0.5263,
+        "homeExpectedGoals": 0.69,
+        "awayExpectedGoals": 1.8,
+        "totalExpectedGoals": 2.49,
+        "bttsProbability": 0.4222,
+        "bttsNoProbability": 0.5778,
+        "over25Probability": 0.4534,
+        "under25Probability": 0.5466,
+        "homeWinProbability": 0.2563,
+        "drawProbability": 0.2349,
+        "awayWinProbability": 0.5907,
         "predictedScore": {
           "home": 0,
           "away": 1,
-          "probability": 0.1547
+          "probability": 0.1429
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1034,26 +1034,26 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1520,
-          "awayElo": 1535,
-          "eloWinProb": 0.571
+          "homeElo": 1641,
+          "awayElo": 1714,
+          "eloWinProb": 0.488
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.7,
-        "awayExpectedGoals": 1.58,
-        "totalExpectedGoals": 2.28,
-        "bttsProbability": 0.4065,
-        "bttsNoProbability": 0.5935,
-        "over25Probability": 0.399,
-        "under25Probability": 0.601,
-        "homeWinProbability": 0.3019,
-        "drawProbability": 0.264,
-        "awayWinProbability": 0.5263,
+        "homeExpectedGoals": 0.69,
+        "awayExpectedGoals": 1.8,
+        "totalExpectedGoals": 2.49,
+        "bttsProbability": 0.4222,
+        "bttsNoProbability": 0.5778,
+        "over25Probability": 0.4534,
+        "under25Probability": 0.5466,
+        "homeWinProbability": 0.2563,
+        "drawProbability": 0.2349,
+        "awayWinProbability": 0.5907,
         "predictedScore": {
           "home": 0,
           "away": 1,
-          "probability": 0.1547
+          "probability": 0.1429
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1061,12 +1061,12 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1520,
-          "awayElo": 1535,
-          "eloWinProb": 0.571
+          "homeElo": 1641,
+          "awayElo": 1714,
+          "eloWinProb": 0.488
         }
       },
-      "confidenceScore": 60
+      "confidenceScore": 58
     }
   ],
   "results": [
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.255
         },
         "matchFingerprint": "37_estrela da amadora_benfica_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.094Z",
-        "auditHash": "SHA256-IMMUTABLE-1E3E0EC0-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:47.773Z",
+        "auditHash": "SHA256-IMMUTABLE-39BDEB9C-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.363
         },
         "matchFingerprint": "37_rio ave_braga_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.095Z",
-        "auditHash": "SHA256-IMMUTABLE-117D5398-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:47.773Z",
+        "auditHash": "SHA256-IMMUTABLE-69794E13-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.203
         },
         "matchFingerprint": "37_vitoria guimaraes_porto_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.095Z",
-        "auditHash": "SHA256-IMMUTABLE-3A5F950-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:47.773Z",
+        "auditHash": "SHA256-IMMUTABLE-5456012B-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.402
         },
         "matchFingerprint": "37_cd nacional_academico de viseu_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.095Z",
-        "auditHash": "SHA256-IMMUTABLE-4B929ECF-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:47.773Z",
+        "auditHash": "SHA256-IMMUTABLE-C695BAC-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.664
         },
         "matchFingerprint": "37_santa clara_gil vicente_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.095Z",
-        "auditHash": "SHA256-IMMUTABLE-AB50854-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:47.773Z",
+        "auditHash": "SHA256-IMMUTABLE-62B102CF-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.779
         },
         "matchFingerprint": "37_sporting lisbon_moreirense_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.095Z",
-        "auditHash": "SHA256-IMMUTABLE-7772F0DC-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:47.773Z",
+        "auditHash": "SHA256-IMMUTABLE-1F76F661-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.708
         },
         "matchFingerprint": "37_alverca_casa pia_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.095Z",
-        "auditHash": "SHA256-IMMUTABLE-216D0E8B-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:47.773Z",
+        "auditHash": "SHA256-IMMUTABLE-79690906-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.47
         },
         "matchFingerprint": "37_famalicao_arouca_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.095Z",
-        "auditHash": "SHA256-IMMUTABLE-438D4C6F-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:47.773Z",
+        "auditHash": "SHA256-IMMUTABLE-6476B916-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.838
         },
         "matchFingerprint": "37_benfica_alverca_Mon 02-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.095Z",
-        "auditHash": "SHA256-IMMUTABLE-2809AB1D-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:47.773Z",
+        "auditHash": "SHA256-IMMUTABLE-7FFA5A68-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.727
         },
         "matchFingerprint": "37_gil vicente_vitoria guimaraes_Mon 02-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.095Z",
-        "auditHash": "SHA256-IMMUTABLE-36CB1EBA-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:47.773Z",
+        "auditHash": "SHA256-IMMUTABLE-2130DBC1-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.649
         },
         "matchFingerprint": "37_braga_famalicao_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.096Z",
-        "auditHash": "SHA256-IMMUTABLE-51BF38B0-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:47.774Z",
+        "auditHash": "SHA256-IMMUTABLE-5644CCD5-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.816
         },
         "matchFingerprint": "37_academico de viseu_rio ave_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.096Z",
-        "auditHash": "SHA256-IMMUTABLE-288E60D9-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:47.774Z",
+        "auditHash": "SHA256-IMMUTABLE-2F6D99A2-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.312
         },
         "matchFingerprint": "37_maritimo_santa clara_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.096Z",
-        "auditHash": "SHA256-IMMUTABLE-2E1D79F8-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:47.774Z",
+        "auditHash": "SHA256-IMMUTABLE-79E68B8D-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.772
         },
         "matchFingerprint": "37_arouca_cd nacional_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.096Z",
-        "auditHash": "SHA256-IMMUTABLE-1BE2508D-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:47.774Z",
+        "auditHash": "SHA256-IMMUTABLE-3C19A9EE-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.939
         },
         "matchFingerprint": "37_porto_estoril-praia_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:51.096Z",
-        "auditHash": "SHA256-IMMUTABLE-67021A76-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:47.774Z",
+        "auditHash": "SHA256-IMMUTABLE-F061FFB-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {

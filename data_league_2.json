@@ -1,7 +1,7 @@
 {
   "leagueId": "2",
   "leagueName": "Championship",
-  "timestamp": "2026-11-11T11:19:44.420Z",
+  "timestamp": "2026-11-11T13:52:32.786Z",
   "fixtures": [
     {
       "id": "fix_2_1_Millwall",
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.697
         },
         "matchFingerprint": "2_birmingham_swansea_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:44.415Z",
-        "auditHash": "SHA256-IMMUTABLE-45F549E-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:32.782Z",
+        "auditHash": "SHA256-IMMUTABLE-6A03C3E3-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.481
         },
         "matchFingerprint": "2_blackburn_west ham_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:44.415Z",
-        "auditHash": "SHA256-IMMUTABLE-9443C28-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:32.782Z",
+        "auditHash": "SHA256-IMMUTABLE-6EE8AB6D-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.752
         },
         "matchFingerprint": "2_cardiff_burnley_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:44.415Z",
-        "auditHash": "SHA256-IMMUTABLE-2D9E0D26-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:32.782Z",
+        "auditHash": "SHA256-IMMUTABLE-3806621F-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.429
         },
         "matchFingerprint": "2_charlton_sheffield utd_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:44.415Z",
-        "auditHash": "SHA256-IMMUTABLE-70395BCE-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:32.783Z",
+        "auditHash": "SHA256-IMMUTABLE-A94ECA8-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.195
         },
         "matchFingerprint": "2_preston_southampton_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:44.416Z",
-        "auditHash": "SHA256-IMMUTABLE-404C5784-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:32.783Z",
+        "auditHash": "SHA256-IMMUTABLE-255817C1-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.805
         },
         "matchFingerprint": "2_qpr_lincoln city_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:44.416Z",
-        "auditHash": "SHA256-IMMUTABLE-1E29BC5E-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:32.783Z",
+        "auditHash": "SHA256-IMMUTABLE-477AB2E7-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.25
         },
         "matchFingerprint": "2_watford_middlesbrough_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:44.416Z",
-        "auditHash": "SHA256-IMMUTABLE-1FE39B39-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:32.783Z",
+        "auditHash": "SHA256-IMMUTABLE-7A77F582-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.787
         },
         "matchFingerprint": "2_west brom_millwall_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:44.416Z",
-        "auditHash": "SHA256-IMMUTABLE-26CDC459-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:32.783Z",
+        "auditHash": "SHA256-IMMUTABLE-3ED6AAEC-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.458
         },
         "matchFingerprint": "2_bristol city_norwich_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:44.416Z",
-        "auditHash": "SHA256-IMMUTABLE-35C932C-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:32.783Z",
+        "auditHash": "SHA256-IMMUTABLE-6247DC19-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.444
         },
         "matchFingerprint": "2_portsmouth_stoke_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:44.416Z",
-        "auditHash": "SHA256-IMMUTABLE-531A04EC-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:32.783Z",
+        "auditHash": "SHA256-IMMUTABLE-128A6A59-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.372
         },
         "matchFingerprint": "2_wrexham_wolverhampton_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:44.416Z",
-        "auditHash": "SHA256-IMMUTABLE-3EFA21A1-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:32.784Z",
+        "auditHash": "SHA256-IMMUTABLE-5B616F39-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.447
         },
         "matchFingerprint": "2_derby_bolton_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:44.417Z",
-        "auditHash": "SHA256-IMMUTABLE-551978EA-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:32.784Z",
+        "auditHash": "SHA256-IMMUTABLE-454217D1-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.338
         },
         "matchFingerprint": "2_bristol city_wolverhampton_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:44.417Z",
-        "auditHash": "SHA256-IMMUTABLE-5288B879-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:32.784Z",
+        "auditHash": "SHA256-IMMUTABLE-47D2D842-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.443
         },
         "matchFingerprint": "2_cardiff_west ham_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:44.417Z",
-        "auditHash": "SHA256-IMMUTABLE-6ED7E04B-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:32.784Z",
+        "auditHash": "SHA256-IMMUTABLE-9337106-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.333
         },
         "matchFingerprint": "2_wrexham_middlesbrough_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:44.417Z",
-        "auditHash": "SHA256-IMMUTABLE-796515C3-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:32.784Z",
+        "auditHash": "SHA256-IMMUTABLE-20F67AF8-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {

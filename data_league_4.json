@@ -1,7 +1,7 @@
 {
   "leagueId": "4",
   "leagueName": "League Two",
-  "timestamp": "2026-11-11T11:19:45.884Z",
+  "timestamp": "2026-11-11T13:52:35.748Z",
   "fixtures": [
     {
       "id": "fix_4_1_Exeter",
@@ -430,7 +430,78 @@
       "confidenceScore": 77
     },
     {
-      "id": "fix_4_7_Salford",
+      "id": "fix_4_7_Rotherham",
+      "leagueId": "4",
+      "leagueName": "League Two",
+      "dateRaw": "Sat 14/11",
+      "dateIso": "2026-11-14T12:00:00.000Z",
+      "daysFromNow": 3,
+      "time": "15:00",
+      "homeTeam": "Rotherham",
+      "awayTeam": "Crawley Town",
+      "odds": {
+        "home": 2.09,
+        "draw": 3.7,
+        "away": 3.35
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.93,
+        "awayExpectedGoals": 2.05,
+        "totalExpectedGoals": 3.99,
+        "bttsProbability": 0.7482,
+        "bttsNoProbability": 0.2518,
+        "over25Probability": 0.7579,
+        "under25Probability": 0.2421,
+        "homeWinProbability": 0.463,
+        "drawProbability": 0.2159,
+        "awayWinProbability": 0.3953,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.0781
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 50,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 52,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1568,
+          "awayElo": 1533,
+          "eloWinProb": 0.64
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.93,
+        "awayExpectedGoals": 2.05,
+        "totalExpectedGoals": 3.99,
+        "bttsProbability": 0.7482,
+        "bttsNoProbability": 0.2518,
+        "over25Probability": 0.7579,
+        "under25Probability": 0.2421,
+        "homeWinProbability": 0.463,
+        "drawProbability": 0.2159,
+        "awayWinProbability": 0.3953,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.0781
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 50,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 52,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1568,
+          "awayElo": 1533,
+          "eloWinProb": 0.64
+        }
+      },
+      "confidenceScore": 76
+    },
+    {
+      "id": "fix_4_8_Salford",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
@@ -501,7 +572,7 @@
       "confidenceScore": 79
     },
     {
-      "id": "fix_4_8_Shrewsbury",
+      "id": "fix_4_9_Shrewsbury",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
@@ -572,7 +643,7 @@
       "confidenceScore": 68
     },
     {
-      "id": "fix_4_9_Swindon",
+      "id": "fix_4_10_Swindon",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
@@ -643,7 +714,78 @@
       "confidenceScore": 63
     },
     {
-      "id": "fix_4_10_FleetwoodTown",
+      "id": "fix_4_11_Walsall",
+      "leagueId": "4",
+      "leagueName": "League Two",
+      "dateRaw": "Sat 14/11",
+      "dateIso": "2026-11-14T12:00:00.000Z",
+      "daysFromNow": 3,
+      "time": "15:00",
+      "homeTeam": "Walsall",
+      "awayTeam": "Barnet",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.54,
+        "awayExpectedGoals": 2.14,
+        "totalExpectedGoals": 3.69,
+        "bttsProbability": 0.6976,
+        "bttsNoProbability": 0.3024,
+        "over25Probability": 0.7104,
+        "under25Probability": 0.2896,
+        "homeWinProbability": 0.3647,
+        "drawProbability": 0.2176,
+        "awayWinProbability": 0.4927,
+        "predictedScore": {
+          "home": 1,
+          "away": 2,
+          "probability": 0.0888
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 42,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1772,
+          "awayElo": 1812,
+          "eloWinProb": 0.536
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.54,
+        "awayExpectedGoals": 2.14,
+        "totalExpectedGoals": 3.69,
+        "bttsProbability": 0.6976,
+        "bttsNoProbability": 0.3024,
+        "over25Probability": 0.7104,
+        "under25Probability": 0.2896,
+        "homeWinProbability": 0.3647,
+        "drawProbability": 0.2176,
+        "awayWinProbability": 0.4927,
+        "predictedScore": {
+          "home": 1,
+          "away": 2,
+          "probability": 0.0888
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 42,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1772,
+          "awayElo": 1812,
+          "eloWinProb": 0.536
+        }
+      },
+      "confidenceScore": 71
+    },
+    {
+      "id": "fix_4_12_FleetwoodTown",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
@@ -714,7 +856,7 @@
       "confidenceScore": 66
     },
     {
-      "id": "fix_4_11_Gillingham",
+      "id": "fix_4_13_Gillingham",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 21/11",
@@ -785,7 +927,7 @@
       "confidenceScore": 72
     },
     {
-      "id": "fix_4_12_NewportCounty",
+      "id": "fix_4_14_NewportCounty",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 21/11",
@@ -856,7 +998,7 @@
       "confidenceScore": 77
     },
     {
-      "id": "fix_4_13_AccringtonStanley",
+      "id": "fix_4_15_AccringtonStanley",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 21/11",
@@ -925,148 +1067,6 @@
         }
       },
       "confidenceScore": 86
-    },
-    {
-      "id": "fix_4_14_Barnet",
-      "leagueId": "4",
-      "leagueName": "League Two",
-      "dateRaw": "Sat 21/11",
-      "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 3,
-      "time": "15:00",
-      "homeTeam": "Barnet",
-      "awayTeam": "Port Vale",
-      "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
-      },
-      "prediction": {
-        "homeExpectedGoals": 4.09,
-        "awayExpectedGoals": 0.32,
-        "totalExpectedGoals": 4.4,
-        "bttsProbability": 0.2513,
-        "bttsNoProbability": 0.7487,
-        "over25Probability": 0.7588,
-        "under25Probability": 0.2412,
-        "homeWinProbability": 0.8726,
-        "drawProbability": 0.0357,
-        "awayWinProbability": 0.0674,
-        "predictedScore": {
-          "home": 4,
-          "away": 0,
-          "probability": 0.1424
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 50,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 52,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1812,
-          "awayElo": 1613,
-          "eloWinProb": 0.82
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 4.09,
-        "awayExpectedGoals": 0.32,
-        "totalExpectedGoals": 4.4,
-        "bttsProbability": 0.2513,
-        "bttsNoProbability": 0.7487,
-        "over25Probability": 0.7588,
-        "under25Probability": 0.2412,
-        "homeWinProbability": 0.8726,
-        "drawProbability": 0.0357,
-        "awayWinProbability": 0.0674,
-        "predictedScore": {
-          "home": 4,
-          "away": 0,
-          "probability": 0.1424
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 50,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 52,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1812,
-          "awayElo": 1613,
-          "eloWinProb": 0.82
-        }
-      },
-      "confidenceScore": 76
-    },
-    {
-      "id": "fix_4_15_Cheltenham",
-      "leagueId": "4",
-      "leagueName": "League Two",
-      "dateRaw": "Sat 21/11",
-      "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 3,
-      "time": "15:00",
-      "homeTeam": "Cheltenham",
-      "awayTeam": "Bristol Rovers",
-      "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
-      },
-      "prediction": {
-        "homeExpectedGoals": 3.56,
-        "awayExpectedGoals": 0.84,
-        "totalExpectedGoals": 4.4,
-        "bttsProbability": 0.5377,
-        "bttsNoProbability": 0.4623,
-        "over25Probability": 0.7859,
-        "under25Probability": 0.2141,
-        "homeWinProbability": 0.7932,
-        "drawProbability": 0.0918,
-        "awayWinProbability": 0.1281,
-        "predictedScore": {
-          "home": 3,
-          "away": 0,
-          "probability": 0.0923
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 57,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1723,
-          "awayElo": 1623,
-          "eloWinProb": 0.721
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 3.56,
-        "awayExpectedGoals": 0.84,
-        "totalExpectedGoals": 4.4,
-        "bttsProbability": 0.5377,
-        "bttsNoProbability": 0.4623,
-        "over25Probability": 0.7859,
-        "under25Probability": 0.2141,
-        "homeWinProbability": 0.7932,
-        "drawProbability": 0.0918,
-        "awayWinProbability": 0.1281,
-        "predictedScore": {
-          "home": 3,
-          "away": 0,
-          "probability": 0.0923
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 57,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1723,
-          "awayElo": 1623,
-          "eloWinProb": 0.721
-        }
-      },
-      "confidenceScore": 79
     }
   ],
   "results": [
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.577
         },
         "matchFingerprint": "4_northampton_oldham_Tue 03-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:45.881Z",
-        "auditHash": "SHA256-IMMUTABLE-24455D43-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:35.746Z",
+        "auditHash": "SHA256-IMMUTABLE-797DEAE7-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.731
         },
         "matchFingerprint": "4_accrington stanley_northampton_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:45.881Z",
-        "auditHash": "SHA256-IMMUTABLE-7FC240D5-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:35.746Z",
+        "auditHash": "SHA256-IMMUTABLE-1E010755-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.305
         },
         "matchFingerprint": "4_colchester_walsall_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:45.882Z",
-        "auditHash": "SHA256-IMMUTABLE-6C81C636-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:35.746Z",
+        "auditHash": "SHA256-IMMUTABLE-A450E41-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.491
         },
         "matchFingerprint": "4_crewe_barnet_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:45.882Z",
-        "auditHash": "SHA256-IMMUTABLE-1F25EE70-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:35.746Z",
+        "auditHash": "SHA256-IMMUTABLE-7E9D599B-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.633
         },
         "matchFingerprint": "4_fleetwood town_bristol rovers_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:45.882Z",
-        "auditHash": "SHA256-IMMUTABLE-124C1FF6-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:35.746Z",
+        "auditHash": "SHA256-IMMUTABLE-4FF097FF-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.702
         },
         "matchFingerprint": "4_oldham_crawley town_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:45.882Z",
-        "auditHash": "SHA256-IMMUTABLE-1A7DC106-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:35.746Z",
+        "auditHash": "SHA256-IMMUTABLE-47BEF6EF-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.79
         },
         "matchFingerprint": "4_salford_exeter_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:45.882Z",
-        "auditHash": "SHA256-IMMUTABLE-21B91C13-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:35.746Z",
+        "auditHash": "SHA256-IMMUTABLE-40839BE2-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.504
         },
         "matchFingerprint": "4_shrewsbury_gillingham_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:45.882Z",
-        "auditHash": "SHA256-IMMUTABLE-47439F80-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:35.747Z",
+        "auditHash": "SHA256-IMMUTABLE-1AF91856-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.729
         },
         "matchFingerprint": "4_swindon_rotherham_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:45.882Z",
-        "auditHash": "SHA256-IMMUTABLE-2473B8CC-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:35.747Z",
+        "auditHash": "SHA256-IMMUTABLE-3DC8FF0A-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.553
         },
         "matchFingerprint": "4_tranmere_cheltenham_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:45.882Z",
-        "auditHash": "SHA256-IMMUTABLE-2B6E6B67-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:35.747Z",
+        "auditHash": "SHA256-IMMUTABLE-36CE4C6F-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.61
         },
         "matchFingerprint": "4_grimsby_york_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:45.882Z",
-        "auditHash": "SHA256-IMMUTABLE-6653D407-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:35.747Z",
+        "auditHash": "SHA256-IMMUTABLE-376F7423-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.619
         },
         "matchFingerprint": "4_port vale_rochdale_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:45.883Z",
-        "auditHash": "SHA256-IMMUTABLE-6D1312C5-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:35.747Z",
+        "auditHash": "SHA256-IMMUTABLE-AD65AD0-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.559
         },
         "matchFingerprint": "4_newport county_chesterfield_Fri 30-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:45.883Z",
-        "auditHash": "SHA256-IMMUTABLE-5AD2462B-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:35.747Z",
+        "auditHash": "SHA256-IMMUTABLE-76A71CA-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.709
         },
         "matchFingerprint": "4_barnet_york_Tue 27-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:45.883Z",
-        "auditHash": "SHA256-IMMUTABLE-7E7A3457-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:35.747Z",
+        "auditHash": "SHA256-IMMUTABLE-1F4913B4-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.473
         },
         "matchFingerprint": "4_walsall_salford_Mon 26-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T11:19:45.883Z",
-        "auditHash": "SHA256-IMMUTABLE-6D2CECF8-2026-11-11",
+        "lockedAt": "2026-11-11T13:52:35.747Z",
+        "auditHash": "SHA256-IMMUTABLE-AF03503-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
