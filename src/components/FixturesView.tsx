@@ -32,9 +32,11 @@ export const FixturesView: React.FC<FixturesViewProps> = ({
   const [searchTerm, setSearchTerm] = useState('');
   const [expandedMatchId, setExpandedMatchId] = useState<string | null>(null);
 
-  // Filter fixtures
+  const [sortOrder, setSortOrder] = useState<'cron' | 'confidence'>('cron');
+
+  // Filter and sort fixtures
   const filteredFixtures = useMemo(() => {
-    return fixtures.filter((f) => {
+    const list = fixtures.filter((f) => {
       // Days filter
       if (f.daysFromNow > daysAhead) return false;
 
@@ -53,7 +55,19 @@ export const FixturesView: React.FC<FixturesViewProps> = ({
 
       return true;
     });
-  }, [fixtures, daysAhead, searchTerm, marketFilter]);
+
+    return list.sort((a, b) => {
+      if (sortOrder === 'cron') {
+        const timeA = getFixtureDateTime(a);
+        const timeB = getFixtureDateTime(b);
+        return timeA - timeB; // Closest first (e.g. starting in 2 hours first)
+      } else {
+        const confA = a.prediction ? Math.max(a.prediction.bttsProbability, a.prediction.bttsNoProbability, a.prediction.over25Probability, a.prediction.under25Probability) : 0;
+        const confB = b.prediction ? Math.max(b.prediction.bttsProbability, b.prediction.bttsNoProbability, b.prediction.over25Probability, b.prediction.under25Probability) : 0;
+        return confB - confA;
+      }
+    });
+  }, [fixtures, daysAhead, searchTerm, marketFilter, sortOrder]);
 
   // Aggregate stats
   const stats = useMemo(() => {
@@ -210,14 +224,34 @@ export const FixturesView: React.FC<FixturesViewProps> = ({
           ))}
         </div>
 
-        <div className="relative w-full sm:w-64">
-          <input
-            type="text"
-            placeholder="Buscar por equipo..."
-            value={searchTerm}
-            onChange={(e) => setSearchTerm(e.target.value)}
-            className="w-full px-3 py-1.5 text-xs bg-slate-950 text-slate-200 placeholder-slate-500 border border-slate-800 rounded focus:outline-none focus:border-emerald-500"
-          />
+        <div className="flex items-center gap-2">
+          <div className="flex items-center gap-1 bg-slate-950 p-1 rounded border border-slate-800 text-xs shrink-0">
+            <span className="text-slate-400 px-1">Ordenar:</span>
+            <button
+              onClick={() => setSortOrder('cron')}
+              className={`px-2 py-0.5 rounded font-semibold ${sortOrder === 'cron' ? 'bg-emerald-500 text-slate-950' : 'text-slate-400 hover:text-white'}`}
+              title="Mostrar los partidos que empiezan antes (ej. en 2 horas) primero"
+            >
+              Más Próximos
+            </button>
+            <button
+              onClick={() => setSortOrder('confidence')}
+              className={`px-2 py-0.5 rounded font-semibold ${sortOrder === 'confidence' ? 'bg-emerald-500 text-slate-950' : 'text-slate-400 hover:text-white'}`}
+              title="Ordenar por mayor probabilidad estadística"
+            >
+              Mayor Confianza
+            </button>
+          </div>
+
+          <div className="relative w-full sm:w-48">
+            <input
+              type="text"
+              placeholder="Buscar por equipo..."
+              value={searchTerm}
+              onChange={(e) => setSearchTerm(e.target.value)}
+              className="w-full px-3 py-1.5 text-xs bg-slate-950 text-slate-200 placeholder-slate-500 border border-slate-800 rounded focus:outline-none focus:border-emerald-500"
+            />
+          </div>
         </div>
       </div>
 
@@ -466,3 +500,18 @@ export const FixturesView: React.FC<FixturesViewProps> = ({
     </div>
   );
 };
+
+function getFixtureDateTime(f: FixtureMatch): number {
+  const d = new Date(f.dateIso || Date.now());
+  if (f.time) {
+    const parts = f.time.split(':');
+    if (parts.length >= 2) {
+      const h = parseInt(parts[0], 10);
+      const m = parseInt(parts[1], 10);
+      if (!isNaN(h) && !isNaN(m)) {
+        d.setUTCHours(h, m, 0, 0);
+      }
+    }
+  }
+  return d.getTime();
+}

@@ -1,9 +1,9 @@
-import { getUpcomingFixtures, getFinishedResults, getLeagueTableAndStats } from '../src/services/theFishyScraper';
+import { getUpcomingFixtures, getFinishedResults, getLeagueTableAndStats, getThisWeeksFixtures } from '../src/services/theFishyScraper';
 import { runBacktest, predictMatch, DEFAULT_PARAMETERS } from '../src/services/predictiveModel';
 import fs from 'fs';
 
 async function run() {
-  console.log('Iniciando actualización rápida de pronósticos y screener global (Ligas Principales)...');
+  console.log('Iniciando actualización completa de pronósticos desde https://www.thefishy.net/thisweeksfixtures...');
   
   const majorLeagues = [
     { id: '1', name: 'Premier League', group: 'England' },
@@ -31,6 +31,29 @@ async function run() {
   const allFixtures: any[] = [];
   const allResults: any[] = [];
 
+  // 1. Fetch all fixtures from thisweeksfixtures to match https://www.thefishy.net/thisweeksfixtures exactly
+  try {
+    console.log('Obteniendo partidos desde https://www.thefishy.net/thisweeksfixtures...');
+    const fishyFixtures = await getThisWeeksFixtures();
+    if (fishyFixtures && fishyFixtures.length > 0) {
+      for (const f of fishyFixtures) {
+        const p = predictMatch(f.homeTeam, f.awayTeam, {}, DEFAULT_PARAMETERS);
+        const maxProb = Math.max(p.bttsProbability, p.bttsNoProbability, p.over25Probability, p.under25Probability);
+        const confidenceScore = Math.round(maxProb * 100);
+        allFixtures.push({
+          ...f,
+          prediction: p,
+          pred: p,
+          confidenceScore
+        });
+      }
+      console.log(`Se obtuvieron ${fishyFixtures.length} partidos de thisweeksfixtures.`);
+    }
+  } catch (err) {
+    console.warn('Aviso al obtener thisweeksfixtures:', err);
+  }
+
+  // 2. Process major leagues for league-specific tables, fixtures, and backtest results
   for (const l of majorLeagues) {
     try {
       console.log(`Procesando liga ${l.id} (${l.name})...`);
@@ -53,13 +76,19 @@ async function run() {
         };
       });
 
+      // Add to global fixtures if not already present from thisweeksfixtures
+      for (const pf of preds) {
+        if (!allFixtures.some(ex => ex.homeTeam.toLowerCase() === pf.homeTeam.toLowerCase() && ex.awayTeam.toLowerCase() === pf.awayTeam.toLowerCase())) {
+          allFixtures.push(pf);
+        }
+      }
+
       const evaluatedResults = backtest.evaluatedMatches.map(r => ({ 
         ...r, 
         leagueId: l.id,
         leagueName: l.name 
       }));
 
-      allFixtures.push(...preds);
       allResults.push(...evaluatedResults);
 
       const payload = {
@@ -110,7 +139,7 @@ async function run() {
     fs.writeFileSync('public/screener-results.json', JSON.stringify(resultsPayload, null, 2));
   } catch {}
 
-  console.log(`Actualización rápida completa. Total partidos próximos: ${allFixtures.length}, Resultados backtest: ${allResults.length}`);
+  console.log(`Actualización completa. Total partidos próximos: ${allFixtures.length}, Resultados backtest: ${allResults.length}`);
 }
 
 run().catch(err => {

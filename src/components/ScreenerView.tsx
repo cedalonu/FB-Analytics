@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { FixtureMatch, FinishedMatch } from '../types/football';
 import * as XLSX from 'xlsx';
-import { Sparkles, Trophy, Filter, Check, X, Clock, History, ArrowUpDown, FileSpreadsheet } from 'lucide-react';
+import { Sparkles, Trophy, Filter, Check, X, Clock, History, ArrowUpDown, FileSpreadsheet, RefreshCw } from 'lucide-react';
 
 interface ScreenerFixture extends FixtureMatch {
   leagueName: string;
@@ -12,11 +12,16 @@ type SortField = 'date' | 'league' | 'confidence' | 'totalXG' | 'teams' | 'btts'
 type ResultSortField = 'date' | 'league' | 'teams' | 'score' | 'btts' | 'overUnder' | 'confidence';
 type ScreenerMode = 'fixtures' | 'results';
 
-export const ScreenerView: React.FC = () => {
+interface ScreenerViewProps {
+  refreshKey?: number;
+}
+
+export const ScreenerView: React.FC<ScreenerViewProps> = ({ refreshKey = 0 }) => {
   const [mode, setMode] = useState<ScreenerMode>('fixtures');
   const [fixtures, setFixtures] = useState<ScreenerFixture[]>([]);
   const [results, setResults] = useState<FinishedMatch[]>([]);
   const [isLoading, setIsLoading] = useState<boolean>(true);
+  const [localRefresh, setLocalRefresh] = useState<number>(0);
   const [isDownloadingExcel, setIsDownloadingExcel] = useState<boolean>(false);
   const [marketFilter, setMarketFilter] = useState<'ALL' | 'BTTS_SI' | 'BTTS_NO' | 'OVER_2_5' | 'UNDER_2_5'>('ALL');
   const [filterMode, setFilterMode] = useState<'ALL' | 'HITS_ONLY' | 'BOTH_HITS' | 'MISSES_ONLY'>('ALL');
@@ -24,8 +29,8 @@ export const ScreenerView: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState<string>('');
   
   // Sorting for fixtures
-  const [sortField, setSortField] = useState<SortField>('confidence');
-  const [sortAsc, setSortAsc] = useState<boolean>(false);
+  const [sortField, setSortField] = useState<SortField>('date');
+  const [sortAsc, setSortAsc] = useState<boolean>(true);
 
   // Sorting for results
   const [resultSortField, setResultSortField] = useState<ResultSortField>('date');
@@ -148,7 +153,7 @@ export const ScreenerView: React.FC = () => {
         })
         .finally(() => setIsLoading(false));
     }
-  }, [mode]);
+  }, [mode, refreshKey, localRefresh]);
 
   const handleDownloadExcelGlobal = async () => {
     setIsDownloadingExcel(true);
@@ -358,16 +363,28 @@ export const ScreenerView: React.FC = () => {
           </p>
         </div>
 
-        {/* Excel Export Button */}
-        <button
-          onClick={handleDownloadExcelGlobal}
-          disabled={isDownloadingExcel}
-          className="px-3.5 py-2 text-xs font-semibold text-slate-950 bg-emerald-400 hover:bg-emerald-300 disabled:opacity-50 rounded-lg transition-colors flex items-center gap-1.5 shadow-sm shrink-0"
-          title="Descargar Excel global con 2 hojas: Próximos y Backtesting"
-        >
-          <FileSpreadsheet className="w-3.5 h-3.5" />
-          <span>{isDownloadingExcel ? 'Generando Excel...' : 'Descargar Excel Global (2 Hojas)'}</span>
-        </button>
+        {/* Action Buttons */}
+        <div className="flex items-center gap-2.5 shrink-0">
+          <button
+            onClick={() => setLocalRefresh((prev) => prev + 1)}
+            disabled={isLoading}
+            className="px-3.5 py-2 text-xs font-semibold text-slate-100 bg-slate-800 hover:bg-slate-700 disabled:opacity-50 rounded-lg transition-colors flex items-center gap-1.5 border border-slate-700 shadow-sm"
+            title="Actualizar partidos próximos y resultados finalizados"
+          >
+            <RefreshCw className={`w-3.5 h-3.5 text-emerald-400 ${isLoading ? 'animate-spin' : ''}`} />
+            <span>{isLoading ? 'Actualizando...' : 'Actualizar Screener'}</span>
+          </button>
+
+          <button
+            onClick={handleDownloadExcelGlobal}
+            disabled={isDownloadingExcel}
+            className="px-3.5 py-2 text-xs font-semibold text-slate-950 bg-emerald-400 hover:bg-emerald-300 disabled:opacity-50 rounded-lg transition-colors flex items-center gap-1.5 shadow-sm shrink-0"
+            title="Descargar Excel global con 2 hojas: Próximos y Backtesting"
+          >
+            <FileSpreadsheet className="w-3.5 h-3.5" />
+            <span>{isDownloadingExcel ? 'Generando Excel...' : 'Descargar Excel Global (2 Hojas)'}</span>
+          </button>
+        </div>
       </div>
 
       {/* Filter Toolbar with Mode Toggle Buttons on Left */}

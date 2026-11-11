@@ -36,6 +36,7 @@ export default function App() {
   const [isRefreshing, setIsRefreshing] = useState<boolean>(false);
   const [isOptimizing, setIsOptimizing] = useState<boolean>(false);
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
+  const [screenerRefreshKey, setScreenerRefreshKey] = useState<number>(0);
 
   const [, startTransition] = useTransition();
 
@@ -232,7 +233,13 @@ export default function App() {
       <Header
         currentTab={currentTab}
         onTabChange={setCurrentTab}
-        onRefresh={() => loadLeagueData(selectedLeagueId, daysAhead, daysBehind, true)}
+        onRefresh={() => {
+          if (currentTab === 'screener') {
+            setScreenerRefreshKey(prev => prev + 1);
+          } else {
+            loadLeagueData(selectedLeagueId, daysAhead, daysBehind, true);
+          }
+        }}
         isRefreshing={isRefreshing}
         lastUpdated={data?.timestamp || null}
       />
@@ -368,7 +375,7 @@ export default function App() {
           />
         )}
 
-        {currentTab === 'screener' && <ScreenerView />}
+        {currentTab === 'screener' && <ScreenerView refreshKey={screenerRefreshKey} />}
 
         {currentTab === 'export' && <GithubExportView data={data} />}
       </main>

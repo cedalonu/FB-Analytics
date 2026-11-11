@@ -1,16 +1,1082 @@
 {
   "leagueId": "32",
   "leagueName": "Bundesliga",
-  "timestamp": "2026-11-10T14:38:37.500Z",
-  "fixtures": [],
+  "timestamp": "2026-11-11T11:19:47.279Z",
+  "fixtures": [
+    {
+      "id": "fix_32_1_BayernMunich",
+      "leagueId": "32",
+      "leagueName": "Bundesliga",
+      "dateRaw": "Fri 20/11",
+      "dateIso": "2026-11-13T12:00:00.000Z",
+      "daysFromNow": 2,
+      "time": "19:30",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "FC Koln",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.34,
+        "totalExpectedGoals": 4.84,
+        "bttsProbability": 0.2623,
+        "bttsNoProbability": 0.7377,
+        "over25Probability": 0.7748,
+        "under25Probability": 0.2252,
+        "homeWinProbability": 0.8784,
+        "drawProbability": 0.0271,
+        "awayWinProbability": 0.0478,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.1348
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 48,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 55,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1886,
+          "awayElo": 1615,
+          "eloWinProb": 0.874
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.34,
+        "totalExpectedGoals": 4.84,
+        "bttsProbability": 0.2623,
+        "bttsNoProbability": 0.7377,
+        "over25Probability": 0.7748,
+        "under25Probability": 0.2252,
+        "homeWinProbability": 0.8784,
+        "drawProbability": 0.0271,
+        "awayWinProbability": 0.0478,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.1348
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 48,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 55,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1886,
+          "awayElo": 1615,
+          "eloWinProb": 0.874
+        }
+      },
+      "confidenceScore": 77
+    },
+    {
+      "id": "fix_32_2_BorussiaMonchengladbach",
+      "leagueId": "32",
+      "leagueName": "Bundesliga",
+      "dateRaw": "Sat 21/11",
+      "dateIso": "2026-11-14T12:00:00.000Z",
+      "daysFromNow": 3,
+      "time": "14:30",
+      "homeTeam": "Borussia Monchengladbach",
+      "awayTeam": "Borussia Dortmund",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 0.54,
+        "awayExpectedGoals": 4,
+        "totalExpectedGoals": 4.54,
+        "bttsProbability": 0.387,
+        "bttsNoProbability": 0.613,
+        "over25Probability": 0.7792,
+        "under25Probability": 0.2208,
+        "homeWinProbability": 0.0727,
+        "drawProbability": 0.0521,
+        "awayWinProbability": 0.8602,
+        "predictedScore": {
+          "home": 0,
+          "away": 3,
+          "probability": 0.1144
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 56,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1517,
+          "awayElo": 1849,
+          "eloWinProb": 0.177
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 0.54,
+        "awayExpectedGoals": 4,
+        "totalExpectedGoals": 4.54,
+        "bttsProbability": 0.387,
+        "bttsNoProbability": 0.613,
+        "over25Probability": 0.7792,
+        "under25Probability": 0.2208,
+        "homeWinProbability": 0.0727,
+        "drawProbability": 0.0521,
+        "awayWinProbability": 0.8602,
+        "predictedScore": {
+          "home": 0,
+          "away": 3,
+          "probability": 0.1144
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 56,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1517,
+          "awayElo": 1849,
+          "eloWinProb": 0.177
+        }
+      },
+      "confidenceScore": 78
+    },
+    {
+      "id": "fix_32_3_EintrachtFrankfurt",
+      "leagueId": "32",
+      "leagueName": "Bundesliga",
+      "dateRaw": "Sat 21/11",
+      "dateIso": "2026-11-14T12:00:00.000Z",
+      "daysFromNow": 3,
+      "time": "14:30",
+      "homeTeam": "Eintracht Frankfurt",
+      "awayTeam": "Hoffenheim",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 2.08,
+        "awayExpectedGoals": 1.67,
+        "totalExpectedGoals": 3.75,
+        "bttsProbability": 0.7138,
+        "bttsNoProbability": 0.2862,
+        "over25Probability": 0.7213,
+        "under25Probability": 0.2787,
+        "homeWinProbability": 0.5052,
+        "drawProbability": 0.2201,
+        "awayWinProbability": 0.3506,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.0865
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 43,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 44,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1668,
+          "awayElo": 1684,
+          "eloWinProb": 0.57
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 2.08,
+        "awayExpectedGoals": 1.67,
+        "totalExpectedGoals": 3.75,
+        "bttsProbability": 0.7138,
+        "bttsNoProbability": 0.2862,
+        "over25Probability": 0.7213,
+        "under25Probability": 0.2787,
+        "homeWinProbability": 0.5052,
+        "drawProbability": 0.2201,
+        "awayWinProbability": 0.3506,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.0865
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 43,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 44,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1668,
+          "awayElo": 1684,
+          "eloWinProb": 0.57
+        }
+      },
+      "confidenceScore": 72
+    },
+    {
+      "id": "fix_32_4_Elversberg",
+      "leagueId": "32",
+      "leagueName": "Bundesliga",
+      "dateRaw": "Sat 21/11",
+      "dateIso": "2026-11-14T12:00:00.000Z",
+      "daysFromNow": 3,
+      "time": "14:30",
+      "homeTeam": "Elversberg",
+      "awayTeam": "Freiburg",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.69,
+        "awayExpectedGoals": 2.71,
+        "totalExpectedGoals": 4.4,
+        "bttsProbability": 0.7592,
+        "bttsNoProbability": 0.2408,
+        "over25Probability": 0.808,
+        "under25Probability": 0.192,
+        "homeWinProbability": 0.2943,
+        "drawProbability": 0.1838,
+        "awayWinProbability": 0.5816,
+        "predictedScore": {
+          "home": 1,
+          "away": 2,
+          "probability": 0.0761
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 52,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 62,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1704,
+          "awayElo": 1824,
+          "eloWinProb": 0.422
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.69,
+        "awayExpectedGoals": 2.71,
+        "totalExpectedGoals": 4.4,
+        "bttsProbability": 0.7592,
+        "bttsNoProbability": 0.2408,
+        "over25Probability": 0.808,
+        "under25Probability": 0.192,
+        "homeWinProbability": 0.2943,
+        "drawProbability": 0.1838,
+        "awayWinProbability": 0.5816,
+        "predictedScore": {
+          "home": 1,
+          "away": 2,
+          "probability": 0.0761
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 52,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 62,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1704,
+          "awayElo": 1824,
+          "eloWinProb": 0.422
+        }
+      },
+      "confidenceScore": 81
+    },
+    {
+      "id": "fix_32_5_Leverkusen",
+      "leagueId": "32",
+      "leagueName": "Bundesliga",
+      "dateRaw": "Sat 21/11",
+      "dateIso": "2026-11-14T12:00:00.000Z",
+      "daysFromNow": 3,
+      "time": "14:30",
+      "homeTeam": "Leverkusen",
+      "awayTeam": "SC Paderborn 07",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 2.19,
+        "awayExpectedGoals": 0.36,
+        "totalExpectedGoals": 2.55,
+        "bttsProbability": 0.2711,
+        "bttsNoProbability": 0.7289,
+        "over25Probability": 0.4662,
+        "under25Probability": 0.5338,
+        "homeWinProbability": 0.7762,
+        "drawProbability": 0.1605,
+        "awayWinProbability": 0.1182,
+        "predictedScore": {
+          "home": 2,
+          "away": 0,
+          "probability": 0.1874
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 46,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1759,
+          "awayElo": 1638,
+          "eloWinProb": 0.745
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 2.19,
+        "awayExpectedGoals": 0.36,
+        "totalExpectedGoals": 2.55,
+        "bttsProbability": 0.2711,
+        "bttsNoProbability": 0.7289,
+        "over25Probability": 0.4662,
+        "under25Probability": 0.5338,
+        "homeWinProbability": 0.7762,
+        "drawProbability": 0.1605,
+        "awayWinProbability": 0.1182,
+        "predictedScore": {
+          "home": 2,
+          "away": 0,
+          "probability": 0.1874
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 46,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1759,
+          "awayElo": 1638,
+          "eloWinProb": 0.745
+        }
+      },
+      "confidenceScore": 73
+    },
+    {
+      "id": "fix_32_6_UnionBerlin",
+      "leagueId": "32",
+      "leagueName": "Bundesliga",
+      "dateRaw": "Sat 21/11",
+      "dateIso": "2026-11-14T12:00:00.000Z",
+      "daysFromNow": 3,
+      "time": "14:30",
+      "homeTeam": "Union Berlin",
+      "awayTeam": "RB Leipzig",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.06,
+        "awayExpectedGoals": 1.58,
+        "totalExpectedGoals": 2.64,
+        "bttsProbability": 0.5257,
+        "bttsNoProbability": 0.4743,
+        "over25Probability": 0.4915,
+        "under25Probability": 0.5085,
+        "homeWinProbability": 0.245,
+        "drawProbability": 0.2653,
+        "awayWinProbability": 0.5824,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1265
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1557,
+          "awayElo": 1820,
+          "eloWinProb": 0.242
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.06,
+        "awayExpectedGoals": 1.58,
+        "totalExpectedGoals": 2.64,
+        "bttsProbability": 0.5257,
+        "bttsNoProbability": 0.4743,
+        "over25Probability": 0.4915,
+        "under25Probability": 0.5085,
+        "homeWinProbability": 0.245,
+        "drawProbability": 0.2653,
+        "awayWinProbability": 0.5824,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1265
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1557,
+          "awayElo": 1820,
+          "eloWinProb": 0.242
+        }
+      },
+      "confidenceScore": 53
+    },
+    {
+      "id": "fix_32_7_Schalke",
+      "leagueId": "32",
+      "leagueName": "Bundesliga",
+      "dateRaw": "Sat 21/11",
+      "dateIso": "2026-11-14T12:00:00.000Z",
+      "daysFromNow": 3,
+      "time": "17:30",
+      "homeTeam": "Schalke",
+      "awayTeam": "VFB Stuttgart",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 0.25,
+        "awayExpectedGoals": 1.2,
+        "totalExpectedGoals": 1.45,
+        "bttsProbability": 0.1589,
+        "bttsNoProbability": 0.8411,
+        "over25Probability": 0.1789,
+        "under25Probability": 0.8211,
+        "homeWinProbability": 0.1916,
+        "drawProbability": 0.3186,
+        "awayWinProbability": 0.6013,
+        "predictedScore": {
+          "home": 0,
+          "away": 1,
+          "probability": 0.2772
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 68,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 64,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1565,
+          "awayElo": 1691,
+          "eloWinProb": 0.413
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 0.25,
+        "awayExpectedGoals": 1.2,
+        "totalExpectedGoals": 1.45,
+        "bttsProbability": 0.1589,
+        "bttsNoProbability": 0.8411,
+        "over25Probability": 0.1789,
+        "under25Probability": 0.8211,
+        "homeWinProbability": 0.1916,
+        "drawProbability": 0.3186,
+        "awayWinProbability": 0.6013,
+        "predictedScore": {
+          "home": 0,
+          "away": 1,
+          "probability": 0.2772
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 68,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 64,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1565,
+          "awayElo": 1691,
+          "eloWinProb": 0.413
+        }
+      },
+      "confidenceScore": 84
+    },
+    {
+      "id": "fix_32_8_Augsburg",
+      "leagueId": "32",
+      "leagueName": "Bundesliga",
+      "dateRaw": "Sun 22/11",
+      "dateIso": "2026-11-15T12:00:00.000Z",
+      "daysFromNow": 4,
+      "time": "14:30",
+      "homeTeam": "Augsburg",
+      "awayTeam": "Mainz",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.74,
+        "awayExpectedGoals": 3.25,
+        "totalExpectedGoals": 4.99,
+        "bttsProbability": 0.78,
+        "bttsNoProbability": 0.22,
+        "over25Probability": 0.856,
+        "under25Probability": 0.144,
+        "homeWinProbability": 0.3137,
+        "drawProbability": 0.1541,
+        "awayWinProbability": 0.5741,
+        "predictedScore": {
+          "home": 1,
+          "away": 3,
+          "probability": 0.0676
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 56,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 71,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1631,
+          "awayElo": 1648,
+          "eloWinProb": 0.569
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.74,
+        "awayExpectedGoals": 3.25,
+        "totalExpectedGoals": 4.99,
+        "bttsProbability": 0.78,
+        "bttsNoProbability": 0.22,
+        "over25Probability": 0.856,
+        "under25Probability": 0.144,
+        "homeWinProbability": 0.3137,
+        "drawProbability": 0.1541,
+        "awayWinProbability": 0.5741,
+        "predictedScore": {
+          "home": 1,
+          "away": 3,
+          "probability": 0.0676
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 56,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 71,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1631,
+          "awayElo": 1648,
+          "eloWinProb": 0.569
+        }
+      },
+      "confidenceScore": 86
+    },
+    {
+      "id": "fix_32_9_WerderBremen",
+      "leagueId": "32",
+      "leagueName": "Bundesliga",
+      "dateRaw": "Sun 22/11",
+      "dateIso": "2026-11-15T12:00:00.000Z",
+      "daysFromNow": 4,
+      "time": "16:30",
+      "homeTeam": "Werder Bremen",
+      "awayTeam": "Hamburger",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 4.21,
+        "awayExpectedGoals": 0.63,
+        "totalExpectedGoals": 4.84,
+        "bttsProbability": 0.4326,
+        "bttsNoProbability": 0.5674,
+        "over25Probability": 0.7967,
+        "under25Probability": 0.2033,
+        "homeWinProbability": 0.8126,
+        "drawProbability": 0.0504,
+        "awayWinProbability": 0.1128,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.1033
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 59,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1741,
+          "awayElo": 1649,
+          "eloWinProb": 0.712
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 4.21,
+        "awayExpectedGoals": 0.63,
+        "totalExpectedGoals": 4.84,
+        "bttsProbability": 0.4326,
+        "bttsNoProbability": 0.5674,
+        "over25Probability": 0.7967,
+        "under25Probability": 0.2033,
+        "homeWinProbability": 0.8126,
+        "drawProbability": 0.0504,
+        "awayWinProbability": 0.1128,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.1033
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 59,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1741,
+          "awayElo": 1649,
+          "eloWinProb": 0.712
+        }
+      },
+      "confidenceScore": 80
+    },
+    {
+      "id": "fix_32_10_WerderBremen",
+      "leagueId": "32",
+      "leagueName": "Bundesliga",
+      "dateRaw": "Fri 27/11",
+      "dateIso": "2026-11-13T12:00:00.000Z",
+      "daysFromNow": 2,
+      "time": "19:30",
+      "homeTeam": "Werder Bremen",
+      "awayTeam": "Borussia Monchengladbach",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.67,
+        "totalExpectedGoals": 5.17,
+        "bttsProbability": 0.4414,
+        "bttsNoProbability": 0.5586,
+        "over25Probability": 0.8023,
+        "under25Probability": 0.1977,
+        "homeWinProbability": 0.8496,
+        "drawProbability": 0.043,
+        "awayWinProbability": 0.0662,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.0972
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 60,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1741,
+          "awayElo": 1517,
+          "eloWinProb": 0.841
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.67,
+        "totalExpectedGoals": 5.17,
+        "bttsProbability": 0.4414,
+        "bttsNoProbability": 0.5586,
+        "over25Probability": 0.8023,
+        "under25Probability": 0.1977,
+        "homeWinProbability": 0.8496,
+        "drawProbability": 0.043,
+        "awayWinProbability": 0.0662,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.0972
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 60,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1741,
+          "awayElo": 1517,
+          "eloWinProb": 0.841
+        }
+      },
+      "confidenceScore": 80
+    },
+    {
+      "id": "fix_32_11_FCKoln",
+      "leagueId": "32",
+      "leagueName": "Bundesliga",
+      "dateRaw": "Sat 28/11",
+      "dateIso": "2026-11-14T12:00:00.000Z",
+      "daysFromNow": 3,
+      "time": "14:30",
+      "homeTeam": "FC Koln",
+      "awayTeam": "Elversberg",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.28,
+        "awayExpectedGoals": 0.99,
+        "totalExpectedGoals": 2.26,
+        "bttsProbability": 0.4606,
+        "bttsNoProbability": 0.5394,
+        "over25Probability": 0.3946,
+        "under25Probability": 0.6054,
+        "homeWinProbability": 0.4371,
+        "drawProbability": 0.2982,
+        "awayWinProbability": 0.369,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1389
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1615,
+          "awayElo": 1704,
+          "eloWinProb": 0.466
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.28,
+        "awayExpectedGoals": 0.99,
+        "totalExpectedGoals": 2.26,
+        "bttsProbability": 0.4606,
+        "bttsNoProbability": 0.5394,
+        "over25Probability": 0.3946,
+        "under25Probability": 0.6054,
+        "homeWinProbability": 0.4371,
+        "drawProbability": 0.2982,
+        "awayWinProbability": 0.369,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1389
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1615,
+          "awayElo": 1704,
+          "eloWinProb": 0.466
+        }
+      },
+      "confidenceScore": 61
+    },
+    {
+      "id": "fix_32_12_Hamburger",
+      "leagueId": "32",
+      "leagueName": "Bundesliga",
+      "dateRaw": "Sat 28/11",
+      "dateIso": "2026-11-14T12:00:00.000Z",
+      "daysFromNow": 3,
+      "time": "14:30",
+      "homeTeam": "Hamburger",
+      "awayTeam": "Bayern Munich",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 0.57,
+        "awayExpectedGoals": 3.85,
+        "totalExpectedGoals": 4.43,
+        "bttsProbability": 0.4096,
+        "bttsNoProbability": 0.5904,
+        "over25Probability": 0.775,
+        "under25Probability": 0.225,
+        "homeWinProbability": 0.1083,
+        "drawProbability": 0.0602,
+        "awayWinProbability": 0.8247,
+        "predictedScore": {
+          "home": 0,
+          "away": 3,
+          "probability": 0.1141
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 55,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1649,
+          "awayElo": 1886,
+          "eloWinProb": 0.271
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 0.57,
+        "awayExpectedGoals": 3.85,
+        "totalExpectedGoals": 4.43,
+        "bttsProbability": 0.4096,
+        "bttsNoProbability": 0.5904,
+        "over25Probability": 0.775,
+        "under25Probability": 0.225,
+        "homeWinProbability": 0.1083,
+        "drawProbability": 0.0602,
+        "awayWinProbability": 0.8247,
+        "predictedScore": {
+          "home": 0,
+          "away": 3,
+          "probability": 0.1141
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 55,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1649,
+          "awayElo": 1886,
+          "eloWinProb": 0.271
+        }
+      },
+      "confidenceScore": 78
+    },
+    {
+      "id": "fix_32_13_Mainz",
+      "leagueId": "32",
+      "leagueName": "Bundesliga",
+      "dateRaw": "Sat 28/11",
+      "dateIso": "2026-11-14T12:00:00.000Z",
+      "daysFromNow": 3,
+      "time": "14:30",
+      "homeTeam": "Mainz",
+      "awayTeam": "Union Berlin",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 3.12,
+        "awayExpectedGoals": 0.33,
+        "totalExpectedGoals": 3.45,
+        "bttsProbability": 0.2677,
+        "bttsNoProbability": 0.7323,
+        "over25Probability": 0.6554,
+        "under25Probability": 0.3446,
+        "homeWinProbability": 0.8269,
+        "drawProbability": 0.078,
+        "awayWinProbability": 0.1128,
+        "predictedScore": {
+          "home": 3,
+          "away": 0,
+          "probability": 0.1604
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 46,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1648,
+          "awayElo": 1557,
+          "eloWinProb": 0.711
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 3.12,
+        "awayExpectedGoals": 0.33,
+        "totalExpectedGoals": 3.45,
+        "bttsProbability": 0.2677,
+        "bttsNoProbability": 0.7323,
+        "over25Probability": 0.6554,
+        "under25Probability": 0.3446,
+        "homeWinProbability": 0.8269,
+        "drawProbability": 0.078,
+        "awayWinProbability": 0.1128,
+        "predictedScore": {
+          "home": 3,
+          "away": 0,
+          "probability": 0.1604
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 46,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1648,
+          "awayElo": 1557,
+          "eloWinProb": 0.711
+        }
+      },
+      "confidenceScore": 73
+    },
+    {
+      "id": "fix_32_14_SCPaderborn07",
+      "leagueId": "32",
+      "leagueName": "Bundesliga",
+      "dateRaw": "Sat 28/11",
+      "dateIso": "2026-11-14T12:00:00.000Z",
+      "daysFromNow": 3,
+      "time": "14:30",
+      "homeTeam": "SC Paderborn 07",
+      "awayTeam": "Schalke",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.12,
+        "awayExpectedGoals": 0.71,
+        "totalExpectedGoals": 1.83,
+        "bttsProbability": 0.3512,
+        "bttsNoProbability": 0.6488,
+        "over25Probability": 0.2785,
+        "under25Probability": 0.7215,
+        "homeWinProbability": 0.5302,
+        "drawProbability": 0.3306,
+        "awayWinProbability": 0.2549,
+        "predictedScore": {
+          "home": 1,
+          "away": 0,
+          "probability": 0.1716
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 44,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1638,
+          "awayElo": 1565,
+          "eloWinProb": 0.689
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.12,
+        "awayExpectedGoals": 0.71,
+        "totalExpectedGoals": 1.83,
+        "bttsProbability": 0.3512,
+        "bttsNoProbability": 0.6488,
+        "over25Probability": 0.2785,
+        "under25Probability": 0.7215,
+        "homeWinProbability": 0.5302,
+        "drawProbability": 0.3306,
+        "awayWinProbability": 0.2549,
+        "predictedScore": {
+          "home": 1,
+          "away": 0,
+          "probability": 0.1716
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 44,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1638,
+          "awayElo": 1565,
+          "eloWinProb": 0.689
+        }
+      },
+      "confidenceScore": 72
+    },
+    {
+      "id": "fix_32_15_VFBStuttgart",
+      "leagueId": "32",
+      "leagueName": "Bundesliga",
+      "dateRaw": "Sat 28/11",
+      "dateIso": "2026-11-14T12:00:00.000Z",
+      "daysFromNow": 3,
+      "time": "17:30",
+      "homeTeam": "VFB Stuttgart",
+      "awayTeam": "Eintracht Frankfurt",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 2.93,
+        "awayExpectedGoals": 1.55,
+        "totalExpectedGoals": 4.49,
+        "bttsProbability": 0.741,
+        "bttsNoProbability": 0.259,
+        "over25Probability": 0.8142,
+        "under25Probability": 0.1858,
+        "homeWinProbability": 0.6376,
+        "drawProbability": 0.1668,
+        "awayWinProbability": 0.2469,
+        "predictedScore": {
+          "home": 2,
+          "away": 1,
+          "probability": 0.0752
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 48,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 63,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1691,
+          "awayElo": 1668,
+          "eloWinProb": 0.624
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 2.93,
+        "awayExpectedGoals": 1.55,
+        "totalExpectedGoals": 4.49,
+        "bttsProbability": 0.741,
+        "bttsNoProbability": 0.259,
+        "over25Probability": 0.8142,
+        "under25Probability": 0.1858,
+        "homeWinProbability": 0.6376,
+        "drawProbability": 0.1668,
+        "awayWinProbability": 0.2469,
+        "predictedScore": {
+          "home": 2,
+          "away": 1,
+          "probability": 0.0752
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 48,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 63,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1691,
+          "awayElo": 1668,
+          "eloWinProb": 0.624
+        }
+      },
+      "confidenceScore": 81
+    }
+  ],
   "results": [
     {
       "id": "res_32_1_Hoffenheim",
       "leagueId": "32",
       "leagueName": "Bundesliga",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysAgo": 2,
+      "dateIso": "2026-11-15T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "18:30",
       "homeTeam": "Hoffenheim",
       "awayTeam": "Schalke",
@@ -47,8 +1113,8 @@
           "eloWinProb": 0.743
         },
         "matchFingerprint": "32_hoffenheim_schalke_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-10T14:38:37.498Z",
-        "auditHash": "SHA256-IMMUTABLE-10597B15-2026-11-10",
+        "lockedAt": "2026-11-11T11:19:47.259Z",
+        "auditHash": "SHA256-IMMUTABLE-1303CF70-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -63,8 +1129,8 @@
       "leagueId": "32",
       "leagueName": "Bundesliga",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysAgo": 2,
+      "dateIso": "2026-11-15T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "16:30",
       "homeTeam": "Freiburg",
       "awayTeam": "Union Berlin",
@@ -101,8 +1167,8 @@
           "eloWinProb": 0.871
         },
         "matchFingerprint": "32_freiburg_union berlin_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-10T14:38:37.498Z",
-        "auditHash": "SHA256-IMMUTABLE-71805BD8-2026-11-10",
+        "lockedAt": "2026-11-11T11:19:47.260Z",
+        "auditHash": "SHA256-IMMUTABLE-6B2256F9-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -117,8 +1183,8 @@
       "leagueId": "32",
       "leagueName": "Bundesliga",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-08T12:00:00.000Z",
-      "daysAgo": 2,
+      "dateIso": "2026-11-15T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "14:30",
       "homeTeam": "FC Koln",
       "awayTeam": "Leverkusen",
@@ -155,8 +1221,8 @@
           "eloWinProb": 0.388
         },
         "matchFingerprint": "32_fc koln_leverkusen_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-10T14:38:37.499Z",
-        "auditHash": "SHA256-IMMUTABLE-5465C985-2026-11-10",
+        "lockedAt": "2026-11-11T11:19:47.260Z",
+        "auditHash": "SHA256-IMMUTABLE-77C31695-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -171,8 +1237,8 @@
       "leagueId": "32",
       "leagueName": "Bundesliga",
       "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 3,
+      "dateIso": "2026-11-14T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "17:30",
       "homeTeam": "VFB Stuttgart",
       "awayTeam": "Werder Bremen",
@@ -209,8 +1275,8 @@
           "eloWinProb": 0.522
         },
         "matchFingerprint": "32_vfb stuttgart_werder bremen_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-10T14:38:37.499Z",
-        "auditHash": "SHA256-IMMUTABLE-1F029110-2026-11-10",
+        "lockedAt": "2026-11-11T11:19:47.260Z",
+        "auditHash": "SHA256-IMMUTABLE-45ABC00-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -225,8 +1291,8 @@
       "leagueId": "32",
       "leagueName": "Bundesliga",
       "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 3,
+      "dateIso": "2026-11-14T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "14:30",
       "homeTeam": "Borussia Dortmund",
       "awayTeam": "Elversberg",
@@ -263,8 +1329,8 @@
           "eloWinProb": 0.77
         },
         "matchFingerprint": "32_borussia dortmund_elversberg_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-10T14:38:37.499Z",
-        "auditHash": "SHA256-IMMUTABLE-1896B75E-2026-11-10",
+        "lockedAt": "2026-11-11T11:19:47.260Z",
+        "auditHash": "SHA256-IMMUTABLE-AC695B2-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -279,8 +1345,8 @@
       "leagueId": "32",
       "leagueName": "Bundesliga",
       "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 3,
+      "dateIso": "2026-11-14T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "14:30",
       "homeTeam": "Mainz",
       "awayTeam": "Bayern Munich",
@@ -317,8 +1383,8 @@
           "eloWinProb": 0.27
         },
         "matchFingerprint": "32_mainz_bayern munich_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-10T14:38:37.499Z",
-        "auditHash": "SHA256-IMMUTABLE-4A70642-2026-11-10",
+        "lockedAt": "2026-11-11T11:19:47.260Z",
+        "auditHash": "SHA256-IMMUTABLE-1EB646CE-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -333,8 +1399,8 @@
       "leagueId": "32",
       "leagueName": "Bundesliga",
       "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 3,
+      "dateIso": "2026-11-14T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "14:30",
       "homeTeam": "RB Leipzig",
       "awayTeam": "Augsburg",
@@ -371,8 +1437,8 @@
           "eloWinProb": 0.812
         },
         "matchFingerprint": "32_rb leipzig_augsburg_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-10T14:38:37.499Z",
-        "auditHash": "SHA256-IMMUTABLE-5D1992D-2026-11-10",
+        "lockedAt": "2026-11-11T11:19:47.260Z",
+        "auditHash": "SHA256-IMMUTABLE-1D8BB3E3-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -387,8 +1453,8 @@
       "leagueId": "32",
       "leagueName": "Bundesliga",
       "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-07T12:00:00.000Z",
-      "daysAgo": 3,
+      "dateIso": "2026-11-14T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "14:30",
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "Eintracht Frankfurt",
@@ -425,8 +1491,8 @@
           "eloWinProb": 0.55
         },
         "matchFingerprint": "32_sc paderborn 07_eintracht frankfurt_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-10T14:38:37.499Z",
-        "auditHash": "SHA256-IMMUTABLE-7BD8A8B0-2026-11-10",
+        "lockedAt": "2026-11-11T11:19:47.260Z",
+        "auditHash": "SHA256-IMMUTABLE-587B5BA0-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -441,8 +1507,8 @@
       "leagueId": "32",
       "leagueName": "Bundesliga",
       "dateRaw": "Fri 06-Nov-2026",
-      "dateIso": "2026-11-06T12:00:00.000Z",
-      "daysAgo": 4,
+      "dateIso": "2026-11-13T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "19:30",
       "homeTeam": "Hamburger",
       "awayTeam": "Borussia Monchengladbach",
@@ -479,8 +1545,8 @@
           "eloWinProb": 0.757
         },
         "matchFingerprint": "32_hamburger_borussia monchengladbach_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-10T14:38:37.499Z",
-        "auditHash": "SHA256-IMMUTABLE-AE32BD0-2026-11-10",
+        "lockedAt": "2026-11-11T11:19:47.260Z",
+        "auditHash": "SHA256-IMMUTABLE-187A2140-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -495,8 +1561,8 @@
       "leagueId": "32",
       "leagueName": "Bundesliga",
       "dateRaw": "Sun 01-Nov-2026",
-      "dateIso": "2026-11-01T12:00:00.000Z",
-      "daysAgo": 9,
+      "dateIso": "2026-11-15T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "16:30",
       "homeTeam": "Eintracht Frankfurt",
       "awayTeam": "Hamburger",
@@ -533,8 +1599,8 @@
           "eloWinProb": 0.619
         },
         "matchFingerprint": "32_eintracht frankfurt_hamburger_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-10T14:38:37.499Z",
-        "auditHash": "SHA256-IMMUTABLE-32282B29-2026-11-10",
+        "lockedAt": "2026-11-11T11:19:47.260Z",
+        "auditHash": "SHA256-IMMUTABLE-55857839-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -549,8 +1615,8 @@
       "leagueId": "32",
       "leagueName": "Bundesliga",
       "dateRaw": "Sun 01-Nov-2026",
-      "dateIso": "2026-11-01T12:00:00.000Z",
-      "daysAgo": 9,
+      "dateIso": "2026-11-15T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "14:30",
       "homeTeam": "Union Berlin",
       "awayTeam": "FC Koln",
@@ -587,8 +1653,8 @@
           "eloWinProb": 0.51
         },
         "matchFingerprint": "32_union berlin_fc koln_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-10T14:38:37.500Z",
-        "auditHash": "SHA256-IMMUTABLE-1ED52741-2026-11-10",
+        "lockedAt": "2026-11-11T11:19:47.260Z",
+        "auditHash": "SHA256-IMMUTABLE-487D450-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -603,8 +1669,8 @@
       "leagueId": "32",
       "leagueName": "Bundesliga",
       "dateRaw": "Sat 31-Oct-2026",
-      "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 10,
+      "dateIso": "2026-11-14T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "17:30",
       "homeTeam": "Bayern Munich",
       "awayTeam": "Borussia Dortmund",
@@ -641,8 +1707,8 @@
           "eloWinProb": 0.643
         },
         "matchFingerprint": "32_bayern munich_borussia dortmund_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-10T14:38:37.500Z",
-        "auditHash": "SHA256-IMMUTABLE-49B511B-2026-11-10",
+        "lockedAt": "2026-11-11T11:19:47.261Z",
+        "auditHash": "SHA256-IMMUTABLE-1EC1AA95-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -657,8 +1723,8 @@
       "leagueId": "32",
       "leagueName": "Bundesliga",
       "dateRaw": "Sat 31-Oct-2026",
-      "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 10,
+      "dateIso": "2026-11-14T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "14:30",
       "homeTeam": "Augsburg",
       "awayTeam": "Freiburg",
@@ -695,8 +1761,8 @@
           "eloWinProb": 0.324
         },
         "matchFingerprint": "32_augsburg_freiburg_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-10T14:38:37.500Z",
-        "auditHash": "SHA256-IMMUTABLE-386D68B9-2026-11-10",
+        "lockedAt": "2026-11-11T11:19:47.261Z",
+        "auditHash": "SHA256-IMMUTABLE-5BCA6469-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -711,8 +1777,8 @@
       "leagueId": "32",
       "leagueName": "Bundesliga",
       "dateRaw": "Sat 31-Oct-2026",
-      "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 10,
+      "dateIso": "2026-11-14T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "14:30",
       "homeTeam": "Borussia Monchengladbach",
       "awayTeam": "SC Paderborn 07",
@@ -749,8 +1815,8 @@
           "eloWinProb": 0.42
         },
         "matchFingerprint": "32_borussia monchengladbach_sc paderborn 07_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-10T14:38:37.500Z",
-        "auditHash": "SHA256-IMMUTABLE-27936F69-2026-11-10",
+        "lockedAt": "2026-11-11T11:19:47.261Z",
+        "auditHash": "SHA256-IMMUTABLE-43673B9-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -765,8 +1831,8 @@
       "leagueId": "32",
       "leagueName": "Bundesliga",
       "dateRaw": "Sat 31-Oct-2026",
-      "dateIso": "2026-10-31T12:00:00.000Z",
-      "daysAgo": 10,
+      "dateIso": "2026-11-14T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "14:30",
       "homeTeam": "Leverkusen",
       "awayTeam": "VFB Stuttgart",
@@ -803,8 +1869,8 @@
           "eloWinProb": 0.683
         },
         "matchFingerprint": "32_leverkusen_vfb stuttgart_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-10T14:38:37.500Z",
-        "auditHash": "SHA256-IMMUTABLE-2AF0EED9-2026-11-10",
+        "lockedAt": "2026-11-11T11:19:47.261Z",
+        "auditHash": "SHA256-IMMUTABLE-793F329-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {

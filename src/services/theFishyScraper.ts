@@ -94,31 +94,63 @@ export async function getAvailableLeagues(): Promise<LeagueOption[]> {
  * Parses date string like "Mon 19-Oct-2026" or "19-Oct-2026" or "Fri 23/10"
  */
 function parseDateHeader(dateStr: string, currentYear: number = new Date().getFullYear()): Date {
-  const clean = dateStr.trim();
+  const clean = dateStr.trim().toLowerCase();
+  const now = new Date();
+  const utcNow = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate(), 12, 0, 0));
 
-  // Pattern: "Mon 19-Oct-2026" or "19-Oct-2026"
-  const dmyNamed = clean.match(/(\d{1,2})[-/ ]([A-Za-z]{3})[-/ ](\d{4})/);
-  if (dmyNamed) {
-    const day = parseInt(dmyNamed[1], 10);
-    const monthStr = dmyNamed[2].toLowerCase();
-    const year = parseInt(dmyNamed[3], 10);
-    const months: Record<string, number> = {
-      jan: 0, feb: 1, mar: 2, apr: 3, may: 4, jun: 5,
-      jul: 6, aug: 7, sep: 8, oct: 9, nov: 10, dec: 11
-    };
-    const month = months[monthStr] ?? 0;
+  if (clean.includes('today') || clean.includes('hoy')) {
+    return utcNow;
+  }
+  if (clean.includes('tomorrow') || clean.includes('mañana')) {
+    const d = new Date(utcNow.getTime() + 24 * 60 * 60 * 1000);
+    return d;
+  }
+
+  const daysOfWeek: Record<string, number> = {
+    sun: 0, sunday: 0, domingo: 0,
+    mon: 1, monday: 1, lunes: 1,
+    tue: 2, tuesday: 2, martes: 2,
+    wed: 3, wednesday: 3, miércoles: 3,
+    thu: 4, thursday: 4, jueves: 4,
+    fri: 5, friday: 5, viernes: 5,
+    sat: 6, saturday: 6, sábado: 6
+  };
+
+  for (const [dayName, targetDayOfWeek] of Object.entries(daysOfWeek)) {
+    if (clean === dayName || clean.startsWith(dayName + ' ') || clean.includes(' ' + dayName)) {
+      const currentDayOfWeek = utcNow.getUTCDay();
+      let diff = targetDayOfWeek - currentDayOfWeek;
+      if (diff < 0) diff += 7;
+      const targetTime = utcNow.getTime() + diff * 24 * 60 * 60 * 1000;
+      return new Date(targetTime);
+    }
+  }
+
+  const months: Record<string, number> = {
+    jan: 0, feb: 1, mar: 2, apr: 3, may: 4, jun: 5,
+    jul: 6, aug: 7, sep: 8, oct: 9, nov: 10, dec: 11
+  };
+
+  const matchNamed = clean.match(/(\d{1,2})[-/ ]([a-z]{3,9})(?:[-/ ](\d{2,4}))?/);
+  if (matchNamed) {
+    const day = parseInt(matchNamed[1], 10);
+    const monthStr = matchNamed[2].slice(0, 3);
+    const month = months[monthStr] ?? now.getUTCMonth();
+    let year = matchNamed[3] ? parseInt(matchNamed[3], 10) : currentYear;
+    if (year < 100) year += 2000;
     return new Date(Date.UTC(year, month, day, 12, 0, 0));
   }
 
-  // Pattern: "Fri 23/10" or "23/10"
-  const dmSlash = clean.match(/(\d{1,2})\/(\d{1,2})/);
+  const dmSlash = clean.match(/(\d{1,2})\/(\d{1,2})(?:\/(\d{2,4}))?/);
   if (dmSlash) {
     const day = parseInt(dmSlash[1], 10);
     const month = parseInt(dmSlash[2], 10) - 1;
-    return new Date(Date.UTC(currentYear, month, day, 12, 0, 0));
+    let year = dmSlash[3] ? parseInt(dmSlash[3], 10) : currentYear;
+    if (year < 100) year += 2000;
+    return new Date(Date.UTC(year, month, day, 12, 0, 0));
   }
 
-  return new Date();
+  return utcNow;
 }
 
 /**
@@ -387,8 +419,100 @@ export async function getFinishedResults(tableId: string, maxDaysBehind: number 
 }
 
 /**
+ * Fetches all fixtures for the week from https://www.thefishy.net/thisweeksfixtures
+ */
+export async function getThisWeeksFixtures(): Promise<FixtureMatch[]> {
+  const cacheKey = 'this_weeks_fixtures';
+  const cached = cache.get(cacheKey) as CacheEntry<FixtureMatch[]> | undefined;
+  if (cached && Date.now() - cached.timestamp < CACHE_TTL_MS) {
+    return cached.data;
+  }
+
+  const fixtures: FixtureMatch[] = [];
+
+  try {
+    const html = await fetchWithHeaders('https://www.thefishy.net/thisweeksfixtures');
+    const $ = cheerio.load(html);
+
+    let currentDateHeader = 'Wed 11/11';
+    let currentLeagueName = 'General';
+    const now = new Date();
+    const currentYear = now.getFullYear();
+
+    $('table tr').each((_, tr) => {
+      const $tr = $(tr);
+      const text = $tr.text().trim();
+
+      // Check if row is a date header (e.g. "Wed 11/11", "Wed 11 Nov", "Wednesday", etc.)
+      if ($tr.find('th').length > 0 || $tr.hasClass('success') || text.match(/^(mon|tue|wed|thu|fri|sat|sun)\s+\d{1,2}[-/]\d{1,2}/i) || text.match(/^\d{1,2}\/\d{1,2}$/i) || text.toLowerCase() === 'today' || text.toLowerCase() === 'tomorrow') {
+        if (text.length < 40 && !text.includes(' v ')) {
+          currentDateHeader = text;
+        }
+      } 
+      // Check if row is a league header (e.g. bold text)
+      else if (($tr.find('b').length > 0 || $tr.is('b')) && !text.includes(' v ') && text.length > 2 && text.length < 50) {
+        currentLeagueName = text;
+      }
+
+      // Check if row contains a match (" v ")
+      if (text.includes(' v ') && !text.includes('View') && text.length < 150) {
+        const parts = text.split(' v ');
+        if (parts.length >= 2) {
+          const homeRaw = parts[0].trim();
+          const awayRaw = parts[1].trim();
+
+          const homeClean = homeRaw.replace(/^(\d{1,2}:\d{2})\s*/, '').replace(/^\d+\s*/, '').trim();
+          const awayClean = awayRaw.split(/\s{2,}|\n/)[0].replace(/\s*\(\d+\)$/, '').replace(/📺|💻/g, '').trim();
+
+          let time = '19:45';
+          const timeMatch = homeRaw.match(/\d{1,2}:\d{2}/);
+          if (timeMatch) {
+            time = timeMatch[0];
+          }
+
+          const matchDate = parseDateHeader(currentDateHeader, currentYear);
+          const diffMs = matchDate.getTime() - now.getTime();
+          const diffDays = Math.round(diffMs / (1000 * 60 * 60 * 24));
+
+          const odds1 = parseFloat($tr.find('td.cats2').eq(0).text().trim()) || null;
+          const oddsX = parseFloat($tr.find('td.cats2').eq(1).text().trim()) || null;
+          const odds2 = parseFloat($tr.find('td.cats2').eq(2).text().trim()) || null;
+
+          if (homeClean && awayClean && homeClean.length < 40 && awayClean.length < 40) {
+            const exists = fixtures.some(f => f.homeTeam.toLowerCase() === homeClean.toLowerCase() && f.awayTeam.toLowerCase() === awayClean.toLowerCase());
+            if (!exists) {
+              fixtures.push({
+                id: `twf_${fixtures.length + 1}_${homeClean.replace(/\s+/g, '')}`,
+                leagueId: 'thisweek',
+                leagueName: currentLeagueName || 'General',
+                dateRaw: currentDateHeader || 'Wed 11/11',
+                dateIso: matchDate.toISOString(),
+                daysFromNow: Math.max(0, diffDays),
+                time,
+                homeTeam: homeClean,
+                awayTeam: awayClean,
+                odds: { home: odds1, draw: oddsX, away: odds2 },
+              });
+            }
+          }
+        }
+      }
+    });
+
+    if (fixtures.length > 0) {
+      cache.set(cacheKey, { data: fixtures, timestamp: Date.now() });
+    }
+  } catch (err) {
+    console.error('Error fetching https://www.thefishy.net/thisweeksfixtures:', err);
+  }
+
+  return fixtures;
+}
+
+/**
  * Clear cache for force reload
  */
 export function clearScraperCache(): void {
   cache.clear();
 }
+

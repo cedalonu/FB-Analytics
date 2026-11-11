@@ -6,6 +6,7 @@ import {
   getLeagueTableAndStats,
   getUpcomingFixtures,
   getFinishedResults,
+  getThisWeeksFixtures,
   clearScraperCache
 } from '../services/theFishyScraper.ts';
 import {
@@ -51,38 +52,60 @@ apiRouter.get('/screener', async (_req: Request, res: Response) => {
       }
     }
 
-    const daysAhead = 7;
-    const leagues = await getAvailableLeagues();
     const allFixtures: (FixtureMatch & { leagueId: string; leagueName: string; confidenceScore: number })[] = [];
 
-    const batchSize = 15;
-    for (let i = 0; i < leagues.length; i += batchSize) {
-      const batch = leagues.slice(i, i + batchSize);
-      const promises = batch.map(async (league) => {
-        try {
-          const [teams, rawFixtures] = await Promise.all([
-            getLeagueTableAndStats(league.id),
-            getUpcomingFixtures(league.id, daysAhead),
-          ]);
+    try {
+      const fishyFixtures = await getThisWeeksFixtures();
+      if (fishyFixtures && fishyFixtures.length > 0) {
+        for (const f of fishyFixtures) {
+          const pred = predictMatchImmutable('1', f.homeTeam, f.awayTeam, f.dateRaw, {}, DEFAULT_PARAMETERS);
+          const maxProb = Math.max(pred.bttsProbability, pred.bttsNoProbability, pred.over25Probability, pred.under25Probability);
+          const confidenceScore = Math.round(maxProb * 100);
+          allFixtures.push({
+            ...f,
+            leagueId: f.leagueId || 'thisweek',
+            leagueName: f.leagueName || 'General',
+            prediction: pred,
+            confidenceScore,
+          });
+        }
+      }
+    } catch (err) {
+      console.warn('Error fetching thisweeksfixtures:', err);
+    }
 
-          if (rawFixtures && rawFixtures.length > 0) {
-            for (const f of rawFixtures) {
-              const pred = predictMatchImmutable(league.id, f.homeTeam, f.awayTeam, f.dateRaw, teams, DEFAULT_PARAMETERS);
-              const maxProb = Math.max(pred.bttsProbability, pred.bttsNoProbability, pred.over25Probability, pred.under25Probability);
-              const confidenceScore = Math.round(maxProb * 100);
+    if (allFixtures.length === 0) {
+      const daysAhead = 7;
+      const leagues = await getAvailableLeagues();
+      const batchSize = 15;
+      for (let i = 0; i < leagues.length; i += batchSize) {
+        const batch = leagues.slice(i, i + batchSize);
+        const promises = batch.map(async (league) => {
+          try {
+            const [teams, rawFixtures] = await Promise.all([
+              getLeagueTableAndStats(league.id),
+              getUpcomingFixtures(league.id, daysAhead),
+            ]);
 
-              allFixtures.push({
-                ...f,
-                leagueId: league.id,
-                leagueName: league.name,
-                prediction: pred,
-                confidenceScore,
-              });
+            if (rawFixtures && rawFixtures.length > 0) {
+              for (const f of rawFixtures) {
+                const pred = predictMatchImmutable(league.id, f.homeTeam, f.awayTeam, f.dateRaw, teams, DEFAULT_PARAMETERS);
+                const maxProb = Math.max(pred.bttsProbability, pred.bttsNoProbability, pred.over25Probability, pred.under25Probability);
+                const confidenceScore = Math.round(maxProb * 100);
+
+                allFixtures.push({
+                  ...f,
+                  leagueId: league.id,
+                  leagueName: league.name,
+                  prediction: pred,
+                  confidenceScore,
+                });
+              }
             }
-          }
-        } catch (err) {}
-      });
-      await Promise.all(promises);
+          } catch (err) {}
+        });
+        await Promise.all(promises);
+      }
     }
 
     allFixtures.sort((a, b) => b.confidenceScore - a.confidenceScore);

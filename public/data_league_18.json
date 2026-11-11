@@ -1,16 +1,1082 @@
 {
   "leagueId": "18",
   "leagueName": "Europa League",
-  "timestamp": "2026-11-07T13:32:59.356Z",
-  "fixtures": [],
+  "timestamp": "2026-11-11T11:19:50.121Z",
+  "fixtures": [
+    {
+      "id": "fix_18_1_Besiktas",
+      "leagueId": "18",
+      "leagueName": "Europa League",
+      "dateRaw": "Thu 26/11",
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "17:45",
+      "homeTeam": "Besiktas",
+      "awayTeam": "Hapoel Be'er Sheva",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.29,
+        "totalExpectedGoals": 4.79,
+        "bttsProbability": 0.2296,
+        "bttsNoProbability": 0.7704,
+        "over25Probability": 0.7702,
+        "under25Probability": 0.2298,
+        "homeWinProbability": 0.877,
+        "drawProbability": 0.0247,
+        "awayWinProbability": 0.0507,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.1417
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 43,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 43,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1703,
+          "awayElo": 1448,
+          "eloWinProb": 0.863
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.29,
+        "totalExpectedGoals": 4.79,
+        "bttsProbability": 0.2296,
+        "bttsNoProbability": 0.7704,
+        "over25Probability": 0.7702,
+        "under25Probability": 0.2298,
+        "homeWinProbability": 0.877,
+        "drawProbability": 0.0247,
+        "awayWinProbability": 0.0507,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.1417
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 43,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 43,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1703,
+          "awayElo": 1448,
+          "eloWinProb": 0.863
+        }
+      },
+      "confidenceScore": 77
+    },
+    {
+      "id": "fix_18_2_CeltadeVigo",
+      "leagueId": "18",
+      "leagueName": "Europa League",
+      "dateRaw": "Thu 26/11",
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "17:45",
+      "homeTeam": "Celta de Vigo",
+      "awayTeam": "Bournemouth",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 0.48,
+        "awayExpectedGoals": 4,
+        "totalExpectedGoals": 4.48,
+        "bttsProbability": 0.355,
+        "bttsNoProbability": 0.645,
+        "over25Probability": 0.7728,
+        "under25Probability": 0.2272,
+        "homeWinProbability": 0.0746,
+        "drawProbability": 0.0486,
+        "awayWinProbability": 0.8606,
+        "predictedScore": {
+          "home": 0,
+          "away": 3,
+          "probability": 0.1211
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 44,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1529,
+          "awayElo": 1849,
+          "eloWinProb": 0.187
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 0.48,
+        "awayExpectedGoals": 4,
+        "totalExpectedGoals": 4.48,
+        "bttsProbability": 0.355,
+        "bttsNoProbability": 0.645,
+        "over25Probability": 0.7728,
+        "under25Probability": 0.2272,
+        "homeWinProbability": 0.0746,
+        "drawProbability": 0.0486,
+        "awayWinProbability": 0.8606,
+        "predictedScore": {
+          "home": 0,
+          "away": 3,
+          "probability": 0.1211
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 44,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1529,
+          "awayElo": 1849,
+          "eloWinProb": 0.187
+        }
+      },
+      "confidenceScore": 77
+    },
+    {
+      "id": "fix_18_3_DinamoZagreb",
+      "leagueId": "18",
+      "leagueName": "Europa League",
+      "dateRaw": "Thu 26/11",
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "17:45",
+      "homeTeam": "Dinamo Zagreb",
+      "awayTeam": "Leverkusen",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 0.25,
+        "awayExpectedGoals": 4,
+        "totalExpectedGoals": 4.25,
+        "bttsProbability": 0.2067,
+        "bttsNoProbability": 0.7933,
+        "over25Probability": 0.7452,
+        "under25Probability": 0.2548,
+        "homeWinProbability": 0.1771,
+        "drawProbability": 0.0342,
+        "awayWinProbability": 0.7675,
+        "predictedScore": {
+          "home": 0,
+          "away": 3,
+          "probability": 0.1522
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 47,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1693,
+          "awayElo": 1761,
+          "eloWinProb": 0.496
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 0.25,
+        "awayExpectedGoals": 4,
+        "totalExpectedGoals": 4.25,
+        "bttsProbability": 0.2067,
+        "bttsNoProbability": 0.7933,
+        "over25Probability": 0.7452,
+        "under25Probability": 0.2548,
+        "homeWinProbability": 0.1771,
+        "drawProbability": 0.0342,
+        "awayWinProbability": 0.7675,
+        "predictedScore": {
+          "home": 0,
+          "away": 3,
+          "probability": 0.1522
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 47,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1693,
+          "awayElo": 1761,
+          "eloWinProb": 0.496
+        }
+      },
+      "confidenceScore": 79
+    },
+    {
+      "id": "fix_18_4_Marseille",
+      "leagueId": "18",
+      "leagueName": "Europa League",
+      "dateRaw": "Thu 26/11",
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "17:45",
+      "homeTeam": "Marseille",
+      "awayTeam": "Levski Sofia",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 0.25,
+        "awayExpectedGoals": 1.22,
+        "totalExpectedGoals": 1.47,
+        "bttsProbability": 0.16,
+        "bttsNoProbability": 0.84,
+        "over25Probability": 0.1833,
+        "under25Probability": 0.8167,
+        "homeWinProbability": 0.1645,
+        "drawProbability": 0.3143,
+        "awayWinProbability": 0.6312,
+        "predictedScore": {
+          "home": 0,
+          "away": 1,
+          "probability": 0.2764
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 54,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 51,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1507,
+          "awayElo": 1689,
+          "eloWinProb": 0.338
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 0.25,
+        "awayExpectedGoals": 1.22,
+        "totalExpectedGoals": 1.47,
+        "bttsProbability": 0.16,
+        "bttsNoProbability": 0.84,
+        "over25Probability": 0.1833,
+        "under25Probability": 0.8167,
+        "homeWinProbability": 0.1645,
+        "drawProbability": 0.3143,
+        "awayWinProbability": 0.6312,
+        "predictedScore": {
+          "home": 0,
+          "away": 1,
+          "probability": 0.2764
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 54,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 51,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1507,
+          "awayElo": 1689,
+          "eloWinProb": 0.338
+        }
+      },
+      "confidenceScore": 84
+    },
+    {
+      "id": "fix_18_5_Olympiacos",
+      "leagueId": "18",
+      "leagueName": "Europa League",
+      "dateRaw": "Thu 26/11",
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "17:45",
+      "homeTeam": "Olympiacos",
+      "awayTeam": "AC Milan",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 2.75,
+        "awayExpectedGoals": 0.42,
+        "totalExpectedGoals": 3.16,
+        "bttsProbability": 0.3189,
+        "bttsNoProbability": 0.6811,
+        "over25Probability": 0.6048,
+        "under25Probability": 0.3952,
+        "homeWinProbability": 0.8521,
+        "drawProbability": 0.1122,
+        "awayWinProbability": 0.0702,
+        "predictedScore": {
+          "home": 2,
+          "away": 0,
+          "probability": 0.1597
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1773,
+          "awayElo": 1522,
+          "eloWinProb": 0.86
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 2.75,
+        "awayExpectedGoals": 0.42,
+        "totalExpectedGoals": 3.16,
+        "bttsProbability": 0.3189,
+        "bttsNoProbability": 0.6811,
+        "over25Probability": 0.6048,
+        "under25Probability": 0.3952,
+        "homeWinProbability": 0.8521,
+        "drawProbability": 0.1122,
+        "awayWinProbability": 0.0702,
+        "predictedScore": {
+          "home": 2,
+          "away": 0,
+          "probability": 0.1597
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1773,
+          "awayElo": 1522,
+          "eloWinProb": 0.86
+        }
+      },
+      "confidenceScore": 68
+    },
+    {
+      "id": "fix_18_6_Plzen",
+      "leagueId": "18",
+      "leagueName": "Europa League",
+      "dateRaw": "Thu 26/11",
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "17:45",
+      "homeTeam": "Plzen",
+      "awayTeam": "Benfica",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 0.25,
+        "awayExpectedGoals": 4,
+        "totalExpectedGoals": 4.25,
+        "bttsProbability": 0.2067,
+        "bttsNoProbability": 0.7933,
+        "over25Probability": 0.7452,
+        "under25Probability": 0.2548,
+        "homeWinProbability": 0.0618,
+        "drawProbability": 0.0342,
+        "awayWinProbability": 0.8827,
+        "predictedScore": {
+          "home": 0,
+          "away": 3,
+          "probability": 0.1522
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 47,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1511,
+          "awayElo": 1856,
+          "eloWinProb": 0.166
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 0.25,
+        "awayExpectedGoals": 4,
+        "totalExpectedGoals": 4.25,
+        "bttsProbability": 0.2067,
+        "bttsNoProbability": 0.7933,
+        "over25Probability": 0.7452,
+        "under25Probability": 0.2548,
+        "homeWinProbability": 0.0618,
+        "drawProbability": 0.0342,
+        "awayWinProbability": 0.8827,
+        "predictedScore": {
+          "home": 0,
+          "away": 3,
+          "probability": 0.1522
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 47,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1511,
+          "awayElo": 1856,
+          "eloWinProb": 0.166
+        }
+      },
+      "confidenceScore": 79
+    },
+    {
+      "id": "fix_18_7_Salzburg",
+      "leagueId": "18",
+      "leagueName": "Europa League",
+      "dateRaw": "Thu 26/11",
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "17:45",
+      "homeTeam": "Salzburg",
+      "awayTeam": "Ararat Armenia",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 0.25,
+        "awayExpectedGoals": 2.98,
+        "totalExpectedGoals": 3.23,
+        "bttsProbability": 0.2092,
+        "bttsNoProbability": 0.7908,
+        "over25Probability": 0.6142,
+        "under25Probability": 0.3858,
+        "homeWinProbability": 0.2761,
+        "drawProbability": 0.0787,
+        "awayWinProbability": 0.6653,
+        "predictedScore": {
+          "home": 0,
+          "away": 2,
+          "probability": 0.1758
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 47,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1544,
+          "awayElo": 1406,
+          "eloWinProb": 0.763
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 0.25,
+        "awayExpectedGoals": 2.98,
+        "totalExpectedGoals": 3.23,
+        "bttsProbability": 0.2092,
+        "bttsNoProbability": 0.7908,
+        "over25Probability": 0.6142,
+        "under25Probability": 0.3858,
+        "homeWinProbability": 0.2761,
+        "drawProbability": 0.0787,
+        "awayWinProbability": 0.6653,
+        "predictedScore": {
+          "home": 0,
+          "away": 2,
+          "probability": 0.1758
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 47,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1544,
+          "awayElo": 1406,
+          "eloWinProb": 0.763
+        }
+      },
+      "confidenceScore": 79
+    },
+    {
+      "id": "fix_18_8_UnionStGilloise",
+      "leagueId": "18",
+      "leagueName": "Europa League",
+      "dateRaw": "Thu 26/11",
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "17:45",
+      "homeTeam": "Union St Gilloise",
+      "awayTeam": "Lech Poznan",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.2,
+        "totalExpectedGoals": 4.7,
+        "bttsProbability": 0.1641,
+        "bttsNoProbability": 0.8359,
+        "over25Probability": 0.7611,
+        "under25Probability": 0.2389,
+        "homeWinProbability": 0.9017,
+        "drawProbability": 0.0203,
+        "awayWinProbability": 0.0288,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.1554
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 54,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 42,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1796,
+          "awayElo": 1431,
+          "eloWinProb": 0.922
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.2,
+        "totalExpectedGoals": 4.7,
+        "bttsProbability": 0.1641,
+        "bttsNoProbability": 0.8359,
+        "over25Probability": 0.7611,
+        "under25Probability": 0.2389,
+        "homeWinProbability": 0.9017,
+        "drawProbability": 0.0203,
+        "awayWinProbability": 0.0288,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.1554
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 54,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 42,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1796,
+          "awayElo": 1431,
+          "eloWinProb": 0.922
+        }
+      },
+      "confidenceScore": 84
+    },
+    {
+      "id": "fix_18_9_CrystalPalace",
+      "leagueId": "18",
+      "leagueName": "Europa League",
+      "dateRaw": "Thu 26/11",
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "20:00",
+      "homeTeam": "Crystal Palace",
+      "awayTeam": "Real Sociedad",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.05,
+        "awayExpectedGoals": 1.14,
+        "totalExpectedGoals": 2.19,
+        "bttsProbability": 0.4501,
+        "bttsNoProbability": 0.5499,
+        "over25Probability": 0.3744,
+        "under25Probability": 0.6256,
+        "homeWinProbability": 0.4138,
+        "drawProbability": 0.3079,
+        "awayWinProbability": 0.386,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.142
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1609,
+          "awayElo": 1619,
+          "eloWinProb": 0.578
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.05,
+        "awayExpectedGoals": 1.14,
+        "totalExpectedGoals": 2.19,
+        "bttsProbability": 0.4501,
+        "bttsNoProbability": 0.5499,
+        "over25Probability": 0.3744,
+        "under25Probability": 0.6256,
+        "homeWinProbability": 0.4138,
+        "drawProbability": 0.3079,
+        "awayWinProbability": 0.386,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.142
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1609,
+          "awayElo": 1619,
+          "eloWinProb": 0.578
+        }
+      },
+      "confidenceScore": 63
+    },
+    {
+      "id": "fix_18_10_Ferencvaros",
+      "leagueId": "18",
+      "leagueName": "Europa League",
+      "dateRaw": "Thu 26/11",
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "20:00",
+      "homeTeam": "Ferencvaros",
+      "awayTeam": "NK Celje",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.58,
+        "totalExpectedGoals": 5.08,
+        "bttsProbability": 0.3989,
+        "bttsNoProbability": 0.6011,
+        "over25Probability": 0.7955,
+        "under25Probability": 0.2045,
+        "homeWinProbability": 0.8704,
+        "drawProbability": 0.0387,
+        "awayWinProbability": 0.0482,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.1061
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 47,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1842,
+          "awayElo": 1551,
+          "eloWinProb": 0.886
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.58,
+        "totalExpectedGoals": 5.08,
+        "bttsProbability": 0.3989,
+        "bttsNoProbability": 0.6011,
+        "over25Probability": 0.7955,
+        "under25Probability": 0.2045,
+        "homeWinProbability": 0.8704,
+        "drawProbability": 0.0387,
+        "awayWinProbability": 0.0482,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.1061
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 47,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1842,
+          "awayElo": 1551,
+          "eloWinProb": 0.886
+        }
+      },
+      "confidenceScore": 80
+    },
+    {
+      "id": "fix_18_11_Hoffenheim",
+      "leagueId": "18",
+      "leagueName": "Europa League",
+      "dateRaw": "Thu 26/11",
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "20:00",
+      "homeTeam": "Hoffenheim",
+      "awayTeam": "Sturm Graz",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.2,
+        "totalExpectedGoals": 4.7,
+        "bttsProbability": 0.1641,
+        "bttsNoProbability": 0.8359,
+        "over25Probability": 0.7611,
+        "under25Probability": 0.2389,
+        "homeWinProbability": 0.7925,
+        "drawProbability": 0.0203,
+        "awayWinProbability": 0.138,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.1554
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 54,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 42,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1571,
+          "awayElo": 1558,
+          "eloWinProb": 0.61
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.2,
+        "totalExpectedGoals": 4.7,
+        "bttsProbability": 0.1641,
+        "bttsNoProbability": 0.8359,
+        "over25Probability": 0.7611,
+        "under25Probability": 0.2389,
+        "homeWinProbability": 0.7925,
+        "drawProbability": 0.0203,
+        "awayWinProbability": 0.138,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.1554
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 54,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 42,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1571,
+          "awayElo": 1558,
+          "eloWinProb": 0.61
+        }
+      },
+      "confidenceScore": 84
+    },
+    {
+      "id": "fix_18_12_Juventus",
+      "leagueId": "18",
+      "leagueName": "Europa League",
+      "dateRaw": "Thu 26/11",
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "20:00",
+      "homeTeam": "Juventus",
+      "awayTeam": "Omonia Nicosia",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 1.03,
+        "totalExpectedGoals": 5.53,
+        "bttsProbability": 0.5799,
+        "bttsNoProbability": 0.4201,
+        "over25Probability": 0.8266,
+        "under25Probability": 0.1734,
+        "homeWinProbability": 0.807,
+        "drawProbability": 0.0605,
+        "awayWinProbability": 0.0974,
+        "predictedScore": {
+          "home": 4,
+          "away": 1,
+          "probability": 0.0698
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 52,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1789,
+          "awayElo": 1630,
+          "eloWinProb": 0.784
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 1.03,
+        "totalExpectedGoals": 5.53,
+        "bttsProbability": 0.5799,
+        "bttsNoProbability": 0.4201,
+        "over25Probability": 0.8266,
+        "under25Probability": 0.1734,
+        "homeWinProbability": 0.807,
+        "drawProbability": 0.0605,
+        "awayWinProbability": 0.0974,
+        "predictedScore": {
+          "home": 4,
+          "away": 1,
+          "probability": 0.0698
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 52,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1789,
+          "awayElo": 1630,
+          "eloWinProb": 0.784
+        }
+      },
+      "confidenceScore": 83
+    },
+    {
+      "id": "fix_18_13_N.E.C.",
+      "leagueId": "18",
+      "leagueName": "Europa League",
+      "dateRaw": "Thu 26/11",
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "20:00",
+      "homeTeam": "N.E.C.",
+      "awayTeam": "Rennes",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 0.61,
+        "totalExpectedGoals": 2.32,
+        "bttsProbability": 0.3806,
+        "bttsNoProbability": 0.6194,
+        "over25Probability": 0.4099,
+        "under25Probability": 0.5901,
+        "homeWinProbability": 0.6367,
+        "drawProbability": 0.2427,
+        "awayWinProbability": 0.2053,
+        "predictedScore": {
+          "home": 1,
+          "away": 0,
+          "probability": 0.1616
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1675,
+          "awayElo": 1640,
+          "eloWinProb": 0.64
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 0.61,
+        "totalExpectedGoals": 2.32,
+        "bttsProbability": 0.3806,
+        "bttsNoProbability": 0.6194,
+        "over25Probability": 0.4099,
+        "under25Probability": 0.5901,
+        "homeWinProbability": 0.6367,
+        "drawProbability": 0.2427,
+        "awayWinProbability": 0.2053,
+        "predictedScore": {
+          "home": 1,
+          "away": 0,
+          "probability": 0.1616
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1675,
+          "awayElo": 1640,
+          "eloWinProb": 0.64
+        }
+      },
+      "confidenceScore": 62
+    },
+    {
+      "id": "fix_18_14_OFICrete",
+      "leagueId": "18",
+      "leagueName": "Europa League",
+      "dateRaw": "Thu 26/11",
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "20:00",
+      "homeTeam": "OFI Crete",
+      "awayTeam": "Anderlecht",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 0.41,
+        "awayExpectedGoals": 1.07,
+        "totalExpectedGoals": 1.48,
+        "bttsProbability": 0.2254,
+        "bttsNoProbability": 0.7746,
+        "over25Probability": 0.1857,
+        "under25Probability": 0.8143,
+        "homeWinProbability": 0.289,
+        "drawProbability": 0.3506,
+        "awayWinProbability": 0.4831,
+        "predictedScore": {
+          "home": 0,
+          "away": 1,
+          "probability": 0.2386
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 44,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 50,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1644,
+          "awayElo": 1654,
+          "eloWinProb": 0.578
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 0.41,
+        "awayExpectedGoals": 1.07,
+        "totalExpectedGoals": 1.48,
+        "bttsProbability": 0.2254,
+        "bttsNoProbability": 0.7746,
+        "over25Probability": 0.1857,
+        "under25Probability": 0.8143,
+        "homeWinProbability": 0.289,
+        "drawProbability": 0.3506,
+        "awayWinProbability": 0.4831,
+        "predictedScore": {
+          "home": 0,
+          "away": 1,
+          "probability": 0.2386
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 44,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 50,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1644,
+          "awayElo": 1654,
+          "eloWinProb": 0.578
+        }
+      },
+      "confidenceScore": 81
+    },
+    {
+      "id": "fix_18_15_OlympiqueLyonnais",
+      "leagueId": "18",
+      "leagueName": "Europa League",
+      "dateRaw": "Thu 26/11",
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "20:00",
+      "homeTeam": "Olympique Lyonnais",
+      "awayTeam": "Lillestrom",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 3.51,
+        "awayExpectedGoals": 0.83,
+        "totalExpectedGoals": 4.33,
+        "bttsProbability": 0.5322,
+        "bttsNoProbability": 0.4678,
+        "over25Probability": 0.7796,
+        "under25Probability": 0.2204,
+        "homeWinProbability": 0.8363,
+        "drawProbability": 0.094,
+        "awayWinProbability": 0.0851,
+        "predictedScore": {
+          "home": 3,
+          "away": 0,
+          "probability": 0.0944
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 45,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1671,
+          "awayElo": 1441,
+          "eloWinProb": 0.845
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 3.51,
+        "awayExpectedGoals": 0.83,
+        "totalExpectedGoals": 4.33,
+        "bttsProbability": 0.5322,
+        "bttsNoProbability": 0.4678,
+        "over25Probability": 0.7796,
+        "under25Probability": 0.2204,
+        "homeWinProbability": 0.8363,
+        "drawProbability": 0.094,
+        "awayWinProbability": 0.0851,
+        "predictedScore": {
+          "home": 3,
+          "away": 0,
+          "probability": 0.0944
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 45,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1671,
+          "awayElo": 1441,
+          "eloWinProb": 0.845
+        }
+      },
+      "confidenceScore": 78
+    }
+  ],
   "results": [
     {
       "id": "res_18_1_AZAlkmaar",
       "leagueId": "18",
       "leagueName": "Europa League",
       "dateRaw": "Thu 05-Nov-2026",
-      "dateIso": "2026-11-05T12:00:00.000Z",
-      "daysAgo": 2,
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "20:00",
       "homeTeam": "AZ Alkmaar",
       "awayTeam": "Juventus",
@@ -47,8 +1113,8 @@
           "eloWinProb": 0.406
         },
         "matchFingerprint": "18_az alkmaar_juventus_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T13:32:59.354Z",
-        "auditHash": "SHA256-IMMUTABLE-3D37D00-2026-11-07",
+        "lockedAt": "2026-11-11T11:19:50.116Z",
+        "auditHash": "SHA256-IMMUTABLE-2F32DBB7-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -63,8 +1129,8 @@
       "leagueId": "18",
       "leagueName": "Europa League",
       "dateRaw": "Thu 05-Nov-2026",
-      "dateIso": "2026-11-05T12:00:00.000Z",
-      "daysAgo": 2,
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "20:00",
       "homeTeam": "Benfica",
       "awayTeam": "Lech Poznan",
@@ -101,8 +1167,8 @@
           "eloWinProb": 0.944
         },
         "matchFingerprint": "18_benfica_lech poznan_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T13:32:59.354Z",
-        "auditHash": "SHA256-IMMUTABLE-50836F0F-2026-11-07",
+        "lockedAt": "2026-11-11T11:19:50.116Z",
+        "auditHash": "SHA256-IMMUTABLE-7C76383A-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -117,8 +1183,8 @@
       "leagueId": "18",
       "leagueName": "Europa League",
       "dateRaw": "Thu 05-Nov-2026",
-      "dateIso": "2026-11-05T12:00:00.000Z",
-      "daysAgo": 2,
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "20:00",
       "homeTeam": "Celta de Vigo",
       "awayTeam": "Union St Gilloise",
@@ -155,8 +1221,8 @@
           "eloWinProb": 0.238
         },
         "matchFingerprint": "18_celta de vigo_union st gilloise_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T13:32:59.354Z",
-        "auditHash": "SHA256-IMMUTABLE-5708646D-2026-11-07",
+        "lockedAt": "2026-11-11T11:19:50.117Z",
+        "auditHash": "SHA256-IMMUTABLE-75F142FB-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -171,8 +1237,8 @@
       "leagueId": "18",
       "leagueName": "Europa League",
       "dateRaw": "Thu 05-Nov-2026",
-      "dateIso": "2026-11-05T12:00:00.000Z",
-      "daysAgo": 2,
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "20:00",
       "homeTeam": "Celtic",
       "awayTeam": "Besiktas",
@@ -209,8 +1275,8 @@
           "eloWinProb": 0.311
         },
         "matchFingerprint": "18_celtic_besiktas_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T13:32:59.354Z",
-        "auditHash": "SHA256-IMMUTABLE-31537414-2026-11-07",
+        "lockedAt": "2026-11-11T11:19:50.117Z",
+        "auditHash": "SHA256-IMMUTABLE-1B2E484-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -225,8 +1291,8 @@
       "leagueId": "18",
       "leagueName": "Europa League",
       "dateRaw": "Thu 05-Nov-2026",
-      "dateIso": "2026-11-05T12:00:00.000Z",
-      "daysAgo": 2,
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "20:00",
       "homeTeam": "Hapoel Be'er Sheva",
       "awayTeam": "OFI Crete",
@@ -263,8 +1329,8 @@
           "eloWinProb": 0.32
         },
         "matchFingerprint": "18_hapoel be'er sheva_ofi crete_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T13:32:59.354Z",
-        "auditHash": "SHA256-IMMUTABLE-484F8783-2026-11-07",
+        "lockedAt": "2026-11-11T11:19:50.117Z",
+        "auditHash": "SHA256-IMMUTABLE-15492EEB-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -279,8 +1345,8 @@
       "leagueId": "18",
       "leagueName": "Europa League",
       "dateRaw": "Thu 05-Nov-2026",
-      "dateIso": "2026-11-05T12:00:00.000Z",
-      "daysAgo": 2,
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "20:00",
       "homeTeam": "Leverkusen",
       "awayTeam": "Marseille",
@@ -317,8 +1383,8 @@
           "eloWinProb": 0.863
         },
         "matchFingerprint": "18_leverkusen_marseille_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T13:32:59.355Z",
-        "auditHash": "SHA256-IMMUTABLE-2E9A2FAB-2026-11-07",
+        "lockedAt": "2026-11-11T11:19:50.117Z",
+        "auditHash": "SHA256-IMMUTABLE-46C290C-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -333,8 +1399,8 @@
       "leagueId": "18",
       "leagueName": "Europa League",
       "dateRaw": "Thu 05-Nov-2026",
-      "dateIso": "2026-11-05T12:00:00.000Z",
-      "daysAgo": 2,
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "20:00",
       "homeTeam": "Sturm Graz",
       "awayTeam": "NK Celje",
@@ -371,8 +1437,8 @@
           "eloWinProb": 0.602
         },
         "matchFingerprint": "18_sturm graz_nk celje_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T13:32:59.355Z",
-        "auditHash": "SHA256-IMMUTABLE-55F45199-2026-11-07",
+        "lockedAt": "2026-11-11T11:19:50.117Z",
+        "auditHash": "SHA256-IMMUTABLE-770555B0-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -387,8 +1453,8 @@
       "leagueId": "18",
       "leagueName": "Europa League",
       "dateRaw": "Thu 05-Nov-2026",
-      "dateIso": "2026-11-05T12:00:00.000Z",
-      "daysAgo": 2,
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "20:00",
       "homeTeam": "Sunderland",
       "awayTeam": "Dinamo Zagreb",
@@ -425,8 +1491,8 @@
           "eloWinProb": 0.577
         },
         "matchFingerprint": "18_sunderland_dinamo zagreb_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T13:32:59.355Z",
-        "auditHash": "SHA256-IMMUTABLE-5063438E-2026-11-07",
+        "lockedAt": "2026-11-11T11:19:50.117Z",
+        "auditHash": "SHA256-IMMUTABLE-1D5CEAD7-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -441,8 +1507,8 @@
       "leagueId": "18",
       "leagueName": "Europa League",
       "dateRaw": "Thu 05-Nov-2026",
-      "dateIso": "2026-11-05T12:00:00.000Z",
-      "daysAgo": 2,
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "20:00",
       "homeTeam": "Torreense",
       "awayTeam": "Ararat Armenia",
@@ -479,8 +1545,8 @@
           "eloWinProb": 0.835
         },
         "matchFingerprint": "18_torreense_ararat armenia_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T13:32:59.355Z",
-        "auditHash": "SHA256-IMMUTABLE-3241B460-2026-11-07",
+        "lockedAt": "2026-11-11T11:19:50.118Z",
+        "auditHash": "SHA256-IMMUTABLE-C4A438-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -495,8 +1561,8 @@
       "leagueId": "18",
       "leagueName": "Europa League",
       "dateRaw": "Thu 05-Nov-2026",
-      "dateIso": "2026-11-05T12:00:00.000Z",
-      "daysAgo": 2,
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "17:45",
       "homeTeam": "AC Milan",
       "awayTeam": "Ferencvaros",
@@ -533,8 +1599,8 @@
           "eloWinProb": 0.187
         },
         "matchFingerprint": "18_ac milan_ferencvaros_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T13:32:59.355Z",
-        "auditHash": "SHA256-IMMUTABLE-2C93BC89-2026-11-07",
+        "lockedAt": "2026-11-11T11:19:50.118Z",
+        "auditHash": "SHA256-IMMUTABLE-5F9A1521-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -549,8 +1615,8 @@
       "leagueId": "18",
       "leagueName": "Europa League",
       "dateRaw": "Thu 05-Nov-2026",
-      "dateIso": "2026-11-05T12:00:00.000Z",
-      "daysAgo": 2,
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "17:45",
       "homeTeam": "Anderlecht",
       "awayTeam": "Salzburg",
@@ -587,8 +1653,8 @@
           "eloWinProb": 0.733
         },
         "matchFingerprint": "18_anderlecht_salzburg_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T13:32:59.355Z",
-        "auditHash": "SHA256-IMMUTABLE-77A5EE9C-2026-11-07",
+        "lockedAt": "2026-11-11T11:19:50.118Z",
+        "auditHash": "SHA256-IMMUTABLE-449F9604-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -603,8 +1669,8 @@
       "leagueId": "18",
       "leagueName": "Europa League",
       "dateRaw": "Thu 05-Nov-2026",
-      "dateIso": "2026-11-05T12:00:00.000Z",
-      "daysAgo": 2,
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "17:45",
       "homeTeam": "Crystal Palace",
       "awayTeam": "Hoffenheim",
@@ -641,8 +1707,8 @@
           "eloWinProb": 0.644
         },
         "matchFingerprint": "18_crystal palace_hoffenheim_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T13:32:59.355Z",
-        "auditHash": "SHA256-IMMUTABLE-1DD248C1-2026-11-07",
+        "lockedAt": "2026-11-11T11:19:50.118Z",
+        "auditHash": "SHA256-IMMUTABLE-15340FD7-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -657,8 +1723,8 @@
       "leagueId": "18",
       "leagueName": "Europa League",
       "dateRaw": "Thu 05-Nov-2026",
-      "dateIso": "2026-11-05T12:00:00.000Z",
-      "daysAgo": 2,
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "17:45",
       "homeTeam": "Levski Sofia",
       "awayTeam": "Jagiellonia Bialystok",
@@ -695,8 +1761,8 @@
           "eloWinProb": 0.796
         },
         "matchFingerprint": "18_levski sofia_jagiellonia bialystok_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T13:32:59.355Z",
-        "auditHash": "SHA256-IMMUTABLE-56B85C84-2026-11-07",
+        "lockedAt": "2026-11-11T11:19:50.118Z",
+        "auditHash": "SHA256-IMMUTABLE-23B203EC-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -711,8 +1777,8 @@
       "leagueId": "18",
       "leagueName": "Europa League",
       "dateRaw": "Thu 05-Nov-2026",
-      "dateIso": "2026-11-05T12:00:00.000Z",
-      "daysAgo": 2,
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "17:45",
       "homeTeam": "Lillestrom",
       "awayTeam": "Plzen",
@@ -749,8 +1815,8 @@
           "eloWinProb": 0.493
         },
         "matchFingerprint": "18_lillestrom_plzen_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T13:32:59.355Z",
-        "auditHash": "SHA256-IMMUTABLE-187C0A63-2026-11-07",
+        "lockedAt": "2026-11-11T11:19:50.118Z",
+        "auditHash": "SHA256-IMMUTABLE-4B8262FB-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
@@ -765,8 +1831,8 @@
       "leagueId": "18",
       "leagueName": "Europa League",
       "dateRaw": "Thu 05-Nov-2026",
-      "dateIso": "2026-11-05T12:00:00.000Z",
-      "daysAgo": 2,
+      "dateIso": "2026-11-12T12:00:00.000Z",
+      "daysAgo": 0,
       "time": "17:45",
       "homeTeam": "N.E.C.",
       "awayTeam": "Omonia Nicosia",
@@ -803,8 +1869,8 @@
           "eloWinProb": 0.653
         },
         "matchFingerprint": "18_n.e.c._omonia nicosia_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-07T13:32:59.356Z",
-        "auditHash": "SHA256-IMMUTABLE-705FA62-2026-11-07",
+        "lockedAt": "2026-11-11T11:19:50.118Z",
+        "auditHash": "SHA256-IMMUTABLE-2C005E55-2026-11-11",
         "isImmutable": true
       },
       "evaluation": {
