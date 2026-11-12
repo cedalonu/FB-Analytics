@@ -1,7 +1,7 @@
 {
   "leagueId": "30",
   "leagueName": "MLS",
-  "timestamp": "2026-11-11T13:52:52.203Z",
+  "timestamp": "2026-11-12T14:54:49.295Z",
   "fixtures": [
     {
       "id": "fix_30_1_Orlando",
@@ -9,7 +9,7 @@
       "leagueName": "MLS",
       "dateRaw": "Fri 20/11",
       "dateIso": "2026-11-13T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "00:30",
       "homeTeam": "Orlando",
       "awayTeam": "Cincinnati",
@@ -80,7 +80,7 @@
       "leagueName": "MLS",
       "dateRaw": "Fri 20/11",
       "dateIso": "2026-11-13T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "03:00",
       "homeTeam": "Seattle",
       "awayTeam": "Real Salt Lake",
@@ -151,7 +151,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "19:00",
       "homeTeam": "New England",
       "awayTeam": "Philadelphia",
@@ -222,7 +222,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "21:00",
       "homeTeam": "FC Dallas",
       "awayTeam": "Portland",
@@ -293,7 +293,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "23:00",
       "homeTeam": "Inter Miami",
       "awayTeam": "Columbus",
@@ -364,7 +364,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "23:30",
       "homeTeam": "Chicago",
       "awayTeam": "Charlotte FC",
@@ -435,7 +435,7 @@
       "leagueName": "MLS",
       "dateRaw": "Tue 24/11",
       "dateIso": "2026-11-17T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "01:00",
       "homeTeam": "St. Louis City",
       "awayTeam": "Los Angeles FC",
@@ -505,8 +505,8 @@
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Wed 25/11",
-      "dateIso": "2026-11-11T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-18T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "03:00",
       "homeTeam": "San Jose",
       "awayTeam": "Houston",
@@ -577,7 +577,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "01:00",
       "homeTeam": "Columbus",
       "awayTeam": "Inter Miami",
@@ -648,7 +648,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "17:30",
       "homeTeam": "Charlotte FC",
       "awayTeam": "Chicago",
@@ -719,7 +719,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "19:30",
       "homeTeam": "Houston",
       "awayTeam": "San Jose",
@@ -790,7 +790,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "21:30",
       "homeTeam": "Philadelphia",
       "awayTeam": "New England",
@@ -861,7 +861,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "01:30",
       "homeTeam": "Los Angeles FC",
       "awayTeam": "St. Louis City",
@@ -932,7 +932,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "03:30",
       "homeTeam": "Portland",
       "awayTeam": "FC Dallas",
@@ -1042,8 +1042,8 @@
           "eloWinProb": 0.395
         },
         "matchFingerprint": "30_austin fc_portland_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T13:52:52.200Z",
-        "auditHash": "SHA256-IMMUTABLE-A33718F-2026-11-11",
+        "lockedAt": "2026-11-12T14:54:49.291Z",
+        "auditHash": "SHA256-IMMUTABLE-56EE4F13-2026-11-12",
         "isImmutable": true
       },
       "evaluation": {
@@ -1096,8 +1096,8 @@
           "eloWinProb": 0.754
         },
         "matchFingerprint": "30_fc dallas_colorado_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T13:52:52.200Z",
-        "auditHash": "SHA256-IMMUTABLE-1AF50A0C-2026-11-11",
+        "lockedAt": "2026-11-12T14:54:49.291Z",
+        "auditHash": "SHA256-IMMUTABLE-7C16CAAE-2026-11-12",
         "isImmutable": true
       },
       "evaluation": {
@@ -1150,8 +1150,8 @@
           "eloWinProb": 0.522
         },
         "matchFingerprint": "30_houston_st. louis city_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T13:52:52.200Z",
-        "auditHash": "SHA256-IMMUTABLE-4961F86A-2026-11-11",
+        "lockedAt": "2026-11-12T14:54:49.291Z",
+        "auditHash": "SHA256-IMMUTABLE-17BFC838-2026-11-12",
         "isImmutable": true
       },
       "evaluation": {
@@ -1204,8 +1204,8 @@
           "eloWinProb": 0.487
         },
         "matchFingerprint": "30_minnesota united_san jose_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T13:52:52.200Z",
-        "auditHash": "SHA256-IMMUTABLE-29EB1E78-2026-11-11",
+        "lockedAt": "2026-11-12T14:54:49.291Z",
+        "auditHash": "SHA256-IMMUTABLE-74F320E6-2026-11-12",
         "isImmutable": true
       },
       "evaluation": {
@@ -1258,8 +1258,8 @@
           "eloWinProb": 0.64
         },
         "matchFingerprint": "30_real salt lake_la galaxy_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T13:52:52.200Z",
-        "auditHash": "SHA256-IMMUTABLE-74CB3F7-2026-11-11",
+        "lockedAt": "2026-11-12T14:54:49.291Z",
+        "auditHash": "SHA256-IMMUTABLE-686E7499-2026-11-12",
         "isImmutable": true
       },
       "evaluation": {
@@ -1312,8 +1312,8 @@
           "eloWinProb": 0.777
         },
         "matchFingerprint": "30_san diego_sporting kc_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T13:52:52.201Z",
-        "auditHash": "SHA256-IMMUTABLE-39BF63B9-2026-11-11",
+        "lockedAt": "2026-11-12T14:54:49.292Z",
+        "auditHash": "SHA256-IMMUTABLE-651EDBA5-2026-11-12",
         "isImmutable": true
       },
       "evaluation": {
@@ -1366,8 +1366,8 @@
           "eloWinProb": 0.516
         },
         "matchFingerprint": "30_seattle_los angeles fc_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T13:52:52.201Z",
-        "auditHash": "SHA256-IMMUTABLE-20554F9F-2026-11-11",
+        "lockedAt": "2026-11-12T14:54:49.292Z",
+        "auditHash": "SHA256-IMMUTABLE-40CC7103-2026-11-12",
         "isImmutable": true
       },
       "evaluation": {
@@ -1420,8 +1420,8 @@
           "eloWinProb": 0.656
         },
         "matchFingerprint": "30_chicago_columbus_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T13:52:52.201Z",
-        "auditHash": "SHA256-IMMUTABLE-8199632-2026-11-11",
+        "lockedAt": "2026-11-12T14:54:49.292Z",
+        "auditHash": "SHA256-IMMUTABLE-59082A70-2026-11-12",
         "isImmutable": true
       },
       "evaluation": {
@@ -1474,8 +1474,8 @@
           "eloWinProb": 0.21
         },
         "matchFingerprint": "30_cincinnati_nashville sc_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T13:52:52.201Z",
-        "auditHash": "SHA256-IMMUTABLE-4EB3FDB1-2026-11-11",
+        "lockedAt": "2026-11-12T14:54:49.292Z",
+        "auditHash": "SHA256-IMMUTABLE-126DC2F1-2026-11-12",
         "isImmutable": true
       },
       "evaluation": {
@@ -1528,8 +1528,8 @@
           "eloWinProb": 0.423
         },
         "matchFingerprint": "30_d.c. united_new york city_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T13:52:52.201Z",
-        "auditHash": "SHA256-IMMUTABLE-247DCB83-2026-11-11",
+        "lockedAt": "2026-11-12T14:54:49.292Z",
+        "auditHash": "SHA256-IMMUTABLE-3CA3F51F-2026-11-12",
         "isImmutable": true
       },
       "evaluation": {
@@ -1582,8 +1582,8 @@
           "eloWinProb": 0.66
         },
         "matchFingerprint": "30_inter miami_charlotte fc_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T13:52:52.201Z",
-        "auditHash": "SHA256-IMMUTABLE-39F580EE-2026-11-11",
+        "lockedAt": "2026-11-12T14:54:49.292Z",
+        "auditHash": "SHA256-IMMUTABLE-64E8BE70-2026-11-12",
         "isImmutable": true
       },
       "evaluation": {
@@ -1636,8 +1636,8 @@
           "eloWinProb": 0.129
         },
         "matchFingerprint": "30_montreal_vancouver_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T13:52:52.201Z",
-        "auditHash": "SHA256-IMMUTABLE-1FE8CA33-2026-11-11",
+        "lockedAt": "2026-11-12T14:54:49.292Z",
+        "auditHash": "SHA256-IMMUTABLE-7EF5752B-2026-11-12",
         "isImmutable": true
       },
       "evaluation": {
@@ -1690,8 +1690,8 @@
           "eloWinProb": 0.66
         },
         "matchFingerprint": "30_ny red bulls_atlanta united_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T13:52:52.201Z",
-        "auditHash": "SHA256-IMMUTABLE-3CDA19DB-2026-11-11",
+        "lockedAt": "2026-11-12T14:54:49.292Z",
+        "auditHash": "SHA256-IMMUTABLE-2447A6C7-2026-11-12",
         "isImmutable": true
       },
       "evaluation": {
@@ -1744,8 +1744,8 @@
           "eloWinProb": 0.41
         },
         "matchFingerprint": "30_orlando_new england_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T13:52:52.201Z",
-        "auditHash": "SHA256-IMMUTABLE-469DD39B-2026-11-11",
+        "lockedAt": "2026-11-12T14:54:49.292Z",
+        "auditHash": "SHA256-IMMUTABLE-58406BC3-2026-11-12",
         "isImmutable": true
       },
       "evaluation": {
@@ -1798,8 +1798,8 @@
           "eloWinProb": 0.771
         },
         "matchFingerprint": "30_philadelphia_toronto fc_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-11T13:52:52.202Z",
-        "auditHash": "SHA256-IMMUTABLE-492001B0-2026-11-11",
+        "lockedAt": "2026-11-12T14:54:49.292Z",
+        "auditHash": "SHA256-IMMUTABLE-1801BED3-2026-11-12",
         "isImmutable": true
       },
       "evaluation": {
