@@ -1,7 +1,7 @@
 {
   "leagueId": "4",
   "leagueName": "League Two",
-  "timestamp": "2026-11-12T14:54:34.897Z",
+  "timestamp": "2026-11-13T14:20:18.055Z",
   "fixtures": [
     {
       "id": "fix_4_1_Exeter",
@@ -9,14 +9,14 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "12:30",
       "homeTeam": "Exeter",
       "awayTeam": "Cheltenham",
       "odds": {
-        "home": 1.98,
-        "draw": 3.5,
-        "away": 3.85
+        "home": 1.9,
+        "draw": 3.7,
+        "away": 4
       },
       "prediction": {
         "homeExpectedGoals": 1.74,
@@ -80,7 +80,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Bristol Rovers",
       "awayTeam": "Chesterfield",
@@ -151,14 +151,14 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Colchester",
       "awayTeam": "Gillingham",
       "odds": {
-        "home": 2.14,
-        "draw": 3.5,
-        "away": 3.4
+        "home": 2.11,
+        "draw": 3.45,
+        "away": 3.5
       },
       "prediction": {
         "homeExpectedGoals": 0.78,
@@ -222,7 +222,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Crewe",
       "awayTeam": "Newport County",
@@ -293,7 +293,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Port Vale",
       "awayTeam": "Accrington Stanley",
@@ -364,7 +364,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Rochdale",
       "awayTeam": "York",
@@ -435,14 +435,14 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Salford",
       "awayTeam": "Northampton",
       "odds": {
-        "home": 1.67,
-        "draw": 3.9,
-        "away": 5.2
+        "home": 1.62,
+        "draw": 4,
+        "away": 5.4
       },
       "prediction": {
         "homeExpectedGoals": 1.57,
@@ -506,14 +506,14 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Shrewsbury",
       "awayTeam": "Oldham",
       "odds": {
-        "home": 2.6,
-        "draw": 3.45,
-        "away": 2.65
+        "home": 2.55,
+        "draw": 3.4,
+        "away": 2.75
       },
       "prediction": {
         "homeExpectedGoals": 1.44,
@@ -577,7 +577,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Swindon",
       "awayTeam": "Grimsby",
@@ -648,7 +648,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:30",
       "homeTeam": "Fleetwood Town",
       "awayTeam": "Tranmere",
@@ -719,7 +719,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "12:30",
       "homeTeam": "Gillingham",
       "awayTeam": "Crewe",
@@ -790,7 +790,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "12:30",
       "homeTeam": "Newport County",
       "awayTeam": "Swindon",
@@ -861,7 +861,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Accrington Stanley",
       "awayTeam": "Salford",
@@ -932,7 +932,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Barnet",
       "awayTeam": "Port Vale",
@@ -1003,7 +1003,7 @@
       "leagueName": "League Two",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Cheltenham",
       "awayTeam": "Bristol Rovers",
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.577
         },
         "matchFingerprint": "4_northampton_oldham_Tue 03-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:34.895Z",
-        "auditHash": "SHA256-IMMUTABLE-1DF86EF-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:18.053Z",
+        "auditHash": "SHA256-IMMUTABLE-352FE471-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.731
         },
         "matchFingerprint": "4_accrington stanley_northampton_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:34.895Z",
-        "auditHash": "SHA256-IMMUTABLE-599D5CA3-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:18.053Z",
+        "auditHash": "SHA256-IMMUTABLE-6F5337FD-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.305
         },
         "matchFingerprint": "4_colchester_walsall_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:34.895Z",
-        "auditHash": "SHA256-IMMUTABLE-6D5955B7-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:18.053Z",
+        "auditHash": "SHA256-IMMUTABLE-5B973EE9-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.491
         },
         "matchFingerprint": "4_crewe_barnet_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:34.896Z",
-        "auditHash": "SHA256-IMMUTABLE-6FEF5C2-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:18.054Z",
+        "auditHash": "SHA256-IMMUTABLE-3010759E-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.633
         },
         "matchFingerprint": "4_fleetwood town_bristol rovers_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:34.896Z",
-        "auditHash": "SHA256-IMMUTABLE-38710428-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:18.054Z",
+        "auditHash": "SHA256-IMMUTABLE-16198C8-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.702
         },
         "matchFingerprint": "4_oldham_crawley town_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:34.896Z",
-        "auditHash": "SHA256-IMMUTABLE-40A2A538-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:18.054Z",
+        "auditHash": "SHA256-IMMUTABLE-99339D8-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.79
         },
         "matchFingerprint": "4_salford_exeter_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:34.896Z",
-        "auditHash": "SHA256-IMMUTABLE-47DE0045-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:18.054Z",
+        "auditHash": "SHA256-IMMUTABLE-10CE94E5-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.504
         },
         "matchFingerprint": "4_shrewsbury_gillingham_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:34.896Z",
-        "auditHash": "SHA256-IMMUTABLE-6D6883B2-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:18.054Z",
+        "auditHash": "SHA256-IMMUTABLE-36591852-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.729
         },
         "matchFingerprint": "4_swindon_rotherham_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:34.896Z",
-        "auditHash": "SHA256-IMMUTABLE-4A989CFE-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:18.054Z",
+        "auditHash": "SHA256-IMMUTABLE-1389319E-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.553
         },
         "matchFingerprint": "4_tranmere_cheltenham_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:34.896Z",
-        "auditHash": "SHA256-IMMUTABLE-51934F99-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:18.054Z",
+        "auditHash": "SHA256-IMMUTABLE-1A83E439-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.61
         },
         "matchFingerprint": "4_grimsby_york_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:34.896Z",
-        "auditHash": "SHA256-IMMUTABLE-402EEFD5-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:18.054Z",
+        "auditHash": "SHA256-IMMUTABLE-773E5B35-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.619
         },
         "matchFingerprint": "4_port vale_rochdale_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:34.896Z",
-        "auditHash": "SHA256-IMMUTABLE-6CC80928-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:18.054Z",
+        "auditHash": "SHA256-IMMUTABLE-5C288B78-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.559
         },
         "matchFingerprint": "4_newport county_chesterfield_Fri 30-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:34.896Z",
-        "auditHash": "SHA256-IMMUTABLE-7F08D5C2-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:18.054Z",
+        "auditHash": "SHA256-IMMUTABLE-49E7BEDE-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.709
         },
         "matchFingerprint": "4_barnet_york_Tue 27-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:34.896Z",
-        "auditHash": "SHA256-IMMUTABLE-58555044-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:18.054Z",
+        "auditHash": "SHA256-IMMUTABLE-709B445C-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.473
         },
         "matchFingerprint": "4_walsall_salford_Mon 26-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:34.896Z",
-        "auditHash": "SHA256-IMMUTABLE-6CAE2EF5-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:18.054Z",
+        "auditHash": "SHA256-IMMUTABLE-5C4265AB-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {

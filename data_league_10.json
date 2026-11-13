@@ -1,7 +1,7 @@
 {
   "leagueId": "10",
   "leagueName": "Scottish Premiership",
-  "timestamp": "2026-11-12T14:54:41.052Z",
+  "timestamp": "2026-11-13T14:20:23.946Z",
   "fixtures": [
     {
       "id": "fix_10_1_Celtic",
@@ -9,7 +9,7 @@
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Celtic",
       "awayTeam": "St Mirren",
@@ -80,7 +80,7 @@
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Falkirk",
       "awayTeam": "St Johnstone",
@@ -151,7 +151,7 @@
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Hibernian",
       "awayTeam": "Dundee Utd",
@@ -222,7 +222,7 @@
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Kilmarnock",
       "awayTeam": "Aberdeen",
@@ -293,7 +293,7 @@
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:45",
       "homeTeam": "Dundee",
       "awayTeam": "Hearts",
@@ -364,7 +364,7 @@
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "20:00",
       "homeTeam": "Motherwell",
       "awayTeam": "Rangers",
@@ -435,7 +435,7 @@
       "leagueName": "Scottish Premiership",
       "dateRaw": "Tue 24/11",
       "dateIso": "2026-11-17T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "19:45",
       "homeTeam": "Hibernian",
       "awayTeam": "Dundee",
@@ -506,7 +506,7 @@
       "leagueName": "Scottish Premiership",
       "dateRaw": "Tue 24/11",
       "dateIso": "2026-11-17T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "20:00",
       "homeTeam": "Rangers",
       "awayTeam": "Aberdeen",
@@ -577,7 +577,7 @@
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Aberdeen",
       "awayTeam": "Dundee",
@@ -648,7 +648,7 @@
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Dundee Utd",
       "awayTeam": "St Johnstone",
@@ -719,7 +719,7 @@
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Rangers",
       "awayTeam": "Falkirk",
@@ -790,7 +790,7 @@
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "St Mirren",
       "awayTeam": "Kilmarnock",
@@ -861,7 +861,7 @@
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:45",
       "homeTeam": "Motherwell",
       "awayTeam": "Hibernian",
@@ -932,7 +932,7 @@
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "15:00",
       "homeTeam": "Hearts",
       "awayTeam": "Celtic",
@@ -1003,7 +1003,7 @@
       "leagueName": "Scottish Premiership",
       "dateRaw": "Wed 02/12",
       "dateIso": "2026-11-18T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "19:45",
       "homeTeam": "Dundee",
       "awayTeam": "Celtic",
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.903
         },
         "matchFingerprint": "10_celtic_kilmarnock_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:41.050Z",
-        "auditHash": "SHA256-IMMUTABLE-7D4E033E-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:23.944Z",
+        "auditHash": "SHA256-IMMUTABLE-42DCACEC-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.567
         },
         "matchFingerprint": "10_hearts_falkirk_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:41.050Z",
-        "auditHash": "SHA256-IMMUTABLE-A7D4FE1-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:23.944Z",
+        "auditHash": "SHA256-IMMUTABLE-2FF40671-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.321
         },
         "matchFingerprint": "10_st mirren_rangers_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:41.050Z",
-        "auditHash": "SHA256-IMMUTABLE-C792A6A-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:23.944Z",
+        "auditHash": "SHA256-IMMUTABLE-46EA80BC-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.57
         },
         "matchFingerprint": "10_aberdeen_hibernian_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:41.050Z",
-        "auditHash": "SHA256-IMMUTABLE-2D346D2B-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:23.944Z",
+        "auditHash": "SHA256-IMMUTABLE-67A5C37D-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.675
         },
         "matchFingerprint": "10_dundee utd_motherwell_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:41.050Z",
-        "auditHash": "SHA256-IMMUTABLE-178893A1-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:23.944Z",
+        "auditHash": "SHA256-IMMUTABLE-51F9E9F3-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.556
         },
         "matchFingerprint": "10_st johnstone_dundee_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:41.050Z",
-        "auditHash": "SHA256-IMMUTABLE-EB5E7BA-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:23.944Z",
+        "auditHash": "SHA256-IMMUTABLE-2BBB6E98-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.415
         },
         "matchFingerprint": "10_falkirk_celtic_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:41.050Z",
-        "auditHash": "SHA256-IMMUTABLE-2D2C2696-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:23.944Z",
+        "auditHash": "SHA256-IMMUTABLE-679D7CE8-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.417
         },
         "matchFingerprint": "10_kilmarnock_st johnstone_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:41.050Z",
-        "auditHash": "SHA256-IMMUTABLE-33EF0E3C-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:23.944Z",
+        "auditHash": "SHA256-IMMUTABLE-6E60648E-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.592
         },
         "matchFingerprint": "10_motherwell_st mirren_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:41.050Z",
-        "auditHash": "SHA256-IMMUTABLE-32AFD750-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:23.944Z",
+        "auditHash": "SHA256-IMMUTABLE-6D212DA2-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.466
         },
         "matchFingerprint": "10_hearts_rangers_Wed 28-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:41.050Z",
-        "auditHash": "SHA256-IMMUTABLE-340267E8-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:23.945Z",
+        "auditHash": "SHA256-IMMUTABLE-66EEE4B-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.383
         },
         "matchFingerprint": "10_aberdeen_falkirk_Wed 28-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:41.050Z",
-        "auditHash": "SHA256-IMMUTABLE-23F21234-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:23.945Z",
+        "auditHash": "SHA256-IMMUTABLE-5E636867-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.81
         },
         "matchFingerprint": "10_celtic_dundee utd_Wed 28-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:41.050Z",
-        "auditHash": "SHA256-IMMUTABLE-3F5AC1D6-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:23.945Z",
+        "auditHash": "SHA256-IMMUTABLE-79CC1809-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.774
         },
         "matchFingerprint": "10_dundee_kilmarnock_Wed 28-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:41.050Z",
-        "auditHash": "SHA256-IMMUTABLE-50DA07A5-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:23.945Z",
+        "auditHash": "SHA256-IMMUTABLE-1668B172-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.658
         },
         "matchFingerprint": "10_st johnstone_motherwell_Wed 28-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:41.050Z",
-        "auditHash": "SHA256-IMMUTABLE-26A4649D-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:23.945Z",
+        "auditHash": "SHA256-IMMUTABLE-13CCF196-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.604
         },
         "matchFingerprint": "10_st mirren_hibernian_Wed 28-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:41.050Z",
-        "auditHash": "SHA256-IMMUTABLE-4835BDE6-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:23.945Z",
+        "auditHash": "SHA256-IMMUTABLE-DC467B3-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {

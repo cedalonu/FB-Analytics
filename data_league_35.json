@@ -1,7 +1,7 @@
 {
   "leagueId": "35",
   "leagueName": "Belgian Pro League",
-  "timestamp": "2026-11-12T14:54:46.868Z",
+  "timestamp": "2026-11-13T14:20:30.076Z",
   "fixtures": [
     {
       "id": "fix_35_1_CercleBrugge",
@@ -9,7 +9,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Fri 20/11",
       "dateIso": "2026-11-13T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "19:45",
       "homeTeam": "Cercle Brugge",
       "awayTeam": "Westerlo",
@@ -80,7 +80,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Charleroi",
       "awayTeam": "Sint Truidense VV",
@@ -151,7 +151,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:15",
       "homeTeam": "KRC Genk",
       "awayTeam": "La Louviere",
@@ -222,7 +222,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "19:45",
       "homeTeam": "KV Mechelen",
       "awayTeam": "Club Brugge",
@@ -293,7 +293,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "19:45",
       "homeTeam": "Zulte-Waregem",
       "awayTeam": "Royal Antwerp",
@@ -364,7 +364,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "12:30",
       "homeTeam": "Waasland-Beveren",
       "awayTeam": "Gent",
@@ -435,7 +435,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "15:00",
       "homeTeam": "Kortrijk",
       "awayTeam": "Union St Gilloise",
@@ -506,7 +506,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "17:30",
       "homeTeam": "Anderlecht",
       "awayTeam": "Leuven",
@@ -577,7 +577,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "18:15",
       "homeTeam": "Lommel",
       "awayTeam": "Standard de Liege",
@@ -648,7 +648,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Fri 27/11",
       "dateIso": "2026-11-13T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "19:45",
       "homeTeam": "Leuven",
       "awayTeam": "Kortrijk",
@@ -719,7 +719,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Westerlo",
       "awayTeam": "La Louviere",
@@ -790,7 +790,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:15",
       "homeTeam": "Cercle Brugge",
       "awayTeam": "KV Mechelen",
@@ -861,7 +861,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "19:45",
       "homeTeam": "Charleroi",
       "awayTeam": "Waasland-Beveren",
@@ -932,7 +932,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "19:45",
       "homeTeam": "Lommel",
       "awayTeam": "Zulte-Waregem",
@@ -1003,7 +1003,7 @@
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "12:30",
       "homeTeam": "Sint Truidense VV",
       "awayTeam": "KRC Genk",
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.632
         },
         "matchFingerprint": "35_sint truidense vv_zulte-waregem_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:46.866Z",
-        "auditHash": "SHA256-IMMUTABLE-7F9FD1AF-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:30.070Z",
+        "auditHash": "SHA256-IMMUTABLE-6C663DA3-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.826
         },
         "matchFingerprint": "35_union st gilloise_krc genk_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:46.866Z",
-        "auditHash": "SHA256-IMMUTABLE-2A465E9F-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:30.070Z",
+        "auditHash": "SHA256-IMMUTABLE-170CCA93-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.923
         },
         "matchFingerprint": "35_gent_kortrijk_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:46.866Z",
-        "auditHash": "SHA256-IMMUTABLE-E63C569-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:30.070Z",
+        "auditHash": "SHA256-IMMUTABLE-219D5975-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.753
         },
         "matchFingerprint": "35_club brugge_anderlecht_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:46.866Z",
-        "auditHash": "SHA256-IMMUTABLE-308CB87B-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:30.070Z",
+        "auditHash": "SHA256-IMMUTABLE-1D53246F-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.549
         },
         "matchFingerprint": "35_la louviere_cercle brugge_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:46.866Z",
-        "auditHash": "SHA256-IMMUTABLE-3A55FB5A-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:30.070Z",
+        "auditHash": "SHA256-IMMUTABLE-4D8F8F66-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.457
         },
         "matchFingerprint": "35_royal antwerp_lommel_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:46.866Z",
-        "auditHash": "SHA256-IMMUTABLE-3918C1A3-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:30.070Z",
+        "auditHash": "SHA256-IMMUTABLE-25DF2D97-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.606
         },
         "matchFingerprint": "35_leuven_kv mechelen_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:46.866Z",
-        "auditHash": "SHA256-IMMUTABLE-8B1E974-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:30.070Z",
+        "auditHash": "SHA256-IMMUTABLE-A87AA98-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.336
         },
         "matchFingerprint": "35_westerlo_charleroi_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:46.866Z",
-        "auditHash": "SHA256-IMMUTABLE-346154E9-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:30.070Z",
+        "auditHash": "SHA256-IMMUTABLE-479AE8F5-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.729
         },
         "matchFingerprint": "35_standard de liege_waasland-beveren_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:46.866Z",
-        "auditHash": "SHA256-IMMUTABLE-5DF03207-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:30.070Z",
+        "auditHash": "SHA256-IMMUTABLE-7129C613-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.403
         },
         "matchFingerprint": "35_kortrijk_kv mechelen_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:46.866Z",
-        "auditHash": "SHA256-IMMUTABLE-CC414D6-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:30.070Z",
+        "auditHash": "SHA256-IMMUTABLE-1FFDA8E2-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.889
         },
         "matchFingerprint": "35_charleroi_la louviere_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:46.866Z",
-        "auditHash": "SHA256-IMMUTABLE-62401C06-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:30.070Z",
+        "auditHash": "SHA256-IMMUTABLE-7579B012-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.379
         },
         "matchFingerprint": "35_lommel_gent_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:46.866Z",
-        "auditHash": "SHA256-IMMUTABLE-161058A0-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:30.070Z",
+        "auditHash": "SHA256-IMMUTABLE-2D6C494-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.591
         },
         "matchFingerprint": "35_sint truidense vv_leuven_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:46.866Z",
-        "auditHash": "SHA256-IMMUTABLE-636E9885-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:30.071Z",
+        "auditHash": "SHA256-IMMUTABLE-50350498-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.543
         },
         "matchFingerprint": "35_cercle brugge_royal antwerp_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:46.866Z",
-        "auditHash": "SHA256-IMMUTABLE-7E6DDF3C-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:30.071Z",
+        "auditHash": "SHA256-IMMUTABLE-6E588CD7-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.703
         },
         "matchFingerprint": "35_anderlecht_westerlo_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-12T14:54:46.867Z",
-        "auditHash": "SHA256-IMMUTABLE-4021EDCB-2026-11-12",
+        "lockedAt": "2026-11-13T14:20:30.071Z",
+        "auditHash": "SHA256-IMMUTABLE-535B81D7-2026-11-13",
         "isImmutable": true
       },
       "evaluation": {
