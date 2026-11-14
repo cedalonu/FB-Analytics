@@ -1,7 +1,7 @@
 {
   "leagueId": "76",
   "leagueName": "Brazil Serie A",
-  "timestamp": "2026-11-13T14:20:36.226Z",
+  "timestamp": "2026-11-14T13:16:02.600Z",
   "fixtures": [
     {
       "id": "fix_76_1_Mirassol",
@@ -9,14 +9,14 @@
       "leagueName": "Brazil Serie A",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "21:30",
       "homeTeam": "Mirassol",
       "awayTeam": "Atletico MG",
       "odds": {
-        "home": 1.99,
+        "home": 2.03,
         "draw": 3.6,
-        "away": 3.85
+        "away": 3.75
       },
       "prediction": {
         "homeExpectedGoals": 1.16,
@@ -80,14 +80,14 @@
       "leagueName": "Brazil Serie A",
       "dateRaw": "Sat 14/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "23:30",
       "homeTeam": "Chapecoense",
       "awayTeam": "Vasco da Gama",
       "odds": {
-        "home": 6.4,
+        "home": 6.81,
         "draw": 4.8,
-        "away": 1.48
+        "away": 1.46
       },
       "prediction": {
         "homeExpectedGoals": 1.15,
@@ -151,14 +151,14 @@
       "leagueName": "Brazil Serie A",
       "dateRaw": "Wed 18/11",
       "dateIso": "2026-11-18T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "22:30",
       "homeTeam": "Coritiba",
       "awayTeam": "Santos",
       "odds": {
-        "home": 3.22,
-        "draw": 3.61,
-        "away": 2.2
+        "home": 3.25,
+        "draw": 3.65,
+        "away": 2.19
       },
       "prediction": {
         "homeExpectedGoals": 1.32,
@@ -222,14 +222,14 @@
       "leagueName": "Brazil Serie A",
       "dateRaw": "Wed 18/11",
       "dateIso": "2026-11-18T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "23:00",
       "homeTeam": "Clube do Remo",
       "awayTeam": "Chapecoense",
       "odds": {
-        "home": 1.71,
-        "draw": 4.06,
-        "away": 4.74
+        "home": 1.68,
+        "draw": 4.1,
+        "away": 5
       },
       "prediction": {
         "homeExpectedGoals": 1.96,
@@ -293,14 +293,14 @@
       "leagueName": "Brazil Serie A",
       "dateRaw": "Wed 18/11",
       "dateIso": "2026-11-18T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "23:30",
       "homeTeam": "Cruzeiro",
       "awayTeam": "Palmeiras",
       "odds": {
-        "home": 2.92,
-        "draw": 3.48,
-        "away": 2.42
+        "home": 2.95,
+        "draw": 3.55,
+        "away": 2.38
       },
       "prediction": {
         "homeExpectedGoals": 0.93,
@@ -364,14 +364,14 @@
       "leagueName": "Brazil Serie A",
       "dateRaw": "Wed 18/11",
       "dateIso": "2026-11-18T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "23:30",
       "homeTeam": "Flamengo",
       "awayTeam": "CA Paranaense",
       "odds": {
-        "home": 1.24,
-        "draw": 6.48,
-        "away": 12.1
+        "home": 1.25,
+        "draw": 6.4,
+        "away": 12
       },
       "prediction": {
         "homeExpectedGoals": 3.47,
@@ -435,14 +435,14 @@
       "leagueName": "Brazil Serie A",
       "dateRaw": "Thu 19/11",
       "dateIso": "2026-11-19T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "00:30",
       "homeTeam": "Corinthians",
       "awayTeam": "Botafogo ASF",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 1.86,
+        "draw": 3.75,
+        "away": 4.22
       },
       "prediction": {
         "homeExpectedGoals": 1.32,
@@ -506,14 +506,14 @@
       "leagueName": "Brazil Serie A",
       "dateRaw": "Thu 19/11",
       "dateIso": "2026-11-19T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "00:30",
       "homeTeam": "Gremio",
       "awayTeam": "Bahia",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 2.35,
+        "draw": 3.6,
+        "away": 2.95
       },
       "prediction": {
         "homeExpectedGoals": 1.44,
@@ -577,14 +577,14 @@
       "leagueName": "Brazil Serie A",
       "dateRaw": "Thu 19/11",
       "dateIso": "2026-11-19T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "22:30",
       "homeTeam": "Vasco da Gama",
       "awayTeam": "Internacional",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 1.69,
+        "draw": 3.92,
+        "away": 5.1
       },
       "prediction": {
         "homeExpectedGoals": 1.73,
@@ -648,14 +648,14 @@
       "leagueName": "Brazil Serie A",
       "dateRaw": "Thu 19/11",
       "dateIso": "2026-11-19T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "22:30",
       "homeTeam": "Vitoria",
       "awayTeam": "Red Bull Bragantino",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 2.72,
+        "draw": 3.48,
+        "away": 2.58
       },
       "prediction": {
         "homeExpectedGoals": 0.98,
@@ -718,8 +718,8 @@
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Fri 20/11",
-      "dateIso": "2026-11-13T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-20T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "00:30",
       "homeTeam": "Sao Paulo",
       "awayTeam": "Fluminense",
@@ -790,7 +790,7 @@
       "leagueName": "Brazil Serie A",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "19:30",
       "homeTeam": "Palmeiras",
       "awayTeam": "Flamengo",
@@ -861,7 +861,7 @@
       "leagueName": "Brazil Serie A",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "20:30",
       "homeTeam": "Bahia",
       "awayTeam": "Coritiba",
@@ -932,7 +932,7 @@
       "leagueName": "Brazil Serie A",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "00:00",
       "homeTeam": "Chapecoense",
       "awayTeam": "Cruzeiro",
@@ -1003,7 +1003,7 @@
       "leagueName": "Brazil Serie A",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "19:00",
       "homeTeam": "CA Paranaense",
       "awayTeam": "Clube do Remo",
@@ -1075,7 +1075,7 @@
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Fri 06-Nov-2026",
-      "dateIso": "2026-11-13T12:00:00.000Z",
+      "dateIso": "2026-11-20T12:00:00.000Z",
       "daysAgo": 0,
       "time": "23:00",
       "homeTeam": "Vitoria",
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.322
         },
         "matchFingerprint": "76_vitoria_fluminense_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-13T14:20:36.223Z",
-        "auditHash": "SHA256-IMMUTABLE-262A0430-2026-11-13",
+        "lockedAt": "2026-11-14T13:16:02.598Z",
+        "auditHash": "SHA256-IMMUTABLE-BCC4D59-2026-11-14",
         "isImmutable": true
       },
       "evaluation": {
@@ -1129,7 +1129,7 @@
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Fri 06-Nov-2026",
-      "dateIso": "2026-11-13T12:00:00.000Z",
+      "dateIso": "2026-11-20T12:00:00.000Z",
       "daysAgo": 0,
       "time": "00:30",
       "homeTeam": "Cruzeiro",
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.648
         },
         "matchFingerprint": "76_cruzeiro_bahia_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-13T14:20:36.223Z",
-        "auditHash": "SHA256-IMMUTABLE-2BB0F27B-2026-11-13",
+        "lockedAt": "2026-11-14T13:16:02.598Z",
+        "auditHash": "SHA256-IMMUTABLE-5DA74404-2026-11-14",
         "isImmutable": true
       },
       "evaluation": {
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.932
         },
         "matchFingerprint": "76_palmeiras_clube do remo_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-13T14:20:36.223Z",
-        "auditHash": "SHA256-IMMUTABLE-73E4F259-2026-11-13",
+        "lockedAt": "2026-11-14T13:16:02.598Z",
+        "auditHash": "SHA256-IMMUTABLE-41EEA0D0-2026-11-14",
         "isImmutable": true
       },
       "evaluation": {
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.486
         },
         "matchFingerprint": "76_botafogo asf_atletico mg_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-13T14:20:36.224Z",
-        "auditHash": "SHA256-IMMUTABLE-72B785AA-2026-11-13",
+        "lockedAt": "2026-11-14T13:16:02.598Z",
+        "auditHash": "SHA256-IMMUTABLE-40C13440-2026-11-14",
         "isImmutable": true
       },
       "evaluation": {
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.684
         },
         "matchFingerprint": "76_sao paulo_corinthians_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-13T14:20:36.224Z",
-        "auditHash": "SHA256-IMMUTABLE-5FC345D7-2026-11-13",
+        "lockedAt": "2026-11-14T13:16:02.598Z",
+        "auditHash": "SHA256-IMMUTABLE-6E4668BF-2026-11-14",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.744
         },
         "matchFingerprint": "76_ca paranaense_vasco da gama_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-13T14:20:36.224Z",
-        "auditHash": "SHA256-IMMUTABLE-27D539D-2026-11-13",
+        "lockedAt": "2026-11-14T13:16:02.598Z",
+        "auditHash": "SHA256-IMMUTABLE-3473A507-2026-11-14",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.916
         },
         "matchFingerprint": "76_flamengo_gremio_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-13T14:20:36.224Z",
-        "auditHash": "SHA256-IMMUTABLE-58BD3641-2026-11-13",
+        "lockedAt": "2026-11-14T13:16:02.598Z",
+        "auditHash": "SHA256-IMMUTABLE-754C7855-2026-11-14",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.581
         },
         "matchFingerprint": "76_internacional_coritiba_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-13T14:20:36.224Z",
-        "auditHash": "SHA256-IMMUTABLE-7E795E1A-2026-11-13",
+        "lockedAt": "2026-11-14T13:16:02.599Z",
+        "auditHash": "SHA256-IMMUTABLE-4F90505D-2026-11-14",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.36
         },
         "matchFingerprint": "76_chapecoense_mirassol_Tue 03-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-13T14:20:36.224Z",
-        "auditHash": "SHA256-IMMUTABLE-5D9B55DA-2026-11-13",
+        "lockedAt": "2026-11-14T13:16:02.599Z",
+        "auditHash": "SHA256-IMMUTABLE-2BA50451-2026-11-14",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.615
         },
         "matchFingerprint": "76_red bull bragantino_santos_Mon 02-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-13T14:20:36.224Z",
-        "auditHash": "SHA256-IMMUTABLE-267E1FC1-2026-11-13",
+        "lockedAt": "2026-11-14T13:16:02.599Z",
+        "auditHash": "SHA256-IMMUTABLE-B7831C8-2026-11-14",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.647
         },
         "matchFingerprint": "76_coritiba_vitoria_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-13T14:20:36.224Z",
-        "auditHash": "SHA256-IMMUTABLE-35C113E7-2026-11-13",
+        "lockedAt": "2026-11-14T13:16:02.599Z",
+        "auditHash": "SHA256-IMMUTABLE-67B76570-2026-11-14",
         "isImmutable": true
       },
       "evaluation": {
@@ -1669,7 +1669,7 @@
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Fri 30-Oct-2026",
-      "dateIso": "2026-11-13T12:00:00.000Z",
+      "dateIso": "2026-11-20T12:00:00.000Z",
       "daysAgo": 0,
       "time": "23:00",
       "homeTeam": "Corinthians",
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.574
         },
         "matchFingerprint": "76_corinthians_mirassol_Fri 30-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-13T14:20:36.224Z",
-        "auditHash": "SHA256-IMMUTABLE-7CA4942F-2026-11-13",
+        "lockedAt": "2026-11-14T13:16:02.599Z",
+        "auditHash": "SHA256-IMMUTABLE-51651A48-2026-11-14",
         "isImmutable": true
       },
       "evaluation": {
@@ -1723,7 +1723,7 @@
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Fri 30-Oct-2026",
-      "dateIso": "2026-11-13T12:00:00.000Z",
+      "dateIso": "2026-11-20T12:00:00.000Z",
       "daysAgo": 0,
       "time": "00:30",
       "homeTeam": "Gremio",
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.368
         },
         "matchFingerprint": "76_gremio_ca paranaense_Fri 30-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-13T14:20:36.224Z",
-        "auditHash": "SHA256-IMMUTABLE-75A725D-2026-11-13",
+        "lockedAt": "2026-11-14T13:16:02.599Z",
+        "auditHash": "SHA256-IMMUTABLE-3950C3E6-2026-11-14",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.196
         },
         "matchFingerprint": "76_vasco da gama_flamengo_Thu 29-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-13T14:20:36.224Z",
-        "auditHash": "SHA256-IMMUTABLE-59DD9BB9-2026-11-13",
+        "lockedAt": "2026-11-14T13:16:02.599Z",
+        "auditHash": "SHA256-IMMUTABLE-742C12BE-2026-11-14",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.51
         },
         "matchFingerprint": "76_atletico mg_cruzeiro_Thu 29-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-13T14:20:36.224Z",
-        "auditHash": "SHA256-IMMUTABLE-42AE885C-2026-11-13",
+        "lockedAt": "2026-11-14T13:16:02.599Z",
+        "auditHash": "SHA256-IMMUTABLE-10B836D3-2026-11-14",
         "isImmutable": true
       },
       "evaluation": {
