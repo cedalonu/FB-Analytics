@@ -1,15 +1,15 @@
 {
   "leagueId": "2",
   "leagueName": "Championship",
-  "timestamp": "2026-11-14T13:15:36.816Z",
+  "timestamp": "2026-11-15T13:43:40.929Z",
   "fixtures": [
     {
       "id": "fix_2_1_Millwall",
       "leagueId": "2",
       "leagueName": "Championship",
       "dateRaw": "Sat 21/11",
-      "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-21T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "12:30",
       "homeTeam": "Millwall",
       "awayTeam": "QPR",
@@ -79,8 +79,8 @@
       "leagueId": "2",
       "leagueName": "Championship",
       "dateRaw": "Sat 21/11",
-      "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-21T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "12:30",
       "homeTeam": "Norwich",
       "awayTeam": "Cardiff",
@@ -150,8 +150,8 @@
       "leagueId": "2",
       "leagueName": "Championship",
       "dateRaw": "Sat 21/11",
-      "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-21T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "12:30",
       "homeTeam": "Southampton",
       "awayTeam": "Derby",
@@ -221,8 +221,8 @@
       "leagueId": "2",
       "leagueName": "Championship",
       "dateRaw": "Sat 21/11",
-      "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-21T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "15:00",
       "homeTeam": "Bolton",
       "awayTeam": "Portsmouth",
@@ -292,8 +292,8 @@
       "leagueId": "2",
       "leagueName": "Championship",
       "dateRaw": "Sat 21/11",
-      "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-21T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "15:00",
       "homeTeam": "Lincoln City",
       "awayTeam": "Wrexham",
@@ -363,8 +363,8 @@
       "leagueId": "2",
       "leagueName": "Championship",
       "dateRaw": "Sat 21/11",
-      "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-21T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "15:00",
       "homeTeam": "Middlesbrough",
       "awayTeam": "Bristol City",
@@ -434,8 +434,8 @@
       "leagueId": "2",
       "leagueName": "Championship",
       "dateRaw": "Sat 21/11",
-      "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-21T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "15:00",
       "homeTeam": "Sheffield Utd",
       "awayTeam": "Watford",
@@ -505,8 +505,8 @@
       "leagueId": "2",
       "leagueName": "Championship",
       "dateRaw": "Sat 21/11",
-      "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-21T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "15:00",
       "homeTeam": "Stoke",
       "awayTeam": "Birmingham",
@@ -576,8 +576,8 @@
       "leagueId": "2",
       "leagueName": "Championship",
       "dateRaw": "Sat 21/11",
-      "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-21T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "15:00",
       "homeTeam": "Swansea",
       "awayTeam": "West Brom",
@@ -647,8 +647,8 @@
       "leagueId": "2",
       "leagueName": "Championship",
       "dateRaw": "Sat 21/11",
-      "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-21T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "15:00",
       "homeTeam": "West Ham",
       "awayTeam": "Preston",
@@ -718,8 +718,8 @@
       "leagueId": "2",
       "leagueName": "Championship",
       "dateRaw": "Sat 21/11",
-      "dateIso": "2026-11-14T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-21T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "15:00",
       "homeTeam": "Wolverhampton",
       "awayTeam": "Charlton",
@@ -790,7 +790,7 @@
       "leagueName": "Championship",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "12:00",
       "homeTeam": "Burnley",
       "awayTeam": "Blackburn",
@@ -861,7 +861,7 @@
       "leagueName": "Championship",
       "dateRaw": "Tue 24/11",
       "dateIso": "2026-11-17T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "19:45",
       "homeTeam": "Bristol City",
       "awayTeam": "Wrexham",
@@ -932,7 +932,7 @@
       "leagueName": "Championship",
       "dateRaw": "Tue 24/11",
       "dateIso": "2026-11-17T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "19:45",
       "homeTeam": "Cardiff",
       "awayTeam": "Preston",
@@ -1003,7 +1003,7 @@
       "leagueName": "Championship",
       "dateRaw": "Tue 24/11",
       "dateIso": "2026-11-17T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "19:45",
       "homeTeam": "Charlton",
       "awayTeam": "Lincoln City",
@@ -1075,7 +1075,7 @@
       "leagueId": "2",
       "leagueName": "Championship",
       "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-14T12:00:00.000Z",
+      "dateIso": "2026-11-21T12:00:00.000Z",
       "daysAgo": 0,
       "time": "15:00",
       "homeTeam": "Birmingham",
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.697
         },
         "matchFingerprint": "2_birmingham_swansea_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-14T13:15:36.812Z",
-        "auditHash": "SHA256-IMMUTABLE-69F64005-2026-11-14",
+        "lockedAt": "2026-11-15T13:43:40.927Z",
+        "auditHash": "SHA256-IMMUTABLE-311DC027-2026-11-15",
         "isImmutable": true
       },
       "evaluation": {
@@ -1129,7 +1129,7 @@
       "leagueId": "2",
       "leagueName": "Championship",
       "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-14T12:00:00.000Z",
+      "dateIso": "2026-11-21T12:00:00.000Z",
       "daysAgo": 0,
       "time": "15:00",
       "homeTeam": "Blackburn",
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.481
         },
         "matchFingerprint": "2_blackburn_west ham_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-14T13:15:36.812Z",
-        "auditHash": "SHA256-IMMUTABLE-6EDB278F-2026-11-14",
+        "lockedAt": "2026-11-15T13:43:40.928Z",
+        "auditHash": "SHA256-IMMUTABLE-3602A792-2026-11-15",
         "isImmutable": true
       },
       "evaluation": {
@@ -1183,7 +1183,7 @@
       "leagueId": "2",
       "leagueName": "Championship",
       "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-14T12:00:00.000Z",
+      "dateIso": "2026-11-21T12:00:00.000Z",
       "daysAgo": 0,
       "time": "15:00",
       "homeTeam": "Cardiff",
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.752
         },
         "matchFingerprint": "2_cardiff_burnley_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-14T13:15:36.812Z",
-        "auditHash": "SHA256-IMMUTABLE-37F8DE41-2026-11-14",
+        "lockedAt": "2026-11-15T13:43:40.928Z",
+        "auditHash": "SHA256-IMMUTABLE-DFA1BC-2026-11-15",
         "isImmutable": true
       },
       "evaluation": {
@@ -1237,7 +1237,7 @@
       "leagueId": "2",
       "leagueName": "Championship",
       "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-14T12:00:00.000Z",
+      "dateIso": "2026-11-21T12:00:00.000Z",
       "daysAgo": 0,
       "time": "15:00",
       "homeTeam": "Charlton",
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.429
         },
         "matchFingerprint": "2_charlton_sheffield utd_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-14T13:15:36.813Z",
-        "auditHash": "SHA256-IMMUTABLE-AA27086-2026-11-14",
+        "lockedAt": "2026-11-15T13:43:40.928Z",
+        "auditHash": "SHA256-IMMUTABLE-437AF064-2026-11-15",
         "isImmutable": true
       },
       "evaluation": {
@@ -1291,7 +1291,7 @@
       "leagueId": "2",
       "leagueName": "Championship",
       "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-14T12:00:00.000Z",
+      "dateIso": "2026-11-21T12:00:00.000Z",
       "daysAgo": 0,
       "time": "15:00",
       "homeTeam": "Preston",
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.195
         },
         "matchFingerprint": "2_preston_southampton_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-14T13:15:36.813Z",
-        "auditHash": "SHA256-IMMUTABLE-254A93E3-2026-11-14",
+        "lockedAt": "2026-11-15T13:43:40.928Z",
+        "auditHash": "SHA256-IMMUTABLE-138DEBFB-2026-11-15",
         "isImmutable": true
       },
       "evaluation": {
@@ -1345,7 +1345,7 @@
       "leagueId": "2",
       "leagueName": "Championship",
       "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-14T12:00:00.000Z",
+      "dateIso": "2026-11-21T12:00:00.000Z",
       "daysAgo": 0,
       "time": "15:00",
       "homeTeam": "QPR",
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.805
         },
         "matchFingerprint": "2_qpr_lincoln city_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-14T13:15:36.813Z",
-        "auditHash": "SHA256-IMMUTABLE-476D2F09-2026-11-14",
+        "lockedAt": "2026-11-15T13:43:40.928Z",
+        "auditHash": "SHA256-IMMUTABLE-E94AF2B-2026-11-15",
         "isImmutable": true
       },
       "evaluation": {
@@ -1399,7 +1399,7 @@
       "leagueId": "2",
       "leagueName": "Championship",
       "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-14T12:00:00.000Z",
+      "dateIso": "2026-11-21T12:00:00.000Z",
       "daysAgo": 0,
       "time": "15:00",
       "homeTeam": "Watford",
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.25
         },
         "matchFingerprint": "2_watford_middlesbrough_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-14T13:15:36.813Z",
-        "auditHash": "SHA256-IMMUTABLE-7A857960-2026-11-14",
+        "lockedAt": "2026-11-15T13:43:40.928Z",
+        "auditHash": "SHA256-IMMUTABLE-4CA206C2-2026-11-15",
         "isImmutable": true
       },
       "evaluation": {
@@ -1453,7 +1453,7 @@
       "leagueId": "2",
       "leagueName": "Championship",
       "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-14T12:00:00.000Z",
+      "dateIso": "2026-11-21T12:00:00.000Z",
       "daysAgo": 0,
       "time": "15:00",
       "homeTeam": "West Brom",
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.787
         },
         "matchFingerprint": "2_west brom_millwall_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-14T13:15:36.813Z",
-        "auditHash": "SHA256-IMMUTABLE-3EC9270E-2026-11-14",
+        "lockedAt": "2026-11-15T13:43:40.928Z",
+        "auditHash": "SHA256-IMMUTABLE-5F0A730-2026-11-15",
         "isImmutable": true
       },
       "evaluation": {
@@ -1507,7 +1507,7 @@
       "leagueId": "2",
       "leagueName": "Championship",
       "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-14T12:00:00.000Z",
+      "dateIso": "2026-11-21T12:00:00.000Z",
       "daysAgo": 0,
       "time": "12:30",
       "homeTeam": "Bristol City",
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.458
         },
         "matchFingerprint": "2_bristol city_norwich_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-14T13:15:36.813Z",
-        "auditHash": "SHA256-IMMUTABLE-623A583B-2026-11-14",
+        "lockedAt": "2026-11-15T13:43:40.928Z",
+        "auditHash": "SHA256-IMMUTABLE-2961D85D-2026-11-15",
         "isImmutable": true
       },
       "evaluation": {
@@ -1561,7 +1561,7 @@
       "leagueId": "2",
       "leagueName": "Championship",
       "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-14T12:00:00.000Z",
+      "dateIso": "2026-11-21T12:00:00.000Z",
       "daysAgo": 0,
       "time": "12:30",
       "homeTeam": "Portsmouth",
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.444
         },
         "matchFingerprint": "2_portsmouth_stoke_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-14T13:15:36.813Z",
-        "auditHash": "SHA256-IMMUTABLE-127CE67B-2026-11-14",
+        "lockedAt": "2026-11-15T13:43:40.928Z",
+        "auditHash": "SHA256-IMMUTABLE-265B9963-2026-11-15",
         "isImmutable": true
       },
       "evaluation": {
@@ -1615,7 +1615,7 @@
       "leagueId": "2",
       "leagueName": "Championship",
       "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-14T12:00:00.000Z",
+      "dateIso": "2026-11-21T12:00:00.000Z",
       "daysAgo": 0,
       "time": "12:30",
       "homeTeam": "Wrexham",
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.372
         },
         "matchFingerprint": "2_wrexham_wolverhampton_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-14T13:15:36.813Z",
-        "auditHash": "SHA256-IMMUTABLE-5B6EF2F8-2026-11-14",
+        "lockedAt": "2026-11-15T13:43:40.928Z",
+        "auditHash": "SHA256-IMMUTABLE-6BB88D2A-2026-11-15",
         "isImmutable": true
       },
       "evaluation": {
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.447
         },
         "matchFingerprint": "2_derby_bolton_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-14T13:15:36.813Z",
-        "auditHash": "SHA256-IMMUTABLE-454F9B90-2026-11-14",
+        "lockedAt": "2026-11-15T13:43:40.928Z",
+        "auditHash": "SHA256-IMMUTABLE-7E281B6E-2026-11-15",
         "isImmutable": true
       },
       "evaluation": {
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.338
         },
         "matchFingerprint": "2_bristol city_wolverhampton_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-14T13:15:36.814Z",
-        "auditHash": "SHA256-IMMUTABLE-47E05C20-2026-11-14",
+        "lockedAt": "2026-11-15T13:43:40.928Z",
+        "auditHash": "SHA256-IMMUTABLE-7F472421-2026-11-15",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.443
         },
         "matchFingerprint": "2_cardiff_west ham_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-14T13:15:36.814Z",
-        "auditHash": "SHA256-IMMUTABLE-940F4E4-2026-11-14",
+        "lockedAt": "2026-11-15T13:43:40.928Z",
+        "auditHash": "SHA256-IMMUTABLE-421974A3-2026-11-15",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.333
         },
         "matchFingerprint": "2_wrexham_middlesbrough_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-14T13:15:36.814Z",
-        "auditHash": "SHA256-IMMUTABLE-2103FED6-2026-11-14",
+        "lockedAt": "2026-11-15T13:43:40.928Z",
+        "auditHash": "SHA256-IMMUTABLE-59DC7E95-2026-11-15",
         "isImmutable": true
       },
       "evaluation": {
