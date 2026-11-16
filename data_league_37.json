@@ -1,7 +1,7 @@
 {
   "leagueId": "37",
   "leagueName": "Primeira Liga",
-  "timestamp": "2026-11-15T13:43:48.561Z",
+  "timestamp": "2026-11-16T15:20:20.631Z",
   "fixtures": [
     {
       "id": "fix_37_1_Maritimo",
@@ -9,7 +9,7 @@
       "leagueName": "Primeira Liga",
       "dateRaw": "Fri 27/11",
       "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "20:15",
       "homeTeam": "Maritimo",
       "awayTeam": "CD Nacional",
@@ -80,7 +80,7 @@
       "leagueName": "Primeira Liga",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "15:30",
       "homeTeam": "Arouca",
       "awayTeam": "Rio Ave",
@@ -151,7 +151,7 @@
       "leagueName": "Primeira Liga",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "15:30",
       "homeTeam": "Moreirense",
       "awayTeam": "Santa Clara",
@@ -222,7 +222,7 @@
       "leagueName": "Primeira Liga",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "18:00",
       "homeTeam": "Academico de Viseu",
       "awayTeam": "Alverca",
@@ -293,7 +293,7 @@
       "leagueName": "Primeira Liga",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "20:30",
       "homeTeam": "Vitoria Guimaraes",
       "awayTeam": "Estrela da Amadora",
@@ -363,8 +363,8 @@
       "leagueId": "37",
       "leagueName": "Primeira Liga",
       "dateRaw": "Sun 29/11",
-      "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-22T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "18:00",
       "homeTeam": "Gil Vicente",
       "awayTeam": "Estoril-Praia",
@@ -434,8 +434,8 @@
       "leagueId": "37",
       "leagueName": "Primeira Liga",
       "dateRaw": "Sun 29/11",
-      "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-22T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "20:30",
       "homeTeam": "Porto",
       "awayTeam": "Sporting Lisbon",
@@ -506,7 +506,7 @@
       "leagueName": "Primeira Liga",
       "dateRaw": "Mon 30/11",
       "dateIso": "2026-11-16T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "20:15",
       "homeTeam": "Benfica",
       "awayTeam": "Famalicao",
@@ -577,7 +577,7 @@
       "leagueName": "Primeira Liga",
       "dateRaw": "Mon 30/11",
       "dateIso": "2026-11-16T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "20:15",
       "homeTeam": "Casa Pia",
       "awayTeam": "Braga",
@@ -648,7 +648,7 @@
       "leagueName": "Primeira Liga",
       "dateRaw": "Fri 04/12",
       "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "20:15",
       "homeTeam": "Sporting Lisbon",
       "awayTeam": "Maritimo",
@@ -719,7 +719,7 @@
       "leagueName": "Primeira Liga",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "15:30",
       "homeTeam": "CD Nacional",
       "awayTeam": "Benfica",
@@ -790,7 +790,7 @@
       "leagueName": "Primeira Liga",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "18:00",
       "homeTeam": "Santa Clara",
       "awayTeam": "Porto",
@@ -861,7 +861,7 @@
       "leagueName": "Primeira Liga",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "20:30",
       "homeTeam": "Braga",
       "awayTeam": "Arouca",
@@ -931,8 +931,8 @@
       "leagueId": "37",
       "leagueName": "Primeira Liga",
       "dateRaw": "Sun 06/12",
-      "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-22T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "15:30",
       "homeTeam": "Estrela da Amadora",
       "awayTeam": "Gil Vicente",
@@ -1002,8 +1002,8 @@
       "leagueId": "37",
       "leagueName": "Primeira Liga",
       "dateRaw": "Sun 06/12",
-      "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-22T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "15:30",
       "homeTeam": "Rio Ave",
       "awayTeam": "Casa Pia",
@@ -1075,7 +1075,7 @@
       "leagueId": "37",
       "leagueName": "Primeira Liga",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "20:30",
       "homeTeam": "Estrela da Amadora",
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.255
         },
         "matchFingerprint": "37_estrela da amadora_benfica_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:48.560Z",
-        "auditHash": "SHA256-IMMUTABLE-30A158F3-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:20.629Z",
+        "auditHash": "SHA256-IMMUTABLE-1BCA57C3-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1129,7 +1129,7 @@
       "leagueId": "37",
       "leagueName": "Primeira Liga",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "20:30",
       "homeTeam": "Rio Ave",
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.363
         },
         "matchFingerprint": "37_rio ave_braga_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:48.560Z",
-        "auditHash": "SHA256-IMMUTABLE-605CBB6A-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:20.629Z",
+        "auditHash": "SHA256-IMMUTABLE-13F10AB4-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1183,7 +1183,7 @@
       "leagueId": "37",
       "leagueName": "Primeira Liga",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "18:00",
       "homeTeam": "Vitoria Guimaraes",
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.203
         },
         "matchFingerprint": "37_vitoria guimaraes_porto_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:48.560Z",
-        "auditHash": "SHA256-IMMUTABLE-4B396E82-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:20.629Z",
+        "auditHash": "SHA256-IMMUTABLE-1324234-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1237,7 +1237,7 @@
       "leagueId": "37",
       "leagueName": "Primeira Liga",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "15:30",
       "homeTeam": "CD Nacional",
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.402
         },
         "matchFingerprint": "37_cd nacional_academico de viseu_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:48.560Z",
-        "auditHash": "SHA256-IMMUTABLE-34CC903-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:20.629Z",
+        "auditHash": "SHA256-IMMUTABLE-491EE7B3-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1291,7 +1291,7 @@
       "leagueId": "37",
       "leagueName": "Primeira Liga",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "15:30",
       "homeTeam": "Santa Clara",
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.664
         },
         "matchFingerprint": "37_santa clara_gil vicente_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:48.560Z",
-        "auditHash": "SHA256-IMMUTABLE-59947026-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:20.629Z",
+        "auditHash": "SHA256-IMMUTABLE-D28BF70-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.779
         },
         "matchFingerprint": "37_sporting lisbon_moreirense_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:48.560Z",
-        "auditHash": "SHA256-IMMUTABLE-2893890A-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:20.629Z",
+        "auditHash": "SHA256-IMMUTABLE-74FF39C0-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.708
         },
         "matchFingerprint": "37_alverca_casa pia_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:48.560Z",
-        "auditHash": "SHA256-IMMUTABLE-704C765D-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:20.629Z",
+        "auditHash": "SHA256-IMMUTABLE-23E0C5A7-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.47
         },
         "matchFingerprint": "37_famalicao_arouca_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:48.560Z",
-        "auditHash": "SHA256-IMMUTABLE-6D934BBF-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:20.629Z",
+        "auditHash": "SHA256-IMMUTABLE-4601038B-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.838
         },
         "matchFingerprint": "37_benfica_alverca_Mon 02-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:48.560Z",
-        "auditHash": "SHA256-IMMUTABLE-76E912EF-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:20.629Z",
+        "auditHash": "SHA256-IMMUTABLE-2A7D6239-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.727
         },
         "matchFingerprint": "37_gil vicente_vitoria guimaraes_Mon 02-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:48.560Z",
-        "auditHash": "SHA256-IMMUTABLE-18144918-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:20.629Z",
+        "auditHash": "SHA256-IMMUTABLE-3457679E-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1615,7 +1615,7 @@
       "leagueId": "37",
       "leagueName": "Primeira Liga",
       "dateRaw": "Sun 01-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "20:30",
       "homeTeam": "Braga",
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.649
         },
         "matchFingerprint": "37_braga_famalicao_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:48.560Z",
-        "auditHash": "SHA256-IMMUTABLE-5F615F5F-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:20.629Z",
+        "auditHash": "SHA256-IMMUTABLE-5432EFEB-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1669,7 +1669,7 @@
       "leagueId": "37",
       "leagueName": "Primeira Liga",
       "dateRaw": "Sun 01-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "18:00",
       "homeTeam": "Academico de Viseu",
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.816
         },
         "matchFingerprint": "37_academico de viseu_rio ave_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:48.560Z",
-        "auditHash": "SHA256-IMMUTABLE-26510718-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:20.629Z",
+        "auditHash": "SHA256-IMMUTABLE-261AA99E-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1723,7 +1723,7 @@
       "leagueId": "37",
       "leagueName": "Primeira Liga",
       "dateRaw": "Sun 01-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "18:00",
       "homeTeam": "Maritimo",
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.312
         },
         "matchFingerprint": "37_maritimo_santa clara_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:48.560Z",
-        "auditHash": "SHA256-IMMUTABLE-7CFCE1E9-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:20.629Z",
+        "auditHash": "SHA256-IMMUTABLE-30913133-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1777,7 +1777,7 @@
       "leagueId": "37",
       "leagueName": "Primeira Liga",
       "dateRaw": "Sun 01-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "15:30",
       "homeTeam": "Arouca",
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.772
         },
         "matchFingerprint": "37_arouca_cd nacional_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:48.560Z",
-        "auditHash": "SHA256-IMMUTABLE-32FD1764-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:20.630Z",
+        "auditHash": "SHA256-IMMUTABLE-196E9BFC-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.939
         },
         "matchFingerprint": "37_porto_estoril-praia_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:48.560Z",
-        "auditHash": "SHA256-IMMUTABLE-1822B285-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:20.630Z",
+        "auditHash": "SHA256-IMMUTABLE-648E65E5-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {

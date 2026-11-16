@@ -1,7 +1,7 @@
 {
   "leagueId": "31",
   "leagueName": "La Liga",
-  "timestamp": "2026-11-15T13:43:43.051Z",
+  "timestamp": "2026-11-16T15:20:06.788Z",
   "fixtures": [
     {
       "id": "fix_31_1_AthleticBilbao",
@@ -9,7 +9,7 @@
       "leagueName": "La Liga",
       "dateRaw": "Fri 20/11",
       "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "20:00",
       "homeTeam": "Athletic Bilbao",
       "awayTeam": "Espanyol",
@@ -80,14 +80,14 @@
       "leagueName": "La Liga",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "13:00",
       "homeTeam": "Alaves",
       "awayTeam": "Deportivo de La Coruna",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 2.19,
+        "draw": 3.47,
+        "away": 3.7
       },
       "prediction": {
         "homeExpectedGoals": 1.58,
@@ -151,14 +151,14 @@
       "leagueName": "La Liga",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "15:15",
       "homeTeam": "Rayo Vallecano",
       "awayTeam": "Valencia",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 2.07,
+        "draw": 3.6,
+        "away": 3.94
       },
       "prediction": {
         "homeExpectedGoals": 1.7,
@@ -222,14 +222,14 @@
       "leagueName": "La Liga",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "17:30",
       "homeTeam": "Sevilla",
       "awayTeam": "Real Betis",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 3.1,
+        "draw": 3.7,
+        "away": 2.36
       },
       "prediction": {
         "homeExpectedGoals": 0.92,
@@ -293,14 +293,14 @@
       "leagueName": "La Liga",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "20:00",
       "homeTeam": "Real Madrid",
       "awayTeam": "Celta de Vigo",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 1.24,
+        "draw": 7.06,
+        "away": 14.6
       },
       "prediction": {
         "homeExpectedGoals": 3.12,
@@ -363,8 +363,8 @@
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 22/11",
-      "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-22T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "13:00",
       "homeTeam": "Barcelona",
       "awayTeam": "Villarreal",
@@ -434,8 +434,8 @@
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 22/11",
-      "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-22T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "15:15",
       "homeTeam": "Racing Santander",
       "awayTeam": "Real Sociedad",
@@ -505,8 +505,8 @@
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 22/11",
-      "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-22T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "17:30",
       "homeTeam": "Osasuna",
       "awayTeam": "Malaga",
@@ -576,8 +576,8 @@
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 22/11",
-      "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-22T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "20:00",
       "homeTeam": "Getafe",
       "awayTeam": "Atletico Madrid",
@@ -648,7 +648,7 @@
       "leagueName": "La Liga",
       "dateRaw": "Mon 23/11",
       "dateIso": "2026-11-16T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "20:00",
       "homeTeam": "Levante",
       "awayTeam": "Elche",
@@ -719,7 +719,7 @@
       "leagueName": "La Liga",
       "dateRaw": "Fri 27/11",
       "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "20:00",
       "homeTeam": "Levante",
       "awayTeam": "Racing Santander",
@@ -790,7 +790,7 @@
       "leagueName": "La Liga",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "13:00",
       "homeTeam": "Real Betis",
       "awayTeam": "Rayo Vallecano",
@@ -861,7 +861,7 @@
       "leagueName": "La Liga",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "15:15",
       "homeTeam": "Malaga",
       "awayTeam": "Athletic Bilbao",
@@ -932,7 +932,7 @@
       "leagueName": "La Liga",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "17:30",
       "homeTeam": "Elche",
       "awayTeam": "Atletico Madrid",
@@ -1003,7 +1003,7 @@
       "leagueName": "La Liga",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "20:00",
       "homeTeam": "Real Madrid",
       "awayTeam": "Alaves",
@@ -1075,7 +1075,7 @@
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "20:00",
       "homeTeam": "Atletico Madrid",
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.433
         },
         "matchFingerprint": "31_atletico madrid_barcelona_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:43.050Z",
-        "auditHash": "SHA256-IMMUTABLE-63E525A2-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:06.785Z",
+        "auditHash": "SHA256-IMMUTABLE-594C82B0-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1129,7 +1129,7 @@
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "17:30",
       "homeTeam": "Celta de Vigo",
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.665
         },
         "matchFingerprint": "31_celta de vigo_levante_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:43.050Z",
-        "auditHash": "SHA256-IMMUTABLE-7DE2ACCC-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:06.786Z",
+        "auditHash": "SHA256-IMMUTABLE-7784B061-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1183,7 +1183,7 @@
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "17:30",
       "homeTeam": "Villarreal",
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.706
         },
         "matchFingerprint": "31_villarreal_getafe_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:43.050Z",
-        "auditHash": "SHA256-IMMUTABLE-4EA5678E-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:06.786Z",
+        "auditHash": "SHA256-IMMUTABLE-593E0A61-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1237,7 +1237,7 @@
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "15:15",
       "homeTeam": "Real Sociedad",
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.758
         },
         "matchFingerprint": "31_real sociedad_rayo vallecano_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:43.050Z",
-        "auditHash": "SHA256-IMMUTABLE-7D938A4-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:06.786Z",
+        "auditHash": "SHA256-IMMUTABLE-1271DB77-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1291,7 +1291,7 @@
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "13:00",
       "homeTeam": "Elche",
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.303
         },
         "matchFingerprint": "31_elche_real betis_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:43.050Z",
-        "auditHash": "SHA256-IMMUTABLE-5A92264B-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:06.786Z",
+        "auditHash": "SHA256-IMMUTABLE-4FF98378-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.182
         },
         "matchFingerprint": "31_valencia_real madrid_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:43.050Z",
-        "auditHash": "SHA256-IMMUTABLE-2EDF03BA-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:06.786Z",
+        "auditHash": "SHA256-IMMUTABLE-244660E7-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.434
         },
         "matchFingerprint": "31_osasuna_athletic bilbao_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:43.050Z",
-        "auditHash": "SHA256-IMMUTABLE-393AA243-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:06.786Z",
+        "auditHash": "SHA256-IMMUTABLE-43D34516-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.529
         },
         "matchFingerprint": "31_espanyol_deportivo de la coruna_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:43.050Z",
-        "auditHash": "SHA256-IMMUTABLE-37A04886-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:06.786Z",
+        "auditHash": "SHA256-IMMUTABLE-2D07A5B3-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.434
         },
         "matchFingerprint": "31_malaga_racing santander_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:43.050Z",
-        "auditHash": "SHA256-IMMUTABLE-1EA61AA1-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:06.786Z",
+        "auditHash": "SHA256-IMMUTABLE-140D77CE-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.675
         },
         "matchFingerprint": "31_sevilla_alaves_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:43.050Z",
-        "auditHash": "SHA256-IMMUTABLE-4D1D906-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:06.786Z",
+        "auditHash": "SHA256-IMMUTABLE-5C6C9CD-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.706
         },
         "matchFingerprint": "31_deportivo de la coruna_osasuna_Mon 02-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:43.050Z",
-        "auditHash": "SHA256-IMMUTABLE-5973E105-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:06.786Z",
+        "auditHash": "SHA256-IMMUTABLE-640C83D8-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1669,7 +1669,7 @@
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 01-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "20:00",
       "homeTeam": "Athletic Bilbao",
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.529
         },
         "matchFingerprint": "31_athletic bilbao_real sociedad_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:43.050Z",
-        "auditHash": "SHA256-IMMUTABLE-50793A01-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:06.786Z",
+        "auditHash": "SHA256-IMMUTABLE-5B11DCD4-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1723,7 +1723,7 @@
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 01-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "17:30",
       "homeTeam": "Elche",
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.633
         },
         "matchFingerprint": "31_elche_valencia_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:43.050Z",
-        "auditHash": "SHA256-IMMUTABLE-3E0CD1CC-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:06.786Z",
+        "auditHash": "SHA256-IMMUTABLE-33742EF9-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1777,7 +1777,7 @@
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 01-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "15:15",
       "homeTeam": "Racing Santander",
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.251
         },
         "matchFingerprint": "31_racing santander_real madrid_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:43.050Z",
-        "auditHash": "SHA256-IMMUTABLE-5F34BF6C-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:06.786Z",
+        "auditHash": "SHA256-IMMUTABLE-69CD623F-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1831,7 +1831,7 @@
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 01-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "13:00",
       "homeTeam": "Getafe",
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.443
         },
         "matchFingerprint": "31_getafe_sevilla_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:43.050Z",
-        "auditHash": "SHA256-IMMUTABLE-67E1C7C1-2026-11-15",
+        "lockedAt": "2026-11-16T15:20:06.786Z",
+        "auditHash": "SHA256-IMMUTABLE-727A6A94-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {

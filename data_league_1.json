@@ -1,7 +1,7 @@
 {
   "leagueId": "1",
   "leagueName": "Premier League",
-  "timestamp": "2026-11-15T13:43:40.285Z",
+  "timestamp": "2026-11-16T15:19:55.299Z",
   "fixtures": [
     {
       "id": "fix_1_1_ManCity",
@@ -9,14 +9,14 @@
       "leagueName": "Premier League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "12:30",
       "homeTeam": "Man City",
       "awayTeam": "Fulham",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 1.45,
+        "draw": 5.28,
+        "away": 7.39
       },
       "prediction": {
         "homeExpectedGoals": 1.88,
@@ -80,14 +80,14 @@
       "leagueName": "Premier League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "15:00",
       "homeTeam": "Aston Villa",
       "awayTeam": "Sunderland",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 1.81,
+        "draw": 4.07,
+        "away": 4.62
       },
       "prediction": {
         "homeExpectedGoals": 2.83,
@@ -151,14 +151,14 @@
       "leagueName": "Premier League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "15:00",
       "homeTeam": "Bournemouth",
       "awayTeam": "Nottingham Forest",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 2.09,
+        "draw": 3.78,
+        "away": 3.68
       },
       "prediction": {
         "homeExpectedGoals": 2.39,
@@ -222,14 +222,14 @@
       "leagueName": "Premier League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "15:00",
       "homeTeam": "Chelsea",
       "awayTeam": "Leeds",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 1.88,
+        "draw": 4.01,
+        "away": 4.26
       },
       "prediction": {
         "homeExpectedGoals": 2.13,
@@ -293,14 +293,14 @@
       "leagueName": "Premier League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "15:00",
       "homeTeam": "Coventry",
       "awayTeam": "Crystal Palace",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 2.44,
+        "draw": 3.8,
+        "away": 2.92
       },
       "prediction": {
         "homeExpectedGoals": 2.43,
@@ -364,14 +364,14 @@
       "leagueName": "Premier League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "15:00",
       "homeTeam": "Tottenham",
       "awayTeam": "Ipswich",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 1.6,
+        "draw": 4.62,
+        "away": 5.7
       },
       "prediction": {
         "homeExpectedGoals": 2.97,
@@ -435,14 +435,14 @@
       "leagueName": "Premier League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "17:30",
       "homeTeam": "Newcastle",
       "awayTeam": "Arsenal",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 5.65,
+        "draw": 4.42,
+        "away": 1.63
       },
       "prediction": {
         "homeExpectedGoals": 0.38,
@@ -505,8 +505,8 @@
       "leagueId": "1",
       "leagueName": "Premier League",
       "dateRaw": "Sun 22/11",
-      "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-22T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "14:00",
       "homeTeam": "Hull",
       "awayTeam": "Brighton",
@@ -576,8 +576,8 @@
       "leagueId": "1",
       "leagueName": "Premier League",
       "dateRaw": "Sun 22/11",
-      "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-22T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "16:30",
       "homeTeam": "Liverpool",
       "awayTeam": "Man Utd",
@@ -648,7 +648,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Mon 23/11",
       "dateIso": "2026-11-16T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "20:00",
       "homeTeam": "Brentford",
       "awayTeam": "Everton",
@@ -719,7 +719,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Fri 27/11",
       "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "20:00",
       "homeTeam": "Nottingham Forest",
       "awayTeam": "Chelsea",
@@ -790,7 +790,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "15:00",
       "homeTeam": "Leeds",
       "awayTeam": "Coventry",
@@ -861,7 +861,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "15:00",
       "homeTeam": "Man Utd",
       "awayTeam": "Brentford",
@@ -932,7 +932,7 @@
       "leagueName": "Premier League",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "17:30",
       "homeTeam": "Ipswich",
       "awayTeam": "Aston Villa",
@@ -1002,8 +1002,8 @@
       "leagueId": "1",
       "leagueName": "Premier League",
       "dateRaw": "Sun 29/11",
-      "dateIso": "2026-11-15T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-22T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "12:00",
       "homeTeam": "Everton",
       "awayTeam": "Liverpool",
@@ -1075,7 +1075,7 @@
       "leagueId": "1",
       "leagueName": "Premier League",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "16:30",
       "homeTeam": "Man Utd",
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.473
         },
         "matchFingerprint": "1_man utd_aston villa_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:40.283Z",
-        "auditHash": "SHA256-IMMUTABLE-6CE4000E-2026-11-15",
+        "lockedAt": "2026-11-16T15:19:55.297Z",
+        "auditHash": "SHA256-IMMUTABLE-297889CD-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1129,7 +1129,7 @@
       "leagueId": "1",
       "leagueName": "Premier League",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "14:00",
       "homeTeam": "Brighton",
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.765
         },
         "matchFingerprint": "1_brighton_brentford_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:40.283Z",
-        "auditHash": "SHA256-IMMUTABLE-2A3F670A-2026-11-15",
+        "lockedAt": "2026-11-16T15:19:55.297Z",
+        "auditHash": "SHA256-IMMUTABLE-6DAADD4B-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1183,7 +1183,7 @@
       "leagueId": "1",
       "leagueName": "Premier League",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "14:00",
       "homeTeam": "Crystal Palace",
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.291
         },
         "matchFingerprint": "1_crystal palace_liverpool_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:40.283Z",
-        "auditHash": "SHA256-IMMUTABLE-7F6081A8-2026-11-15",
+        "lockedAt": "2026-11-16T15:19:55.297Z",
+        "auditHash": "SHA256-IMMUTABLE-3D340817-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1237,7 +1237,7 @@
       "leagueId": "1",
       "leagueName": "Premier League",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "14:00",
       "homeTeam": "Ipswich",
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.47
         },
         "matchFingerprint": "1_ipswich_bournemouth_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:40.283Z",
-        "auditHash": "SHA256-IMMUTABLE-2312FE5-2026-11-15",
+        "lockedAt": "2026-11-16T15:19:55.297Z",
+        "auditHash": "SHA256-IMMUTABLE-459CA626-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1291,7 +1291,7 @@
       "leagueId": "1",
       "leagueName": "Premier League",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "14:00",
       "homeTeam": "Sunderland",
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.359
         },
         "matchFingerprint": "1_sunderland_chelsea_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:40.283Z",
-        "auditHash": "SHA256-IMMUTABLE-24915738-2026-11-15",
+        "lockedAt": "2026-11-16T15:19:55.297Z",
+        "auditHash": "SHA256-IMMUTABLE-1EDA1F09-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.316
         },
         "matchFingerprint": "1_nottingham forest_man city_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:40.283Z",
-        "auditHash": "SHA256-IMMUTABLE-243F963C-2026-11-15",
+        "lockedAt": "2026-11-16T15:19:55.297Z",
+        "auditHash": "SHA256-IMMUTABLE-1F2BE005-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.842
         },
         "matchFingerprint": "1_arsenal_hull_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:40.283Z",
-        "auditHash": "SHA256-IMMUTABLE-30E3FD9E-2026-11-15",
+        "lockedAt": "2026-11-16T15:19:55.297Z",
+        "auditHash": "SHA256-IMMUTABLE-128778A3-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.554
         },
         "matchFingerprint": "1_fulham_newcastle_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:40.283Z",
-        "auditHash": "SHA256-IMMUTABLE-7E1E29C-2026-11-15",
+        "lockedAt": "2026-11-16T15:19:55.297Z",
+        "auditHash": "SHA256-IMMUTABLE-3B8993A5-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.641
         },
         "matchFingerprint": "1_leeds_tottenham_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:40.283Z",
-        "auditHash": "SHA256-IMMUTABLE-5C0D033B-2026-11-15",
+        "lockedAt": "2026-11-16T15:19:55.298Z",
+        "auditHash": "SHA256-IMMUTABLE-18A18CDB-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.767
         },
         "matchFingerprint": "1_everton_coventry_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:40.283Z",
-        "auditHash": "SHA256-IMMUTABLE-7DBC9067-2026-11-15",
+        "lockedAt": "2026-11-16T15:19:55.298Z",
+        "auditHash": "SHA256-IMMUTABLE-3A511A07-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.484
         },
         "matchFingerprint": "1_newcastle_everton_Mon 02-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:40.283Z",
-        "auditHash": "SHA256-IMMUTABLE-3F9BB78B-2026-11-15",
+        "lockedAt": "2026-11-16T15:19:55.298Z",
+        "auditHash": "SHA256-IMMUTABLE-3CFBED5-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1669,7 +1669,7 @@
       "leagueId": "1",
       "leagueName": "Premier League",
       "dateRaw": "Sun 01-Nov-2026",
-      "dateIso": "2026-11-15T12:00:00.000Z",
+      "dateIso": "2026-11-22T12:00:00.000Z",
       "daysAgo": 0,
       "time": "16:30",
       "homeTeam": "Liverpool",
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.431
         },
         "matchFingerprint": "1_liverpool_arsenal_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:40.283Z",
-        "auditHash": "SHA256-IMMUTABLE-341172BE-2026-11-15",
+        "lockedAt": "2026-11-16T15:19:55.298Z",
+        "auditHash": "SHA256-IMMUTABLE-F5A03A2-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.652
         },
         "matchFingerprint": "1_aston villa_fulham_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:40.283Z",
-        "auditHash": "SHA256-IMMUTABLE-9FA4F3-2026-11-15",
+        "lockedAt": "2026-11-16T15:19:55.298Z",
+        "auditHash": "SHA256-IMMUTABLE-42CBD16D-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.745
         },
         "matchFingerprint": "1_tottenham_crystal palace_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:40.283Z",
-        "auditHash": "SHA256-IMMUTABLE-3DF5E279-2026-11-15",
+        "lockedAt": "2026-11-16T15:19:55.298Z",
+        "auditHash": "SHA256-IMMUTABLE-7E9EA727-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.616
         },
         "matchFingerprint": "1_bournemouth_leeds_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-15T13:43:40.283Z",
-        "auditHash": "SHA256-IMMUTABLE-35AE1957-2026-11-15",
+        "lockedAt": "2026-11-16T15:19:55.298Z",
+        "auditHash": "SHA256-IMMUTABLE-DBD5D09-2026-11-16",
         "isImmutable": true
       },
       "evaluation": {
