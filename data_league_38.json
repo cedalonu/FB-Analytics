@@ -1,7 +1,7 @@
 {
   "leagueId": "38",
   "leagueName": "Swiss Super League",
-  "timestamp": "2026-11-16T15:20:24.940Z",
+  "timestamp": "2026-11-17T15:44:52.484Z",
   "fixtures": [
     {
       "id": "fix_38_1_FCLugano",
@@ -9,14 +9,14 @@
       "leagueName": "Swiss Super League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "17:00",
       "homeTeam": "FC Lugano",
       "awayTeam": "Grasshopper Club",
       "odds": {
-        "home": 1.39,
-        "draw": 5.43,
-        "away": 6.69
+        "home": 1.4,
+        "draw": 5.4,
+        "away": 6.6
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
@@ -80,14 +80,14 @@
       "leagueName": "Swiss Super League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "17:00",
       "homeTeam": "Young Boys",
       "awayTeam": "Thun",
       "odds": {
         "home": 1.41,
-        "draw": 5.75,
-        "away": 5.83
+        "draw": 5.8,
+        "away": 5.8
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
@@ -151,14 +151,14 @@
       "leagueName": "Swiss Super League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "19:30",
       "homeTeam": "FC Sion",
       "awayTeam": "Servette FC",
       "odds": {
-        "home": 1.67,
-        "draw": 4.26,
-        "away": 4.6
+        "home": 1.69,
+        "draw": 4.2,
+        "away": 4.5
       },
       "prediction": {
         "homeExpectedGoals": 2.5,
@@ -222,14 +222,14 @@
       "leagueName": "Swiss Super League",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "13:00",
       "homeTeam": "FC Zurich",
       "awayTeam": "St Gallen",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 3.56,
+        "draw": 4.07,
+        "away": 1.92
       },
       "prediction": {
         "homeExpectedGoals": 2.75,
@@ -293,14 +293,14 @@
       "leagueName": "Swiss Super League",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "15:30",
       "homeTeam": "Basel",
       "awayTeam": "FC Luzern",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 2.24,
+        "draw": 4.09,
+        "away": 2.81
       },
       "prediction": {
         "homeExpectedGoals": 1.79,
@@ -364,14 +364,14 @@
       "leagueName": "Swiss Super League",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "15:30",
       "homeTeam": "Lausanne Sports",
       "awayTeam": "FC Vaduz",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 2.13,
+        "draw": 3.83,
+        "away": 3.16
       },
       "prediction": {
         "homeExpectedGoals": 1.85,
@@ -435,7 +435,7 @@
       "leagueName": "Swiss Super League",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "17:00",
       "homeTeam": "FC Vaduz",
       "awayTeam": "FC Zurich",
@@ -506,7 +506,7 @@
       "leagueName": "Swiss Super League",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "17:00",
       "homeTeam": "Grasshopper Club",
       "awayTeam": "Basel",
@@ -577,7 +577,7 @@
       "leagueName": "Swiss Super League",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "19:30",
       "homeTeam": "Servette FC",
       "awayTeam": "Lausanne Sports",
@@ -648,7 +648,7 @@
       "leagueName": "Swiss Super League",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "13:00",
       "homeTeam": "FC Luzern",
       "awayTeam": "FC Lugano",
@@ -719,7 +719,7 @@
       "leagueName": "Swiss Super League",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "15:30",
       "homeTeam": "FC Sion",
       "awayTeam": "Young Boys",
@@ -790,7 +790,7 @@
       "leagueName": "Swiss Super League",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "15:30",
       "homeTeam": "Thun",
       "awayTeam": "St Gallen",
@@ -861,7 +861,7 @@
       "leagueName": "Swiss Super League",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "17:00",
       "homeTeam": "FC Vaduz",
       "awayTeam": "Young Boys",
@@ -932,7 +932,7 @@
       "leagueName": "Swiss Super League",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "17:00",
       "homeTeam": "Thun",
       "awayTeam": "FC Luzern",
@@ -1003,7 +1003,7 @@
       "leagueName": "Swiss Super League",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "19:30",
       "homeTeam": "FC Zurich",
       "awayTeam": "FC Lugano",
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.554
         },
         "matchFingerprint": "38_servette fc_fc zurich_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-16T15:20:24.939Z",
-        "auditHash": "SHA256-IMMUTABLE-5567376D-2026-11-16",
+        "lockedAt": "2026-11-17T15:44:52.481Z",
+        "auditHash": "SHA256-IMMUTABLE-26A06273-2026-11-17",
         "isImmutable": true
       },
       "evaluation": {
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.552
         },
         "matchFingerprint": "38_thun_basel_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-16T15:20:24.939Z",
-        "auditHash": "SHA256-IMMUTABLE-543B7F15-2026-11-16",
+        "lockedAt": "2026-11-17T15:44:52.481Z",
+        "auditHash": "SHA256-IMMUTABLE-7CFDABF1-2026-11-17",
         "isImmutable": true
       },
       "evaluation": {
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.371
         },
         "matchFingerprint": "38_st gallen_fc lugano_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-16T15:20:24.939Z",
-        "auditHash": "SHA256-IMMUTABLE-314ECB7B-2026-11-16",
+        "lockedAt": "2026-11-17T15:44:52.481Z",
+        "auditHash": "SHA256-IMMUTABLE-6015A075-2026-11-17",
         "isImmutable": true
       },
       "evaluation": {
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.636
         },
         "matchFingerprint": "38_grasshopper club_lausanne sports_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-16T15:20:24.939Z",
-        "auditHash": "SHA256-IMMUTABLE-41657735-2026-11-16",
+        "lockedAt": "2026-11-17T15:44:52.481Z",
+        "auditHash": "SHA256-IMMUTABLE-702C4C2F-2026-11-17",
         "isImmutable": true
       },
       "evaluation": {
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.306
         },
         "matchFingerprint": "38_fc luzern_young boys_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-16T15:20:24.939Z",
-        "auditHash": "SHA256-IMMUTABLE-55C525E-2026-11-16",
+        "lockedAt": "2026-11-17T15:44:52.481Z",
+        "auditHash": "SHA256-IMMUTABLE-34232758-2026-11-17",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.319
         },
         "matchFingerprint": "38_fc vaduz_fc sion_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-16T15:20:24.939Z",
-        "auditHash": "SHA256-IMMUTABLE-36E1DE47-2026-11-16",
+        "lockedAt": "2026-11-17T15:44:52.481Z",
+        "auditHash": "SHA256-IMMUTABLE-81B094D-2026-11-17",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.852
         },
         "matchFingerprint": "38_fc lugano_basel_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-16T15:20:24.939Z",
-        "auditHash": "SHA256-IMMUTABLE-4805A1DF-2026-11-16",
+        "lockedAt": "2026-11-17T15:44:52.481Z",
+        "auditHash": "SHA256-IMMUTABLE-193ECCE5-2026-11-17",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.491
         },
         "matchFingerprint": "38_lausanne sports_thun_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-16T15:20:24.939Z",
-        "auditHash": "SHA256-IMMUTABLE-7C0C7490-2026-11-16",
+        "lockedAt": "2026-11-17T15:44:52.481Z",
+        "auditHash": "SHA256-IMMUTABLE-552CB676-2026-11-17",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.738
         },
         "matchFingerprint": "38_young boys_fc zurich_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-16T15:20:24.939Z",
-        "auditHash": "SHA256-IMMUTABLE-63041EF0-2026-11-16",
+        "lockedAt": "2026-11-17T15:44:52.481Z",
+        "auditHash": "SHA256-IMMUTABLE-6E350C16-2026-11-17",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.349
         },
         "matchFingerprint": "38_fc luzern_fc sion_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-16T15:20:24.939Z",
-        "auditHash": "SHA256-IMMUTABLE-24FBCA53-2026-11-16",
+        "lockedAt": "2026-11-17T15:44:52.481Z",
+        "auditHash": "SHA256-IMMUTABLE-53C29F4D-2026-11-17",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.574
         },
         "matchFingerprint": "38_grasshopper club_fc vaduz_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-16T15:20:24.939Z",
-        "auditHash": "SHA256-IMMUTABLE-1E2288A-2026-11-16",
+        "lockedAt": "2026-11-17T15:44:52.482Z",
+        "auditHash": "SHA256-IMMUTABLE-2CE4AC8F-2026-11-17",
         "isImmutable": true
       },
       "evaluation": {
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.657
         },
         "matchFingerprint": "38_st gallen_servette fc_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-16T15:20:24.939Z",
-        "auditHash": "SHA256-IMMUTABLE-78705988-2026-11-16",
+        "lockedAt": "2026-11-17T15:44:52.482Z",
+        "auditHash": "SHA256-IMMUTABLE-49A9846F-2026-11-17",
         "isImmutable": true
       },
       "evaluation": {
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.683
         },
         "matchFingerprint": "38_basel_grasshopper club_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-16T15:20:24.939Z",
-        "auditHash": "SHA256-IMMUTABLE-4524C38E-2026-11-16",
+        "lockedAt": "2026-11-17T15:44:52.482Z",
+        "auditHash": "SHA256-IMMUTABLE-165DEE75-2026-11-17",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.854
         },
         "matchFingerprint": "38_fc sion_lausanne sports_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-16T15:20:24.939Z",
-        "auditHash": "SHA256-IMMUTABLE-2A61BEF1-2026-11-16",
+        "lockedAt": "2026-11-17T15:44:52.482Z",
+        "auditHash": "SHA256-IMMUTABLE-4651628-2026-11-17",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.237
         },
         "matchFingerprint": "38_thun_fc lugano_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-16T15:20:24.939Z",
-        "auditHash": "SHA256-IMMUTABLE-726F17C2-2026-11-16",
+        "lockedAt": "2026-11-17T15:44:52.482Z",
+        "auditHash": "SHA256-IMMUTABLE-43A842A9-2026-11-17",
         "isImmutable": true
       },
       "evaluation": {
