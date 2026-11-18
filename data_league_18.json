@@ -1,7 +1,7 @@
 {
   "leagueId": "18",
   "leagueName": "Europa League",
-  "timestamp": "2026-11-17T15:44:47.284Z",
+  "timestamp": "2026-11-18T15:24:59.723Z",
   "fixtures": [
     {
       "id": "fix_18_1_Besiktas",
@@ -9,7 +9,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-19T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:45",
       "homeTeam": "Besiktas",
       "awayTeam": "Hapoel Be'er Sheva",
@@ -80,7 +80,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-19T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:45",
       "homeTeam": "Celta de Vigo",
       "awayTeam": "Bournemouth",
@@ -151,7 +151,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-19T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:45",
       "homeTeam": "Dinamo Zagreb",
       "awayTeam": "Leverkusen",
@@ -222,7 +222,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-19T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:45",
       "homeTeam": "Marseille",
       "awayTeam": "Levski Sofia",
@@ -293,7 +293,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-19T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:45",
       "homeTeam": "Olympiacos",
       "awayTeam": "AC Milan",
@@ -364,7 +364,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-19T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:45",
       "homeTeam": "Plzen",
       "awayTeam": "Benfica",
@@ -435,7 +435,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-19T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:45",
       "homeTeam": "Salzburg",
       "awayTeam": "Ararat Armenia",
@@ -506,7 +506,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-19T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:45",
       "homeTeam": "Union St Gilloise",
       "awayTeam": "Lech Poznan",
@@ -577,7 +577,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-19T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "20:00",
       "homeTeam": "Crystal Palace",
       "awayTeam": "Real Sociedad",
@@ -648,7 +648,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-19T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "20:00",
       "homeTeam": "Ferencvaros",
       "awayTeam": "NK Celje",
@@ -719,7 +719,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-19T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "20:00",
       "homeTeam": "Hoffenheim",
       "awayTeam": "Sturm Graz",
@@ -790,7 +790,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-19T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "20:00",
       "homeTeam": "Juventus",
       "awayTeam": "Omonia Nicosia",
@@ -861,7 +861,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-19T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "20:00",
       "homeTeam": "N.E.C.",
       "awayTeam": "Rennes",
@@ -932,7 +932,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-19T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "20:00",
       "homeTeam": "OFI Crete",
       "awayTeam": "Anderlecht",
@@ -1003,7 +1003,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-19T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "20:00",
       "homeTeam": "Olympique Lyonnais",
       "awayTeam": "Lillestrom",
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.406
         },
         "matchFingerprint": "18_az alkmaar_juventus_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:47.282Z",
-        "auditHash": "SHA256-IMMUTABLE-26B5611B-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:59.721Z",
+        "auditHash": "SHA256-IMMUTABLE-7D1ABD63-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.944
         },
         "matchFingerprint": "18_benfica_lech poznan_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:47.282Z",
-        "auditHash": "SHA256-IMMUTABLE-7B0C4D2A-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:59.721Z",
+        "auditHash": "SHA256-IMMUTABLE-2E8E568E-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.238
         },
         "matchFingerprint": "18_celta de vigo_union st gilloise_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:47.282Z",
-        "auditHash": "SHA256-IMMUTABLE-7E6EBD78-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:59.721Z",
+        "auditHash": "SHA256-IMMUTABLE-28096130-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.311
         },
         "matchFingerprint": "18_celtic_besiktas_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:47.282Z",
-        "auditHash": "SHA256-IMMUTABLE-6CA95F9-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:59.721Z",
+        "auditHash": "SHA256-IMMUTABLE-4F9AC64F-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.32
         },
         "matchFingerprint": "18_hapoel be'er sheva_ofi crete_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:47.282Z",
-        "auditHash": "SHA256-IMMUTABLE-1DC6A968-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:59.721Z",
+        "auditHash": "SHA256-IMMUTABLE-389EB2E0-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.863
         },
         "matchFingerprint": "18_leverkusen_marseille_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:47.282Z",
-        "auditHash": "SHA256-IMMUTABLE-4115171-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:59.721Z",
+        "auditHash": "SHA256-IMMUTABLE-52540AD7-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.602
         },
         "matchFingerprint": "18_sturm graz_nk celje_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:47.282Z",
-        "auditHash": "SHA256-IMMUTABLE-7F82D02D-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:59.721Z",
+        "auditHash": "SHA256-IMMUTABLE-291D73E5-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.577
         },
         "matchFingerprint": "18_sunderland_dinamo zagreb_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:47.282Z",
-        "auditHash": "SHA256-IMMUTABLE-25DA6554-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:59.721Z",
+        "auditHash": "SHA256-IMMUTABLE-308AF6F4-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.835
         },
         "matchFingerprint": "18_torreense_ararat armenia_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:47.282Z",
-        "auditHash": "SHA256-IMMUTABLE-7B8D626-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:59.721Z",
+        "auditHash": "SHA256-IMMUTABLE-4EAC8622-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.187
         },
         "matchFingerprint": "18_ac milan_ferencvaros_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:47.282Z",
-        "auditHash": "SHA256-IMMUTABLE-571C9AC3-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:59.722Z",
+        "auditHash": "SHA256-IMMUTABLE-527E0914-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.733
         },
         "matchFingerprint": "18_anderlecht_salzburg_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:47.282Z",
-        "auditHash": "SHA256-IMMUTABLE-4D1D1062-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:59.722Z",
+        "auditHash": "SHA256-IMMUTABLE-9484BC7-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.644
         },
         "matchFingerprint": "18_crystal palace_hoffenheim_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:47.282Z",
-        "auditHash": "SHA256-IMMUTABLE-CB69579-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:59.722Z",
+        "auditHash": "SHA256-IMMUTABLE-631BF1A2-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.796
         },
         "matchFingerprint": "18_levski sofia_jagiellonia bialystok_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:47.283Z",
-        "auditHash": "SHA256-IMMUTABLE-2C2F7E69-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:59.722Z",
+        "auditHash": "SHA256-IMMUTABLE-2A35DDDF-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.493
         },
         "matchFingerprint": "18_lillestrom_plzen_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:47.283Z",
-        "auditHash": "SHA256-IMMUTABLE-4304E87E-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:59.722Z",
+        "auditHash": "SHA256-IMMUTABLE-6695BB3A-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.653
         },
         "matchFingerprint": "18_n.e.c._omonia nicosia_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:47.283Z",
-        "auditHash": "SHA256-IMMUTABLE-2382E3D8-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:59.722Z",
+        "auditHash": "SHA256-IMMUTABLE-79E84020-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {

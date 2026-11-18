@@ -1,7 +1,7 @@
 {
   "leagueId": "77",
   "leagueName": "Liga MX",
-  "timestamp": "2026-11-17T15:44:55.479Z",
+  "timestamp": "2026-11-18T15:25:12.931Z",
   "fixtures": [
     {
       "id": "fix_77_1_Puebla",
@@ -9,7 +9,7 @@
       "leagueName": "Liga MX",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "01:00",
       "homeTeam": "Puebla",
       "awayTeam": "Atletico San Luis",
@@ -75,83 +75,12 @@
       "confidenceScore": 59
     },
     {
-      "id": "fix_77_2_ClubTijuana",
+      "id": "fix_77_2_FCJuarez",
       "leagueId": "77",
       "leagueName": "Liga MX",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 4,
-      "time": "03:00",
-      "homeTeam": "Club Tijuana",
-      "awayTeam": "Atlante FC",
-      "odds": {
-        "home": 1.65,
-        "draw": 4.2,
-        "away": 4.9
-      },
-      "prediction": {
-        "homeExpectedGoals": 2.62,
-        "awayExpectedGoals": 0.53,
-        "totalExpectedGoals": 3.14,
-        "bttsProbability": 0.3802,
-        "bttsNoProbability": 0.6198,
-        "over25Probability": 0.6024,
-        "under25Probability": 0.3976,
-        "homeWinProbability": 0.7899,
-        "drawProbability": 0.1335,
-        "awayWinProbability": 0.1197,
-        "predictedScore": {
-          "home": 2,
-          "away": 0,
-          "probability": 0.1478
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1721,
-          "awayElo": 1595,
-          "eloWinProb": 0.75
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 2.62,
-        "awayExpectedGoals": 0.53,
-        "totalExpectedGoals": 3.14,
-        "bttsProbability": 0.3802,
-        "bttsNoProbability": 0.6198,
-        "over25Probability": 0.6024,
-        "under25Probability": 0.3976,
-        "homeWinProbability": 0.7899,
-        "drawProbability": 0.1335,
-        "awayWinProbability": 0.1197,
-        "predictedScore": {
-          "home": 2,
-          "away": 0,
-          "probability": 0.1478
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1721,
-          "awayElo": 1595,
-          "eloWinProb": 0.75
-        }
-      },
-      "confidenceScore": 62
-    },
-    {
-      "id": "fix_77_3_FCJuarez",
-      "leagueId": "77",
-      "leagueName": "Liga MX",
-      "dateRaw": "Sat 21/11",
-      "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "03:00",
       "homeTeam": "FC Juarez",
       "awayTeam": "Club Atlas",
@@ -217,19 +146,90 @@
       "confidenceScore": 73
     },
     {
+      "id": "fix_77_3_ClubTijuana",
+      "leagueId": "77",
+      "leagueName": "Liga MX",
+      "dateRaw": "Sat 21/11",
+      "dateIso": "2026-11-21T12:00:00.000Z",
+      "daysFromNow": 3,
+      "time": "03:10",
+      "homeTeam": "Club Tijuana",
+      "awayTeam": "Atlante FC",
+      "odds": {
+        "home": 1.65,
+        "draw": 4.2,
+        "away": 4.9
+      },
+      "prediction": {
+        "homeExpectedGoals": 2.62,
+        "awayExpectedGoals": 0.53,
+        "totalExpectedGoals": 3.14,
+        "bttsProbability": 0.3802,
+        "bttsNoProbability": 0.6198,
+        "over25Probability": 0.6024,
+        "under25Probability": 0.3976,
+        "homeWinProbability": 0.7899,
+        "drawProbability": 0.1335,
+        "awayWinProbability": 0.1197,
+        "predictedScore": {
+          "home": 2,
+          "away": 0,
+          "probability": 0.1478
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1721,
+          "awayElo": 1595,
+          "eloWinProb": 0.75
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 2.62,
+        "awayExpectedGoals": 0.53,
+        "totalExpectedGoals": 3.14,
+        "bttsProbability": 0.3802,
+        "bttsNoProbability": 0.6198,
+        "over25Probability": 0.6024,
+        "under25Probability": 0.3976,
+        "homeWinProbability": 0.7899,
+        "drawProbability": 0.1335,
+        "awayWinProbability": 0.1197,
+        "predictedScore": {
+          "home": 2,
+          "away": 0,
+          "probability": 0.1478
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1721,
+          "awayElo": 1595,
+          "eloWinProb": 0.75
+        }
+      },
+      "confidenceScore": 62
+    },
+    {
       "id": "fix_77_4_CFPachuca",
       "leagueId": "77",
       "leagueName": "Liga MX",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 4,
-      "time": "23:00",
+      "daysFromNow": 3,
+      "time": "22:50",
       "homeTeam": "CF Pachuca",
       "awayTeam": "Toluca",
       "odds": {
-        "home": 2.9,
+        "home": 2.76,
         "draw": 4.15,
-        "away": 2.17
+        "away": 2.25
       },
       "prediction": {
         "homeExpectedGoals": 1.75,
@@ -293,13 +293,13 @@
       "leagueName": "Liga MX",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "23:00",
       "homeTeam": "Santos Laguna",
       "awayTeam": "Club Leon",
       "odds": {
-        "home": 2.48,
-        "draw": 3.75,
+        "home": 2.47,
+        "draw": 3.79,
         "away": 2.65
       },
       "prediction": {
@@ -364,7 +364,7 @@
       "leagueName": "Liga MX",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "01:00",
       "homeTeam": "Pumas UNAM",
       "awayTeam": "Monterrey",
@@ -435,14 +435,14 @@
       "leagueName": "Liga MX",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "03:00",
       "homeTeam": "Tigres UANL",
       "awayTeam": "Club America",
       "odds": {
-        "home": 3.45,
+        "home": 3.4,
         "draw": 3.67,
-        "away": 2.06
+        "away": 2.08
       },
       "prediction": {
         "homeExpectedGoals": 1.65,
@@ -506,7 +506,7 @@
       "leagueName": "Liga MX",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "23:07",
       "homeTeam": "Guadalajara",
       "awayTeam": "Cruz Azul",
@@ -577,14 +577,14 @@
       "leagueName": "Liga MX",
       "dateRaw": "Mon 23/11",
       "dateIso": "2026-11-23T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "01:00",
       "homeTeam": "Club Queretaro",
       "awayTeam": "Necaxa",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 2.03,
+        "draw": 3.86,
+        "away": 3.38
       },
       "prediction": {
         "homeExpectedGoals": 1.46,
@@ -687,8 +687,8 @@
           "eloWinProb": 0.484
         },
         "matchFingerprint": "77_club queretaro_monterrey_Sat 14-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:55.473Z",
-        "auditHash": "SHA256-IMMUTABLE-2443B389-2026-11-17",
+        "lockedAt": "2026-11-18T15:25:12.927Z",
+        "auditHash": "SHA256-IMMUTABLE-511B673E-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -741,8 +741,8 @@
           "eloWinProb": 0.448
         },
         "matchFingerprint": "77_club leon_guadalajara_Mon 09-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:55.473Z",
-        "auditHash": "SHA256-IMMUTABLE-5596CF32-2026-11-17",
+        "lockedAt": "2026-11-18T15:25:12.927Z",
+        "auditHash": "SHA256-IMMUTABLE-7D917D19-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -795,8 +795,8 @@
           "eloWinProb": 0.601
         },
         "matchFingerprint": "77_club queretaro_puebla_Mon 09-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:55.473Z",
-        "auditHash": "SHA256-IMMUTABLE-481ED7F8-2026-11-17",
+        "lockedAt": "2026-11-18T15:25:12.927Z",
+        "auditHash": "SHA256-IMMUTABLE-1B472443-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -849,8 +849,8 @@
           "eloWinProb": 0.371
         },
         "matchFingerprint": "77_pumas unam_club america_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:55.473Z",
-        "auditHash": "SHA256-IMMUTABLE-651905A3-2026-11-17",
+        "lockedAt": "2026-11-18T15:25:12.927Z",
+        "auditHash": "SHA256-IMMUTABLE-384151EE-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -903,8 +903,8 @@
           "eloWinProb": 0.261
         },
         "matchFingerprint": "77_tigres uanl_cruz azul_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:55.473Z",
-        "auditHash": "SHA256-IMMUTABLE-1EDC0813-2026-11-17",
+        "lockedAt": "2026-11-18T15:25:12.927Z",
+        "auditHash": "SHA256-IMMUTABLE-4BB3BBC8-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -957,8 +957,8 @@
           "eloWinProb": 0.686
         },
         "matchFingerprint": "77_toluca_monterrey_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:55.473Z",
-        "auditHash": "SHA256-IMMUTABLE-15737404-2026-11-17",
+        "lockedAt": "2026-11-18T15:25:12.927Z",
+        "auditHash": "SHA256-IMMUTABLE-17643FB1-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1011,8 +1011,8 @@
           "eloWinProb": 0.619
         },
         "matchFingerprint": "77_club atlas_cf pachuca_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:55.473Z",
-        "auditHash": "SHA256-IMMUTABLE-74695612-2026-11-17",
+        "lockedAt": "2026-11-18T15:25:12.927Z",
+        "auditHash": "SHA256-IMMUTABLE-5EBEF639-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1065,8 +1065,8 @@
           "eloWinProb": 0.36
         },
         "matchFingerprint": "77_atlante fc_santos laguna_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:55.473Z",
-        "auditHash": "SHA256-IMMUTABLE-45004C7E-2026-11-17",
+        "lockedAt": "2026-11-18T15:25:12.927Z",
+        "auditHash": "SHA256-IMMUTABLE-182898C9-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1119,8 +1119,8 @@
           "eloWinProb": 0.75
         },
         "matchFingerprint": "77_atletico san luis_fc juarez_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:55.473Z",
-        "auditHash": "SHA256-IMMUTABLE-43E08099-2026-11-17",
+        "lockedAt": "2026-11-18T15:25:12.927Z",
+        "auditHash": "SHA256-IMMUTABLE-70B8344E-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1173,8 +1173,8 @@
           "eloWinProb": 0.394
         },
         "matchFingerprint": "77_necaxa_club tijuana_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:55.473Z",
-        "auditHash": "SHA256-IMMUTABLE-1DA57C6B-2026-11-17",
+        "lockedAt": "2026-11-18T15:25:12.927Z",
+        "auditHash": "SHA256-IMMUTABLE-4A7D3020-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1227,8 +1227,8 @@
           "eloWinProb": 0.749
         },
         "matchFingerprint": "77_cruz azul_club leon_Mon 02-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:55.474Z",
-        "auditHash": "SHA256-IMMUTABLE-24889465-2026-11-17",
+        "lockedAt": "2026-11-18T15:25:12.927Z",
+        "auditHash": "SHA256-IMMUTABLE-516047FB-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1281,8 +1281,8 @@
           "eloWinProb": 0.803
         },
         "matchFingerprint": "77_santos laguna_necaxa_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:55.474Z",
-        "auditHash": "SHA256-IMMUTABLE-3E5A2EF7-2026-11-17",
+        "lockedAt": "2026-11-18T15:25:12.927Z",
+        "auditHash": "SHA256-IMMUTABLE-11827B61-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1335,8 +1335,8 @@
           "eloWinProb": 0.639
         },
         "matchFingerprint": "77_club america_toluca_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:55.474Z",
-        "auditHash": "SHA256-IMMUTABLE-4F4DE6FD-2026-11-17",
+        "lockedAt": "2026-11-18T15:25:12.927Z",
+        "auditHash": "SHA256-IMMUTABLE-22763367-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1389,8 +1389,8 @@
           "eloWinProb": 0.853
         },
         "matchFingerprint": "77_guadalajara_atlante fc_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:55.474Z",
-        "auditHash": "SHA256-IMMUTABLE-11D6CFA7-2026-11-17",
+        "lockedAt": "2026-11-18T15:25:12.927Z",
+        "auditHash": "SHA256-IMMUTABLE-1B00E3EF-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1443,8 +1443,8 @@
           "eloWinProb": 0.627
         },
         "matchFingerprint": "77_monterrey_club tijuana_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:55.474Z",
-        "auditHash": "SHA256-IMMUTABLE-4326D0AC-2026-11-17",
+        "lockedAt": "2026-11-18T15:25:12.927Z",
+        "auditHash": "SHA256-IMMUTABLE-6FFE8442-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {

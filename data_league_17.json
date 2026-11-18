@@ -1,15 +1,15 @@
 {
   "leagueId": "17",
   "leagueName": "Champions League",
-  "timestamp": "2026-11-17T15:44:45.818Z",
+  "timestamp": "2026-11-18T15:24:57.939Z",
   "fixtures": [
     {
       "id": "fix_17_1_BodoGlimt",
       "leagueId": "17",
       "leagueName": "Champions League",
       "dateRaw": "Tue 24/11",
-      "dateIso": "2026-11-17T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-24T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "17:45",
       "homeTeam": "Bodo Glimt",
       "awayTeam": "LASK Linz",
@@ -79,8 +79,8 @@
       "leagueId": "17",
       "leagueName": "Champions League",
       "dateRaw": "Tue 24/11",
-      "dateIso": "2026-11-17T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-24T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "17:45",
       "homeTeam": "Galatasaray",
       "awayTeam": "Aston Villa",
@@ -150,8 +150,8 @@
       "leagueId": "17",
       "leagueName": "Champions League",
       "dateRaw": "Tue 24/11",
-      "dateIso": "2026-11-17T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-24T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "20:00",
       "homeTeam": "Arsenal",
       "awayTeam": "Borussia Dortmund",
@@ -221,8 +221,8 @@
       "leagueId": "17",
       "leagueName": "Champions League",
       "dateRaw": "Tue 24/11",
-      "dateIso": "2026-11-17T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-24T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "20:00",
       "homeTeam": "Como",
       "awayTeam": "AEK Athens",
@@ -292,8 +292,8 @@
       "leagueId": "17",
       "leagueName": "Champions League",
       "dateRaw": "Tue 24/11",
-      "dateIso": "2026-11-17T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-24T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "20:00",
       "homeTeam": "Feyenoord",
       "awayTeam": "Porto",
@@ -363,8 +363,8 @@
       "leagueId": "17",
       "leagueName": "Champions League",
       "dateRaw": "Tue 24/11",
-      "dateIso": "2026-11-17T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-24T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "20:00",
       "homeTeam": "Man City",
       "awayTeam": "Napoli",
@@ -434,8 +434,8 @@
       "leagueId": "17",
       "leagueName": "Champions League",
       "dateRaw": "Tue 24/11",
-      "dateIso": "2026-11-17T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-24T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "20:00",
       "homeTeam": "RB Leipzig",
       "awayTeam": "Lens",
@@ -505,8 +505,8 @@
       "leagueId": "17",
       "leagueName": "Champions League",
       "dateRaw": "Tue 24/11",
-      "dateIso": "2026-11-17T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-24T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "20:00",
       "homeTeam": "Real Madrid",
       "awayTeam": "PSV Eindhoven",
@@ -576,8 +576,8 @@
       "leagueId": "17",
       "leagueName": "Champions League",
       "dateRaw": "Tue 24/11",
-      "dateIso": "2026-11-17T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-24T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "20:00",
       "homeTeam": "Slovan Bratislava",
       "awayTeam": "Real Betis",
@@ -648,7 +648,7 @@
       "leagueName": "Champions League",
       "dateRaw": "Wed 25/11",
       "dateIso": "2026-11-18T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "17:45",
       "homeTeam": "Sabah",
       "awayTeam": "Barcelona",
@@ -719,7 +719,7 @@
       "leagueName": "Champions League",
       "dateRaw": "Wed 25/11",
       "dateIso": "2026-11-18T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "17:45",
       "homeTeam": "Slavia Prague",
       "awayTeam": "Villarreal",
@@ -790,7 +790,7 @@
       "leagueName": "Champions League",
       "dateRaw": "Wed 25/11",
       "dateIso": "2026-11-18T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "20:00",
       "homeTeam": "Atletico Madrid",
       "awayTeam": "Viking FK",
@@ -861,7 +861,7 @@
       "leagueName": "Champions League",
       "dateRaw": "Wed 25/11",
       "dateIso": "2026-11-18T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "20:00",
       "homeTeam": "Club Brugge",
       "awayTeam": "Liverpool",
@@ -932,7 +932,7 @@
       "leagueName": "Champions League",
       "dateRaw": "Wed 25/11",
       "dateIso": "2026-11-18T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "20:00",
       "homeTeam": "Inter Milan",
       "awayTeam": "VFB Stuttgart",
@@ -1003,7 +1003,7 @@
       "leagueName": "Champions League",
       "dateRaw": "Wed 25/11",
       "dateIso": "2026-11-18T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "20:00",
       "homeTeam": "Lille",
       "awayTeam": "Bayern Munich",
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.587
         },
         "matchFingerprint": "17_borussia dortmund_real betis_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:45.815Z",
-        "auditHash": "SHA256-IMMUTABLE-36E104F2-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:57.937Z",
+        "auditHash": "SHA256-IMMUTABLE-72B7EBAF-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.191
         },
         "matchFingerprint": "17_lens_como_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:45.815Z",
-        "auditHash": "SHA256-IMMUTABLE-500FC0C8-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:57.937Z",
+        "auditHash": "SHA256-IMMUTABLE-59892FD9-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.615
         },
         "matchFingerprint": "17_porto_napoli_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:45.815Z",
-        "auditHash": "SHA256-IMMUTABLE-C33D7F-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:57.937Z",
+        "auditHash": "SHA256-IMMUTABLE-55A3D1E0-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.34
         },
         "matchFingerprint": "17_psv eindhoven_club brugge_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:45.815Z",
-        "auditHash": "SHA256-IMMUTABLE-E37E761-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:57.937Z",
+        "auditHash": "SHA256-IMMUTABLE-649EF6C0-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.256
         },
         "matchFingerprint": "17_rb leipzig_man city_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:45.815Z",
-        "auditHash": "SHA256-IMMUTABLE-21172782-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:57.937Z",
+        "auditHash": "SHA256-IMMUTABLE-777E36E1-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.172
         },
         "matchFingerprint": "17_slavia prague_arsenal_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:45.815Z",
-        "auditHash": "SHA256-IMMUTABLE-3B67458E-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:57.937Z",
+        "auditHash": "SHA256-IMMUTABLE-6E31AB13-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.686
         },
         "matchFingerprint": "17_viking fk_sabah_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:45.815Z",
-        "auditHash": "SHA256-IMMUTABLE-461A765D-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:57.937Z",
+        "auditHash": "SHA256-IMMUTABLE-104C9902-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.178
         },
         "matchFingerprint": "17_aek athens_real madrid_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:45.816Z",
-        "auditHash": "SHA256-IMMUTABLE-71CD6F7B-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:57.937Z",
+        "auditHash": "SHA256-IMMUTABLE-37CB8107-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.373
         },
         "matchFingerprint": "17_fenerbahce_liverpool_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:45.816Z",
-        "auditHash": "SHA256-IMMUTABLE-293EC763-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:57.937Z",
+        "auditHash": "SHA256-IMMUTABLE-7FA5D6E1-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1561,7 +1561,7 @@
       "leagueId": "17",
       "leagueName": "Champions League",
       "dateRaw": "Tue 03-Nov-2026",
-      "dateIso": "2026-11-17T12:00:00.000Z",
+      "dateIso": "2026-11-24T12:00:00.000Z",
       "daysAgo": 0,
       "time": "20:00",
       "homeTeam": "Atletico Madrid",
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.383
         },
         "matchFingerprint": "17_atletico madrid_bayern munich_Tue 03-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:45.816Z",
-        "auditHash": "SHA256-IMMUTABLE-501D4B4D-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:57.937Z",
+        "auditHash": "SHA256-IMMUTABLE-649C431-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1615,7 +1615,7 @@
       "leagueId": "17",
       "leagueName": "Champions League",
       "dateRaw": "Tue 03-Nov-2026",
-      "dateIso": "2026-11-17T12:00:00.000Z",
+      "dateIso": "2026-11-24T12:00:00.000Z",
       "daysAgo": 0,
       "time": "20:00",
       "homeTeam": "Barcelona",
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.606
         },
         "matchFingerprint": "17_barcelona_aston villa_Tue 03-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:45.816Z",
-        "auditHash": "SHA256-IMMUTABLE-67BC93A8-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:57.937Z",
+        "auditHash": "SHA256-IMMUTABLE-41DC5CDA-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1669,7 +1669,7 @@
       "leagueId": "17",
       "leagueName": "Champions League",
       "dateRaw": "Tue 03-Nov-2026",
-      "dateIso": "2026-11-17T12:00:00.000Z",
+      "dateIso": "2026-11-24T12:00:00.000Z",
       "daysAgo": 0,
       "time": "20:00",
       "homeTeam": "Bodo Glimt",
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.727
         },
         "matchFingerprint": "17_bodo glimt_lille_Tue 03-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:45.816Z",
-        "auditHash": "SHA256-IMMUTABLE-450188BD-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:57.937Z",
+        "auditHash": "SHA256-IMMUTABLE-116586C1-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1723,7 +1723,7 @@
       "leagueId": "17",
       "leagueName": "Champions League",
       "dateRaw": "Tue 03-Nov-2026",
-      "dateIso": "2026-11-17T12:00:00.000Z",
+      "dateIso": "2026-11-24T12:00:00.000Z",
       "daysAgo": 0,
       "time": "20:00",
       "homeTeam": "Feyenoord",
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.371
         },
         "matchFingerprint": "17_feyenoord_inter milan_Tue 03-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:45.816Z",
-        "auditHash": "SHA256-IMMUTABLE-384267D0-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:57.937Z",
+        "auditHash": "SHA256-IMMUTABLE-715688B2-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1777,7 +1777,7 @@
       "leagueId": "17",
       "leagueName": "Champions League",
       "dateRaw": "Tue 03-Nov-2026",
-      "dateIso": "2026-11-17T12:00:00.000Z",
+      "dateIso": "2026-11-24T12:00:00.000Z",
       "daysAgo": 0,
       "time": "20:00",
       "homeTeam": "LASK Linz",
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.864
         },
         "matchFingerprint": "17_lask linz_slovan bratislava_Tue 03-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:45.816Z",
-        "auditHash": "SHA256-IMMUTABLE-22E1C041-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:57.937Z",
+        "auditHash": "SHA256-IMMUTABLE-33854F3D-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
@@ -1831,7 +1831,7 @@
       "leagueId": "17",
       "leagueName": "Champions League",
       "dateRaw": "Tue 03-Nov-2026",
-      "dateIso": "2026-11-17T12:00:00.000Z",
+      "dateIso": "2026-11-24T12:00:00.000Z",
       "daysAgo": 0,
       "time": "20:00",
       "homeTeam": "Man Utd",
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.657
         },
         "matchFingerprint": "17_man utd_as roma_Tue 03-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-17T15:44:45.816Z",
-        "auditHash": "SHA256-IMMUTABLE-417AEC47-2026-11-17",
+        "lockedAt": "2026-11-18T15:24:57.938Z",
+        "auditHash": "SHA256-IMMUTABLE-681E045A-2026-11-18",
         "isImmutable": true
       },
       "evaluation": {
