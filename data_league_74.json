@@ -1,7 +1,7 @@
 {
   "leagueId": "74",
   "leagueName": "Australia A-League",
-  "timestamp": "2026-11-18T15:25:18.697Z",
+  "timestamp": "2026-11-19T15:30:52.849Z",
   "fixtures": [
     {
       "id": "fix_74_1_WesternSydney",
@@ -9,14 +9,14 @@
       "leagueName": "Australia A-League",
       "dateRaw": "Fri 20/11",
       "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "08:40",
       "homeTeam": "Western Sydney",
       "awayTeam": "Adelaide United",
       "odds": {
-        "home": 1.73,
-        "draw": 4.36,
-        "away": 4.36
+        "home": 1.68,
+        "draw": 4.49,
+        "away": 4.62
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
@@ -80,7 +80,7 @@
       "leagueName": "Australia A-League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "04:00",
       "homeTeam": "Auckland FC",
       "awayTeam": "Melbourne Victory",
@@ -151,7 +151,7 @@
       "leagueName": "Australia A-League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "06:00",
       "homeTeam": "Central Coast Mariners",
       "awayTeam": "Perth",
@@ -222,7 +222,7 @@
       "leagueName": "Australia A-League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "08:40",
       "homeTeam": "Brisbane",
       "awayTeam": "Sydney",
@@ -293,14 +293,14 @@
       "leagueName": "Australia A-League",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "02:00",
       "homeTeam": "Wellington",
       "awayTeam": "Macarthur FC",
       "odds": {
-        "home": 1.94,
-        "draw": 3.84,
-        "away": 3.84
+        "home": 1.9,
+        "draw": 3.92,
+        "away": 3.92
       },
       "prediction": {
         "homeExpectedGoals": 1.65,
@@ -364,7 +364,7 @@
       "leagueName": "Australia A-League",
       "dateRaw": "Fri 27/11",
       "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "08:40",
       "homeTeam": "Macarthur FC",
       "awayTeam": "Melbourne City",
@@ -435,7 +435,7 @@
       "leagueName": "Australia A-League",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "08:40",
       "homeTeam": "Central Coast Mariners",
       "awayTeam": "Auckland FC",
@@ -506,7 +506,7 @@
       "leagueName": "Australia A-League",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "08:40",
       "homeTeam": "Western Sydney",
       "awayTeam": "Perth",
@@ -577,7 +577,7 @@
       "leagueName": "Australia A-League",
       "dateRaw": "Sun 06/12",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "02:00",
       "homeTeam": "Wellington",
       "awayTeam": "Adelaide United",
@@ -648,7 +648,7 @@
       "leagueName": "Australia A-League",
       "dateRaw": "Sun 06/12",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "06:00",
       "homeTeam": "Sydney",
       "awayTeam": "Melbourne Victory",
@@ -719,7 +719,7 @@
       "leagueName": "Australia A-League",
       "dateRaw": "Fri 11/12",
       "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "08:40",
       "homeTeam": "Adelaide United",
       "awayTeam": "Macarthur FC",
@@ -790,7 +790,7 @@
       "leagueName": "Australia A-League",
       "dateRaw": "Fri 11/12",
       "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "10:45",
       "homeTeam": "Perth",
       "awayTeam": "Melbourne City",
@@ -861,7 +861,7 @@
       "leagueName": "Australia A-League",
       "dateRaw": "Sat 12/12",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "04:00",
       "homeTeam": "Auckland FC",
       "awayTeam": "Sydney",
@@ -932,7 +932,7 @@
       "leagueName": "Australia A-League",
       "dateRaw": "Sat 12/12",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "06:00",
       "homeTeam": "Central Coast Mariners",
       "awayTeam": "Brisbane",
@@ -1003,7 +1003,7 @@
       "leagueName": "Australia A-League",
       "dateRaw": "Sat 12/12",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "08:40",
       "homeTeam": "Melbourne Victory",
       "awayTeam": "Newcastle Jets",
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.49
         },
         "matchFingerprint": "74_macarthur fc_brisbane_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:18.695Z",
-        "auditHash": "SHA256-IMMUTABLE-62F5167D-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:52.846Z",
+        "auditHash": "SHA256-IMMUTABLE-6ADF89C6-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.662
         },
         "matchFingerprint": "74_melbourne city_western sydney_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:18.695Z",
-        "auditHash": "SHA256-IMMUTABLE-3731FEE6-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:52.846Z",
+        "auditHash": "SHA256-IMMUTABLE-695D5EA3-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.808
         },
         "matchFingerprint": "74_sydney_central coast mariners_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:18.695Z",
-        "auditHash": "SHA256-IMMUTABLE-5D771269-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:52.846Z",
+        "auditHash": "SHA256-IMMUTABLE-705D8DDA-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.801
         },
         "matchFingerprint": "74_perth_adelaide united_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:18.695Z",
-        "auditHash": "SHA256-IMMUTABLE-40267048-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:52.846Z",
+        "auditHash": "SHA256-IMMUTABLE-7251D005-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.653
         },
         "matchFingerprint": "74_melbourne victory_central coast mariners_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:18.695Z",
-        "auditHash": "SHA256-IMMUTABLE-54ADA98A-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:52.847Z",
+        "auditHash": "SHA256-IMMUTABLE-228249AE-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.578
         },
         "matchFingerprint": "74_macarthur fc_western sydney_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:18.696Z",
-        "auditHash": "SHA256-IMMUTABLE-45DCA91C-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:52.847Z",
+        "auditHash": "SHA256-IMMUTABLE-780808D9-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.569
         },
         "matchFingerprint": "74_melbourne city_sydney_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:18.696Z",
-        "auditHash": "SHA256-IMMUTABLE-1746966D-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:52.847Z",
+        "auditHash": "SHA256-IMMUTABLE-1AE4C950-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.239
         },
         "matchFingerprint": "74_newcastle jets_wellington_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:18.696Z",
-        "auditHash": "SHA256-IMMUTABLE-69D1D68B-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:52.847Z",
+        "auditHash": "SHA256-IMMUTABLE-37A676CE-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.696
         },
         "matchFingerprint": "74_brisbane_auckland fc_Fri 30-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:18.696Z",
-        "auditHash": "SHA256-IMMUTABLE-3378D397-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:52.847Z",
+        "auditHash": "SHA256-IMMUTABLE-65A43354-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.833
         },
         "matchFingerprint": "74_sydney_adelaide united_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:18.696Z",
-        "auditHash": "SHA256-IMMUTABLE-48FFC698-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:52.847Z",
+        "auditHash": "SHA256-IMMUTABLE-7B2B2655-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.875
         },
         "matchFingerprint": "74_wellington_central coast mariners_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:18.696Z",
-        "auditHash": "SHA256-IMMUTABLE-9B588B2-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:52.847Z",
+        "auditHash": "SHA256-IMMUTABLE-3BE0E86F-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.417
         },
         "matchFingerprint": "74_melbourne victory_melbourne city_Sat 24-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:18.696Z",
-        "auditHash": "SHA256-IMMUTABLE-73ADC920-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:52.847Z",
+        "auditHash": "SHA256-IMMUTABLE-41826963-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.616
         },
         "matchFingerprint": "74_western sydney_auckland fc_Sat 24-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:18.696Z",
-        "auditHash": "SHA256-IMMUTABLE-6D8F27DC-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:52.847Z",
+        "auditHash": "SHA256-IMMUTABLE-60457867-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.451
         },
         "matchFingerprint": "74_newcastle jets_macarthur fc_Sat 24-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:18.696Z",
-        "auditHash": "SHA256-IMMUTABLE-597C1056-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:52.847Z",
+        "auditHash": "SHA256-IMMUTABLE-74588FED-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.633
         },
         "matchFingerprint": "74_brisbane_perth_Fri 23-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:18.696Z",
-        "auditHash": "SHA256-IMMUTABLE-31AAEA70-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:52.847Z",
+        "auditHash": "SHA256-IMMUTABLE-80754D-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {

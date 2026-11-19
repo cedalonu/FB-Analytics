@@ -1,7 +1,7 @@
 {
   "leagueId": "78",
   "leagueName": "Argentine Liga Profesional",
-  "timestamp": "2026-11-18T15:25:14.851Z",
+  "timestamp": "2026-11-19T15:30:50.080Z",
   "fixtures": [
     {
       "id": "fix_78_1_Velez",
@@ -9,7 +9,7 @@
       "leagueName": "Argentine Liga Profesional",
       "dateRaw": "Fri 20/11",
       "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "23:00",
       "homeTeam": "Velez",
       "awayTeam": "Belgrano",
@@ -80,7 +80,7 @@
       "leagueName": "Argentine Liga Profesional",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "18:00",
       "homeTeam": "Defensa y Justicia",
       "awayTeam": "Barracas Central",
@@ -151,7 +151,7 @@
       "leagueName": "Argentine Liga Profesional",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "20:00",
       "homeTeam": "Argentinos Juniors",
       "awayTeam": "Independiente",
@@ -217,12 +217,83 @@
       "confidenceScore": 62
     },
     {
-      "id": "fix_78_4_BocaJuniors",
+      "id": "fix_78_4_RosarioCentral",
       "leagueId": "78",
       "leagueName": "Argentine Liga Profesional",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
+      "time": "19:00",
+      "homeTeam": "Rosario Central",
+      "awayTeam": "Gimnasia Mendoza",
+      "odds": {
+        "home": 1.38,
+        "draw": 4.85,
+        "away": 8.25
+      },
+      "prediction": {
+        "homeExpectedGoals": 3.5,
+        "awayExpectedGoals": 0.35,
+        "totalExpectedGoals": 3.85,
+        "bttsProbability": 0.2809,
+        "bttsNoProbability": 0.7191,
+        "over25Probability": 0.7127,
+        "under25Probability": 0.2873,
+        "homeWinProbability": 0.8775,
+        "drawProbability": 0.0597,
+        "awayWinProbability": 0.0663,
+        "predictedScore": {
+          "home": 3,
+          "away": 0,
+          "probability": 0.1519
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 44,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 43,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1872,
+          "awayElo": 1654,
+          "eloWinProb": 0.836
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 3.5,
+        "awayExpectedGoals": 0.35,
+        "totalExpectedGoals": 3.85,
+        "bttsProbability": 0.2809,
+        "bttsNoProbability": 0.7191,
+        "over25Probability": 0.7127,
+        "under25Probability": 0.2873,
+        "homeWinProbability": 0.8775,
+        "drawProbability": 0.0597,
+        "awayWinProbability": 0.0663,
+        "predictedScore": {
+          "home": 3,
+          "away": 0,
+          "probability": 0.1519
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 44,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 43,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1872,
+          "awayElo": 1654,
+          "eloWinProb": 0.836
+        }
+      },
+      "confidenceScore": 72
+    },
+    {
+      "id": "fix_78_5_BocaJuniors",
+      "leagueId": "78",
+      "leagueName": "Argentine Liga Profesional",
+      "dateRaw": "Sun 22/11",
+      "dateIso": "2026-11-22T12:00:00.000Z",
+      "daysFromNow": 3,
       "time": "21:00",
       "homeTeam": "Boca Juniors",
       "awayTeam": "Independiente Rivadavia",
@@ -288,12 +359,12 @@
       "confidenceScore": 78
     },
     {
-      "id": "fix_78_5_GimnasiaLaPlata",
+      "id": "fix_78_6_GimnasiaLaPlata",
       "leagueId": "78",
       "leagueName": "Argentine Liga Profesional",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "21:00",
       "homeTeam": "Gimnasia La Plata",
       "awayTeam": "Newells",
@@ -359,12 +430,12 @@
       "confidenceScore": 71
     },
     {
-      "id": "fix_78_6_Instituto",
+      "id": "fix_78_7_Instituto",
       "leagueId": "78",
       "leagueName": "Argentine Liga Profesional",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "21:00",
       "homeTeam": "Instituto",
       "awayTeam": "Huracan",
@@ -430,13 +501,13 @@
       "confidenceScore": 58
     },
     {
-      "id": "fix_78_7_RiverPlate",
+      "id": "fix_78_8_RiverPlate",
       "leagueId": "78",
       "leagueName": "Argentine Liga Profesional",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 4,
-      "time": "21:00",
+      "daysFromNow": 3,
+      "time": "22:00",
       "homeTeam": "River Plate",
       "awayTeam": "Lanus",
       "odds": {
@@ -499,77 +570,6 @@
         }
       },
       "confidenceScore": 54
-    },
-    {
-      "id": "fix_78_8_RosarioCentral",
-      "leagueId": "78",
-      "leagueName": "Argentine Liga Profesional",
-      "dateRaw": "Sun 22/11",
-      "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 4,
-      "time": "21:00",
-      "homeTeam": "Rosario Central",
-      "awayTeam": "Gimnasia Mendoza",
-      "odds": {
-        "home": 1.45,
-        "draw": 4.5,
-        "away": 7.2
-      },
-      "prediction": {
-        "homeExpectedGoals": 3.5,
-        "awayExpectedGoals": 0.35,
-        "totalExpectedGoals": 3.85,
-        "bttsProbability": 0.2809,
-        "bttsNoProbability": 0.7191,
-        "over25Probability": 0.7127,
-        "under25Probability": 0.2873,
-        "homeWinProbability": 0.8775,
-        "drawProbability": 0.0597,
-        "awayWinProbability": 0.0663,
-        "predictedScore": {
-          "home": 3,
-          "away": 0,
-          "probability": 0.1519
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 44,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 43,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1872,
-          "awayElo": 1654,
-          "eloWinProb": 0.836
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 3.5,
-        "awayExpectedGoals": 0.35,
-        "totalExpectedGoals": 3.85,
-        "bttsProbability": 0.2809,
-        "bttsNoProbability": 0.7191,
-        "over25Probability": 0.7127,
-        "under25Probability": 0.2873,
-        "homeWinProbability": 0.8775,
-        "drawProbability": 0.0597,
-        "awayWinProbability": 0.0663,
-        "predictedScore": {
-          "home": 3,
-          "away": 0,
-          "probability": 0.1519
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 44,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 43,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1872,
-          "awayElo": 1654,
-          "eloWinProb": 0.836
-        }
-      },
-      "confidenceScore": 72
     }
   ],
   "results": [
@@ -616,8 +616,8 @@
           "eloWinProb": 0.24
         },
         "matchFingerprint": "78_central cordoba_lanus_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:14.848Z",
-        "auditHash": "SHA256-IMMUTABLE-610E97FC-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:50.076Z",
+        "auditHash": "SHA256-IMMUTABLE-2B7DF50C-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -670,8 +670,8 @@
           "eloWinProb": 0.814
         },
         "matchFingerprint": "78_instituto_newells_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:14.848Z",
-        "auditHash": "SHA256-IMMUTABLE-593C0545-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:50.076Z",
+        "auditHash": "SHA256-IMMUTABLE-713357CB-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -724,8 +724,8 @@
           "eloWinProb": 0.796
         },
         "matchFingerprint": "78_boca juniors_defensa y justicia_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:14.848Z",
-        "auditHash": "SHA256-IMMUTABLE-615E7BAF-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:50.076Z",
+        "auditHash": "SHA256-IMMUTABLE-2BCDD8BF-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -778,8 +778,8 @@
           "eloWinProb": 0.76
         },
         "matchFingerprint": "78_argentinos juniors_huracan_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:14.849Z",
-        "auditHash": "SHA256-IMMUTABLE-A7E2910-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:50.077Z",
+        "auditHash": "SHA256-IMMUTABLE-400ECC00-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -832,8 +832,8 @@
           "eloWinProb": 0.951
         },
         "matchFingerprint": "78_rosario central_estudiantes rio cuarto_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:14.849Z",
-        "auditHash": "SHA256-IMMUTABLE-A01B08B-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:50.077Z",
+        "auditHash": "SHA256-IMMUTABLE-2B8EF265-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -886,8 +886,8 @@
           "eloWinProb": 0.355
         },
         "matchFingerprint": "78_gimnasia mendoza_independiente rivadavia_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:14.849Z",
-        "auditHash": "SHA256-IMMUTABLE-7DE2D31-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:50.077Z",
+        "auditHash": "SHA256-IMMUTABLE-2DB275BF-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -940,8 +940,8 @@
           "eloWinProb": 0.434
         },
         "matchFingerprint": "78_talleres_estudiantes_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:14.849Z",
-        "auditHash": "SHA256-IMMUTABLE-DDB6D02-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:50.077Z",
+        "auditHash": "SHA256-IMMUTABLE-27B535EE-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -994,8 +994,8 @@
           "eloWinProb": 0.591
         },
         "matchFingerprint": "78_banfield_atletico tucuman_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:14.849Z",
-        "auditHash": "SHA256-IMMUTABLE-6FA91C6D-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:50.077Z",
+        "auditHash": "SHA256-IMMUTABLE-5AC640A3-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1048,8 +1048,8 @@
           "eloWinProb": 0.627
         },
         "matchFingerprint": "78_tigre_sarmiento_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:14.849Z",
-        "auditHash": "SHA256-IMMUTABLE-378152DB-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:50.077Z",
+        "auditHash": "SHA256-IMMUTABLE-6D11F5CB-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1102,8 +1102,8 @@
           "eloWinProb": 0.826
         },
         "matchFingerprint": "78_independiente_deportivo riestra_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:14.849Z",
-        "auditHash": "SHA256-IMMUTABLE-1B4715E3-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:50.077Z",
+        "auditHash": "SHA256-IMMUTABLE-1A498D0D-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1156,8 +1156,8 @@
           "eloWinProb": 0.652
         },
         "matchFingerprint": "78_san lorenzo_platense_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:14.849Z",
-        "auditHash": "SHA256-IMMUTABLE-3786281E-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:50.077Z",
+        "auditHash": "SHA256-IMMUTABLE-1F5852E-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1210,8 +1210,8 @@
           "eloWinProb": 0.409
         },
         "matchFingerprint": "78_union santa fe_velez_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:14.849Z",
-        "auditHash": "SHA256-IMMUTABLE-F5F11AC-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:50.077Z",
+        "auditHash": "SHA256-IMMUTABLE-44EFB49C-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1264,8 +1264,8 @@
           "eloWinProb": 0.741
         },
         "matchFingerprint": "78_barracas central_racing club_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:14.849Z",
-        "auditHash": "SHA256-IMMUTABLE-1BD27B12-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:50.077Z",
+        "auditHash": "SHA256-IMMUTABLE-19BE27DE-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1318,8 +1318,8 @@
           "eloWinProb": 0.624
         },
         "matchFingerprint": "78_gimnasia la plata_belgrano_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:14.849Z",
-        "auditHash": "SHA256-IMMUTABLE-50473049-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:50.078Z",
+        "auditHash": "SHA256-IMMUTABLE-7A282CA8-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1372,8 +1372,8 @@
           "eloWinProb": 0.185
         },
         "matchFingerprint": "78_aldosivi_river plate_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:25:14.849Z",
-        "auditHash": "SHA256-IMMUTABLE-14A277B3-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:50.078Z",
+        "auditHash": "SHA256-IMMUTABLE-20EE2B5C-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {

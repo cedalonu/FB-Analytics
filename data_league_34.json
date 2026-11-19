@@ -1,7 +1,7 @@
 {
   "leagueId": "34",
   "leagueName": "Ligue 1",
-  "timestamp": "2026-11-18T15:24:54.816Z",
+  "timestamp": "2026-11-19T15:30:32.896Z",
   "fixtures": [
     {
       "id": "fix_34_1_Troyes",
@@ -9,14 +9,14 @@
       "leagueName": "Ligue 1",
       "dateRaw": "Fri 20/11",
       "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "19:45",
       "homeTeam": "Troyes",
       "awayTeam": "Le Havre",
       "odds": {
-        "home": 2.15,
-        "draw": 3.75,
-        "away": 3.54
+        "home": 2.19,
+        "draw": 3.7,
+        "away": 3.47
       },
       "prediction": {
         "homeExpectedGoals": 1.63,
@@ -80,7 +80,7 @@
       "leagueName": "Ligue 1",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "16:15",
       "homeTeam": "Nice",
       "awayTeam": "Paris Saint Germain",
@@ -151,7 +151,7 @@
       "leagueName": "Ligue 1",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "19:45",
       "homeTeam": "Lens",
       "awayTeam": "Toulouse",
@@ -222,14 +222,14 @@
       "leagueName": "Ligue 1",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "19:45",
       "homeTeam": "Lille",
       "awayTeam": "Olympique Lyonnais",
       "odds": {
-        "home": 2.39,
-        "draw": 3.6,
-        "away": 3.13
+        "home": 2.32,
+        "draw": 3.57,
+        "away": 3.28
       },
       "prediction": {
         "homeExpectedGoals": 1.37,
@@ -293,7 +293,7 @@
       "leagueName": "Ligue 1",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "19:45",
       "homeTeam": "Monaco",
       "awayTeam": "Auxerre",
@@ -364,7 +364,7 @@
       "leagueName": "Ligue 1",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "19:45",
       "homeTeam": "Strasbourg",
       "awayTeam": "Brest",
@@ -435,14 +435,14 @@
       "leagueName": "Ligue 1",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "14:00",
       "homeTeam": "Paris FC",
       "awayTeam": "Angers",
       "odds": {
-        "home": 1.4,
-        "draw": 5.41,
-        "away": 8.75
+        "home": 1.36,
+        "draw": 5.63,
+        "away": 9.6
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
@@ -506,7 +506,7 @@
       "leagueName": "Ligue 1",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "16:15",
       "homeTeam": "Lorient",
       "awayTeam": "Rennes",
@@ -577,7 +577,7 @@
       "leagueName": "Ligue 1",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "19:45",
       "homeTeam": "Marseille",
       "awayTeam": "Le Mans",
@@ -648,7 +648,7 @@
       "leagueName": "Ligue 1",
       "dateRaw": "Fri 27/11",
       "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "19:45",
       "homeTeam": "Brest",
       "awayTeam": "Paris FC",
@@ -719,7 +719,7 @@
       "leagueName": "Ligue 1",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "16:15",
       "homeTeam": "Angers",
       "awayTeam": "Lens",
@@ -790,7 +790,7 @@
       "leagueName": "Ligue 1",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "19:45",
       "homeTeam": "Le Havre",
       "awayTeam": "Strasbourg",
@@ -861,7 +861,7 @@
       "leagueName": "Ligue 1",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "19:45",
       "homeTeam": "Le Mans",
       "awayTeam": "Lille",
@@ -932,7 +932,7 @@
       "leagueName": "Ligue 1",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "19:45",
       "homeTeam": "Nice",
       "awayTeam": "Troyes",
@@ -1003,7 +1003,7 @@
       "leagueName": "Ligue 1",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "19:45",
       "homeTeam": "Paris Saint Germain",
       "awayTeam": "Lorient",
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.448
         },
         "matchFingerprint": "34_lens_marseille_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:24:54.815Z",
-        "auditHash": "SHA256-IMMUTABLE-3E37C7A-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:32.894Z",
+        "auditHash": "SHA256-IMMUTABLE-6C3F6E01-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.344
         },
         "matchFingerprint": "34_angers_nice_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:24:54.815Z",
-        "auditHash": "SHA256-IMMUTABLE-3EFEC17E-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:32.894Z",
+        "auditHash": "SHA256-IMMUTABLE-50DE5407-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.539
         },
         "matchFingerprint": "34_brest_olympique lyonnais_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:24:54.815Z",
-        "auditHash": "SHA256-IMMUTABLE-650B965E-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:32.894Z",
+        "auditHash": "SHA256-IMMUTABLE-B17541D-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.297
         },
         "matchFingerprint": "34_le havre_lorient_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:24:54.815Z",
-        "auditHash": "SHA256-IMMUTABLE-626F9F46-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:32.894Z",
+        "auditHash": "SHA256-IMMUTABLE-DB34B35-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.385
         },
         "matchFingerprint": "34_le mans_monaco_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:24:54.815Z",
-        "auditHash": "SHA256-IMMUTABLE-3EF89456-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:32.894Z",
+        "auditHash": "SHA256-IMMUTABLE-312A5625-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.451
         },
         "matchFingerprint": "34_rennes_lille_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:24:54.815Z",
-        "auditHash": "SHA256-IMMUTABLE-5EC7567C-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:32.894Z",
+        "auditHash": "SHA256-IMMUTABLE-3115BF09-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.887
         },
         "matchFingerprint": "34_paris saint germain_troyes_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:24:54.815Z",
-        "auditHash": "SHA256-IMMUTABLE-7AFC429-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:32.894Z",
+        "auditHash": "SHA256-IMMUTABLE-77D2AEA4-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.308
         },
         "matchFingerprint": "34_auxerre_paris fc_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:24:54.815Z",
-        "auditHash": "SHA256-IMMUTABLE-117BB264-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:32.894Z",
+        "auditHash": "SHA256-IMMUTABLE-7E616321-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.661
         },
         "matchFingerprint": "34_toulouse_strasbourg_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:24:54.815Z",
-        "auditHash": "SHA256-IMMUTABLE-5368381E-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:32.894Z",
+        "auditHash": "SHA256-IMMUTABLE-1CBAB25D-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.566
         },
         "matchFingerprint": "34_lorient_brest_Mon 02-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:24:54.815Z",
-        "auditHash": "SHA256-IMMUTABLE-33F64E8D-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:32.895Z",
+        "auditHash": "SHA256-IMMUTABLE-5BE6C717-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.73
         },
         "matchFingerprint": "34_marseille_toulouse_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:24:54.815Z",
-        "auditHash": "SHA256-IMMUTABLE-48A629A-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:32.895Z",
+        "auditHash": "SHA256-IMMUTABLE-6B9887C2-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.813
         },
         "matchFingerprint": "34_olympique lyonnais_angers_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:24:54.815Z",
-        "auditHash": "SHA256-IMMUTABLE-47C4BEEC-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:32.895Z",
+        "auditHash": "SHA256-IMMUTABLE-481856B8-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.69
         },
         "matchFingerprint": "34_paris fc_monaco_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:24:54.815Z",
-        "auditHash": "SHA256-IMMUTABLE-7DFC32B6-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:32.895Z",
+        "auditHash": "SHA256-IMMUTABLE-DD9485A-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.627
         },
         "matchFingerprint": "34_strasbourg_auxerre_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:24:54.815Z",
-        "auditHash": "SHA256-IMMUTABLE-13FEBD7-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:32.895Z",
+        "auditHash": "SHA256-IMMUTABLE-7162D633-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.569
         },
         "matchFingerprint": "34_troyes_le mans_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-18T15:24:54.815Z",
-        "auditHash": "SHA256-IMMUTABLE-39D7DB2C-2026-11-18",
+        "lockedAt": "2026-11-19T15:30:32.895Z",
+        "auditHash": "SHA256-IMMUTABLE-364B0F30-2026-11-19",
         "isImmutable": true
       },
       "evaluation": {
