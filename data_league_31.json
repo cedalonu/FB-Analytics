@@ -1,7 +1,7 @@
 {
   "leagueId": "31",
   "leagueName": "La Liga",
-  "timestamp": "2026-11-19T15:30:28.255Z",
+  "timestamp": "2026-11-20T15:09:06.280Z",
   "fixtures": [
     {
       "id": "fix_31_1_AthleticBilbao",
@@ -9,14 +9,14 @@
       "leagueName": "La Liga",
       "dateRaw": "Fri 20/11",
       "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "20:00",
       "homeTeam": "Athletic Bilbao",
       "awayTeam": "Espanyol",
       "odds": {
         "home": 1.54,
-        "draw": 4.47,
-        "away": 6.99
+        "draw": 4.52,
+        "away": 7.01
       },
       "prediction": {
         "homeExpectedGoals": 1.71,
@@ -80,7 +80,7 @@
       "leagueName": "La Liga",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "13:00",
       "homeTeam": "Alaves",
       "awayTeam": "Deportivo de La Coruna",
@@ -151,7 +151,7 @@
       "leagueName": "La Liga",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:15",
       "homeTeam": "Rayo Vallecano",
       "awayTeam": "Valencia",
@@ -222,7 +222,7 @@
       "leagueName": "La Liga",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:30",
       "homeTeam": "Sevilla",
       "awayTeam": "Real Betis",
@@ -293,7 +293,7 @@
       "leagueName": "La Liga",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "20:00",
       "homeTeam": "Real Madrid",
       "awayTeam": "Celta de Vigo",
@@ -364,7 +364,7 @@
       "leagueName": "La Liga",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "13:00",
       "homeTeam": "Barcelona",
       "awayTeam": "Villarreal",
@@ -435,14 +435,14 @@
       "leagueName": "La Liga",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "15:15",
       "homeTeam": "Racing Santander",
       "awayTeam": "Real Sociedad",
       "odds": {
         "home": 3.32,
-        "draw": 4.15,
-        "away": 2.11
+        "draw": 4.21,
+        "away": 2.1
       },
       "prediction": {
         "homeExpectedGoals": 2.56,
@@ -506,7 +506,7 @@
       "leagueName": "La Liga",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "17:30",
       "homeTeam": "Osasuna",
       "awayTeam": "Malaga",
@@ -577,7 +577,7 @@
       "leagueName": "La Liga",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "20:00",
       "homeTeam": "Getafe",
       "awayTeam": "Atletico Madrid",
@@ -648,7 +648,7 @@
       "leagueName": "La Liga",
       "dateRaw": "Mon 23/11",
       "dateIso": "2026-11-23T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "20:00",
       "homeTeam": "Levante",
       "awayTeam": "Elche",
@@ -719,7 +719,7 @@
       "leagueName": "La Liga",
       "dateRaw": "Fri 27/11",
       "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "20:00",
       "homeTeam": "Levante",
       "awayTeam": "Racing Santander",
@@ -790,7 +790,7 @@
       "leagueName": "La Liga",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "13:00",
       "homeTeam": "Real Betis",
       "awayTeam": "Rayo Vallecano",
@@ -861,7 +861,7 @@
       "leagueName": "La Liga",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:15",
       "homeTeam": "Malaga",
       "awayTeam": "Athletic Bilbao",
@@ -932,7 +932,7 @@
       "leagueName": "La Liga",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:30",
       "homeTeam": "Elche",
       "awayTeam": "Atletico Madrid",
@@ -1003,7 +1003,7 @@
       "leagueName": "La Liga",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "20:00",
       "homeTeam": "Real Madrid",
       "awayTeam": "Alaves",
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.433
         },
         "matchFingerprint": "31_atletico madrid_barcelona_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:28.251Z",
-        "auditHash": "SHA256-IMMUTABLE-37A3F748-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:06.276Z",
+        "auditHash": "SHA256-IMMUTABLE-6D8C9E57-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.665
         },
         "matchFingerprint": "31_celta de vigo_levante_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:28.252Z",
-        "auditHash": "SHA256-IMMUTABLE-196BC997-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:06.276Z",
+        "auditHash": "SHA256-IMMUTABLE-743B3417-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.706
         },
         "matchFingerprint": "31_villarreal_getafe_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:28.252Z",
-        "auditHash": "SHA256-IMMUTABLE-15D17BA7-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:06.276Z",
+        "auditHash": "SHA256-IMMUTABLE-44FDEED9-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.758
         },
         "matchFingerprint": "31_real sociedad_rayo vallecano_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:28.252Z",
-        "auditHash": "SHA256-IMMUTABLE-5C9DAA91-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:06.276Z",
+        "auditHash": "SHA256-IMMUTABLE-1CE4011-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.303
         },
         "matchFingerprint": "31_elche_real betis_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:28.252Z",
-        "auditHash": "SHA256-IMMUTABLE-40F6F680-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:06.276Z",
+        "auditHash": "SHA256-IMMUTABLE-64399F00-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.182
         },
         "matchFingerprint": "31_valencia_real madrid_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:28.252Z",
-        "auditHash": "SHA256-IMMUTABLE-6CAA1911-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:06.276Z",
+        "auditHash": "SHA256-IMMUTABLE-38867C6F-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.434
         },
         "matchFingerprint": "31_osasuna_athletic bilbao_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:28.252Z",
-        "auditHash": "SHA256-IMMUTABLE-2B3C40F2-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:06.277Z",
+        "auditHash": "SHA256-IMMUTABLE-2F93296F-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.529
         },
         "matchFingerprint": "31_espanyol_deportivo de la coruna_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:28.252Z",
-        "auditHash": "SHA256-IMMUTABLE-63E8D445-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:06.277Z",
+        "auditHash": "SHA256-IMMUTABLE-4147C15A-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.434
         },
         "matchFingerprint": "31_malaga_racing santander_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:28.252Z",
-        "auditHash": "SHA256-IMMUTABLE-7CE3022A-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:06.277Z",
+        "auditHash": "SHA256-IMMUTABLE-284D9375-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.675
         },
         "matchFingerprint": "31_sevilla_alaves_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:28.252Z",
-        "auditHash": "SHA256-IMMUTABLE-6948BC3B-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:06.277Z",
+        "auditHash": "SHA256-IMMUTABLE-E7951DA-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.706
         },
         "matchFingerprint": "31_deportivo de la coruna_osasuna_Mon 02-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:28.252Z",
-        "auditHash": "SHA256-IMMUTABLE-B030230-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:06.277Z",
+        "auditHash": "SHA256-IMMUTABLE-4FCC6831-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.529
         },
         "matchFingerprint": "31_athletic bilbao_real sociedad_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:28.252Z",
-        "auditHash": "SHA256-IMMUTABLE-13FDA934-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:06.277Z",
+        "auditHash": "SHA256-IMMUTABLE-46D1C12D-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.633
         },
         "matchFingerprint": "31_elche_valencia_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:28.252Z",
-        "auditHash": "SHA256-IMMUTABLE-5D7C4AFF-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:06.277Z",
+        "auditHash": "SHA256-IMMUTABLE-47B44AA0-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.251
         },
         "matchFingerprint": "31_racing santander_real madrid_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:28.252Z",
-        "auditHash": "SHA256-IMMUTABLE-54223C9-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:06.277Z",
+        "auditHash": "SHA256-IMMUTABLE-558D4698-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.443
         },
         "matchFingerprint": "31_getafe_sevilla_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:28.253Z",
-        "auditHash": "SHA256-IMMUTABLE-36AE46D-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:06.278Z",
+        "auditHash": "SHA256-IMMUTABLE-5E3A4ECE-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {

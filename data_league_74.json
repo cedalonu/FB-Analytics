@@ -1,114 +1,43 @@
 {
   "leagueId": "74",
   "leagueName": "Australia A-League",
-  "timestamp": "2026-11-19T15:30:52.849Z",
+  "timestamp": "2026-11-20T15:09:30.649Z",
   "fixtures": [
     {
-      "id": "fix_74_1_WesternSydney",
-      "leagueId": "74",
-      "leagueName": "Australia A-League",
-      "dateRaw": "Fri 20/11",
-      "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysFromNow": 1,
-      "time": "08:40",
-      "homeTeam": "Western Sydney",
-      "awayTeam": "Adelaide United",
-      "odds": {
-        "home": 1.68,
-        "draw": 4.49,
-        "away": 4.62
-      },
-      "prediction": {
-        "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.72,
-        "totalExpectedGoals": 5.22,
-        "bttsProbability": 0.466,
-        "bttsNoProbability": 0.534,
-        "over25Probability": 0.8064,
-        "under25Probability": 0.1936,
-        "homeWinProbability": 0.8216,
-        "drawProbability": 0.0457,
-        "awayWinProbability": 0.0924,
-        "predictedScore": {
-          "home": 4,
-          "away": 0,
-          "probability": 0.092
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 0.65,
-        "eloBlend": {
-          "homeElo": 1687,
-          "awayElo": 1542,
-          "eloWinProb": 0.77
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.72,
-        "totalExpectedGoals": 5.22,
-        "bttsProbability": 0.466,
-        "bttsNoProbability": 0.534,
-        "over25Probability": 0.8064,
-        "under25Probability": 0.1936,
-        "homeWinProbability": 0.8216,
-        "drawProbability": 0.0457,
-        "awayWinProbability": 0.0924,
-        "predictedScore": {
-          "home": 4,
-          "away": 0,
-          "probability": 0.092
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 0.65,
-        "eloBlend": {
-          "homeElo": 1687,
-          "awayElo": 1542,
-          "eloWinProb": 0.77
-        }
-      },
-      "confidenceScore": 81
-    },
-    {
-      "id": "fix_74_2_AucklandFC",
+      "id": "fix_74_1_AucklandFC",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "04:00",
       "homeTeam": "Auckland FC",
       "awayTeam": "Melbourne Victory",
       "odds": {
-        "home": 2.58,
+        "home": 2.5,
         "draw": 3.59,
-        "away": 2.7
+        "away": 2.8
       },
       "prediction": {
-        "homeExpectedGoals": 3.84,
-        "awayExpectedGoals": 0.86,
-        "totalExpectedGoals": 4.7,
-        "bttsProbability": 0.5417,
-        "bttsNoProbability": 0.4583,
-        "over25Probability": 0.8057,
-        "under25Probability": 0.1943,
-        "homeWinProbability": 0.7782,
-        "drawProbability": 0.0786,
-        "awayWinProbability": 0.1431,
+        "homeExpectedGoals": 1.9,
+        "awayExpectedGoals": 0.6,
+        "totalExpectedGoals": 2.5,
+        "bttsProbability": 0.3881,
+        "bttsNoProbability": 0.6119,
+        "over25Probability": 0.4541,
+        "under25Probability": 0.5459,
+        "homeWinProbability": 0.6735,
+        "drawProbability": 0.2176,
+        "awayWinProbability": 0.1845,
         "predictedScore": {
-          "home": 3,
+          "home": 1,
           "away": 0,
-          "probability": 0.0858
+          "probability": 0.1508
         },
-        "bttsPick": "BTTS_SI",
+        "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 49,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
         "iicdScore": 0.8,
         "eloBlend": {
           "homeElo": 1670,
@@ -117,25 +46,25 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 3.84,
-        "awayExpectedGoals": 0.86,
-        "totalExpectedGoals": 4.7,
-        "bttsProbability": 0.5417,
-        "bttsNoProbability": 0.4583,
-        "over25Probability": 0.8057,
-        "under25Probability": 0.1943,
-        "homeWinProbability": 0.7782,
-        "drawProbability": 0.0786,
-        "awayWinProbability": 0.1431,
+        "homeExpectedGoals": 1.9,
+        "awayExpectedGoals": 0.6,
+        "totalExpectedGoals": 2.5,
+        "bttsProbability": 0.3881,
+        "bttsNoProbability": 0.6119,
+        "over25Probability": 0.4541,
+        "under25Probability": 0.5459,
+        "homeWinProbability": 0.6735,
+        "drawProbability": 0.2176,
+        "awayWinProbability": 0.1845,
         "predictedScore": {
-          "home": 3,
+          "home": 1,
           "away": 0,
-          "probability": 0.0858
+          "probability": 0.1508
         },
-        "bttsPick": "BTTS_SI",
+        "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 49,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
         "iicdScore": 0.8,
         "eloBlend": {
           "homeElo": 1670,
@@ -143,15 +72,15 @@
           "eloWinProb": 0.665
         }
       },
-      "confidenceScore": 81
+      "confidenceScore": 61
     },
     {
-      "id": "fix_74_3_CentralCoastMariners",
+      "id": "fix_74_2_CentralCoastMariners",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "06:00",
       "homeTeam": "Central Coast Mariners",
       "awayTeam": "Perth",
@@ -161,68 +90,68 @@
         "away": 2.25
       },
       "prediction": {
-        "homeExpectedGoals": 1.97,
-        "awayExpectedGoals": 2.43,
-        "totalExpectedGoals": 4.4,
-        "bttsProbability": 0.7842,
-        "bttsNoProbability": 0.2158,
-        "over25Probability": 0.8102,
-        "under25Probability": 0.1898,
-        "homeWinProbability": 0.3381,
-        "drawProbability": 0.1994,
-        "awayWinProbability": 0.5293,
+        "homeExpectedGoals": 1.95,
+        "awayExpectedGoals": 2.34,
+        "totalExpectedGoals": 4.3,
+        "bttsProbability": 0.7762,
+        "bttsNoProbability": 0.2238,
+        "over25Probability": 0.7983,
+        "under25Probability": 0.2017,
+        "homeWinProbability": 0.347,
+        "drawProbability": 0.2035,
+        "awayWinProbability": 0.5182,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.0715
+          "probability": 0.073
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 45,
+        "bttsConfidence": 44,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 50,
+        "overUnderConfidence": 48,
         "iicdScore": 0.8,
         "eloBlend": {
           "homeElo": 1571,
-          "awayElo": 1719,
-          "eloWinProb": 0.383
+          "awayElo": 1715,
+          "eloWinProb": 0.388
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.97,
-        "awayExpectedGoals": 2.43,
-        "totalExpectedGoals": 4.4,
-        "bttsProbability": 0.7842,
-        "bttsNoProbability": 0.2158,
-        "over25Probability": 0.8102,
-        "under25Probability": 0.1898,
-        "homeWinProbability": 0.3381,
-        "drawProbability": 0.1994,
-        "awayWinProbability": 0.5293,
+        "homeExpectedGoals": 1.95,
+        "awayExpectedGoals": 2.34,
+        "totalExpectedGoals": 4.3,
+        "bttsProbability": 0.7762,
+        "bttsNoProbability": 0.2238,
+        "over25Probability": 0.7983,
+        "under25Probability": 0.2017,
+        "homeWinProbability": 0.347,
+        "drawProbability": 0.2035,
+        "awayWinProbability": 0.5182,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.0715
+          "probability": 0.073
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 45,
+        "bttsConfidence": 44,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 50,
+        "overUnderConfidence": 48,
         "iicdScore": 0.8,
         "eloBlend": {
           "homeElo": 1571,
-          "awayElo": 1719,
-          "eloWinProb": 0.383
+          "awayElo": 1715,
+          "eloWinProb": 0.388
         }
       },
-      "confidenceScore": 81
+      "confidenceScore": 80
     },
     {
-      "id": "fix_74_4_Brisbane",
+      "id": "fix_74_3_Brisbane",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "08:40",
       "homeTeam": "Brisbane",
       "awayTeam": "Sydney",
@@ -232,68 +161,68 @@
         "away": 2.65
       },
       "prediction": {
-        "homeExpectedGoals": 1.84,
-        "awayExpectedGoals": 1.03,
-        "totalExpectedGoals": 2.88,
-        "bttsProbability": 0.5481,
-        "bttsNoProbability": 0.4519,
-        "over25Probability": 0.5476,
-        "under25Probability": 0.4524,
-        "homeWinProbability": 0.5652,
-        "drawProbability": 0.24,
-        "awayWinProbability": 0.2784,
+        "homeExpectedGoals": 1.82,
+        "awayExpectedGoals": 0.94,
+        "totalExpectedGoals": 2.76,
+        "bttsProbability": 0.5175,
+        "bttsNoProbability": 0.4825,
+        "over25Probability": 0.5209,
+        "under25Probability": 0.4791,
+        "homeWinProbability": 0.5764,
+        "drawProbability": 0.2407,
+        "awayWinProbability": 0.2667,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1138
+          "probability": 0.1148
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 40,
-        "iicdScore": 0.8,
+        "iicdScore": 0.65,
         "eloBlend": {
-          "homeElo": 1749,
-          "awayElo": 1756,
+          "homeElo": 1745,
+          "awayElo": 1752,
           "eloWinProb": 0.583
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.84,
-        "awayExpectedGoals": 1.03,
-        "totalExpectedGoals": 2.88,
-        "bttsProbability": 0.5481,
-        "bttsNoProbability": 0.4519,
-        "over25Probability": 0.5476,
-        "under25Probability": 0.4524,
-        "homeWinProbability": 0.5652,
-        "drawProbability": 0.24,
-        "awayWinProbability": 0.2784,
+        "homeExpectedGoals": 1.82,
+        "awayExpectedGoals": 0.94,
+        "totalExpectedGoals": 2.76,
+        "bttsProbability": 0.5175,
+        "bttsNoProbability": 0.4825,
+        "over25Probability": 0.5209,
+        "under25Probability": 0.4791,
+        "homeWinProbability": 0.5764,
+        "drawProbability": 0.2407,
+        "awayWinProbability": 0.2667,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1138
+          "probability": 0.1148
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 40,
-        "iicdScore": 0.8,
+        "iicdScore": 0.65,
         "eloBlend": {
-          "homeElo": 1749,
-          "awayElo": 1756,
+          "homeElo": 1745,
+          "awayElo": 1752,
           "eloWinProb": 0.583
         }
       },
-      "confidenceScore": 55
+      "confidenceScore": 52
     },
     {
-      "id": "fix_74_5_Wellington",
+      "id": "fix_74_4_Wellington",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "02:00",
       "homeTeam": "Wellington",
       "awayTeam": "Macarthur FC",
@@ -303,20 +232,20 @@
         "away": 3.92
       },
       "prediction": {
-        "homeExpectedGoals": 1.65,
-        "awayExpectedGoals": 0.37,
-        "totalExpectedGoals": 2.02,
-        "bttsProbability": 0.2555,
-        "bttsNoProbability": 0.7445,
-        "over25Probability": 0.3297,
-        "under25Probability": 0.6703,
-        "homeWinProbability": 0.7257,
-        "drawProbability": 0.2361,
-        "awayWinProbability": 0.1206,
+        "homeExpectedGoals": 1.64,
+        "awayExpectedGoals": 0.36,
+        "totalExpectedGoals": 2,
+        "bttsProbability": 0.2483,
+        "bttsNoProbability": 0.7517,
+        "over25Probability": 0.3228,
+        "under25Probability": 0.6772,
+        "homeWinProbability": 0.7259,
+        "drawProbability": 0.2375,
+        "awayWinProbability": 0.1195,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.2134
+          "probability": 0.2172
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -330,20 +259,20 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.65,
-        "awayExpectedGoals": 0.37,
-        "totalExpectedGoals": 2.02,
-        "bttsProbability": 0.2555,
-        "bttsNoProbability": 0.7445,
-        "over25Probability": 0.3297,
-        "under25Probability": 0.6703,
-        "homeWinProbability": 0.7257,
-        "drawProbability": 0.2361,
-        "awayWinProbability": 0.1206,
+        "homeExpectedGoals": 1.64,
+        "awayExpectedGoals": 0.36,
+        "totalExpectedGoals": 2,
+        "bttsProbability": 0.2483,
+        "bttsNoProbability": 0.7517,
+        "over25Probability": 0.3228,
+        "under25Probability": 0.6772,
+        "homeWinProbability": 0.7259,
+        "drawProbability": 0.2375,
+        "awayWinProbability": 0.1195,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.2134
+          "probability": 0.2172
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -356,15 +285,15 @@
           "eloWinProb": 0.792
         }
       },
-      "confidenceScore": 74
+      "confidenceScore": 75
     },
     {
-      "id": "fix_74_6_MacarthurFC",
+      "id": "fix_74_5_MacarthurFC",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Fri 27/11",
       "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "08:40",
       "homeTeam": "Macarthur FC",
       "awayTeam": "Melbourne City",
@@ -374,20 +303,20 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.17,
-        "awayExpectedGoals": 1.07,
-        "totalExpectedGoals": 2.24,
-        "bttsProbability": 0.4615,
-        "bttsNoProbability": 0.5385,
-        "over25Probability": 0.3884,
-        "under25Probability": 0.6116,
-        "homeWinProbability": 0.4183,
-        "drawProbability": 0.3036,
-        "awayWinProbability": 0.3844,
+        "homeExpectedGoals": 1.16,
+        "awayExpectedGoals": 1.03,
+        "totalExpectedGoals": 2.19,
+        "bttsProbability": 0.4504,
+        "bttsNoProbability": 0.5496,
+        "over25Probability": 0.3756,
+        "under25Probability": 0.6244,
+        "homeWinProbability": 0.4244,
+        "drawProbability": 0.3071,
+        "awayWinProbability": 0.376,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1413
+          "probability": 0.1417
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -396,25 +325,25 @@
         "iicdScore": 0.8,
         "eloBlend": {
           "homeElo": 1677,
-          "awayElo": 1739,
-          "eloWinProb": 0.504
+          "awayElo": 1735,
+          "eloWinProb": 0.51
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.17,
-        "awayExpectedGoals": 1.07,
-        "totalExpectedGoals": 2.24,
-        "bttsProbability": 0.4615,
-        "bttsNoProbability": 0.5385,
-        "over25Probability": 0.3884,
-        "under25Probability": 0.6116,
-        "homeWinProbability": 0.4183,
-        "drawProbability": 0.3036,
-        "awayWinProbability": 0.3844,
+        "homeExpectedGoals": 1.16,
+        "awayExpectedGoals": 1.03,
+        "totalExpectedGoals": 2.19,
+        "bttsProbability": 0.4504,
+        "bttsNoProbability": 0.5496,
+        "over25Probability": 0.3756,
+        "under25Probability": 0.6244,
+        "homeWinProbability": 0.4244,
+        "drawProbability": 0.3071,
+        "awayWinProbability": 0.376,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1413
+          "probability": 0.1417
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -423,19 +352,19 @@
         "iicdScore": 0.8,
         "eloBlend": {
           "homeElo": 1677,
-          "awayElo": 1739,
-          "eloWinProb": 0.504
+          "awayElo": 1735,
+          "eloWinProb": 0.51
         }
       },
-      "confidenceScore": 61
+      "confidenceScore": 62
     },
     {
-      "id": "fix_74_7_CentralCoastMariners",
+      "id": "fix_74_6_CentralCoastMariners",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "08:40",
       "homeTeam": "Central Coast Mariners",
       "awayTeam": "Auckland FC",
@@ -445,23 +374,23 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 3.18,
-        "awayExpectedGoals": 3.07,
-        "totalExpectedGoals": 6.26,
-        "bttsProbability": 0.8869,
-        "bttsNoProbability": 0.1131,
-        "over25Probability": 0.9188,
-        "under25Probability": 0.0812,
-        "homeWinProbability": 0.4296,
-        "drawProbability": 0.165,
-        "awayWinProbability": 0.4438,
+        "homeExpectedGoals": 3.14,
+        "awayExpectedGoals": 2.98,
+        "totalExpectedGoals": 6.12,
+        "bttsProbability": 0.8841,
+        "bttsNoProbability": 0.1159,
+        "over25Probability": 0.9166,
+        "under25Probability": 0.0834,
+        "homeWinProbability": 0.4351,
+        "drawProbability": 0.167,
+        "awayWinProbability": 0.4391,
         "predictedScore": {
           "home": 3,
-          "away": 3,
-          "probability": 0.0499
+          "away": 2,
+          "probability": 0.0504
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 62,
+        "bttsConfidence": 61,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 67,
         "iicdScore": 0.8,
@@ -472,23 +401,23 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 3.18,
-        "awayExpectedGoals": 3.07,
-        "totalExpectedGoals": 6.26,
-        "bttsProbability": 0.8869,
-        "bttsNoProbability": 0.1131,
-        "over25Probability": 0.9188,
-        "under25Probability": 0.0812,
-        "homeWinProbability": 0.4296,
-        "drawProbability": 0.165,
-        "awayWinProbability": 0.4438,
+        "homeExpectedGoals": 3.14,
+        "awayExpectedGoals": 2.98,
+        "totalExpectedGoals": 6.12,
+        "bttsProbability": 0.8841,
+        "bttsNoProbability": 0.1159,
+        "over25Probability": 0.9166,
+        "under25Probability": 0.0834,
+        "homeWinProbability": 0.4351,
+        "drawProbability": 0.167,
+        "awayWinProbability": 0.4391,
         "predictedScore": {
           "home": 3,
-          "away": 3,
-          "probability": 0.0499
+          "away": 2,
+          "probability": 0.0504
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 62,
+        "bttsConfidence": 61,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 67,
         "iicdScore": 0.8,
@@ -501,12 +430,12 @@
       "confidenceScore": 92
     },
     {
-      "id": "fix_74_8_WesternSydney",
+      "id": "fix_74_7_WesternSydney",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "08:40",
       "homeTeam": "Western Sydney",
       "awayTeam": "Perth",
@@ -517,67 +446,67 @@
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 2.04,
-        "totalExpectedGoals": 6.54,
-        "bttsProbability": 0.785,
-        "bttsNoProbability": 0.215,
-        "over25Probability": 0.8706,
-        "under25Probability": 0.1294,
-        "homeWinProbability": 0.6416,
-        "drawProbability": 0.1042,
-        "awayWinProbability": 0.2336,
+        "awayExpectedGoals": 1.69,
+        "totalExpectedGoals": 6.19,
+        "bttsProbability": 0.7364,
+        "bttsNoProbability": 0.2636,
+        "over25Probability": 0.8591,
+        "under25Probability": 0.1409,
+        "homeWinProbability": 0.7203,
+        "drawProbability": 0.0906,
+        "awayWinProbability": 0.1643,
         "predictedScore": {
           "home": 4,
-          "away": 2,
-          "probability": 0.0514
+          "away": 1,
+          "probability": 0.0592
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 48,
-        "iicdScore": 0.65,
+        "overUnderConfidence": 57,
+        "iicdScore": 0.8,
         "eloBlend": {
-          "homeElo": 1687,
-          "awayElo": 1719,
-          "eloWinProb": 0.547
+          "homeElo": 1784,
+          "awayElo": 1715,
+          "eloWinProb": 0.684
         }
       },
       "pred": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 2.04,
-        "totalExpectedGoals": 6.54,
-        "bttsProbability": 0.785,
-        "bttsNoProbability": 0.215,
-        "over25Probability": 0.8706,
-        "under25Probability": 0.1294,
-        "homeWinProbability": 0.6416,
-        "drawProbability": 0.1042,
-        "awayWinProbability": 0.2336,
+        "awayExpectedGoals": 1.69,
+        "totalExpectedGoals": 6.19,
+        "bttsProbability": 0.7364,
+        "bttsNoProbability": 0.2636,
+        "over25Probability": 0.8591,
+        "under25Probability": 0.1409,
+        "homeWinProbability": 0.7203,
+        "drawProbability": 0.0906,
+        "awayWinProbability": 0.1643,
         "predictedScore": {
           "home": 4,
-          "away": 2,
-          "probability": 0.0514
+          "away": 1,
+          "probability": 0.0592
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 48,
-        "iicdScore": 0.65,
+        "overUnderConfidence": 57,
+        "iicdScore": 0.8,
         "eloBlend": {
-          "homeElo": 1687,
-          "awayElo": 1719,
-          "eloWinProb": 0.547
+          "homeElo": 1784,
+          "awayElo": 1715,
+          "eloWinProb": 0.684
         }
       },
-      "confidenceScore": 87
+      "confidenceScore": 86
     },
     {
-      "id": "fix_74_9_Wellington",
+      "id": "fix_74_8_Wellington",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Sun 06/12",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "02:00",
       "homeTeam": "Wellington",
       "awayTeam": "Adelaide United",
@@ -588,67 +517,67 @@
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 4.7,
-        "bttsProbability": 0.1641,
-        "bttsNoProbability": 0.8359,
-        "over25Probability": 0.7611,
-        "under25Probability": 0.2389,
-        "homeWinProbability": 0.8911,
-        "drawProbability": 0.0203,
-        "awayWinProbability": 0.0394,
+        "awayExpectedGoals": 0.27,
+        "totalExpectedGoals": 4.77,
+        "bttsProbability": 0.2125,
+        "bttsNoProbability": 0.7875,
+        "over25Probability": 0.7678,
+        "under25Probability": 0.2322,
+        "homeWinProbability": 0.8894,
+        "drawProbability": 0.0235,
+        "awayWinProbability": 0.0391,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1554
+          "probability": 0.1452
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 54,
+        "bttsConfidence": 46,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 42,
+        "overUnderConfidence": 43,
         "iicdScore": 0.8,
         "eloBlend": {
           "homeElo": 1844,
-          "awayElo": 1542,
-          "eloWinProb": 0.892
+          "awayElo": 1536,
+          "eloWinProb": 0.895
         }
       },
       "pred": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 4.7,
-        "bttsProbability": 0.1641,
-        "bttsNoProbability": 0.8359,
-        "over25Probability": 0.7611,
-        "under25Probability": 0.2389,
-        "homeWinProbability": 0.8911,
-        "drawProbability": 0.0203,
-        "awayWinProbability": 0.0394,
+        "awayExpectedGoals": 0.27,
+        "totalExpectedGoals": 4.77,
+        "bttsProbability": 0.2125,
+        "bttsNoProbability": 0.7875,
+        "over25Probability": 0.7678,
+        "under25Probability": 0.2322,
+        "homeWinProbability": 0.8894,
+        "drawProbability": 0.0235,
+        "awayWinProbability": 0.0391,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1554
+          "probability": 0.1452
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 54,
+        "bttsConfidence": 46,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 42,
+        "overUnderConfidence": 43,
         "iicdScore": 0.8,
         "eloBlend": {
           "homeElo": 1844,
-          "awayElo": 1542,
-          "eloWinProb": 0.892
+          "awayElo": 1536,
+          "eloWinProb": 0.895
         }
       },
-      "confidenceScore": 84
+      "confidenceScore": 79
     },
     {
-      "id": "fix_74_10_Sydney",
+      "id": "fix_74_9_Sydney",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Sun 06/12",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "06:00",
       "homeTeam": "Sydney",
       "awayTeam": "Melbourne Victory",
@@ -658,68 +587,68 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 3.4,
-        "awayExpectedGoals": 0.5,
-        "totalExpectedGoals": 3.9,
-        "bttsProbability": 0.3746,
-        "bttsNoProbability": 0.6254,
-        "over25Probability": 0.7237,
-        "under25Probability": 0.2763,
-        "homeWinProbability": 0.8368,
-        "drawProbability": 0.0769,
-        "awayWinProbability": 0.0983,
+        "homeExpectedGoals": 3.13,
+        "awayExpectedGoals": 0.7,
+        "totalExpectedGoals": 3.84,
+        "bttsProbability": 0.478,
+        "bttsNoProbability": 0.522,
+        "over25Probability": 0.7217,
+        "under25Probability": 0.2783,
+        "homeWinProbability": 0.804,
+        "drawProbability": 0.1083,
+        "awayWinProbability": 0.1158,
         "predictedScore": {
           "home": 3,
           "away": 0,
-          "probability": 0.1324
+          "probability": 0.1106
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 40,
-        "iicdScore": 0.8,
+        "iicdScore": 0.65,
         "eloBlend": {
-          "homeElo": 1756,
+          "homeElo": 1752,
           "awayElo": 1616,
-          "eloWinProb": 0.765
+          "eloWinProb": 0.761
         }
       },
       "pred": {
-        "homeExpectedGoals": 3.4,
-        "awayExpectedGoals": 0.5,
-        "totalExpectedGoals": 3.9,
-        "bttsProbability": 0.3746,
-        "bttsNoProbability": 0.6254,
-        "over25Probability": 0.7237,
-        "under25Probability": 0.2763,
-        "homeWinProbability": 0.8368,
-        "drawProbability": 0.0769,
-        "awayWinProbability": 0.0983,
+        "homeExpectedGoals": 3.13,
+        "awayExpectedGoals": 0.7,
+        "totalExpectedGoals": 3.84,
+        "bttsProbability": 0.478,
+        "bttsNoProbability": 0.522,
+        "over25Probability": 0.7217,
+        "under25Probability": 0.2783,
+        "homeWinProbability": 0.804,
+        "drawProbability": 0.1083,
+        "awayWinProbability": 0.1158,
         "predictedScore": {
           "home": 3,
           "away": 0,
-          "probability": 0.1324
+          "probability": 0.1106
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 40,
-        "iicdScore": 0.8,
+        "iicdScore": 0.65,
         "eloBlend": {
-          "homeElo": 1756,
+          "homeElo": 1752,
           "awayElo": 1616,
-          "eloWinProb": 0.765
+          "eloWinProb": 0.761
         }
       },
       "confidenceScore": 72
     },
     {
-      "id": "fix_74_11_AdelaideUnited",
+      "id": "fix_74_10_AdelaideUnited",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Fri 11/12",
       "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "08:40",
       "homeTeam": "Adelaide United",
       "awayTeam": "Macarthur FC",
@@ -729,68 +658,68 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 0.25,
-        "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 0.45,
-        "bttsProbability": 0.05,
-        "bttsNoProbability": 0.95,
-        "over25Probability": 0.05,
-        "under25Probability": 0.95,
-        "homeWinProbability": 0.2595,
-        "drawProbability": 0.6737,
-        "awayWinProbability": 0.3025,
+        "homeExpectedGoals": 0.94,
+        "awayExpectedGoals": 2.31,
+        "totalExpectedGoals": 3.25,
+        "bttsProbability": 0.5535,
+        "bttsNoProbability": 0.4465,
+        "over25Probability": 0.6283,
+        "under25Probability": 0.3717,
+        "homeWinProbability": 0.2241,
+        "drawProbability": 0.1917,
+        "awayWinProbability": 0.6495,
         "predictedScore": {
           "home": 0,
-          "away": 0,
-          "probability": 0.6395
+          "away": 2,
+          "probability": 0.1031
         },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 72,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 72,
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
         "iicdScore": 0.8,
         "eloBlend": {
-          "homeElo": 1542,
+          "homeElo": 1536,
           "awayElo": 1677,
-          "eloWinProb": 0.401
+          "eloWinProb": 0.392
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.25,
-        "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 0.45,
-        "bttsProbability": 0.05,
-        "bttsNoProbability": 0.95,
-        "over25Probability": 0.05,
-        "under25Probability": 0.95,
-        "homeWinProbability": 0.2595,
-        "drawProbability": 0.6737,
-        "awayWinProbability": 0.3025,
+        "homeExpectedGoals": 0.94,
+        "awayExpectedGoals": 2.31,
+        "totalExpectedGoals": 3.25,
+        "bttsProbability": 0.5535,
+        "bttsNoProbability": 0.4465,
+        "over25Probability": 0.6283,
+        "under25Probability": 0.3717,
+        "homeWinProbability": 0.2241,
+        "drawProbability": 0.1917,
+        "awayWinProbability": 0.6495,
         "predictedScore": {
           "home": 0,
-          "away": 0,
-          "probability": 0.6395
+          "away": 2,
+          "probability": 0.1031
         },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 72,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 72,
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
         "iicdScore": 0.8,
         "eloBlend": {
-          "homeElo": 1542,
+          "homeElo": 1536,
           "awayElo": 1677,
-          "eloWinProb": 0.401
+          "eloWinProb": 0.392
         }
       },
-      "confidenceScore": 95
+      "confidenceScore": 63
     },
     {
-      "id": "fix_74_12_Perth",
+      "id": "fix_74_11_Perth",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Fri 11/12",
       "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "10:45",
       "homeTeam": "Perth",
       "awayTeam": "Melbourne City",
@@ -800,68 +729,68 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 4.7,
-        "bttsProbability": 0.1641,
-        "bttsNoProbability": 0.8359,
-        "over25Probability": 0.7611,
-        "under25Probability": 0.2389,
-        "homeWinProbability": 0.7764,
-        "drawProbability": 0.0203,
-        "awayWinProbability": 0.1541,
+        "homeExpectedGoals": 3.73,
+        "awayExpectedGoals": 0.49,
+        "totalExpectedGoals": 4.21,
+        "bttsProbability": 0.3642,
+        "bttsNoProbability": 0.6358,
+        "over25Probability": 0.7551,
+        "under25Probability": 0.2449,
+        "homeWinProbability": 0.7732,
+        "drawProbability": 0.0599,
+        "awayWinProbability": 0.1642,
         "predictedScore": {
-          "home": 4,
+          "home": 3,
           "away": 0,
-          "probability": 0.1554
+          "probability": 0.1275
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 54,
+        "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 42,
+        "overUnderConfidence": 41,
         "iicdScore": 0.8,
         "eloBlend": {
-          "homeElo": 1719,
-          "awayElo": 1739,
+          "homeElo": 1715,
+          "awayElo": 1735,
           "eloWinProb": 0.564
         }
       },
       "pred": {
-        "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 4.7,
-        "bttsProbability": 0.1641,
-        "bttsNoProbability": 0.8359,
-        "over25Probability": 0.7611,
-        "under25Probability": 0.2389,
-        "homeWinProbability": 0.7764,
-        "drawProbability": 0.0203,
-        "awayWinProbability": 0.1541,
+        "homeExpectedGoals": 3.73,
+        "awayExpectedGoals": 0.49,
+        "totalExpectedGoals": 4.21,
+        "bttsProbability": 0.3642,
+        "bttsNoProbability": 0.6358,
+        "over25Probability": 0.7551,
+        "under25Probability": 0.2449,
+        "homeWinProbability": 0.7732,
+        "drawProbability": 0.0599,
+        "awayWinProbability": 0.1642,
         "predictedScore": {
-          "home": 4,
+          "home": 3,
           "away": 0,
-          "probability": 0.1554
+          "probability": 0.1275
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 54,
+        "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 42,
+        "overUnderConfidence": 41,
         "iicdScore": 0.8,
         "eloBlend": {
-          "homeElo": 1719,
-          "awayElo": 1739,
+          "homeElo": 1715,
+          "awayElo": 1735,
           "eloWinProb": 0.564
         }
       },
-      "confidenceScore": 84
+      "confidenceScore": 76
     },
     {
-      "id": "fix_74_13_AucklandFC",
+      "id": "fix_74_12_AucklandFC",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Sat 12/12",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "04:00",
       "homeTeam": "Auckland FC",
       "awayTeam": "Sydney",
@@ -871,68 +800,68 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 3.1,
-        "awayExpectedGoals": 1.17,
-        "totalExpectedGoals": 4.27,
-        "bttsProbability": 0.6509,
-        "bttsNoProbability": 0.3491,
-        "over25Probability": 0.7843,
-        "under25Probability": 0.2157,
-        "homeWinProbability": 0.6452,
-        "drawProbability": 0.14,
-        "awayWinProbability": 0.2546,
+        "homeExpectedGoals": 1.56,
+        "awayExpectedGoals": 0.53,
+        "totalExpectedGoals": 2.09,
+        "bttsProbability": 0.3303,
+        "bttsNoProbability": 0.6697,
+        "over25Probability": 0.3469,
+        "under25Probability": 0.6531,
+        "homeWinProbability": 0.5702,
+        "drawProbability": 0.2614,
+        "awayWinProbability": 0.2598,
         "predictedScore": {
-          "home": 3,
-          "away": 1,
-          "probability": 0.0813
+          "home": 1,
+          "away": 0,
+          "probability": 0.1871
         },
-        "bttsPick": "BTTS_SI",
+        "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 45,
-        "iicdScore": 0.8,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.65,
         "eloBlend": {
           "homeElo": 1670,
-          "awayElo": 1756,
-          "eloWinProb": 0.47
+          "awayElo": 1752,
+          "eloWinProb": 0.476
         }
       },
       "pred": {
-        "homeExpectedGoals": 3.1,
-        "awayExpectedGoals": 1.17,
-        "totalExpectedGoals": 4.27,
-        "bttsProbability": 0.6509,
-        "bttsNoProbability": 0.3491,
-        "over25Probability": 0.7843,
-        "under25Probability": 0.2157,
-        "homeWinProbability": 0.6452,
-        "drawProbability": 0.14,
-        "awayWinProbability": 0.2546,
+        "homeExpectedGoals": 1.56,
+        "awayExpectedGoals": 0.53,
+        "totalExpectedGoals": 2.09,
+        "bttsProbability": 0.3303,
+        "bttsNoProbability": 0.6697,
+        "over25Probability": 0.3469,
+        "under25Probability": 0.6531,
+        "homeWinProbability": 0.5702,
+        "drawProbability": 0.2614,
+        "awayWinProbability": 0.2598,
         "predictedScore": {
-          "home": 3,
-          "away": 1,
-          "probability": 0.0813
+          "home": 1,
+          "away": 0,
+          "probability": 0.1871
         },
-        "bttsPick": "BTTS_SI",
+        "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 45,
-        "iicdScore": 0.8,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.65,
         "eloBlend": {
           "homeElo": 1670,
-          "awayElo": 1756,
-          "eloWinProb": 0.47
+          "awayElo": 1752,
+          "eloWinProb": 0.476
         }
       },
-      "confidenceScore": 78
+      "confidenceScore": 67
     },
     {
-      "id": "fix_74_14_CentralCoastMariners",
+      "id": "fix_74_13_CentralCoastMariners",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Sat 12/12",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "06:00",
       "homeTeam": "Central Coast Mariners",
       "awayTeam": "Brisbane",
@@ -942,20 +871,20 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 0.94,
+        "homeExpectedGoals": 0.93,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 4.94,
-        "bttsProbability": 0.5684,
-        "bttsNoProbability": 0.4316,
-        "over25Probability": 0.819,
-        "under25Probability": 0.181,
-        "homeWinProbability": 0.1467,
-        "drawProbability": 0.076,
-        "awayWinProbability": 0.7706,
+        "totalExpectedGoals": 4.93,
+        "bttsProbability": 0.566,
+        "bttsNoProbability": 0.434,
+        "over25Probability": 0.8184,
+        "under25Probability": 0.1816,
+        "homeWinProbability": 0.1482,
+        "drawProbability": 0.0756,
+        "awayWinProbability": 0.7694,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.0764
+          "probability": 0.0769
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -964,25 +893,25 @@
         "iicdScore": 0.8,
         "eloBlend": {
           "homeElo": 1571,
-          "awayElo": 1749,
-          "eloWinProb": 0.343
+          "awayElo": 1745,
+          "eloWinProb": 0.348
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.94,
+        "homeExpectedGoals": 0.93,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 4.94,
-        "bttsProbability": 0.5684,
-        "bttsNoProbability": 0.4316,
-        "over25Probability": 0.819,
-        "under25Probability": 0.181,
-        "homeWinProbability": 0.1467,
-        "drawProbability": 0.076,
-        "awayWinProbability": 0.7706,
+        "totalExpectedGoals": 4.93,
+        "bttsProbability": 0.566,
+        "bttsNoProbability": 0.434,
+        "over25Probability": 0.8184,
+        "under25Probability": 0.1816,
+        "homeWinProbability": 0.1482,
+        "drawProbability": 0.0756,
+        "awayWinProbability": 0.7694,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.0764
+          "probability": 0.0769
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -991,19 +920,19 @@
         "iicdScore": 0.8,
         "eloBlend": {
           "homeElo": 1571,
-          "awayElo": 1749,
-          "eloWinProb": 0.343
+          "awayElo": 1745,
+          "eloWinProb": 0.348
         }
       },
       "confidenceScore": 82
     },
     {
-      "id": "fix_74_15_MelbourneVictory",
+      "id": "fix_74_14_MelbourneVictory",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Sat 12/12",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "08:40",
       "homeTeam": "Melbourne Victory",
       "awayTeam": "Newcastle Jets",
@@ -1013,24 +942,24 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.33,
-        "awayExpectedGoals": 1.79,
-        "totalExpectedGoals": 3.12,
-        "bttsProbability": 0.6176,
-        "bttsNoProbability": 0.3824,
-        "over25Probability": 0.6015,
-        "under25Probability": 0.3985,
-        "homeWinProbability": 0.4066,
-        "drawProbability": 0.2439,
-        "awayWinProbability": 0.4345,
+        "homeExpectedGoals": 1.25,
+        "awayExpectedGoals": 1.33,
+        "totalExpectedGoals": 2.59,
+        "bttsProbability": 0.5337,
+        "bttsNoProbability": 0.4663,
+        "over25Probability": 0.4782,
+        "under25Probability": 0.5218,
+        "homeWinProbability": 0.4473,
+        "drawProbability": 0.2795,
+        "awayWinProbability": 0.3709,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1116
+          "probability": 0.1333
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
+        "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 0.8,
         "eloBlend": {
@@ -1040,24 +969,24 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.33,
-        "awayExpectedGoals": 1.79,
-        "totalExpectedGoals": 3.12,
-        "bttsProbability": 0.6176,
-        "bttsNoProbability": 0.3824,
-        "over25Probability": 0.6015,
-        "under25Probability": 0.3985,
-        "homeWinProbability": 0.4066,
-        "drawProbability": 0.2439,
-        "awayWinProbability": 0.4345,
+        "homeExpectedGoals": 1.25,
+        "awayExpectedGoals": 1.33,
+        "totalExpectedGoals": 2.59,
+        "bttsProbability": 0.5337,
+        "bttsNoProbability": 0.4663,
+        "over25Probability": 0.4782,
+        "under25Probability": 0.5218,
+        "homeWinProbability": 0.4473,
+        "drawProbability": 0.2795,
+        "awayWinProbability": 0.3709,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1116
+          "probability": 0.1333
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
+        "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 0.8,
         "eloBlend": {
@@ -1066,12 +995,191 @@
           "eloWinProb": 0.644
         }
       },
-      "confidenceScore": 62
+      "confidenceScore": 53
+    },
+    {
+      "id": "fix_74_15_WesternSydney",
+      "leagueId": "74",
+      "leagueName": "Australia A-League",
+      "dateRaw": "Sun 13/12",
+      "dateIso": "2026-11-22T12:00:00.000Z",
+      "daysFromNow": 2,
+      "time": "06:00",
+      "homeTeam": "Western Sydney",
+      "awayTeam": "Wellington",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 0.25,
+        "awayExpectedGoals": 3.06,
+        "totalExpectedGoals": 3.31,
+        "bttsProbability": 0.2096,
+        "bttsNoProbability": 0.7904,
+        "over25Probability": 0.6295,
+        "under25Probability": 0.3705,
+        "homeWinProbability": 0.186,
+        "drawProbability": 0.0736,
+        "awayWinProbability": 0.7576,
+        "predictedScore": {
+          "home": 0,
+          "away": 3,
+          "probability": 0.1744
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 46,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1784,
+          "awayElo": 1844,
+          "eloWinProb": 0.507
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 0.25,
+        "awayExpectedGoals": 3.06,
+        "totalExpectedGoals": 3.31,
+        "bttsProbability": 0.2096,
+        "bttsNoProbability": 0.7904,
+        "over25Probability": 0.6295,
+        "under25Probability": 0.3705,
+        "homeWinProbability": 0.186,
+        "drawProbability": 0.0736,
+        "awayWinProbability": 0.7576,
+        "predictedScore": {
+          "home": 0,
+          "away": 3,
+          "probability": 0.1744
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 46,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1784,
+          "awayElo": 1844,
+          "eloWinProb": 0.507
+        }
+      },
+      "confidenceScore": 79
     }
   ],
   "results": [
     {
-      "id": "res_74_1_MacarthurFC",
+      "id": "res_74_1_WesternSydney",
+      "leagueId": "74",
+      "leagueName": "Australia A-League",
+      "dateRaw": "Fri 20-Nov-2026",
+      "dateIso": "2026-11-20T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "08:40",
+      "homeTeam": "Western Sydney",
+      "awayTeam": "Adelaide United",
+      "score": "4-2",
+      "homeGoals": 4,
+      "awayGoals": 2,
+      "totalGoals": 6,
+      "actualBtts": true,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 1.17,
+        "totalExpectedGoals": 5.67,
+        "bttsProbability": 0.6245,
+        "bttsNoProbability": 0.3755,
+        "over25Probability": 0.8352,
+        "under25Probability": 0.1648,
+        "homeWinProbability": 0.8224,
+        "drawProbability": 0.0676,
+        "awayWinProbability": 0.0774,
+        "predictedScore": {
+          "home": 4,
+          "away": 1,
+          "probability": 0.0689
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 54,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1784,
+          "awayElo": 1536,
+          "eloWinProb": 0.858
+        },
+        "matchFingerprint": "74_western sydney_adelaide united_Fri 20-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-20T15:09:30.647Z",
+        "auditHash": "SHA256-IMMUTABLE-B266B1D-2026-11-20",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": true,
+        "bothHit": true,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_74_2_AdelaideUnited",
+      "leagueId": "74",
+      "leagueName": "Australia A-League",
+      "dateRaw": "Sun 08-Nov-2026",
+      "dateIso": "2026-11-22T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "06:00",
+      "homeTeam": "Adelaide United",
+      "awayTeam": "Melbourne Victory",
+      "score": "2-2",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "totalGoals": 4,
+      "actualBtts": true,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 2.07,
+        "awayExpectedGoals": 2.94,
+        "totalExpectedGoals": 5.01,
+        "bttsProbability": 0.8197,
+        "bttsNoProbability": 0.1803,
+        "over25Probability": 0.8645,
+        "under25Probability": 0.1355,
+        "homeWinProbability": 0.3382,
+        "drawProbability": 0.1761,
+        "awayWinProbability": 0.5395,
+        "predictedScore": {
+          "home": 2,
+          "away": 2,
+          "probability": 0.0617
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 51,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 58,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1536,
+          "awayElo": 1616,
+          "eloWinProb": 0.478
+        },
+        "matchFingerprint": "74_adelaide united_melbourne victory_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-20T15:09:30.647Z",
+        "auditHash": "SHA256-IMMUTABLE-22D8B28C-2026-11-20",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": true,
+        "bothHit": true,
+        "exactScoreHit": true
+      }
+    },
+    {
+      "id": "res_74_3_MacarthurFC",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1087,20 +1195,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 0.58,
-        "awayExpectedGoals": 2.07,
-        "totalExpectedGoals": 2.64,
-        "bttsProbability": 0.3867,
-        "bttsNoProbability": 0.6133,
-        "over25Probability": 0.4914,
-        "under25Probability": 0.5086,
-        "homeWinProbability": 0.2274,
-        "drawProbability": 0.1945,
-        "awayWinProbability": 0.6452,
+        "homeExpectedGoals": 0.57,
+        "awayExpectedGoals": 1.99,
+        "totalExpectedGoals": 2.56,
+        "bttsProbability": 0.3807,
+        "bttsNoProbability": 0.6193,
+        "over25Probability": 0.4716,
+        "under25Probability": 0.5284,
+        "homeWinProbability": 0.2324,
+        "drawProbability": 0.2034,
+        "awayWinProbability": 0.6347,
         "predictedScore": {
           "home": 0,
           "away": 2,
-          "probability": 0.1521
+          "probability": 0.1529
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1109,12 +1217,12 @@
         "iicdScore": 0.8,
         "eloBlend": {
           "homeElo": 1677,
-          "awayElo": 1749,
-          "eloWinProb": 0.49
+          "awayElo": 1745,
+          "eloWinProb": 0.496
         },
         "matchFingerprint": "74_macarthur fc_brisbane_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:52.846Z",
-        "auditHash": "SHA256-IMMUTABLE-6ADF89C6-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:30.647Z",
+        "auditHash": "SHA256-IMMUTABLE-125DE61D-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1125,7 +1233,61 @@
       }
     },
     {
-      "id": "res_74_2_MelbourneCity",
+      "id": "res_74_4_Perth",
+      "leagueId": "74",
+      "leagueName": "Australia A-League",
+      "dateRaw": "Sat 07-Nov-2026",
+      "dateIso": "2026-11-21T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "10:45",
+      "homeTeam": "Perth",
+      "awayTeam": "Newcastle Jets",
+      "score": "2-1",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "totalGoals": 3,
+      "actualBtts": true,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.57,
+        "totalExpectedGoals": 5.07,
+        "bttsProbability": 0.3944,
+        "bttsNoProbability": 0.6056,
+        "over25Probability": 0.7948,
+        "under25Probability": 0.2052,
+        "homeWinProbability": 0.8274,
+        "drawProbability": 0.0383,
+        "awayWinProbability": 0.0914,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.107
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 47,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1715,
+          "awayElo": 1578,
+          "eloWinProb": 0.762
+        },
+        "matchFingerprint": "74_perth_newcastle jets_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-20T15:09:30.647Z",
+        "auditHash": "SHA256-IMMUTABLE-6C484E95-2026-11-20",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": false,
+        "overUnderHit": true,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_74_5_MelbourneCity",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Sat 07-Nov-2026",
@@ -1141,34 +1303,34 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 0.94,
-        "awayExpectedGoals": 0.28,
-        "totalExpectedGoals": 1.22,
-        "bttsProbability": 0.155,
-        "bttsNoProbability": 0.845,
-        "over25Probability": 0.1257,
-        "under25Probability": 0.8743,
-        "homeWinProbability": 0.5623,
-        "drawProbability": 0.3872,
-        "awayWinProbability": 0.186,
+        "homeExpectedGoals": 0.8,
+        "awayExpectedGoals": 0.31,
+        "totalExpectedGoals": 1.11,
+        "bttsProbability": 0.1531,
+        "bttsNoProbability": 0.8469,
+        "over25Probability": 0.102,
+        "under25Probability": 0.898,
+        "homeWinProbability": 0.4702,
+        "drawProbability": 0.4266,
+        "awayWinProbability": 0.2524,
         "predictedScore": {
           "home": 0,
           "away": 0,
-          "probability": 0.2989
+          "probability": 0.3339
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 45,
+        "bttsConfidence": 55,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 49,
-        "iicdScore": 0.65,
+        "overUnderConfidence": 64,
+        "iicdScore": 0.8,
         "eloBlend": {
-          "homeElo": 1739,
-          "awayElo": 1687,
-          "eloWinProb": 0.662
+          "homeElo": 1735,
+          "awayElo": 1784,
+          "eloWinProb": 0.523
         },
         "matchFingerprint": "74_melbourne city_western sydney_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:52.846Z",
-        "auditHash": "SHA256-IMMUTABLE-695D5EA3-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:30.647Z",
+        "auditHash": "SHA256-IMMUTABLE-224C7BA3-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1179,7 +1341,61 @@
       }
     },
     {
-      "id": "res_74_3_Sydney",
+      "id": "res_74_6_AucklandFC",
+      "leagueId": "74",
+      "leagueName": "Australia A-League",
+      "dateRaw": "Sat 07-Nov-2026",
+      "dateIso": "2026-11-21T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "04:00",
+      "homeTeam": "Auckland FC",
+      "awayTeam": "Wellington",
+      "score": "0-0",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "totalGoals": 0,
+      "actualBtts": false,
+      "actualOver25": false,
+      "prediction": {
+        "homeExpectedGoals": 0.25,
+        "awayExpectedGoals": 0.91,
+        "totalExpectedGoals": 1.16,
+        "bttsProbability": 0.1366,
+        "bttsNoProbability": 0.8634,
+        "over25Probability": 0.1123,
+        "under25Probability": 0.8877,
+        "homeWinProbability": 0.1834,
+        "drawProbability": 0.3971,
+        "awayWinProbability": 0.5585,
+        "predictedScore": {
+          "home": 0,
+          "away": 0,
+          "probability": 0.3173
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 58,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 62,
+        "iicdScore": 0.8,
+        "eloBlend": {
+          "homeElo": 1670,
+          "awayElo": 1844,
+          "eloWinProb": 0.348
+        },
+        "matchFingerprint": "74_auckland fc_wellington_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-20T15:09:30.647Z",
+        "auditHash": "SHA256-IMMUTABLE-3CEF4C04-2026-11-20",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": true,
+        "bothHit": true,
+        "exactScoreHit": true
+      }
+    },
+    {
+      "id": "res_74_7_Sydney",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Fri 06-Nov-2026",
@@ -1195,34 +1411,34 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 4.25,
-        "awayExpectedGoals": 0.31,
-        "totalExpectedGoals": 4.55,
-        "bttsProbability": 0.2446,
-        "bttsNoProbability": 0.7554,
-        "over25Probability": 0.7653,
-        "under25Probability": 0.2347,
-        "homeWinProbability": 0.8652,
-        "drawProbability": 0.0312,
-        "awayWinProbability": 0.0709,
+        "homeExpectedGoals": 4.39,
+        "awayExpectedGoals": 0.33,
+        "totalExpectedGoals": 4.72,
+        "bttsProbability": 0.2597,
+        "bttsNoProbability": 0.7403,
+        "over25Probability": 0.7723,
+        "under25Probability": 0.2277,
+        "homeWinProbability": 0.8585,
+        "drawProbability": 0.0292,
+        "awayWinProbability": 0.0722,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1425
+          "probability": 0.1374
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 51,
+        "bttsConfidence": 41,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 53,
-        "iicdScore": 1,
+        "overUnderConfidence": 46,
+        "iicdScore": 0.85,
         "eloBlend": {
-          "homeElo": 1756,
+          "homeElo": 1752,
           "awayElo": 1571,
-          "eloWinProb": 0.808
+          "eloWinProb": 0.805
         },
         "matchFingerprint": "74_sydney_central coast mariners_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:52.846Z",
-        "auditHash": "SHA256-IMMUTABLE-705D8DDA-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:30.647Z",
+        "auditHash": "SHA256-IMMUTABLE-7000C37E-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1233,7 +1449,7 @@
       }
     },
     {
-      "id": "res_74_4_Perth",
+      "id": "res_74_8_Perth",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Sun 01-Nov-2026",
@@ -1250,33 +1466,33 @@
       "actualOver25": true,
       "prediction": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 4.7,
-        "bttsProbability": 0.1641,
-        "bttsNoProbability": 0.8359,
-        "over25Probability": 0.7611,
-        "under25Probability": 0.2389,
-        "homeWinProbability": 0.8593,
-        "drawProbability": 0.0203,
-        "awayWinProbability": 0.0713,
+        "awayExpectedGoals": 0.33,
+        "totalExpectedGoals": 4.83,
+        "bttsProbability": 0.2519,
+        "bttsNoProbability": 0.7481,
+        "over25Probability": 0.7734,
+        "under25Probability": 0.2266,
+        "homeWinProbability": 0.8543,
+        "drawProbability": 0.0263,
+        "awayWinProbability": 0.0723,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1554
+          "probability": 0.137
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 54,
+        "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 42,
+        "overUnderConfidence": 44,
         "iicdScore": 0.8,
         "eloBlend": {
-          "homeElo": 1719,
-          "awayElo": 1542,
-          "eloWinProb": 0.801
+          "homeElo": 1715,
+          "awayElo": 1536,
+          "eloWinProb": 0.803
         },
         "matchFingerprint": "74_perth_adelaide united_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:52.846Z",
-        "auditHash": "SHA256-IMMUTABLE-7251D005-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:30.647Z",
+        "auditHash": "SHA256-IMMUTABLE-3ABA5C91-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1287,7 +1503,7 @@
       }
     },
     {
-      "id": "res_74_5_MelbourneVictory",
+      "id": "res_74_9_MelbourneVictory",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Sun 01-Nov-2026",
@@ -1303,20 +1519,20 @@
       "actualBtts": true,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 1.56,
-        "awayExpectedGoals": 0.57,
-        "totalExpectedGoals": 2.14,
-        "bttsProbability": 0.3513,
-        "bttsNoProbability": 0.6487,
-        "over25Probability": 0.3602,
-        "under25Probability": 0.6398,
-        "homeWinProbability": 0.6247,
-        "drawProbability": 0.2627,
-        "awayWinProbability": 0.2044,
+        "homeExpectedGoals": 1.48,
+        "awayExpectedGoals": 0.56,
+        "totalExpectedGoals": 2.03,
+        "bttsProbability": 0.3356,
+        "bttsNoProbability": 0.6644,
+        "over25Probability": 0.3324,
+        "under25Probability": 0.6676,
+        "homeWinProbability": 0.6137,
+        "drawProbability": 0.2753,
+        "awayWinProbability": 0.2072,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1781
+          "probability": 0.1869
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1329,8 +1545,8 @@
           "eloWinProb": 0.653
         },
         "matchFingerprint": "74_melbourne victory_central coast mariners_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:52.847Z",
-        "auditHash": "SHA256-IMMUTABLE-228249AE-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:30.647Z",
+        "auditHash": "SHA256-IMMUTABLE-391C2E4A-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1341,7 +1557,7 @@
       }
     },
     {
-      "id": "res_74_6_MacarthurFC",
+      "id": "res_74_10_MacarthurFC",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Sat 31-Oct-2026",
@@ -1357,34 +1573,34 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 0.43,
-        "awayExpectedGoals": 0.31,
-        "totalExpectedGoals": 0.74,
-        "bttsProbability": 0.0965,
-        "bttsNoProbability": 0.9035,
+        "homeExpectedGoals": 0.36,
+        "awayExpectedGoals": 0.34,
+        "totalExpectedGoals": 0.7,
+        "bttsProbability": 0.0913,
+        "bttsNoProbability": 0.9087,
         "over25Probability": 0.05,
         "under25Probability": 0.95,
-        "homeWinProbability": 0.3754,
-        "drawProbability": 0.5518,
-        "awayWinProbability": 0.2659,
+        "homeWinProbability": 0.2987,
+        "drawProbability": 0.5658,
+        "awayWinProbability": 0.3335,
         "predictedScore": {
           "home": 0,
           "away": 0,
-          "probability": 0.4824
+          "probability": 0.4992
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 69,
+        "bttsConfidence": 82,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 77,
-        "iicdScore": 0.85,
+        "overUnderConfidence": 90,
+        "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1677,
-          "awayElo": 1687,
-          "eloWinProb": 0.578
+          "awayElo": 1784,
+          "eloWinProb": 0.44
         },
         "matchFingerprint": "74_macarthur fc_western sydney_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:52.847Z",
-        "auditHash": "SHA256-IMMUTABLE-780808D9-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:30.648Z",
+        "auditHash": "SHA256-IMMUTABLE-4A74DDDF-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1395,7 +1611,7 @@
       }
     },
     {
-      "id": "res_74_7_MelbourneCity",
+      "id": "res_74_11_MelbourneCity",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Sat 31-Oct-2026",
@@ -1411,45 +1627,45 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 2.55,
-        "awayExpectedGoals": 1.05,
-        "totalExpectedGoals": 3.6,
-        "bttsProbability": 0.6003,
-        "bttsNoProbability": 0.3997,
-        "over25Probability": 0.6919,
-        "under25Probability": 0.3081,
-        "homeWinProbability": 0.6465,
-        "drawProbability": 0.1758,
-        "awayWinProbability": 0.2362,
+        "homeExpectedGoals": 2.5,
+        "awayExpectedGoals": 0.96,
+        "totalExpectedGoals": 3.46,
+        "bttsProbability": 0.5675,
+        "bttsNoProbability": 0.4325,
+        "over25Probability": 0.6676,
+        "under25Probability": 0.3324,
+        "homeWinProbability": 0.6552,
+        "drawProbability": 0.1747,
+        "awayWinProbability": 0.2285,
         "predictedScore": {
           "home": 2,
-          "away": 1,
-          "probability": 0.0933
+          "away": 0,
+          "probability": 0.0984
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 40,
-        "iicdScore": 0.8,
+        "iicdScore": 0.65,
         "eloBlend": {
-          "homeElo": 1739,
-          "awayElo": 1756,
+          "homeElo": 1735,
+          "awayElo": 1752,
           "eloWinProb": 0.569
         },
         "matchFingerprint": "74_melbourne city_sydney_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:52.847Z",
-        "auditHash": "SHA256-IMMUTABLE-1AE4C950-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:30.648Z",
+        "auditHash": "SHA256-IMMUTABLE-23A121BF-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
         "bttsHit": true,
         "overUnderHit": true,
         "bothHit": true,
-        "exactScoreHit": true
+        "exactScoreHit": false
       }
     },
     {
-      "id": "res_74_8_NewcastleJets",
+      "id": "res_74_12_NewcastleJets",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Sat 31-Oct-2026",
@@ -1491,8 +1707,8 @@
           "eloWinProb": 0.239
         },
         "matchFingerprint": "74_newcastle jets_wellington_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:52.847Z",
-        "auditHash": "SHA256-IMMUTABLE-37A676CE-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:30.648Z",
+        "auditHash": "SHA256-IMMUTABLE-6D892E15-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1503,7 +1719,7 @@
       }
     },
     {
-      "id": "res_74_9_Brisbane",
+      "id": "res_74_13_Brisbane",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Fri 30-Oct-2026",
@@ -1519,34 +1735,34 @@
       "actualBtts": true,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 3.15,
-        "awayExpectedGoals": 1.17,
-        "totalExpectedGoals": 4.32,
-        "bttsProbability": 0.6523,
-        "bttsNoProbability": 0.3477,
-        "over25Probability": 0.7898,
-        "under25Probability": 0.2102,
-        "homeWinProbability": 0.7277,
-        "drawProbability": 0.1367,
-        "awayWinProbability": 0.1734,
+        "homeExpectedGoals": 3.09,
+        "awayExpectedGoals": 1.14,
+        "totalExpectedGoals": 4.23,
+        "bttsProbability": 0.6431,
+        "bttsNoProbability": 0.3569,
+        "over25Probability": 0.7799,
+        "under25Probability": 0.2201,
+        "homeWinProbability": 0.7251,
+        "drawProbability": 0.1393,
+        "awayWinProbability": 0.1752,
         "predictedScore": {
           "home": 3,
           "away": 1,
-          "probability": 0.0811
+          "probability": 0.0816
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 46,
+        "overUnderConfidence": 45,
         "iicdScore": 0.8,
         "eloBlend": {
-          "homeElo": 1749,
+          "homeElo": 1745,
           "awayElo": 1670,
-          "eloWinProb": 0.696
+          "eloWinProb": 0.691
         },
         "matchFingerprint": "74_brisbane_auckland fc_Fri 30-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:52.847Z",
-        "auditHash": "SHA256-IMMUTABLE-65A43354-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:30.648Z",
+        "auditHash": "SHA256-IMMUTABLE-98C4FAD-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1557,7 +1773,7 @@
       }
     },
     {
-      "id": "res_74_10_Sydney",
+      "id": "res_74_14_Sydney",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Sun 25-Oct-2026",
@@ -1574,33 +1790,33 @@
       "actualOver25": true,
       "prediction": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.22,
-        "totalExpectedGoals": 4.72,
-        "bttsProbability": 0.1779,
-        "bttsNoProbability": 0.8221,
-        "over25Probability": 0.763,
-        "under25Probability": 0.237,
-        "homeWinProbability": 0.8696,
-        "drawProbability": 0.0212,
-        "awayWinProbability": 0.0604,
+        "awayExpectedGoals": 0.41,
+        "totalExpectedGoals": 4.91,
+        "bttsProbability": 0.3043,
+        "bttsNoProbability": 0.6957,
+        "over25Probability": 0.781,
+        "under25Probability": 0.219,
+        "homeWinProbability": 0.8614,
+        "drawProbability": 0.0303,
+        "awayWinProbability": 0.0626,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1525
+          "probability": 0.126
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 52,
+        "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 42,
-        "iicdScore": 0.8,
+        "overUnderConfidence": 48,
+        "iicdScore": 0.85,
         "eloBlend": {
-          "homeElo": 1756,
-          "awayElo": 1542,
-          "eloWinProb": 0.833
+          "homeElo": 1752,
+          "awayElo": 1536,
+          "eloWinProb": 0.834
         },
         "matchFingerprint": "74_sydney_adelaide united_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:52.847Z",
-        "auditHash": "SHA256-IMMUTABLE-7B2B2655-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:30.648Z",
+        "auditHash": "SHA256-IMMUTABLE-674B5E8-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1611,7 +1827,7 @@
       }
     },
     {
-      "id": "res_74_11_Wellington",
+      "id": "res_74_15_Wellington",
       "leagueId": "74",
       "leagueName": "Australia A-League",
       "dateRaw": "Sun 25-Oct-2026",
@@ -1630,17 +1846,17 @@
         "homeExpectedGoals": 4.5,
         "awayExpectedGoals": 0.2,
         "totalExpectedGoals": 4.7,
-        "bttsProbability": 0.1656,
-        "bttsNoProbability": 0.8344,
-        "over25Probability": 0.7613,
-        "under25Probability": 0.2387,
-        "homeWinProbability": 0.885,
-        "drawProbability": 0.0204,
+        "bttsProbability": 0.1641,
+        "bttsNoProbability": 0.8359,
+        "over25Probability": 0.7611,
+        "under25Probability": 0.2389,
+        "homeWinProbability": 0.8851,
+        "drawProbability": 0.0203,
         "awayWinProbability": 0.0454,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1551
+          "probability": 0.1554
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 54,
@@ -1653,230 +1869,14 @@
           "eloWinProb": 0.875
         },
         "matchFingerprint": "74_wellington_central coast mariners_Sun 25-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:52.847Z",
-        "auditHash": "SHA256-IMMUTABLE-3BE0E86F-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:30.648Z",
+        "auditHash": "SHA256-IMMUTABLE-2B0776F0-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
         "bttsHit": true,
         "overUnderHit": false,
         "bothHit": false,
-        "exactScoreHit": false
-      }
-    },
-    {
-      "id": "res_74_12_MelbourneVictory",
-      "leagueId": "74",
-      "leagueName": "Australia A-League",
-      "dateRaw": "Sat 24-Oct-2026",
-      "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "09:40",
-      "homeTeam": "Melbourne Victory",
-      "awayTeam": "Melbourne City",
-      "score": "1-1",
-      "homeGoals": 1,
-      "awayGoals": 1,
-      "totalGoals": 2,
-      "actualBtts": true,
-      "actualOver25": false,
-      "prediction": {
-        "homeExpectedGoals": 1.04,
-        "awayExpectedGoals": 1.18,
-        "totalExpectedGoals": 2.21,
-        "bttsProbability": 0.4546,
-        "bttsNoProbability": 0.5454,
-        "over25Probability": 0.3811,
-        "under25Probability": 0.6189,
-        "homeWinProbability": 0.3486,
-        "drawProbability": 0.3052,
-        "awayWinProbability": 0.453,
-        "predictedScore": {
-          "home": 1,
-          "away": 1,
-          "probability": 0.1413
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 0.8,
-        "eloBlend": {
-          "homeElo": 1616,
-          "awayElo": 1739,
-          "eloWinProb": 0.417
-        },
-        "matchFingerprint": "74_melbourne victory_melbourne city_Sat 24-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:52.847Z",
-        "auditHash": "SHA256-IMMUTABLE-41826963-2026-11-19",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": false,
-        "overUnderHit": true,
-        "bothHit": false,
-        "exactScoreHit": true
-      }
-    },
-    {
-      "id": "res_74_13_WesternSydney",
-      "leagueId": "74",
-      "leagueName": "Australia A-League",
-      "dateRaw": "Sat 24-Oct-2026",
-      "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "07:00",
-      "homeTeam": "Western Sydney",
-      "awayTeam": "Auckland FC",
-      "score": "5-2",
-      "homeGoals": 5,
-      "awayGoals": 2,
-      "totalGoals": 7,
-      "actualBtts": true,
-      "actualOver25": true,
-      "prediction": {
-        "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 2.61,
-        "totalExpectedGoals": 7.11,
-        "bttsProbability": 0.8315,
-        "bttsNoProbability": 0.1685,
-        "over25Probability": 0.8811,
-        "under25Probability": 0.1189,
-        "homeWinProbability": 0.6133,
-        "drawProbability": 0.1212,
-        "awayWinProbability": 0.2484,
-        "predictedScore": {
-          "home": 4,
-          "away": 2,
-          "probability": 0.0476
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 43,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 50,
-        "iicdScore": 0.65,
-        "eloBlend": {
-          "homeElo": 1687,
-          "awayElo": 1670,
-          "eloWinProb": 0.616
-        },
-        "matchFingerprint": "74_western sydney_auckland fc_Sat 24-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:52.847Z",
-        "auditHash": "SHA256-IMMUTABLE-60457867-2026-11-19",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": true,
-        "overUnderHit": true,
-        "bothHit": true,
-        "exactScoreHit": false
-      }
-    },
-    {
-      "id": "res_74_14_NewcastleJets",
-      "leagueId": "74",
-      "leagueName": "Australia A-League",
-      "dateRaw": "Sat 24-Oct-2026",
-      "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "05:00",
-      "homeTeam": "Newcastle Jets",
-      "awayTeam": "Macarthur FC",
-      "score": "1-1",
-      "homeGoals": 1,
-      "awayGoals": 1,
-      "totalGoals": 2,
-      "actualBtts": true,
-      "actualOver25": false,
-      "prediction": {
-        "homeExpectedGoals": 0.27,
-        "awayExpectedGoals": 2.23,
-        "totalExpectedGoals": 2.51,
-        "bttsProbability": 0.2156,
-        "bttsNoProbability": 0.7844,
-        "over25Probability": 0.4557,
-        "under25Probability": 0.5443,
-        "homeWinProbability": 0.1779,
-        "drawProbability": 0.1453,
-        "awayWinProbability": 0.7262,
-        "predictedScore": {
-          "home": 0,
-          "away": 2,
-          "probability": 0.2035
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 46,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 0.8,
-        "eloBlend": {
-          "homeElo": 1578,
-          "awayElo": 1677,
-          "eloWinProb": 0.451
-        },
-        "matchFingerprint": "74_newcastle jets_macarthur fc_Sat 24-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:52.847Z",
-        "auditHash": "SHA256-IMMUTABLE-74588FED-2026-11-19",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": false,
-        "overUnderHit": true,
-        "bothHit": false,
-        "exactScoreHit": false
-      }
-    },
-    {
-      "id": "res_74_15_Brisbane",
-      "leagueId": "74",
-      "leagueName": "Australia A-League",
-      "dateRaw": "Fri 23-Oct-2026",
-      "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "10:00",
-      "homeTeam": "Brisbane",
-      "awayTeam": "Perth",
-      "score": "2-1",
-      "homeGoals": 2,
-      "awayGoals": 1,
-      "totalGoals": 3,
-      "actualBtts": true,
-      "actualOver25": true,
-      "prediction": {
-        "homeExpectedGoals": 1.95,
-        "awayExpectedGoals": 0.93,
-        "totalExpectedGoals": 2.87,
-        "bttsProbability": 0.5232,
-        "bttsNoProbability": 0.4768,
-        "over25Probability": 0.5472,
-        "under25Probability": 0.4528,
-        "homeWinProbability": 0.6154,
-        "drawProbability": 0.2267,
-        "awayWinProbability": 0.2366,
-        "predictedScore": {
-          "home": 1,
-          "away": 1,
-          "probability": 0.1079
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 0.8,
-        "eloBlend": {
-          "homeElo": 1749,
-          "awayElo": 1719,
-          "eloWinProb": 0.633
-        },
-        "matchFingerprint": "74_brisbane_perth_Fri 23-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:52.847Z",
-        "auditHash": "SHA256-IMMUTABLE-80754D-2026-11-19",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": true,
-        "overUnderHit": true,
-        "bothHit": true,
         "exactScoreHit": false
       }
     }
@@ -1892,7 +1892,7 @@
       "hf": 4,
       "ha": 1,
       "aw": 1,
-      "ad": 0,
+      "ad": 1,
       "al": 0,
       "af": 3,
       "aa": 0,
@@ -1900,21 +1900,52 @@
       "pts": 10,
       "ppg": 2.5,
       "form": "LWLWWW",
-      "ycF": 1,
+      "ycF": 0.5,
+      "ycA": 0.5,
+      "rcF": 0,
+      "rcA": 0,
+      "psF": 31,
+      "psA": 69,
+      "cF": 2,
+      "cA": 6.5,
+      "stF": 3,
+      "stA": 4,
+      "sntF": 2.5,
+      "sntA": 4
+    },
+    "Western Sydney": {
+      "pos": 2,
+      "team": "Western Sydney",
+      "p": 5,
+      "hw": 2,
+      "hd": 0,
+      "hl": 0,
+      "hf": 9,
+      "ha": 4,
+      "aw": 0,
+      "ad": 2,
+      "al": 1,
+      "af": 1,
+      "aa": 2,
+      "gd": 4,
+      "pts": 8,
+      "ppg": 1.6,
+      "form": "LdWdLW",
+      "ycF": 2,
       "ycA": 0,
       "rcF": 0,
       "rcA": 0,
-      "psF": 21,
-      "psA": 79,
-      "cF": 2,
-      "cA": 8,
-      "stF": 4,
+      "psF": 51,
+      "psA": 49,
+      "cF": 3,
+      "cA": 2,
+      "stF": 2,
       "stA": 5,
-      "sntF": 2,
-      "sntA": 1
+      "sntF": 6,
+      "sntA": 10
     },
     "Sydney": {
-      "pos": 2,
+      "pos": 3,
       "team": "Sydney",
       "p": 4,
       "hw": 2,
@@ -1930,22 +1961,10 @@
       "gd": 3,
       "pts": 7,
       "ppg": 1.75,
-      "form": "dDdWLW",
-      "ycF": 2.3,
-      "ycA": 3.3,
-      "rcF": 0.3,
-      "rcA": 0.3,
-      "psF": 62,
-      "psA": 38,
-      "cF": 7,
-      "cA": 3.7,
-      "stF": 5.7,
-      "stA": 2.3,
-      "sntF": 6.7,
-      "sntA": 4.3
+      "form": "dDdWLW"
     },
     "Brisbane": {
-      "pos": 3,
+      "pos": 4,
       "team": "Brisbane",
       "p": 3,
       "hw": 1,
@@ -1976,7 +1995,7 @@
       "sntA": 2
     },
     "Melbourne City": {
-      "pos": 4,
+      "pos": 5,
       "team": "Melbourne City",
       "p": 4,
       "hw": 2,
@@ -2007,14 +2026,14 @@
       "sntA": 5
     },
     "Perth": {
-      "pos": 5,
+      "pos": 6,
       "team": "Perth",
       "p": 4,
-      "hw": 1,
+      "hw": 2,
       "hd": 0,
       "hl": 0,
-      "hf": 4,
-      "ha": 0,
+      "hf": 6,
+      "ha": 1,
       "aw": 0,
       "ad": 0,
       "al": 2,
@@ -2036,25 +2055,6 @@
       "stA": 3.5,
       "sntF": 3,
       "sntA": 5.5
-    },
-    "Western Sydney": {
-      "pos": 6,
-      "team": "Western Sydney",
-      "p": 4,
-      "hw": 1,
-      "hd": 0,
-      "hl": 0,
-      "hf": 5,
-      "ha": 2,
-      "aw": 0,
-      "ad": 2,
-      "al": 1,
-      "af": 1,
-      "aa": 2,
-      "gd": 2,
-      "pts": 5,
-      "ppg": 1.25,
-      "form": "LLdWdL"
     },
     "Macarthur FC": {
       "pos": 7,
@@ -2092,7 +2092,7 @@
       "team": "Auckland FC",
       "p": 4,
       "hw": 1,
-      "hd": 0,
+      "hd": 1,
       "hl": 0,
       "hf": 3,
       "ha": 1,
@@ -2128,26 +2128,26 @@
       "hf": 2,
       "ha": 2,
       "aw": 0,
-      "ad": 0,
+      "ad": 1,
       "al": 1,
-      "af": 1,
-      "aa": 2,
+      "af": 3,
+      "aa": 4,
       "gd": -1,
       "pts": 3,
       "ppg": 0.75,
       "form": "DDWLDD",
-      "ycF": 2,
-      "ycA": 0,
+      "ycF": 3.5,
+      "ycA": 1.5,
       "rcF": 0,
       "rcA": 0,
-      "psF": 62,
-      "psA": 38,
-      "cF": 7,
-      "cA": 6,
-      "stF": 3,
-      "stA": 4,
-      "sntF": 1,
-      "sntA": 4
+      "psF": 52,
+      "psA": 48,
+      "cF": 4.5,
+      "cA": 7,
+      "stF": 2.5,
+      "stA": 6,
+      "sntF": 2,
+      "sntA": 6
     },
     "Newcastle Jets": {
       "pos": 10,
@@ -2160,25 +2160,25 @@
       "ha": 4,
       "aw": 0,
       "ad": 1,
-      "al": 0,
-      "af": 2,
-      "aa": 2,
+      "al": 1,
+      "af": 3,
+      "aa": 4,
       "gd": -4,
       "pts": 2,
       "ppg": 0.5,
       "form": "DDWDDL",
-      "ycF": 2,
-      "ycA": 3,
+      "ycF": 1.5,
+      "ycA": 2.5,
       "rcF": 0,
       "rcA": 0,
-      "psF": 59,
-      "psA": 41,
-      "cF": 9,
-      "cA": 2,
-      "stF": 5,
-      "stA": 5,
-      "sntF": 7,
-      "sntA": 7
+      "psF": 66,
+      "psA": 35,
+      "cF": 7.5,
+      "cA": 3.5,
+      "stF": 5.5,
+      "stA": 4,
+      "sntF": 6.5,
+      "sntA": 6
     },
     "Central Coast Mariners": {
       "pos": 11,
@@ -2214,63 +2214,63 @@
     "Adelaide United": {
       "pos": 12,
       "team": "Adelaide United",
-      "p": 3,
+      "p": 4,
       "hw": 0,
-      "hd": 0,
+      "hd": 1,
       "hl": 0,
-      "hf": 0,
-      "ha": 0,
+      "hf": 2,
+      "ha": 2,
       "aw": 0,
       "ad": 0,
-      "al": 2,
-      "af": 1,
-      "aa": 6,
-      "gd": -5,
+      "al": 3,
+      "af": 3,
+      "aa": 10,
+      "gd": -7,
       "pts": 1,
-      "ppg": 0.33,
-      "form": "DDWWLL",
-      "ycF": 1.5,
-      "ycA": 1.5,
+      "ppg": 0.25,
+      "form": "DWWLLL",
+      "ycF": 1.3,
+      "ycA": 1.3,
       "rcF": 0,
       "rcA": 0,
-      "psF": 59,
-      "psA": 42,
+      "psF": 53,
+      "psA": 47,
       "cF": 5,
-      "cA": 5,
-      "stF": 3,
-      "stA": 7,
-      "sntF": 5.5,
-      "sntA": 4.5
+      "cA": 4.7,
+      "stF": 3.3,
+      "stA": 9.7,
+      "sntF": 6.3,
+      "sntA": 6.7
     }
   },
   "backtest": {
     "totalMatches": 15,
     "bttsEvaluated": 15,
-    "bttsHits": 8,
-    "bttsAccuracy": 53.3,
+    "bttsHits": 9,
+    "bttsAccuracy": 60,
     "overUnderEvaluated": 15,
     "overUnderHits": 11,
     "overUnderAccuracy": 73.3,
-    "overallAccuracy": 63.3,
+    "overallAccuracy": 66.7,
     "exactScoreHits": 5,
     "exactScoreAccuracy": 33.3,
     "confusionMatrix": {
       "btts": {
         "predictedYesActualYes": 4,
         "predictedYesActualNo": 0,
-        "predictedNoActualYes": 7,
-        "predictedNoActualNo": 4
+        "predictedNoActualYes": 6,
+        "predictedNoActualNo": 5
       },
       "overUnder": {
-        "predictedOverActualOver": 7,
+        "predictedOverActualOver": 8,
         "predictedOverActualUnder": 2,
         "predictedUnderActualOver": 2,
-        "predictedUnderActualUnder": 4
+        "predictedUnderActualUnder": 3
       }
     },
-    "logLoss": 0.7116,
-    "brierScore": 0.2524,
-    "simulatedRoi": 21
+    "logLoss": 0.6198,
+    "brierScore": 0.2134,
+    "simulatedRoi": 27.3
   },
   "parameters": {
     "homeAdvantage": 1.18,

@@ -1,7 +1,7 @@
 {
   "leagueId": "2",
   "leagueName": "Championship",
-  "timestamp": "2026-11-19T15:30:16.911Z",
+  "timestamp": "2026-11-20T15:09:00.020Z",
   "fixtures": [
     {
       "id": "fix_2_1_Millwall",
@@ -9,14 +9,14 @@
       "leagueName": "Championship",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "12:30",
       "homeTeam": "Millwall",
       "awayTeam": "QPR",
       "odds": {
-        "home": 2.6,
-        "draw": 3.55,
-        "away": 2.65
+        "home": 2.63,
+        "draw": 3.6,
+        "away": 2.63
       },
       "prediction": {
         "homeExpectedGoals": 1.87,
@@ -80,7 +80,7 @@
       "leagueName": "Championship",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "12:30",
       "homeTeam": "Norwich",
       "awayTeam": "Cardiff",
@@ -151,14 +151,14 @@
       "leagueName": "Championship",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "12:30",
       "homeTeam": "Southampton",
       "awayTeam": "Derby",
       "odds": {
-        "home": 1.43,
+        "home": 1.4,
         "draw": 5.2,
-        "away": 7
+        "away": 7.4
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
@@ -222,7 +222,7 @@
       "leagueName": "Championship",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Bolton",
       "awayTeam": "Portsmouth",
@@ -293,7 +293,7 @@
       "leagueName": "Championship",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Lincoln City",
       "awayTeam": "Wrexham",
@@ -364,7 +364,7 @@
       "leagueName": "Championship",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Middlesbrough",
       "awayTeam": "Bristol City",
@@ -435,13 +435,13 @@
       "leagueName": "Championship",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Sheffield Utd",
       "awayTeam": "Watford",
       "odds": {
-        "home": 1.63,
-        "draw": 4.2,
+        "home": 1.61,
+        "draw": 4.3,
         "away": 5.4
       },
       "prediction": {
@@ -506,7 +506,7 @@
       "leagueName": "Championship",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Stoke",
       "awayTeam": "Birmingham",
@@ -577,7 +577,7 @@
       "leagueName": "Championship",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Swansea",
       "awayTeam": "West Brom",
@@ -648,7 +648,7 @@
       "leagueName": "Championship",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "West Ham",
       "awayTeam": "Preston",
@@ -719,7 +719,7 @@
       "leagueName": "Championship",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Wolverhampton",
       "awayTeam": "Charlton",
@@ -790,7 +790,7 @@
       "leagueName": "Championship",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "12:00",
       "homeTeam": "Burnley",
       "awayTeam": "Blackburn",
@@ -861,14 +861,14 @@
       "leagueName": "Championship",
       "dateRaw": "Tue 24/11",
       "dateIso": "2026-11-24T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "19:45",
       "homeTeam": "Bristol City",
       "awayTeam": "Wrexham",
       "odds": {
-        "home": 2.32,
-        "draw": 3.15,
-        "away": 3.07
+        "home": 2.38,
+        "draw": 3.3,
+        "away": 3.15
       },
       "prediction": {
         "homeExpectedGoals": 0.52,
@@ -932,14 +932,14 @@
       "leagueName": "Championship",
       "dateRaw": "Tue 24/11",
       "dateIso": "2026-11-24T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "19:45",
       "homeTeam": "Cardiff",
       "awayTeam": "Preston",
       "odds": {
-        "home": 1.56,
-        "draw": 4.4,
-        "away": 4.92
+        "home": 1.58,
+        "draw": 4.6,
+        "away": 5.4
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
@@ -1003,14 +1003,14 @@
       "leagueName": "Championship",
       "dateRaw": "Tue 24/11",
       "dateIso": "2026-11-24T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "19:45",
       "homeTeam": "Charlton",
       "awayTeam": "Lincoln City",
       "odds": {
-        "home": 2.5,
-        "draw": 3.1,
-        "away": 2.8
+        "home": 2.6,
+        "draw": 3.25,
+        "away": 2.9
       },
       "prediction": {
         "homeExpectedGoals": 0.73,
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.697
         },
         "matchFingerprint": "2_birmingham_swansea_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:16.908Z",
-        "auditHash": "SHA256-IMMUTABLE-26D00D-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:00.018Z",
+        "auditHash": "SHA256-IMMUTABLE-2C99DD42-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.481
         },
         "matchFingerprint": "2_blackburn_west ham_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:16.908Z",
-        "auditHash": "SHA256-IMMUTABLE-4BE177D-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:00.018Z",
+        "auditHash": "SHA256-IMMUTABLE-317EC4CC-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.752
         },
         "matchFingerprint": "2_cardiff_burnley_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:16.908Z",
-        "auditHash": "SHA256-IMMUTABLE-322431D1-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:00.018Z",
+        "auditHash": "SHA256-IMMUTABLE-5638482-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.429
         },
         "matchFingerprint": "2_charlton_sheffield utd_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:16.909Z",
-        "auditHash": "SHA256-IMMUTABLE-74BF8098-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:00.018Z",
+        "auditHash": "SHA256-IMMUTABLE-47FED32A-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.195
         },
         "matchFingerprint": "2_preston_southampton_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:16.909Z",
-        "auditHash": "SHA256-IMMUTABLE-44D27C2F-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:00.018Z",
+        "auditHash": "SHA256-IMMUTABLE-1811CEC1-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.805
         },
         "matchFingerprint": "2_qpr_lincoln city_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:16.909Z",
-        "auditHash": "SHA256-IMMUTABLE-22AFE109-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:00.018Z",
+        "auditHash": "SHA256-IMMUTABLE-A10CC65-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.25
         },
         "matchFingerprint": "2_watford_middlesbrough_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:16.909Z",
-        "auditHash": "SHA256-IMMUTABLE-1B5D768E-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:00.018Z",
+        "auditHash": "SHA256-IMMUTABLE-481E23FC-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.787
         },
         "matchFingerprint": "2_west brom_millwall_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:16.909Z",
-        "auditHash": "SHA256-IMMUTABLE-2B53E904-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:00.018Z",
+        "auditHash": "SHA256-IMMUTABLE-16CC46A-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.458
         },
         "matchFingerprint": "2_bristol city_norwich_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:16.909Z",
-        "auditHash": "SHA256-IMMUTABLE-7E2B7D7-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:00.018Z",
+        "auditHash": "SHA256-IMMUTABLE-24DDF597-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.444
         },
         "matchFingerprint": "2_portsmouth_stoke_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:16.909Z",
-        "auditHash": "SHA256-IMMUTABLE-57A02997-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:00.018Z",
+        "auditHash": "SHA256-IMMUTABLE-2ADF7C29-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.372
         },
         "matchFingerprint": "2_wrexham_wolverhampton_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:16.909Z",
-        "auditHash": "SHA256-IMMUTABLE-3A73FCF6-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:00.018Z",
+        "auditHash": "SHA256-IMMUTABLE-6734AA64-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.447
         },
         "matchFingerprint": "2_derby_bolton_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:16.909Z",
-        "auditHash": "SHA256-IMMUTABLE-5093545E-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:00.019Z",
+        "auditHash": "SHA256-IMMUTABLE-7D5401AD-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.338
         },
         "matchFingerprint": "2_bristol city_wolverhampton_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:16.909Z",
-        "auditHash": "SHA256-IMMUTABLE-4E0293ED-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:00.019Z",
+        "auditHash": "SHA256-IMMUTABLE-7AC3413C-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.443
         },
         "matchFingerprint": "2_cardiff_west ham_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:16.909Z",
-        "auditHash": "SHA256-IMMUTABLE-735E04D7-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:00.019Z",
+        "auditHash": "SHA256-IMMUTABLE-469D5788-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.333
         },
         "matchFingerprint": "2_wrexham_middlesbrough_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:16.909Z",
-        "auditHash": "SHA256-IMMUTABLE-74DEF137-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:00.019Z",
+        "auditHash": "SHA256-IMMUTABLE-5E60617A-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {

@@ -1,157 +1,15 @@
 {
   "leagueId": "30",
   "leagueName": "MLS",
-  "timestamp": "2026-11-19T15:30:46.970Z",
+  "timestamp": "2026-11-20T15:09:23.367Z",
   "fixtures": [
     {
-      "id": "fix_30_1_Orlando",
-      "leagueId": "30",
-      "leagueName": "MLS",
-      "dateRaw": "Fri 20/11",
-      "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysFromNow": 1,
-      "time": "00:30",
-      "homeTeam": "Orlando",
-      "awayTeam": "Cincinnati",
-      "odds": {
-        "home": 2.46,
-        "draw": 3.89,
-        "away": 2.68
-      },
-      "prediction": {
-        "homeExpectedGoals": 3.38,
-        "awayExpectedGoals": 1.76,
-        "totalExpectedGoals": 5.14,
-        "bttsProbability": 0.7832,
-        "bttsNoProbability": 0.2168,
-        "over25Probability": 0.864,
-        "under25Probability": 0.136,
-        "homeWinProbability": 0.6301,
-        "drawProbability": 0.1473,
-        "awayWinProbability": 0.2593,
-        "predictedScore": {
-          "home": 3,
-          "away": 1,
-          "probability": 0.0663
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 57,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 73,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1652,
-          "awayElo": 1669,
-          "eloWinProb": 0.569
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 3.38,
-        "awayExpectedGoals": 1.76,
-        "totalExpectedGoals": 5.14,
-        "bttsProbability": 0.7832,
-        "bttsNoProbability": 0.2168,
-        "over25Probability": 0.864,
-        "under25Probability": 0.136,
-        "homeWinProbability": 0.6301,
-        "drawProbability": 0.1473,
-        "awayWinProbability": 0.2593,
-        "predictedScore": {
-          "home": 3,
-          "away": 1,
-          "probability": 0.0663
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 57,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 73,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1652,
-          "awayElo": 1669,
-          "eloWinProb": 0.569
-        }
-      },
-      "confidenceScore": 86
-    },
-    {
-      "id": "fix_30_2_Seattle",
-      "leagueId": "30",
-      "leagueName": "MLS",
-      "dateRaw": "Fri 20/11",
-      "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysFromNow": 1,
-      "time": "03:00",
-      "homeTeam": "Seattle",
-      "awayTeam": "Real Salt Lake",
-      "odds": {
-        "home": 1.97,
-        "draw": 3.94,
-        "away": 3.61
-      },
-      "prediction": {
-        "homeExpectedGoals": 1.65,
-        "awayExpectedGoals": 1.19,
-        "totalExpectedGoals": 2.84,
-        "bttsProbability": 0.5678,
-        "bttsNoProbability": 0.4322,
-        "over25Probability": 0.5385,
-        "under25Probability": 0.4615,
-        "homeWinProbability": 0.5147,
-        "drawProbability": 0.2573,
-        "awayWinProbability": 0.3178,
-        "predictedScore": {
-          "home": 1,
-          "away": 1,
-          "probability": 0.1217
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1691,
-          "awayElo": 1693,
-          "eloWinProb": 0.59
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 1.65,
-        "awayExpectedGoals": 1.19,
-        "totalExpectedGoals": 2.84,
-        "bttsProbability": 0.5678,
-        "bttsNoProbability": 0.4322,
-        "over25Probability": 0.5385,
-        "under25Probability": 0.4615,
-        "homeWinProbability": 0.5147,
-        "drawProbability": 0.2573,
-        "awayWinProbability": 0.3178,
-        "predictedScore": {
-          "home": 1,
-          "away": 1,
-          "probability": 0.1217
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1691,
-          "awayElo": 1693,
-          "eloWinProb": 0.59
-        }
-      },
-      "confidenceScore": 57
-    },
-    {
-      "id": "fix_30_3_NewEngland",
+      "id": "fix_30_1_NewEngland",
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "19:00",
       "homeTeam": "New England",
       "awayTeam": "Philadelphia",
@@ -217,12 +75,12 @@
       "confidenceScore": 82
     },
     {
-      "id": "fix_30_4_FCDallas",
+      "id": "fix_30_2_FCDallas",
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "21:00",
       "homeTeam": "FC Dallas",
       "awayTeam": "Portland",
@@ -288,12 +146,12 @@
       "confidenceScore": 81
     },
     {
-      "id": "fix_30_5_InterMiami",
+      "id": "fix_30_3_InterMiami",
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "23:00",
       "homeTeam": "Inter Miami",
       "awayTeam": "Columbus",
@@ -359,12 +217,83 @@
       "confidenceScore": 89
     },
     {
-      "id": "fix_30_6_Chicago",
+      "id": "fix_30_4_NashvilleSc",
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
+      "time": "21:00",
+      "homeTeam": "Nashville Sc",
+      "awayTeam": "Cincinnati",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.64,
+        "totalExpectedGoals": 5.14,
+        "bttsProbability": 0.4278,
+        "bttsNoProbability": 0.5722,
+        "over25Probability": 0.8001,
+        "under25Probability": 0.1999,
+        "homeWinProbability": 0.8679,
+        "drawProbability": 0.0416,
+        "awayWinProbability": 0.0488,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.1
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 60,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1964,
+          "awayElo": 1669,
+          "eloWinProb": 0.888
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.64,
+        "totalExpectedGoals": 5.14,
+        "bttsProbability": 0.4278,
+        "bttsNoProbability": 0.5722,
+        "over25Probability": 0.8001,
+        "under25Probability": 0.1999,
+        "homeWinProbability": 0.8679,
+        "drawProbability": 0.0416,
+        "awayWinProbability": 0.0488,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.1
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 60,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1964,
+          "awayElo": 1669,
+          "eloWinProb": 0.888
+        }
+      },
+      "confidenceScore": 80
+    },
+    {
+      "id": "fix_30_5_Chicago",
+      "leagueId": "30",
+      "leagueName": "MLS",
+      "dateRaw": "Sun 22/11",
+      "dateIso": "2026-11-22T12:00:00.000Z",
+      "daysFromNow": 2,
       "time": "23:30",
       "homeTeam": "Chicago",
       "awayTeam": "Charlotte FC",
@@ -430,12 +359,83 @@
       "confidenceScore": 79
     },
     {
+      "id": "fix_30_6_Vancouver",
+      "leagueId": "30",
+      "leagueName": "MLS",
+      "dateRaw": "Mon 23/11",
+      "dateIso": "2026-11-23T12:00:00.000Z",
+      "daysFromNow": 3,
+      "time": "01:30",
+      "homeTeam": "Vancouver",
+      "awayTeam": "Real Salt Lake",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 4.36,
+        "awayExpectedGoals": 0.59,
+        "totalExpectedGoals": 4.96,
+        "bttsProbability": 0.4091,
+        "bttsNoProbability": 0.5909,
+        "over25Probability": 0.7959,
+        "under25Probability": 0.2041,
+        "homeWinProbability": 0.8538,
+        "drawProbability": 0.0432,
+        "awayWinProbability": 0.0689,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.1063
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 59,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1904,
+          "awayElo": 1693,
+          "eloWinProb": 0.83
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 4.36,
+        "awayExpectedGoals": 0.59,
+        "totalExpectedGoals": 4.96,
+        "bttsProbability": 0.4091,
+        "bttsNoProbability": 0.5909,
+        "over25Probability": 0.7959,
+        "under25Probability": 0.2041,
+        "homeWinProbability": 0.8538,
+        "drawProbability": 0.0432,
+        "awayWinProbability": 0.0689,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.1063
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 59,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1904,
+          "awayElo": 1693,
+          "eloWinProb": 0.83
+        }
+      },
+      "confidenceScore": 80
+    },
+    {
       "id": "fix_30_7_St.LouisCity",
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Tue 24/11",
       "dateIso": "2026-11-24T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "01:00",
       "homeTeam": "St. Louis City",
       "awayTeam": "Los Angeles FC",
@@ -506,14 +506,14 @@
       "leagueName": "MLS",
       "dateRaw": "Wed 25/11",
       "dateIso": "2026-11-25T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "03:00",
       "homeTeam": "San Jose",
       "awayTeam": "Houston",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 2.16,
+        "draw": 3.59,
+        "away": 3.27
       },
       "prediction": {
         "homeExpectedGoals": 1.83,
@@ -577,7 +577,7 @@
       "leagueName": "MLS",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "01:00",
       "homeTeam": "Columbus",
       "awayTeam": "Inter Miami",
@@ -643,12 +643,83 @@
       "confidenceScore": 70
     },
     {
-      "id": "fix_30_10_CharlotteFC",
+      "id": "fix_30_10_RealSaltLake",
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
+      "time": "03:00",
+      "homeTeam": "Real Salt Lake",
+      "awayTeam": "Vancouver",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 0.99,
+        "awayExpectedGoals": 2.42,
+        "totalExpectedGoals": 3.42,
+        "bttsProbability": 0.5758,
+        "bttsNoProbability": 0.4242,
+        "over25Probability": 0.6597,
+        "under25Probability": 0.3403,
+        "homeWinProbability": 0.1912,
+        "drawProbability": 0.1835,
+        "awayWinProbability": 0.6872,
+        "predictedScore": {
+          "home": 0,
+          "away": 2,
+          "probability": 0.0965
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1693,
+          "awayElo": 1904,
+          "eloWinProb": 0.301
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 0.99,
+        "awayExpectedGoals": 2.42,
+        "totalExpectedGoals": 3.42,
+        "bttsProbability": 0.5758,
+        "bttsNoProbability": 0.4242,
+        "over25Probability": 0.6597,
+        "under25Probability": 0.3403,
+        "homeWinProbability": 0.1912,
+        "drawProbability": 0.1835,
+        "awayWinProbability": 0.6872,
+        "predictedScore": {
+          "home": 0,
+          "away": 2,
+          "probability": 0.0965
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1693,
+          "awayElo": 1904,
+          "eloWinProb": 0.301
+        }
+      },
+      "confidenceScore": 66
+    },
+    {
+      "id": "fix_30_11_CharlotteFC",
+      "leagueId": "30",
+      "leagueName": "MLS",
+      "dateRaw": "Sat 28/11",
+      "dateIso": "2026-11-21T12:00:00.000Z",
+      "daysFromNow": 1,
       "time": "17:30",
       "homeTeam": "Charlotte FC",
       "awayTeam": "Chicago",
@@ -714,12 +785,12 @@
       "confidenceScore": 68
     },
     {
-      "id": "fix_30_11_Houston",
+      "id": "fix_30_12_Houston",
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "19:30",
       "homeTeam": "Houston",
       "awayTeam": "San Jose",
@@ -785,12 +856,12 @@
       "confidenceScore": 68
     },
     {
-      "id": "fix_30_12_Philadelphia",
+      "id": "fix_30_13_Philadelphia",
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "21:30",
       "homeTeam": "Philadelphia",
       "awayTeam": "New England",
@@ -856,12 +927,83 @@
       "confidenceScore": 66
     },
     {
-      "id": "fix_30_13_LosAngelesFC",
+      "id": "fix_30_14_Cincinnati",
+      "leagueId": "30",
+      "leagueName": "MLS",
+      "dateRaw": "Sat 28/11",
+      "dateIso": "2026-11-21T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "23:30",
+      "homeTeam": "Cincinnati",
+      "awayTeam": "Nashville Sc",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 0.63,
+        "awayExpectedGoals": 3.06,
+        "totalExpectedGoals": 3.69,
+        "bttsProbability": 0.4426,
+        "bttsNoProbability": 0.5574,
+        "over25Probability": 0.6991,
+        "under25Probability": 0.3009,
+        "homeWinProbability": 0.1028,
+        "drawProbability": 0.1081,
+        "awayWinProbability": 0.8184,
+        "predictedScore": {
+          "home": 0,
+          "away": 3,
+          "probability": 0.1191
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1669,
+          "awayElo": 1964,
+          "eloWinProb": 0.21
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 0.63,
+        "awayExpectedGoals": 3.06,
+        "totalExpectedGoals": 3.69,
+        "bttsProbability": 0.4426,
+        "bttsNoProbability": 0.5574,
+        "over25Probability": 0.6991,
+        "under25Probability": 0.3009,
+        "homeWinProbability": 0.1028,
+        "drawProbability": 0.1081,
+        "awayWinProbability": 0.8184,
+        "predictedScore": {
+          "home": 0,
+          "away": 3,
+          "probability": 0.1191
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1669,
+          "awayElo": 1964,
+          "eloWinProb": 0.21
+        }
+      },
+      "confidenceScore": 70
+    },
+    {
+      "id": "fix_30_15_LosAngelesFC",
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "01:30",
       "homeTeam": "Los Angeles FC",
       "awayTeam": "St. Louis City",
@@ -925,82 +1067,119 @@
         }
       },
       "confidenceScore": 52
-    },
-    {
-      "id": "fix_30_14_Portland",
-      "leagueId": "30",
-      "leagueName": "MLS",
-      "dateRaw": "Sun 29/11",
-      "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 3,
-      "time": "03:30",
-      "homeTeam": "Portland",
-      "awayTeam": "FC Dallas",
-      "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
-      },
-      "prediction": {
-        "homeExpectedGoals": 2.29,
-        "awayExpectedGoals": 2.7,
-        "totalExpectedGoals": 4.99,
-        "bttsProbability": 0.8324,
-        "bttsNoProbability": 0.1676,
-        "over25Probability": 0.8653,
-        "under25Probability": 0.1347,
-        "homeWinProbability": 0.3792,
-        "drawProbability": 0.186,
-        "awayWinProbability": 0.494,
-        "predictedScore": {
-          "home": 2,
-          "away": 2,
-          "probability": 0.065
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 66,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 73,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1704,
-          "awayElo": 1793,
-          "eloWinProb": 0.466
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 2.29,
-        "awayExpectedGoals": 2.7,
-        "totalExpectedGoals": 4.99,
-        "bttsProbability": 0.8324,
-        "bttsNoProbability": 0.1676,
-        "over25Probability": 0.8653,
-        "under25Probability": 0.1347,
-        "homeWinProbability": 0.3792,
-        "drawProbability": 0.186,
-        "awayWinProbability": 0.494,
-        "predictedScore": {
-          "home": 2,
-          "away": 2,
-          "probability": 0.065
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 66,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 73,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1704,
-          "awayElo": 1793,
-          "eloWinProb": 0.466
-        }
-      },
-      "confidenceScore": 87
     }
   ],
   "results": [
     {
-      "id": "res_30_1_AustinFC",
+      "id": "res_30_1_Seattle",
+      "leagueId": "30",
+      "leagueName": "MLS",
+      "dateRaw": "Fri 20-Nov-2026",
+      "dateIso": "2026-11-20T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "03:00",
+      "homeTeam": "Seattle",
+      "awayTeam": "Real Salt Lake",
+      "score": "1-1",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "totalGoals": 2,
+      "actualBtts": true,
+      "actualOver25": false,
+      "prediction": {
+        "homeExpectedGoals": 1.67,
+        "awayExpectedGoals": 1.18,
+        "totalExpectedGoals": 2.85,
+        "bttsProbability": 0.5693,
+        "bttsNoProbability": 0.4307,
+        "over25Probability": 0.5421,
+        "under25Probability": 0.4579,
+        "homeWinProbability": 0.5182,
+        "drawProbability": 0.2558,
+        "awayWinProbability": 0.3153,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1209
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1691,
+          "awayElo": 1693,
+          "eloWinProb": 0.59
+        },
+        "matchFingerprint": "30_seattle_real salt lake_Fri 20-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-20T15:09:23.365Z",
+        "auditHash": "SHA256-IMMUTABLE-28922E57-2026-11-20",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": false,
+        "bothHit": false,
+        "exactScoreHit": true
+      }
+    },
+    {
+      "id": "res_30_2_Orlando",
+      "leagueId": "30",
+      "leagueName": "MLS",
+      "dateRaw": "Fri 20-Nov-2026",
+      "dateIso": "2026-11-20T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "00:30",
+      "homeTeam": "Orlando",
+      "awayTeam": "Cincinnati",
+      "score": "1-3",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "totalGoals": 4,
+      "actualBtts": true,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 3.34,
+        "awayExpectedGoals": 1.82,
+        "totalExpectedGoals": 5.16,
+        "bttsProbability": 0.7922,
+        "bttsNoProbability": 0.2078,
+        "over25Probability": 0.8667,
+        "under25Probability": 0.1333,
+        "homeWinProbability": 0.6207,
+        "drawProbability": 0.1511,
+        "awayWinProbability": 0.2669,
+        "predictedScore": {
+          "home": 3,
+          "away": 1,
+          "probability": 0.0649
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 58,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 73,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1652,
+          "awayElo": 1669,
+          "eloWinProb": 0.569
+        },
+        "matchFingerprint": "30_orlando_cincinnati_Fri 20-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-20T15:09:23.365Z",
+        "auditHash": "SHA256-IMMUTABLE-52BE1E7-2026-11-20",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": true,
+        "bothHit": true,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_30_3_AustinFC",
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1042,8 +1221,8 @@
           "eloWinProb": 0.395
         },
         "matchFingerprint": "30_austin fc_portland_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:46.967Z",
-        "auditHash": "SHA256-IMMUTABLE-6B2027D6-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:23.365Z",
+        "auditHash": "SHA256-IMMUTABLE-3858D295-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1054,7 +1233,7 @@
       }
     },
     {
-      "id": "res_30_2_FCDallas",
+      "id": "res_30_4_FCDallas",
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1096,8 +1275,8 @@
           "eloWinProb": 0.754
         },
         "matchFingerprint": "30_fc dallas_colorado_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:46.967Z",
-        "auditHash": "SHA256-IMMUTABLE-45F7AC3B-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:23.365Z",
+        "auditHash": "SHA256-IMMUTABLE-5D814E30-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1108,7 +1287,7 @@
       }
     },
     {
-      "id": "res_30_3_Houston",
+      "id": "res_30_5_Houston",
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1150,8 +1329,8 @@
           "eloWinProb": 0.522
         },
         "matchFingerprint": "30_houston_st. louis city_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:46.967Z",
-        "auditHash": "SHA256-IMMUTABLE-55B1514F-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:23.365Z",
+        "auditHash": "SHA256-IMMUTABLE-6D5B446-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1162,7 +1341,7 @@
       }
     },
     {
-      "id": "res_30_4_MinnesotaUnited",
+      "id": "res_30_6_MinnesotaUnited",
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1204,8 +1383,8 @@
           "eloWinProb": 0.487
         },
         "matchFingerprint": "30_minnesota united_san jose_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:46.967Z",
-        "auditHash": "SHA256-IMMUTABLE-370197CF-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:23.365Z",
+        "auditHash": "SHA256-IMMUTABLE-6C77629C-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1216,7 +1395,7 @@
       }
     },
     {
-      "id": "res_30_5_RealSaltLake",
+      "id": "res_30_7_RealSaltLake",
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1232,20 +1411,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 2.9,
+        "homeExpectedGoals": 2.89,
         "awayExpectedGoals": 1.22,
-        "totalExpectedGoals": 4.12,
-        "bttsProbability": 0.6613,
-        "bttsNoProbability": 0.3387,
-        "over25Probability": 0.7686,
-        "under25Probability": 0.2314,
-        "homeWinProbability": 0.6829,
-        "drawProbability": 0.1562,
-        "awayWinProbability": 0.2091,
+        "totalExpectedGoals": 4.11,
+        "bttsProbability": 0.6611,
+        "bttsNoProbability": 0.3389,
+        "over25Probability": 0.7676,
+        "under25Probability": 0.2324,
+        "homeWinProbability": 0.6821,
+        "drawProbability": 0.1569,
+        "awayWinProbability": 0.2095,
         "predictedScore": {
           "home": 2,
           "away": 1,
-          "probability": 0.0834
+          "probability": 0.0836
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1258,8 +1437,8 @@
           "eloWinProb": 0.64
         },
         "matchFingerprint": "30_real salt lake_la galaxy_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:46.967Z",
-        "auditHash": "SHA256-IMMUTABLE-59A00250-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:23.365Z",
+        "auditHash": "SHA256-IMMUTABLE-14D86F58-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1270,7 +1449,7 @@
       }
     },
     {
-      "id": "res_30_6_SanDiego",
+      "id": "res_30_8_SanDiego",
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1312,8 +1491,8 @@
           "eloWinProb": 0.777
         },
         "matchFingerprint": "30_san diego_sporting kc_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:46.967Z",
-        "auditHash": "SHA256-IMMUTABLE-272D52AD-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:23.365Z",
+        "auditHash": "SHA256-IMMUTABLE-7C4BA7BE-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1324,7 +1503,7 @@
       }
     },
     {
-      "id": "res_30_7_Seattle",
+      "id": "res_30_9_Seattle",
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1340,20 +1519,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.12,
+        "homeExpectedGoals": 1.13,
         "awayExpectedGoals": 1.2,
-        "totalExpectedGoals": 2.32,
-        "bttsProbability": 0.4778,
-        "bttsNoProbability": 0.5222,
-        "over25Probability": 0.4082,
-        "under25Probability": 0.5918,
-        "homeWinProbability": 0.3953,
-        "drawProbability": 0.2981,
-        "awayWinProbability": 0.411,
+        "totalExpectedGoals": 2.33,
+        "bttsProbability": 0.4807,
+        "bttsNoProbability": 0.5193,
+        "over25Probability": 0.4115,
+        "under25Probability": 0.5885,
+        "homeWinProbability": 0.3976,
+        "drawProbability": 0.2972,
+        "awayWinProbability": 0.4092,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1401
+          "probability": 0.1399
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1366,8 +1545,8 @@
           "eloWinProb": 0.516
         },
         "matchFingerprint": "30_seattle_los angeles fc_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:46.967Z",
-        "auditHash": "SHA256-IMMUTABLE-7EBDF9FB-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:23.365Z",
+        "auditHash": "SHA256-IMMUTABLE-3B80D93E-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1378,7 +1557,7 @@
       }
     },
     {
-      "id": "res_30_8_Chicago",
+      "id": "res_30_10_Chicago",
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Sat 07-Nov-2026",
@@ -1420,8 +1599,8 @@
           "eloWinProb": 0.656
         },
         "matchFingerprint": "30_chicago_columbus_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:46.968Z",
-        "auditHash": "SHA256-IMMUTABLE-69064C79-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:23.365Z",
+        "auditHash": "SHA256-IMMUTABLE-3A72ADD3-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1432,7 +1611,7 @@
       }
     },
     {
-      "id": "res_30_9_Cincinnati",
+      "id": "res_30_11_Cincinnati",
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Sat 07-Nov-2026",
@@ -1448,20 +1627,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 0.61,
+        "homeExpectedGoals": 0.63,
         "awayExpectedGoals": 3.06,
-        "totalExpectedGoals": 3.67,
-        "bttsProbability": 0.4325,
-        "bttsNoProbability": 0.5675,
-        "over25Probability": 0.6957,
-        "under25Probability": 0.3043,
-        "homeWinProbability": 0.1015,
-        "drawProbability": 0.1065,
-        "awayWinProbability": 0.8208,
+        "totalExpectedGoals": 3.69,
+        "bttsProbability": 0.4426,
+        "bttsNoProbability": 0.5574,
+        "over25Probability": 0.6991,
+        "under25Probability": 0.3009,
+        "homeWinProbability": 0.1028,
+        "drawProbability": 0.1081,
+        "awayWinProbability": 0.8184,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.1216
+          "probability": 0.1191
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1474,8 +1653,8 @@
           "eloWinProb": 0.21
         },
         "matchFingerprint": "30_cincinnati_nashville sc_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:46.968Z",
-        "auditHash": "SHA256-IMMUTABLE-505F4C08-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:23.365Z",
+        "auditHash": "SHA256-IMMUTABLE-4D4AEDA0-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1486,7 +1665,7 @@
       }
     },
     {
-      "id": "res_30_10_D.C.United",
+      "id": "res_30_12_D.C.United",
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Sat 07-Nov-2026",
@@ -1528,8 +1707,8 @@
           "eloWinProb": 0.423
         },
         "matchFingerprint": "30_d.c. united_new york city_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:46.968Z",
-        "auditHash": "SHA256-IMMUTABLE-7A957E36-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:23.365Z",
+        "auditHash": "SHA256-IMMUTABLE-1E0E7882-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1540,7 +1719,7 @@
       }
     },
     {
-      "id": "res_30_11_InterMiami",
+      "id": "res_30_13_InterMiami",
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Sat 07-Nov-2026",
@@ -1582,8 +1761,8 @@
           "eloWinProb": 0.66
         },
         "matchFingerprint": "30_inter miami_charlotte fc_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:46.968Z",
-        "auditHash": "SHA256-IMMUTABLE-26F73559-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:23.365Z",
+        "auditHash": "SHA256-IMMUTABLE-7C81C4F3-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1594,7 +1773,7 @@
       }
     },
     {
-      "id": "res_30_12_Montreal",
+      "id": "res_30_14_Montreal",
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Sat 07-Nov-2026",
@@ -1636,8 +1815,8 @@
           "eloWinProb": 0.129
         },
         "matchFingerprint": "30_montreal_vancouver_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:46.968Z",
-        "auditHash": "SHA256-IMMUTABLE-4103EC14-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:23.365Z",
+        "auditHash": "SHA256-IMMUTABLE-62750E38-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -1648,7 +1827,7 @@
       }
     },
     {
-      "id": "res_30_13_NYRedBulls",
+      "id": "res_30_15_NYRedBulls",
       "leagueId": "30",
       "leagueName": "MLS",
       "dateRaw": "Sat 07-Nov-2026",
@@ -1690,116 +1869,8 @@
           "eloWinProb": 0.66
         },
         "matchFingerprint": "30_ny red bulls_atlanta united_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:46.968Z",
-        "auditHash": "SHA256-IMMUTABLE-62392FDE-2026-11-19",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": false,
-        "overUnderHit": true,
-        "bothHit": false,
-        "exactScoreHit": false
-      }
-    },
-    {
-      "id": "res_30_14_Orlando",
-      "leagueId": "30",
-      "leagueName": "MLS",
-      "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "21:00",
-      "homeTeam": "Orlando",
-      "awayTeam": "New England",
-      "score": "1-0",
-      "homeGoals": 1,
-      "awayGoals": 0,
-      "totalGoals": 1,
-      "actualBtts": false,
-      "actualOver25": false,
-      "prediction": {
-        "homeExpectedGoals": 1.79,
-        "awayExpectedGoals": 1.83,
-        "totalExpectedGoals": 3.62,
-        "bttsProbability": 0.7042,
-        "bttsNoProbability": 0.2958,
-        "over25Probability": 0.7003,
-        "under25Probability": 0.2997,
-        "homeWinProbability": 0.3881,
-        "drawProbability": 0.229,
-        "awayWinProbability": 0.4623,
-        "predictedScore": {
-          "home": 1,
-          "away": 1,
-          "probability": 0.0928
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 41,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1652,
-          "awayElo": 1780,
-          "eloWinProb": 0.41
-        },
-        "matchFingerprint": "30_orlando_new england_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:46.968Z",
-        "auditHash": "SHA256-IMMUTABLE-1A4EE2AC-2026-11-19",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": false,
-        "overUnderHit": false,
-        "bothHit": false,
-        "exactScoreHit": false
-      }
-    },
-    {
-      "id": "res_30_15_Philadelphia",
-      "leagueId": "30",
-      "leagueName": "MLS",
-      "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "21:00",
-      "homeTeam": "Philadelphia",
-      "awayTeam": "Toronto FC",
-      "score": "4-1",
-      "homeGoals": 4,
-      "awayGoals": 1,
-      "totalGoals": 5,
-      "actualBtts": true,
-      "actualOver25": true,
-      "prediction": {
-        "homeExpectedGoals": 3.03,
-        "awayExpectedGoals": 0.57,
-        "totalExpectedGoals": 3.6,
-        "bttsProbability": 0.4119,
-        "bttsNoProbability": 0.5881,
-        "over25Probability": 0.6852,
-        "under25Probability": 0.3148,
-        "homeWinProbability": 0.8175,
-        "drawProbability": 0.105,
-        "awayWinProbability": 0.106,
-        "predictedScore": {
-          "home": 3,
-          "away": 0,
-          "probability": 0.1264
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1760,
-          "awayElo": 1614,
-          "eloWinProb": 0.771
-        },
-        "matchFingerprint": "30_philadelphia_toronto fc_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-19T15:30:46.968Z",
-        "auditHash": "SHA256-IMMUTABLE-55F347EA-2026-11-19",
+        "lockedAt": "2026-11-20T15:09:23.366Z",
+        "auditHash": "SHA256-IMMUTABLE-5B22A49-2026-11-20",
         "isImmutable": true
       },
       "evaluation": {
@@ -2045,7 +2116,7 @@
       "gd": -15,
       "pts": 46,
       "ppg": 1.35,
-      "form": "DWDDLW",
+      "form": "WDDLWL",
       "ycF": 2.2,
       "ycA": 2.2,
       "rcF": 0.1,
@@ -2076,19 +2147,19 @@
       "gd": -8,
       "pts": 46,
       "ppg": 1.35,
-      "form": "LWWDWL",
-      "ycF": 1.9,
+      "form": "WWDWLW",
+      "ycF": 2.1,
       "ycA": 1.4,
       "rcF": 0,
       "rcA": 0,
       "psF": 47,
       "psA": 53,
       "cF": 4.2,
-      "cA": 5.3,
-      "stF": 4.8,
-      "stA": 5.4,
-      "sntF": 4.2,
-      "sntA": 5.4
+      "cA": 5.2,
+      "stF": 4.9,
+      "stA": 5.5,
+      "sntF": 4,
+      "sntA": 5.9
     },
     "NY Red Bulls": {
       "pos": 10,
@@ -2510,7 +2581,7 @@
       "gd": -2,
       "pts": 46,
       "ppg": 1.35,
-      "form": "LDDLLW",
+      "form": "DDLLWD",
       "ycF": 1.7,
       "ycA": 1.1,
       "rcF": 0,
@@ -2541,19 +2612,19 @@
       "gd": 1,
       "pts": 45,
       "ppg": 1.32,
-      "form": "DWWWLW",
+      "form": "WWWLWD",
       "ycF": 2.6,
       "ycA": 2.2,
       "rcF": 0.1,
       "rcA": 0.1,
       "psF": 48,
       "psA": 52,
-      "cF": 4.7,
+      "cF": 4.5,
       "cA": 6.4,
-      "stF": 3.9,
-      "stA": 4.4,
-      "sntF": 5.2,
-      "sntA": 5.1
+      "stF": 3.8,
+      "stA": 4.5,
+      "sntF": 5.1,
+      "sntA": 5.3
     },
     "Minnesota United": {
       "pos": 10,
@@ -2745,19 +2816,19 @@
   "backtest": {
     "totalMatches": 15,
     "bttsEvaluated": 15,
-    "bttsHits": 8,
-    "bttsAccuracy": 53.3,
+    "bttsHits": 10,
+    "bttsAccuracy": 66.7,
     "overUnderEvaluated": 15,
     "overUnderHits": 9,
     "overUnderAccuracy": 60,
-    "overallAccuracy": 56.7,
-    "exactScoreHits": 2,
-    "exactScoreAccuracy": 13.3,
+    "overallAccuracy": 63.3,
+    "exactScoreHits": 3,
+    "exactScoreAccuracy": 20,
     "confusionMatrix": {
       "btts": {
-        "predictedYesActualYes": 4,
-        "predictedYesActualNo": 4,
-        "predictedNoActualYes": 3,
+        "predictedYesActualYes": 6,
+        "predictedYesActualNo": 3,
+        "predictedNoActualYes": 2,
         "predictedNoActualNo": 4
       },
       "overUnder": {
@@ -2767,9 +2838,9 @@
         "predictedUnderActualUnder": 2
       }
     },
-    "logLoss": 0.6703,
-    "brierScore": 0.2394,
-    "simulatedRoi": 8.2
+    "logLoss": 0.6053,
+    "brierScore": 0.2099,
+    "simulatedRoi": 21
   },
   "parameters": {
     "homeAdvantage": 1.18,
