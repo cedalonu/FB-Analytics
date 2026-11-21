@@ -1,109 +1,38 @@
 {
   "leagueId": "35",
   "leagueName": "Belgian Pro League",
-  "timestamp": "2026-11-20T15:09:20.807Z",
+  "timestamp": "2026-11-21T14:27:27.759Z",
   "fixtures": [
     {
-      "id": "fix_35_1_CercleBrugge",
-      "leagueId": "35",
-      "leagueName": "Belgian Pro League",
-      "dateRaw": "Fri 20/11",
-      "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysFromNow": 0,
-      "time": "19:45",
-      "homeTeam": "Cercle Brugge",
-      "awayTeam": "Westerlo",
-      "odds": {
-        "home": 2.09,
-        "draw": 4.02,
-        "away": 3.23
-      },
-      "prediction": {
-        "homeExpectedGoals": 1.42,
-        "awayExpectedGoals": 3.16,
-        "totalExpectedGoals": 4.58,
-        "bttsProbability": 0.7166,
-        "bttsNoProbability": 0.2834,
-        "over25Probability": 0.8195,
-        "under25Probability": 0.1805,
-        "homeWinProbability": 0.2546,
-        "drawProbability": 0.1476,
-        "awayWinProbability": 0.6391,
-        "predictedScore": {
-          "home": 1,
-          "away": 3,
-          "probability": 0.0766
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 43,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 64,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1570,
-          "awayElo": 1653,
-          "eloWinProb": 0.474
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 1.42,
-        "awayExpectedGoals": 3.16,
-        "totalExpectedGoals": 4.58,
-        "bttsProbability": 0.7166,
-        "bttsNoProbability": 0.2834,
-        "over25Probability": 0.8195,
-        "under25Probability": 0.1805,
-        "homeWinProbability": 0.2546,
-        "drawProbability": 0.1476,
-        "awayWinProbability": 0.6391,
-        "predictedScore": {
-          "home": 1,
-          "away": 3,
-          "probability": 0.0766
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 43,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 64,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1570,
-          "awayElo": 1653,
-          "eloWinProb": 0.474
-        }
-      },
-      "confidenceScore": 82
-    },
-    {
-      "id": "fix_35_2_Charleroi",
+      "id": "fix_35_1_Charleroi",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "15:00",
       "homeTeam": "Charleroi",
       "awayTeam": "Sint Truidense VV",
       "odds": {
         "home": 2,
-        "draw": 3.91,
-        "away": 3.42
+        "draw": 3.99,
+        "away": 3.49
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 1.97,
-        "totalExpectedGoals": 6.47,
-        "bttsProbability": 0.7763,
-        "bttsNoProbability": 0.2237,
-        "over25Probability": 0.8685,
-        "under25Probability": 0.1315,
-        "homeWinProbability": 0.7467,
-        "drawProbability": 0.1015,
-        "awayWinProbability": 0.1304,
+        "awayExpectedGoals": 1.98,
+        "totalExpectedGoals": 6.48,
+        "bttsProbability": 0.7772,
+        "bttsNoProbability": 0.2228,
+        "over25Probability": 0.8687,
+        "under25Probability": 0.1313,
+        "homeWinProbability": 0.7472,
+        "drawProbability": 0.1018,
+        "awayWinProbability": 0.1298,
         "predictedScore": {
           "home": 4,
           "away": 1,
-          "probability": 0.0522
+          "probability": 0.052
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 55,
@@ -112,25 +41,25 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1836,
-          "awayElo": 1627,
-          "eloWinProb": 0.829
+          "awayElo": 1623,
+          "eloWinProb": 0.832
         }
       },
       "pred": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 1.97,
-        "totalExpectedGoals": 6.47,
-        "bttsProbability": 0.7763,
-        "bttsNoProbability": 0.2237,
-        "over25Probability": 0.8685,
-        "under25Probability": 0.1315,
-        "homeWinProbability": 0.7467,
-        "drawProbability": 0.1015,
-        "awayWinProbability": 0.1304,
+        "awayExpectedGoals": 1.98,
+        "totalExpectedGoals": 6.48,
+        "bttsProbability": 0.7772,
+        "bttsNoProbability": 0.2228,
+        "over25Probability": 0.8687,
+        "under25Probability": 0.1313,
+        "homeWinProbability": 0.7472,
+        "drawProbability": 0.1018,
+        "awayWinProbability": 0.1298,
         "predictedScore": {
           "home": 4,
           "away": 1,
-          "probability": 0.0522
+          "probability": 0.052
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 55,
@@ -139,45 +68,45 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1836,
-          "awayElo": 1627,
-          "eloWinProb": 0.829
+          "awayElo": 1623,
+          "eloWinProb": 0.832
         }
       },
       "confidenceScore": 87
     },
     {
-      "id": "fix_35_3_KRCGenk",
+      "id": "fix_35_2_KRCGenk",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "17:15",
       "homeTeam": "KRC Genk",
       "awayTeam": "La Louviere",
       "odds": {
-        "home": 1.45,
-        "draw": 4.88,
-        "away": 6.62
+        "home": 1.47,
+        "draw": 4.9,
+        "away": 7
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
         "awayExpectedGoals": 0.27,
         "totalExpectedGoals": 4.77,
-        "bttsProbability": 0.2117,
-        "bttsNoProbability": 0.7883,
-        "over25Probability": 0.7677,
-        "under25Probability": 0.2323,
-        "homeWinProbability": 0.8477,
-        "drawProbability": 0.0234,
+        "bttsProbability": 0.2135,
+        "bttsNoProbability": 0.7865,
+        "over25Probability": 0.7679,
+        "under25Probability": 0.2321,
+        "homeWinProbability": 0.8476,
+        "drawProbability": 0.0236,
         "awayWinProbability": 0.0808,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1454
+          "probability": 0.145
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 58,
+        "bttsConfidence": 57,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 54,
         "iicdScore": 1,
@@ -191,20 +120,20 @@
         "homeExpectedGoals": 4.5,
         "awayExpectedGoals": 0.27,
         "totalExpectedGoals": 4.77,
-        "bttsProbability": 0.2117,
-        "bttsNoProbability": 0.7883,
-        "over25Probability": 0.7677,
-        "under25Probability": 0.2323,
-        "homeWinProbability": 0.8477,
-        "drawProbability": 0.0234,
+        "bttsProbability": 0.2135,
+        "bttsNoProbability": 0.7865,
+        "over25Probability": 0.7679,
+        "under25Probability": 0.2321,
+        "homeWinProbability": 0.8476,
+        "drawProbability": 0.0236,
         "awayWinProbability": 0.0808,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1454
+          "probability": 0.145
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 58,
+        "bttsConfidence": 57,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 54,
         "iicdScore": 1,
@@ -217,35 +146,35 @@
       "confidenceScore": 79
     },
     {
-      "id": "fix_35_4_KVMechelen",
+      "id": "fix_35_3_KVMechelen",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "19:45",
       "homeTeam": "KV Mechelen",
       "awayTeam": "Club Brugge",
       "odds": {
-        "home": 6.7,
-        "draw": 5.2,
+        "home": 7,
+        "draw": 5.5,
         "away": 1.42
       },
       "prediction": {
         "homeExpectedGoals": 0.71,
         "awayExpectedGoals": 4,
         "totalExpectedGoals": 4.71,
-        "bttsProbability": 0.4742,
-        "bttsNoProbability": 0.5258,
-        "over25Probability": 0.7975,
-        "under25Probability": 0.2025,
-        "homeWinProbability": 0.107,
+        "bttsProbability": 0.4737,
+        "bttsNoProbability": 0.5263,
+        "over25Probability": 0.7974,
+        "under25Probability": 0.2026,
+        "homeWinProbability": 0.1054,
         "drawProbability": 0.0626,
-        "awayWinProbability": 0.8191,
+        "awayWinProbability": 0.8207,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.0961
+          "probability": 0.0962
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -253,26 +182,26 @@
         "overUnderConfidence": 59,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1618,
+          "homeElo": 1614,
           "awayElo": 1867,
-          "eloWinProb": 0.257
+          "eloWinProb": 0.253
         }
       },
       "pred": {
         "homeExpectedGoals": 0.71,
         "awayExpectedGoals": 4,
         "totalExpectedGoals": 4.71,
-        "bttsProbability": 0.4742,
-        "bttsNoProbability": 0.5258,
-        "over25Probability": 0.7975,
-        "under25Probability": 0.2025,
-        "homeWinProbability": 0.107,
+        "bttsProbability": 0.4737,
+        "bttsNoProbability": 0.5263,
+        "over25Probability": 0.7974,
+        "under25Probability": 0.2026,
+        "homeWinProbability": 0.1054,
         "drawProbability": 0.0626,
-        "awayWinProbability": 0.8191,
+        "awayWinProbability": 0.8207,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.0961
+          "probability": 0.0962
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -280,43 +209,43 @@
         "overUnderConfidence": 59,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1618,
+          "homeElo": 1614,
           "awayElo": 1867,
-          "eloWinProb": 0.257
+          "eloWinProb": 0.253
         }
       },
       "confidenceScore": 80
     },
     {
-      "id": "fix_35_5_Zulte-Waregem",
+      "id": "fix_35_4_Zulte-Waregem",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "19:45",
       "homeTeam": "Zulte-Waregem",
       "awayTeam": "Royal Antwerp",
       "odds": {
-        "home": 2.15,
-        "draw": 3.66,
-        "away": 3.24
+        "home": 2.21,
+        "draw": 3.64,
+        "away": 3.23
       },
       "prediction": {
         "homeExpectedGoals": 1.97,
-        "awayExpectedGoals": 1.38,
-        "totalExpectedGoals": 3.35,
-        "bttsProbability": 0.6487,
-        "bttsNoProbability": 0.3513,
-        "over25Probability": 0.6487,
-        "under25Probability": 0.3513,
-        "homeWinProbability": 0.5321,
-        "drawProbability": 0.2303,
-        "awayWinProbability": 0.3175,
+        "awayExpectedGoals": 1.39,
+        "totalExpectedGoals": 3.37,
+        "bttsProbability": 0.6525,
+        "bttsNoProbability": 0.3475,
+        "over25Probability": 0.6532,
+        "under25Probability": 0.3468,
+        "homeWinProbability": 0.5314,
+        "drawProbability": 0.2296,
+        "awayWinProbability": 0.3186,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1013
+          "probability": 0.1005
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -324,26 +253,26 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1598,
-          "awayElo": 1605,
+          "homeElo": 1594,
+          "awayElo": 1601,
           "eloWinProb": 0.583
         }
       },
       "pred": {
         "homeExpectedGoals": 1.97,
-        "awayExpectedGoals": 1.38,
-        "totalExpectedGoals": 3.35,
-        "bttsProbability": 0.6487,
-        "bttsNoProbability": 0.3513,
-        "over25Probability": 0.6487,
-        "under25Probability": 0.3513,
-        "homeWinProbability": 0.5321,
-        "drawProbability": 0.2303,
-        "awayWinProbability": 0.3175,
+        "awayExpectedGoals": 1.39,
+        "totalExpectedGoals": 3.37,
+        "bttsProbability": 0.6525,
+        "bttsNoProbability": 0.3475,
+        "over25Probability": 0.6532,
+        "under25Probability": 0.3468,
+        "homeWinProbability": 0.5314,
+        "drawProbability": 0.2296,
+        "awayWinProbability": 0.3186,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1013
+          "probability": 0.1005
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -351,20 +280,20 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1598,
-          "awayElo": 1605,
+          "homeElo": 1594,
+          "awayElo": 1601,
           "eloWinProb": 0.583
         }
       },
       "confidenceScore": 65
     },
     {
-      "id": "fix_35_6_Waasland-Beveren",
+      "id": "fix_35_5_Waasland-Beveren",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "12:30",
       "homeTeam": "Waasland-Beveren",
       "awayTeam": "Gent",
@@ -375,19 +304,19 @@
       },
       "prediction": {
         "homeExpectedGoals": 0.49,
-        "awayExpectedGoals": 1.93,
-        "totalExpectedGoals": 2.43,
-        "bttsProbability": 0.3374,
-        "bttsNoProbability": 0.6626,
-        "over25Probability": 0.4359,
-        "under25Probability": 0.5641,
-        "homeWinProbability": 0.1324,
-        "drawProbability": 0.2051,
-        "awayWinProbability": 0.7337,
+        "awayExpectedGoals": 1.96,
+        "totalExpectedGoals": 2.46,
+        "bttsProbability": 0.3386,
+        "bttsNoProbability": 0.6614,
+        "over25Probability": 0.4438,
+        "under25Probability": 0.5562,
+        "homeWinProbability": 0.1296,
+        "drawProbability": 0.2009,
+        "awayWinProbability": 0.7392,
         "predictedScore": {
           "home": 0,
-          "away": 1,
-          "probability": 0.1659
+          "away": 2,
+          "probability": 0.1654
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -395,26 +324,26 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1576,
+          "homeElo": 1572,
           "awayElo": 1851,
-          "eloWinProb": 0.23
+          "eloWinProb": 0.226
         }
       },
       "pred": {
         "homeExpectedGoals": 0.49,
-        "awayExpectedGoals": 1.93,
-        "totalExpectedGoals": 2.43,
-        "bttsProbability": 0.3374,
-        "bttsNoProbability": 0.6626,
-        "over25Probability": 0.4359,
-        "under25Probability": 0.5641,
-        "homeWinProbability": 0.1324,
-        "drawProbability": 0.2051,
-        "awayWinProbability": 0.7337,
+        "awayExpectedGoals": 1.96,
+        "totalExpectedGoals": 2.46,
+        "bttsProbability": 0.3386,
+        "bttsNoProbability": 0.6614,
+        "over25Probability": 0.4438,
+        "under25Probability": 0.5562,
+        "homeWinProbability": 0.1296,
+        "drawProbability": 0.2009,
+        "awayWinProbability": 0.7392,
         "predictedScore": {
           "home": 0,
-          "away": 1,
-          "probability": 0.1659
+          "away": 2,
+          "probability": 0.1654
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -422,20 +351,20 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1576,
+          "homeElo": 1572,
           "awayElo": 1851,
-          "eloWinProb": 0.23
+          "eloWinProb": 0.226
         }
       },
       "confidenceScore": 66
     },
     {
-      "id": "fix_35_7_Kortrijk",
+      "id": "fix_35_6_Kortrijk",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "15:00",
       "homeTeam": "Kortrijk",
       "awayTeam": "Union St Gilloise",
@@ -501,12 +430,12 @@
       "confidenceScore": 79
     },
     {
-      "id": "fix_35_8_Anderlecht",
+      "id": "fix_35_7_Anderlecht",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:30",
       "homeTeam": "Anderlecht",
       "awayTeam": "Leuven",
@@ -516,20 +445,20 @@
         "away": 6.4
       },
       "prediction": {
-        "homeExpectedGoals": 2.81,
-        "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 3.01,
-        "bttsProbability": 0.1735,
-        "bttsNoProbability": 0.8265,
-        "over25Probability": 0.571,
-        "under25Probability": 0.429,
-        "homeWinProbability": 0.8374,
-        "drawProbability": 0.0851,
+        "homeExpectedGoals": 2.82,
+        "awayExpectedGoals": 0.21,
+        "totalExpectedGoals": 3.03,
+        "bttsProbability": 0.1752,
+        "bttsNoProbability": 0.8248,
+        "over25Probability": 0.5742,
+        "under25Probability": 0.4258,
+        "homeWinProbability": 0.8377,
+        "drawProbability": 0.0844,
         "awayWinProbability": 0.102,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.194
+          "probability": 0.1929
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 65,
@@ -543,20 +472,20 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 2.81,
-        "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 3.01,
-        "bttsProbability": 0.1735,
-        "bttsNoProbability": 0.8265,
-        "over25Probability": 0.571,
-        "under25Probability": 0.429,
-        "homeWinProbability": 0.8374,
-        "drawProbability": 0.0851,
+        "homeExpectedGoals": 2.82,
+        "awayExpectedGoals": 0.21,
+        "totalExpectedGoals": 3.03,
+        "bttsProbability": 0.1752,
+        "bttsNoProbability": 0.8248,
+        "over25Probability": 0.5742,
+        "under25Probability": 0.4258,
+        "homeWinProbability": 0.8377,
+        "drawProbability": 0.0844,
         "awayWinProbability": 0.102,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.194
+          "probability": 0.1929
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 65,
@@ -569,15 +498,15 @@
           "eloWinProb": 0.733
         }
       },
-      "confidenceScore": 83
+      "confidenceScore": 82
     },
     {
-      "id": "fix_35_9_Lommel",
+      "id": "fix_35_8_Lommel",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 22/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "18:15",
       "homeTeam": "Lommel",
       "awayTeam": "Standard de Liege",
@@ -587,20 +516,20 @@
         "away": 2.08
       },
       "prediction": {
-        "homeExpectedGoals": 1.85,
-        "awayExpectedGoals": 0.5,
-        "totalExpectedGoals": 2.36,
-        "bttsProbability": 0.3377,
-        "bttsNoProbability": 0.6623,
-        "over25Probability": 0.4181,
-        "under25Probability": 0.5819,
-        "homeWinProbability": 0.668,
-        "drawProbability": 0.2163,
-        "awayWinProbability": 0.191,
+        "homeExpectedGoals": 1.86,
+        "awayExpectedGoals": 0.51,
+        "totalExpectedGoals": 2.37,
+        "bttsProbability": 0.3408,
+        "bttsNoProbability": 0.6592,
+        "over25Probability": 0.4217,
+        "under25Probability": 0.5783,
+        "homeWinProbability": 0.6682,
+        "drawProbability": 0.2155,
+        "awayWinProbability": 0.1912,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1705
+          "probability": 0.1689
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -614,20 +543,20 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.85,
-        "awayExpectedGoals": 0.5,
-        "totalExpectedGoals": 2.36,
-        "bttsProbability": 0.3377,
-        "bttsNoProbability": 0.6623,
-        "over25Probability": 0.4181,
-        "under25Probability": 0.5819,
-        "homeWinProbability": 0.668,
-        "drawProbability": 0.2163,
-        "awayWinProbability": 0.191,
+        "homeExpectedGoals": 1.86,
+        "awayExpectedGoals": 0.51,
+        "totalExpectedGoals": 2.37,
+        "bttsProbability": 0.3408,
+        "bttsNoProbability": 0.6592,
+        "over25Probability": 0.4217,
+        "under25Probability": 0.5783,
+        "homeWinProbability": 0.6682,
+        "drawProbability": 0.2155,
+        "awayWinProbability": 0.1912,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1705
+          "probability": 0.1689
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -643,12 +572,12 @@
       "confidenceScore": 66
     },
     {
-      "id": "fix_35_10_Leuven",
+      "id": "fix_35_9_Leuven",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Fri 27/11",
-      "dateIso": "2026-11-20T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-27T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "19:45",
       "homeTeam": "Leuven",
       "awayTeam": "Kortrijk",
@@ -658,20 +587,20 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.94,
+        "homeExpectedGoals": 1.95,
         "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 2.14,
-        "bttsProbability": 0.1578,
-        "bttsNoProbability": 0.8422,
-        "over25Probability": 0.3604,
-        "under25Probability": 0.6396,
-        "homeWinProbability": 0.787,
-        "drawProbability": 0.1733,
-        "awayWinProbability": 0.0997,
+        "totalExpectedGoals": 2.15,
+        "bttsProbability": 0.158,
+        "bttsNoProbability": 0.842,
+        "over25Probability": 0.3627,
+        "under25Probability": 0.6373,
+        "homeWinProbability": 0.788,
+        "drawProbability": 0.1721,
+        "awayWinProbability": 0.0996,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.2255
+          "probability": 0.2245
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 68,
@@ -685,20 +614,20 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.94,
+        "homeExpectedGoals": 1.95,
         "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 2.14,
-        "bttsProbability": 0.1578,
-        "bttsNoProbability": 0.8422,
-        "over25Probability": 0.3604,
-        "under25Probability": 0.6396,
-        "homeWinProbability": 0.787,
-        "drawProbability": 0.1733,
-        "awayWinProbability": 0.0997,
+        "totalExpectedGoals": 2.15,
+        "bttsProbability": 0.158,
+        "bttsNoProbability": 0.842,
+        "over25Probability": 0.3627,
+        "under25Probability": 0.6373,
+        "homeWinProbability": 0.788,
+        "drawProbability": 0.1721,
+        "awayWinProbability": 0.0996,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.2255
+          "probability": 0.2245
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 68,
@@ -714,12 +643,12 @@
       "confidenceScore": 84
     },
     {
-      "id": "fix_35_11_Westerlo",
+      "id": "fix_35_10_Westerlo",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "15:00",
       "homeTeam": "Westerlo",
       "awayTeam": "La Louviere",
@@ -730,67 +659,67 @@
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 1.12,
-        "totalExpectedGoals": 5.62,
-        "bttsProbability": 0.6079,
-        "bttsNoProbability": 0.3921,
-        "over25Probability": 0.8319,
-        "under25Probability": 0.1681,
-        "homeWinProbability": 0.7841,
-        "drawProbability": 0.0648,
-        "awayWinProbability": 0.1175,
+        "awayExpectedGoals": 1.13,
+        "totalExpectedGoals": 5.63,
+        "bttsProbability": 0.6127,
+        "bttsNoProbability": 0.3873,
+        "over25Probability": 0.8329,
+        "under25Probability": 0.1671,
+        "homeWinProbability": 0.7817,
+        "drawProbability": 0.0656,
+        "awayWinProbability": 0.1193,
         "predictedScore": {
           "home": 4,
           "away": 1,
-          "probability": 0.0694
+          "probability": 0.0693
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 66,
+        "overUnderConfidence": 67,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1653,
+          "homeElo": 1650,
           "awayElo": 1539,
-          "eloWinProb": 0.737
+          "eloWinProb": 0.734
         }
       },
       "pred": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 1.12,
-        "totalExpectedGoals": 5.62,
-        "bttsProbability": 0.6079,
-        "bttsNoProbability": 0.3921,
-        "over25Probability": 0.8319,
-        "under25Probability": 0.1681,
-        "homeWinProbability": 0.7841,
-        "drawProbability": 0.0648,
-        "awayWinProbability": 0.1175,
+        "awayExpectedGoals": 1.13,
+        "totalExpectedGoals": 5.63,
+        "bttsProbability": 0.6127,
+        "bttsNoProbability": 0.3873,
+        "over25Probability": 0.8329,
+        "under25Probability": 0.1671,
+        "homeWinProbability": 0.7817,
+        "drawProbability": 0.0656,
+        "awayWinProbability": 0.1193,
         "predictedScore": {
           "home": 4,
           "away": 1,
-          "probability": 0.0694
+          "probability": 0.0693
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 66,
+        "overUnderConfidence": 67,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1653,
+          "homeElo": 1650,
           "awayElo": 1539,
-          "eloWinProb": 0.737
+          "eloWinProb": 0.734
         }
       },
       "confidenceScore": 83
     },
     {
-      "id": "fix_35_12_CercleBrugge",
+      "id": "fix_35_11_CercleBrugge",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "17:15",
       "homeTeam": "Cercle Brugge",
       "awayTeam": "KV Mechelen",
@@ -800,20 +729,20 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.02,
-        "awayExpectedGoals": 1.38,
-        "totalExpectedGoals": 2.4,
-        "bttsProbability": 0.4863,
-        "bttsNoProbability": 0.5137,
-        "over25Probability": 0.4303,
-        "under25Probability": 0.5697,
-        "homeWinProbability": 0.3592,
-        "drawProbability": 0.2864,
-        "awayWinProbability": 0.4546,
+        "homeExpectedGoals": 1.1,
+        "awayExpectedGoals": 1.07,
+        "totalExpectedGoals": 2.18,
+        "bttsProbability": 0.4477,
+        "bttsNoProbability": 0.5523,
+        "over25Probability": 0.3709,
+        "under25Probability": 0.6291,
+        "homeWinProbability": 0.439,
+        "drawProbability": 0.3093,
+        "awayWinProbability": 0.3599,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1354
+          "probability": 0.1424
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -821,26 +750,26 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1570,
-          "awayElo": 1618,
-          "eloWinProb": 0.524
+          "homeElo": 1618,
+          "awayElo": 1614,
+          "eloWinProb": 0.598
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.02,
-        "awayExpectedGoals": 1.38,
-        "totalExpectedGoals": 2.4,
-        "bttsProbability": 0.4863,
-        "bttsNoProbability": 0.5137,
-        "over25Probability": 0.4303,
-        "under25Probability": 0.5697,
-        "homeWinProbability": 0.3592,
-        "drawProbability": 0.2864,
-        "awayWinProbability": 0.4546,
+        "homeExpectedGoals": 1.1,
+        "awayExpectedGoals": 1.07,
+        "totalExpectedGoals": 2.18,
+        "bttsProbability": 0.4477,
+        "bttsNoProbability": 0.5523,
+        "over25Probability": 0.3709,
+        "under25Probability": 0.6291,
+        "homeWinProbability": 0.439,
+        "drawProbability": 0.3093,
+        "awayWinProbability": 0.3599,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1354
+          "probability": 0.1424
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -848,20 +777,20 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1570,
-          "awayElo": 1618,
-          "eloWinProb": 0.524
+          "homeElo": 1618,
+          "awayElo": 1614,
+          "eloWinProb": 0.598
         }
       },
-      "confidenceScore": 57
+      "confidenceScore": 63
     },
     {
-      "id": "fix_35_13_Charleroi",
+      "id": "fix_35_12_Charleroi",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "19:45",
       "homeTeam": "Charleroi",
       "awayTeam": "Waasland-Beveren",
@@ -874,17 +803,17 @@
         "homeExpectedGoals": 4.5,
         "awayExpectedGoals": 0.62,
         "totalExpectedGoals": 5.12,
-        "bttsProbability": 0.4188,
-        "bttsNoProbability": 0.5812,
-        "over25Probability": 0.7986,
-        "under25Probability": 0.2014,
-        "homeWinProbability": 0.8614,
-        "drawProbability": 0.0407,
-        "awayWinProbability": 0.0559,
+        "bttsProbability": 0.4199,
+        "bttsNoProbability": 0.5801,
+        "over25Probability": 0.7988,
+        "under25Probability": 0.2012,
+        "homeWinProbability": 0.8621,
+        "drawProbability": 0.0408,
+        "awayWinProbability": 0.0551,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1019
+          "probability": 0.1017
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -893,25 +822,25 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1836,
-          "awayElo": 1576,
-          "eloWinProb": 0.867
+          "awayElo": 1572,
+          "eloWinProb": 0.869
         }
       },
       "pred": {
         "homeExpectedGoals": 4.5,
         "awayExpectedGoals": 0.62,
         "totalExpectedGoals": 5.12,
-        "bttsProbability": 0.4188,
-        "bttsNoProbability": 0.5812,
-        "over25Probability": 0.7986,
-        "under25Probability": 0.2014,
-        "homeWinProbability": 0.8614,
-        "drawProbability": 0.0407,
-        "awayWinProbability": 0.0559,
+        "bttsProbability": 0.4199,
+        "bttsNoProbability": 0.5801,
+        "over25Probability": 0.7988,
+        "under25Probability": 0.2012,
+        "homeWinProbability": 0.8621,
+        "drawProbability": 0.0408,
+        "awayWinProbability": 0.0551,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1019
+          "probability": 0.1017
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -920,19 +849,19 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1836,
-          "awayElo": 1576,
-          "eloWinProb": 0.867
+          "awayElo": 1572,
+          "eloWinProb": 0.869
         }
       },
       "confidenceScore": 80
     },
     {
-      "id": "fix_35_14_Lommel",
+      "id": "fix_35_13_Lommel",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "19:45",
       "homeTeam": "Lommel",
       "awayTeam": "Zulte-Waregem",
@@ -942,20 +871,20 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.76,
+        "homeExpectedGoals": 1.78,
         "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 1.96,
-        "bttsProbability": 0.153,
-        "bttsNoProbability": 0.847,
-        "over25Probability": 0.3123,
-        "under25Probability": 0.6877,
-        "homeWinProbability": 0.7504,
-        "drawProbability": 0.2008,
-        "awayWinProbability": 0.1188,
+        "totalExpectedGoals": 1.98,
+        "bttsProbability": 0.1536,
+        "bttsNoProbability": 0.8464,
+        "over25Probability": 0.3174,
+        "under25Probability": 0.6826,
+        "homeWinProbability": 0.7544,
+        "drawProbability": 0.1977,
+        "awayWinProbability": 0.1168,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.2448
+          "probability": 0.2428
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 69,
@@ -964,25 +893,25 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1700,
-          "awayElo": 1598,
-          "eloWinProb": 0.723
+          "awayElo": 1594,
+          "eloWinProb": 0.728
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.76,
+        "homeExpectedGoals": 1.78,
         "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 1.96,
-        "bttsProbability": 0.153,
-        "bttsNoProbability": 0.847,
-        "over25Probability": 0.3123,
-        "under25Probability": 0.6877,
-        "homeWinProbability": 0.7504,
-        "drawProbability": 0.2008,
-        "awayWinProbability": 0.1188,
+        "totalExpectedGoals": 1.98,
+        "bttsProbability": 0.1536,
+        "bttsNoProbability": 0.8464,
+        "over25Probability": 0.3174,
+        "under25Probability": 0.6826,
+        "homeWinProbability": 0.7544,
+        "drawProbability": 0.1977,
+        "awayWinProbability": 0.1168,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.2448
+          "probability": 0.2428
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 69,
@@ -991,19 +920,19 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1700,
-          "awayElo": 1598,
-          "eloWinProb": 0.723
+          "awayElo": 1594,
+          "eloWinProb": 0.728
         }
       },
       "confidenceScore": 85
     },
     {
-      "id": "fix_35_15_SintTruidenseVV",
+      "id": "fix_35_14_SintTruidenseVV",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "12:30",
       "homeTeam": "Sint Truidense VV",
       "awayTeam": "KRC Genk",
@@ -1013,16 +942,16 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.66,
-        "awayExpectedGoals": 1.01,
-        "totalExpectedGoals": 2.67,
-        "bttsProbability": 0.5226,
-        "bttsNoProbability": 0.4774,
-        "over25Probability": 0.4989,
-        "under25Probability": 0.5011,
-        "homeWinProbability": 0.5117,
-        "drawProbability": 0.2584,
-        "awayWinProbability": 0.3201,
+        "homeExpectedGoals": 1.65,
+        "awayExpectedGoals": 1.03,
+        "totalExpectedGoals": 2.68,
+        "bttsProbability": 0.5271,
+        "bttsNoProbability": 0.4729,
+        "over25Probability": 0.5023,
+        "under25Probability": 0.4977,
+        "homeWinProbability": 0.5067,
+        "drawProbability": 0.2586,
+        "awayWinProbability": 0.325,
         "predictedScore": {
           "home": 1,
           "away": 1,
@@ -1030,26 +959,26 @@
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
-        "overUnderPick": "UNDER_2_5",
+        "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1627,
+          "homeElo": 1623,
           "awayElo": 1690,
-          "eloWinProb": 0.503
+          "eloWinProb": 0.497
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.66,
-        "awayExpectedGoals": 1.01,
-        "totalExpectedGoals": 2.67,
-        "bttsProbability": 0.5226,
-        "bttsNoProbability": 0.4774,
-        "over25Probability": 0.4989,
-        "under25Probability": 0.5011,
-        "homeWinProbability": 0.5117,
-        "drawProbability": 0.2584,
-        "awayWinProbability": 0.3201,
+        "homeExpectedGoals": 1.65,
+        "awayExpectedGoals": 1.03,
+        "totalExpectedGoals": 2.68,
+        "bttsProbability": 0.5271,
+        "bttsNoProbability": 0.4729,
+        "over25Probability": 0.5023,
+        "under25Probability": 0.4977,
+        "homeWinProbability": 0.5067,
+        "drawProbability": 0.2586,
+        "awayWinProbability": 0.325,
         "predictedScore": {
           "home": 1,
           "away": 1,
@@ -1057,21 +986,146 @@
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
-        "overUnderPick": "UNDER_2_5",
+        "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1627,
+          "homeElo": 1623,
           "awayElo": 1690,
-          "eloWinProb": 0.503
+          "eloWinProb": 0.497
         }
       },
-      "confidenceScore": 52
+      "confidenceScore": 53
+    },
+    {
+      "id": "fix_35_15_RoyalAntwerp",
+      "leagueId": "35",
+      "leagueName": "Belgian Pro League",
+      "dateRaw": "Sun 29/11",
+      "dateIso": "2026-11-22T12:00:00.000Z",
+      "daysFromNow": 1,
+      "time": "15:00",
+      "homeTeam": "Royal Antwerp",
+      "awayTeam": "Anderlecht",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.63,
+        "awayExpectedGoals": 1.4,
+        "totalExpectedGoals": 3.03,
+        "bttsProbability": 0.6129,
+        "bttsNoProbability": 0.3871,
+        "over25Probability": 0.5841,
+        "under25Probability": 0.4159,
+        "homeWinProbability": 0.414,
+        "drawProbability": 0.253,
+        "awayWinProbability": 0.4213,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1167
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1601,
+          "awayElo": 1738,
+          "eloWinProb": 0.398
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.63,
+        "awayExpectedGoals": 1.4,
+        "totalExpectedGoals": 3.03,
+        "bttsProbability": 0.6129,
+        "bttsNoProbability": 0.3871,
+        "over25Probability": 0.5841,
+        "under25Probability": 0.4159,
+        "homeWinProbability": 0.414,
+        "drawProbability": 0.253,
+        "awayWinProbability": 0.4213,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1167
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1601,
+          "awayElo": 1738,
+          "eloWinProb": 0.398
+        }
+      },
+      "confidenceScore": 61
     }
   ],
   "results": [
     {
-      "id": "res_35_1_SintTruidenseVV",
+      "id": "res_35_1_CercleBrugge",
+      "leagueId": "35",
+      "leagueName": "Belgian Pro League",
+      "dateRaw": "Fri 20-Nov-2026",
+      "dateIso": "2026-11-27T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "19:45",
+      "homeTeam": "Cercle Brugge",
+      "awayTeam": "Westerlo",
+      "score": "1-0",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "totalGoals": 1,
+      "actualBtts": false,
+      "actualOver25": false,
+      "prediction": {
+        "homeExpectedGoals": 1.39,
+        "awayExpectedGoals": 1.99,
+        "totalExpectedGoals": 3.38,
+        "bttsProbability": 0.6532,
+        "bttsNoProbability": 0.3468,
+        "over25Probability": 0.6549,
+        "under25Probability": 0.3451,
+        "homeWinProbability": 0.3629,
+        "drawProbability": 0.2289,
+        "awayWinProbability": 0.4876,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1618,
+          "awayElo": 1650,
+          "eloWinProb": 0.547
+        },
+        "matchFingerprint": "35_cercle brugge_westerlo_Fri 20-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-21T14:27:27.756Z",
+        "auditHash": "SHA256-IMMUTABLE-8738B31-2026-11-21",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": false,
+        "overUnderHit": false,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_35_2_SintTruidenseVV",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1087,20 +1141,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 2.33,
-        "awayExpectedGoals": 0.89,
-        "totalExpectedGoals": 3.23,
-        "bttsProbability": 0.5371,
-        "bttsNoProbability": 0.4629,
-        "over25Probability": 0.6225,
-        "under25Probability": 0.3775,
-        "homeWinProbability": 0.6677,
-        "drawProbability": 0.1872,
-        "awayWinProbability": 0.2088,
+        "homeExpectedGoals": 2.34,
+        "awayExpectedGoals": 0.9,
+        "totalExpectedGoals": 3.25,
+        "bttsProbability": 0.541,
+        "bttsNoProbability": 0.459,
+        "over25Probability": 0.6265,
+        "under25Probability": 0.3735,
+        "homeWinProbability": 0.6676,
+        "drawProbability": 0.1867,
+        "awayWinProbability": 0.2092,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1079
+          "probability": 0.1068
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1108,13 +1162,13 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1627,
-          "awayElo": 1598,
+          "homeElo": 1623,
+          "awayElo": 1594,
           "eloWinProb": 0.632
         },
         "matchFingerprint": "35_sint truidense vv_zulte-waregem_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:20.805Z",
-        "auditHash": "SHA256-IMMUTABLE-6109D4F4-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:27.756Z",
+        "auditHash": "SHA256-IMMUTABLE-12B60D18-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1125,7 +1179,7 @@
       }
     },
     {
-      "id": "res_35_2_UnionStGilloise",
+      "id": "res_35_3_UnionStGilloise",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1142,22 +1196,22 @@
       "actualOver25": false,
       "prediction": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.22,
-        "totalExpectedGoals": 4.72,
-        "bttsProbability": 0.1817,
-        "bttsNoProbability": 0.8183,
-        "over25Probability": 0.7635,
-        "under25Probability": 0.2365,
-        "homeWinProbability": 0.8668,
-        "drawProbability": 0.0214,
+        "awayExpectedGoals": 0.23,
+        "totalExpectedGoals": 4.73,
+        "bttsProbability": 0.1834,
+        "bttsNoProbability": 0.8166,
+        "over25Probability": 0.7637,
+        "under25Probability": 0.2363,
+        "homeWinProbability": 0.8667,
+        "drawProbability": 0.0215,
         "awayWinProbability": 0.063,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1517
+          "probability": 0.1513
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 64,
+        "bttsConfidence": 63,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 53,
         "iicdScore": 1,
@@ -1167,8 +1221,8 @@
           "eloWinProb": 0.826
         },
         "matchFingerprint": "35_union st gilloise_krc genk_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:20.805Z",
-        "auditHash": "SHA256-IMMUTABLE-BB061E4-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:27.757Z",
+        "auditHash": "SHA256-IMMUTABLE-2E40B078-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1179,7 +1233,7 @@
       }
     },
     {
-      "id": "res_35_3_Gent",
+      "id": "res_35_4_Gent",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1195,20 +1249,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 4.3,
+        "homeExpectedGoals": 4.32,
         "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 4.5,
-        "bttsProbability": 0.1665,
-        "bttsNoProbability": 0.8335,
-        "over25Probability": 0.7554,
-        "under25Probability": 0.2446,
-        "homeWinProbability": 0.9091,
-        "drawProbability": 0.024,
+        "totalExpectedGoals": 4.52,
+        "bttsProbability": 0.1663,
+        "bttsNoProbability": 0.8337,
+        "over25Probability": 0.7562,
+        "under25Probability": 0.2438,
+        "homeWinProbability": 0.9085,
+        "drawProbability": 0.0236,
         "awayWinProbability": 0.029,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1582
+          "probability": 0.158
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 67,
@@ -1221,8 +1275,8 @@
           "eloWinProb": 0.923
         },
         "matchFingerprint": "35_gent_kortrijk_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:20.805Z",
-        "auditHash": "SHA256-IMMUTABLE-2CF9C224-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:27.757Z",
+        "auditHash": "SHA256-IMMUTABLE-2B1A8478-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1233,7 +1287,7 @@
       }
     },
     {
-      "id": "res_35_4_ClubBrugge",
+      "id": "res_35_5_ClubBrugge",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1249,23 +1303,23 @@
       "actualBtts": true,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 3.86,
+        "homeExpectedGoals": 3.87,
         "awayExpectedGoals": 0.32,
-        "totalExpectedGoals": 4.17,
-        "bttsProbability": 0.2563,
-        "bttsNoProbability": 0.7437,
-        "over25Probability": 0.7433,
-        "under25Probability": 0.2567,
-        "homeWinProbability": 0.852,
-        "drawProbability": 0.0432,
+        "totalExpectedGoals": 4.19,
+        "bttsProbability": 0.2583,
+        "bttsNoProbability": 0.7417,
+        "over25Probability": 0.7451,
+        "under25Probability": 0.2549,
+        "homeWinProbability": 0.8516,
+        "drawProbability": 0.0428,
         "awayWinProbability": 0.092,
         "predictedScore": {
           "home": 3,
           "away": 0,
-          "probability": 0.147
+          "probability": 0.146
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 49,
+        "bttsConfidence": 48,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 49,
         "iicdScore": 1,
@@ -1275,8 +1329,8 @@
           "eloWinProb": 0.753
         },
         "matchFingerprint": "35_club brugge_anderlecht_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:20.805Z",
-        "auditHash": "SHA256-IMMUTABLE-11F6BBC0-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:27.757Z",
+        "auditHash": "SHA256-IMMUTABLE-194B135D-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1287,7 +1341,7 @@
       }
     },
     {
-      "id": "res_35_5_LaLouviere",
+      "id": "res_35_6_LaLouviere",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 07-Nov-2026",
@@ -1303,20 +1357,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 1.88,
-        "awayExpectedGoals": 1.52,
-        "totalExpectedGoals": 3.39,
-        "bttsProbability": 0.6662,
-        "bttsNoProbability": 0.3338,
-        "over25Probability": 0.6584,
-        "under25Probability": 0.3416,
-        "homeWinProbability": 0.4893,
-        "drawProbability": 0.2344,
-        "awayWinProbability": 0.3577,
+        "homeExpectedGoals": 1.75,
+        "awayExpectedGoals": 1.69,
+        "totalExpectedGoals": 3.44,
+        "bttsProbability": 0.6786,
+        "bttsNoProbability": 0.3214,
+        "over25Probability": 0.6669,
+        "under25Probability": 0.3331,
+        "homeWinProbability": 0.4251,
+        "drawProbability": 0.2363,
+        "awayWinProbability": 0.4208,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1013
+          "probability": 0.1006
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1325,12 +1379,12 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1539,
-          "awayElo": 1570,
-          "eloWinProb": 0.549
+          "awayElo": 1618,
+          "eloWinProb": 0.48
         },
         "matchFingerprint": "35_la louviere_cercle brugge_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:20.805Z",
-        "auditHash": "SHA256-IMMUTABLE-58EBF815-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:27.757Z",
+        "auditHash": "SHA256-IMMUTABLE-251E1981-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1341,7 +1395,7 @@
       }
     },
     {
-      "id": "res_35_6_RoyalAntwerp",
+      "id": "res_35_7_RoyalAntwerp",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 07-Nov-2026",
@@ -1358,19 +1412,19 @@
       "actualOver25": true,
       "prediction": {
         "homeExpectedGoals": 1.9,
-        "awayExpectedGoals": 2.79,
-        "totalExpectedGoals": 4.7,
-        "bttsProbability": 0.7943,
-        "bttsNoProbability": 0.2057,
-        "over25Probability": 0.8386,
-        "under25Probability": 0.1614,
-        "homeWinProbability": 0.3242,
-        "drawProbability": 0.1819,
-        "awayWinProbability": 0.5518,
+        "awayExpectedGoals": 2.84,
+        "totalExpectedGoals": 4.74,
+        "bttsProbability": 0.7955,
+        "bttsNoProbability": 0.2045,
+        "over25Probability": 0.8421,
+        "under25Probability": 0.1579,
+        "homeWinProbability": 0.3182,
+        "drawProbability": 0.1795,
+        "awayWinProbability": 0.5589,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.0677
+          "probability": 0.0669
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 59,
@@ -1378,13 +1432,13 @@
         "overUnderConfidence": 68,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1605,
+          "homeElo": 1601,
           "awayElo": 1700,
-          "eloWinProb": 0.457
+          "eloWinProb": 0.451
         },
         "matchFingerprint": "35_royal antwerp_lommel_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:20.805Z",
-        "auditHash": "SHA256-IMMUTABLE-1A82C4E8-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:27.757Z",
+        "auditHash": "SHA256-IMMUTABLE-1235862-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1395,7 +1449,7 @@
       }
     },
     {
-      "id": "res_35_7_Leuven",
+      "id": "res_35_8_Leuven",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 07-Nov-2026",
@@ -1411,20 +1465,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 1.29,
+        "homeExpectedGoals": 1.31,
         "awayExpectedGoals": 0.84,
-        "totalExpectedGoals": 2.14,
-        "bttsProbability": 0.4207,
-        "bttsNoProbability": 0.5793,
-        "over25Probability": 0.36,
-        "under25Probability": 0.64,
-        "homeWinProbability": 0.5134,
-        "drawProbability": 0.3018,
-        "awayWinProbability": 0.2904,
+        "totalExpectedGoals": 2.15,
+        "bttsProbability": 0.4238,
+        "bttsNoProbability": 0.5762,
+        "over25Probability": 0.3646,
+        "under25Probability": 0.6354,
+        "homeWinProbability": 0.5174,
+        "drawProbability": 0.3,
+        "awayWinProbability": 0.2876,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1452
+          "probability": 0.1442
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1433,12 +1487,12 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1628,
-          "awayElo": 1618,
-          "eloWinProb": 0.606
+          "awayElo": 1614,
+          "eloWinProb": 0.612
         },
         "matchFingerprint": "35_leuven_kv mechelen_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:20.805Z",
-        "auditHash": "SHA256-IMMUTABLE-15E41347-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:27.757Z",
+        "auditHash": "SHA256-IMMUTABLE-6F227E10-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1449,7 +1503,7 @@
       }
     },
     {
-      "id": "res_35_8_Westerlo",
+      "id": "res_35_9_Westerlo",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sat 07-Nov-2026",
@@ -1465,20 +1519,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.17,
+        "homeExpectedGoals": 1.13,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 5.17,
-        "bttsProbability": 0.6419,
-        "bttsNoProbability": 0.3581,
-        "over25Probability": 0.8374,
-        "under25Probability": 0.1626,
-        "homeWinProbability": 0.156,
-        "drawProbability": 0.0883,
-        "awayWinProbability": 0.7533,
+        "totalExpectedGoals": 5.13,
+        "bttsProbability": 0.6307,
+        "bttsNoProbability": 0.3693,
+        "over25Probability": 0.8345,
+        "under25Probability": 0.1655,
+        "homeWinProbability": 0.1526,
+        "drawProbability": 0.0863,
+        "awayWinProbability": 0.758,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.071
+          "probability": 0.0713
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1486,13 +1540,13 @@
         "overUnderConfidence": 67,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1653,
+          "homeElo": 1650,
           "awayElo": 1836,
-          "eloWinProb": 0.336
+          "eloWinProb": 0.333
         },
         "matchFingerprint": "35_westerlo_charleroi_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:20.805Z",
-        "auditHash": "SHA256-IMMUTABLE-52F751A4-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:27.757Z",
+        "auditHash": "SHA256-IMMUTABLE-7E93D88F-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1503,11 +1557,11 @@
       }
     },
     {
-      "id": "res_35_9_StandarddeLiege",
+      "id": "res_35_10_StandarddeLiege",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Fri 06-Nov-2026",
-      "dateIso": "2026-11-20T12:00:00.000Z",
+      "dateIso": "2026-11-27T12:00:00.000Z",
       "daysAgo": 0,
       "time": "19:45",
       "homeTeam": "Standard de Liege",
@@ -1519,20 +1573,20 @@
       "actualBtts": false,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 2.85,
+        "homeExpectedGoals": 2.88,
         "awayExpectedGoals": 0.25,
-        "totalExpectedGoals": 3.09,
-        "bttsProbability": 0.2052,
-        "bttsNoProbability": 0.7948,
-        "over25Probability": 0.5883,
-        "under25Probability": 0.4117,
-        "homeWinProbability": 0.8328,
-        "drawProbability": 0.0869,
-        "awayWinProbability": 0.1049,
+        "totalExpectedGoals": 3.12,
+        "bttsProbability": 0.2061,
+        "bttsNoProbability": 0.7939,
+        "over25Probability": 0.5946,
+        "under25Probability": 0.4054,
+        "homeWinProbability": 0.8356,
+        "drawProbability": 0.0849,
+        "awayWinProbability": 0.1031,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1839
+          "probability": 0.182
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 59,
@@ -1541,12 +1595,12 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1683,
-          "awayElo": 1576,
-          "eloWinProb": 0.729
+          "awayElo": 1572,
+          "eloWinProb": 0.734
         },
         "matchFingerprint": "35_standard de liege_waasland-beveren_Fri 06-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:20.805Z",
-        "auditHash": "SHA256-IMMUTABLE-7C862EC2-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:27.757Z",
+        "auditHash": "SHA256-IMMUTABLE-71FFEB2F-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1557,7 +1611,7 @@
       }
     },
     {
-      "id": "res_35_10_Kortrijk",
+      "id": "res_35_11_Kortrijk",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Wed 04-Nov-2026",
@@ -1574,33 +1628,33 @@
       "actualOver25": true,
       "prediction": {
         "homeExpectedGoals": 0.43,
-        "awayExpectedGoals": 1.73,
-        "totalExpectedGoals": 2.16,
-        "bttsProbability": 0.2917,
-        "bttsNoProbability": 0.7083,
-        "over25Probability": 0.3655,
-        "under25Probability": 0.6345,
-        "homeWinProbability": 0.1936,
-        "drawProbability": 0.2288,
-        "awayWinProbability": 0.6574,
+        "awayExpectedGoals": 1.74,
+        "totalExpectedGoals": 2.17,
+        "bttsProbability": 0.2946,
+        "bttsNoProbability": 0.7054,
+        "over25Probability": 0.3685,
+        "under25Probability": 0.6315,
+        "homeWinProbability": 0.1959,
+        "drawProbability": 0.2281,
+        "awayWinProbability": 0.6555,
         "predictedScore": {
           "home": 0,
           "away": 1,
-          "probability": 0.1947
+          "probability": 0.1932
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 42,
+        "bttsConfidence": 41,
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1485,
-          "awayElo": 1618,
-          "eloWinProb": 0.403
+          "awayElo": 1614,
+          "eloWinProb": 0.409
         },
         "matchFingerprint": "35_kortrijk_kv mechelen_Wed 04-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:20.806Z",
-        "auditHash": "SHA256-IMMUTABLE-2B5A1172-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:27.757Z",
+        "auditHash": "SHA256-IMMUTABLE-27B9FAD7-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1611,7 +1665,7 @@
       }
     },
     {
-      "id": "res_35_11_Charleroi",
+      "id": "res_35_12_Charleroi",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 01-Nov-2026",
@@ -1630,22 +1684,22 @@
         "homeExpectedGoals": 4.5,
         "awayExpectedGoals": 0.43,
         "totalExpectedGoals": 4.93,
-        "bttsProbability": 0.3138,
-        "bttsNoProbability": 0.6862,
-        "over25Probability": 0.7824,
-        "under25Probability": 0.2176,
-        "homeWinProbability": 0.8798,
-        "drawProbability": 0.0311,
-        "awayWinProbability": 0.0437,
+        "bttsProbability": 0.3163,
+        "bttsNoProbability": 0.6837,
+        "over25Probability": 0.7828,
+        "under25Probability": 0.2172,
+        "homeWinProbability": 0.8796,
+        "drawProbability": 0.0313,
+        "awayWinProbability": 0.0438,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.124
+          "probability": 0.1234
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 56,
+        "overUnderConfidence": 57,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1836,
@@ -1653,8 +1707,8 @@
           "eloWinProb": 0.889
         },
         "matchFingerprint": "35_charleroi_la louviere_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:20.806Z",
-        "auditHash": "SHA256-IMMUTABLE-7F29E75E-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:27.757Z",
+        "auditHash": "SHA256-IMMUTABLE-1922D7D2-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1665,7 +1719,7 @@
       }
     },
     {
-      "id": "res_35_12_Lommel",
+      "id": "res_35_13_Lommel",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 01-Nov-2026",
@@ -1682,19 +1736,19 @@
       "actualOver25": false,
       "prediction": {
         "homeExpectedGoals": 0.48,
-        "awayExpectedGoals": 0.64,
-        "totalExpectedGoals": 1.12,
-        "bttsProbability": 0.1853,
-        "bttsNoProbability": 0.8147,
-        "over25Probability": 0.103,
-        "under25Probability": 0.897,
-        "homeWinProbability": 0.2782,
-        "drawProbability": 0.4472,
-        "awayWinProbability": 0.4312,
+        "awayExpectedGoals": 0.65,
+        "totalExpectedGoals": 1.13,
+        "bttsProbability": 0.1873,
+        "bttsNoProbability": 0.8127,
+        "over25Probability": 0.1047,
+        "under25Probability": 0.8953,
+        "homeWinProbability": 0.278,
+        "drawProbability": 0.4452,
+        "awayWinProbability": 0.4326,
         "predictedScore": {
           "home": 0,
           "away": 0,
-          "probability": 0.3334
+          "probability": 0.3306
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 63,
@@ -1707,8 +1761,8 @@
           "eloWinProb": 0.379
         },
         "matchFingerprint": "35_lommel_gent_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:20.806Z",
-        "auditHash": "SHA256-IMMUTABLE-885A3FC-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:27.757Z",
+        "auditHash": "SHA256-IMMUTABLE-35B521E8-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1719,7 +1773,7 @@
       }
     },
     {
-      "id": "res_35_13_SintTruidenseVV",
+      "id": "res_35_14_SintTruidenseVV",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 01-Nov-2026",
@@ -1736,19 +1790,19 @@
       "actualOver25": true,
       "prediction": {
         "homeExpectedGoals": 1.79,
-        "awayExpectedGoals": 0.91,
-        "totalExpectedGoals": 2.7,
-        "bttsProbability": 0.5027,
-        "bttsNoProbability": 0.4973,
-        "over25Probability": 0.5047,
-        "under25Probability": 0.4953,
-        "homeWinProbability": 0.5804,
-        "drawProbability": 0.2435,
-        "awayWinProbability": 0.261,
+        "awayExpectedGoals": 0.92,
+        "totalExpectedGoals": 2.71,
+        "bttsProbability": 0.5074,
+        "bttsNoProbability": 0.4926,
+        "over25Probability": 0.5076,
+        "under25Probability": 0.4924,
+        "homeWinProbability": 0.5756,
+        "drawProbability": 0.244,
+        "awayWinProbability": 0.2654,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1161
+          "probability": 0.1164
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1756,13 +1810,13 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1627,
+          "homeElo": 1623,
           "awayElo": 1628,
-          "eloWinProb": 0.591
+          "eloWinProb": 0.585
         },
         "matchFingerprint": "35_sint truidense vv_leuven_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:20.806Z",
-        "auditHash": "SHA256-IMMUTABLE-44D89BE9-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:27.757Z",
+        "auditHash": "SHA256-IMMUTABLE-3AD0905F-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1773,7 +1827,7 @@
       }
     },
     {
-      "id": "res_35_14_CercleBrugge",
+      "id": "res_35_15_CercleBrugge",
       "leagueId": "35",
       "leagueName": "Belgian Pro League",
       "dateRaw": "Sun 01-Nov-2026",
@@ -1789,20 +1843,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.53,
-        "awayExpectedGoals": 1.8,
-        "totalExpectedGoals": 3.33,
-        "bttsProbability": 0.659,
-        "bttsNoProbability": 0.341,
-        "over25Probability": 0.6456,
-        "under25Probability": 0.3544,
-        "homeWinProbability": 0.4,
-        "drawProbability": 0.2388,
-        "awayWinProbability": 0.4443,
+        "homeExpectedGoals": 1.65,
+        "awayExpectedGoals": 1.4,
+        "totalExpectedGoals": 3.05,
+        "bttsProbability": 0.6153,
+        "bttsNoProbability": 0.3847,
+        "over25Probability": 0.588,
+        "under25Probability": 0.412,
+        "homeWinProbability": 0.4942,
+        "drawProbability": 0.2517,
+        "awayWinProbability": 0.3419,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1045
+          "probability": 0.1159
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1810,73 +1864,19 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1570,
-          "awayElo": 1605,
-          "eloWinProb": 0.543
+          "homeElo": 1618,
+          "awayElo": 1601,
+          "eloWinProb": 0.616
         },
         "matchFingerprint": "35_cercle brugge_royal antwerp_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:20.806Z",
-        "auditHash": "SHA256-IMMUTABLE-62FC2428-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:27.757Z",
+        "auditHash": "SHA256-IMMUTABLE-5B065455-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
         "bttsHit": true,
         "overUnderHit": true,
         "bothHit": true,
-        "exactScoreHit": false
-      }
-    },
-    {
-      "id": "res_35_15_Anderlecht",
-      "leagueId": "35",
-      "leagueName": "Belgian Pro League",
-      "dateRaw": "Sat 31-Oct-2026",
-      "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "19:45",
-      "homeTeam": "Anderlecht",
-      "awayTeam": "Westerlo",
-      "score": "4-1",
-      "homeGoals": 4,
-      "awayGoals": 1,
-      "totalGoals": 5,
-      "actualBtts": true,
-      "actualOver25": true,
-      "prediction": {
-        "homeExpectedGoals": 3.3,
-        "awayExpectedGoals": 0.49,
-        "totalExpectedGoals": 3.79,
-        "bttsProbability": 0.367,
-        "bttsNoProbability": 0.633,
-        "over25Probability": 0.7098,
-        "under25Probability": 0.2902,
-        "homeWinProbability": 0.8139,
-        "drawProbability": 0.081,
-        "awayWinProbability": 0.1205,
-        "predictedScore": {
-          "home": 3,
-          "away": 0,
-          "probability": 0.1355
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 42,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1738,
-          "awayElo": 1653,
-          "eloWinProb": 0.703
-        },
-        "matchFingerprint": "35_anderlecht_westerlo_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:20.806Z",
-        "auditHash": "SHA256-IMMUTABLE-5EB7EA86-2026-11-20",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": false,
-        "overUnderHit": true,
-        "bothHit": false,
         "exactScoreHit": false
       }
     }
@@ -2133,7 +2133,7 @@
     "Westerlo": {
       "pos": 9,
       "team": "Westerlo",
-      "p": 11,
+      "p": 12,
       "hw": 2,
       "hd": 2,
       "hl": 2,
@@ -2141,25 +2141,25 @@
       "ha": 19,
       "aw": 2,
       "ad": 0,
-      "al": 3,
+      "al": 4,
       "af": 9,
-      "aa": 11,
-      "gd": -4,
+      "aa": 12,
+      "gd": -5,
       "pts": 14,
-      "ppg": 1.27,
-      "form": "WWWDLL",
-      "ycF": 0.8,
-      "ycA": 1.2,
+      "ppg": 1.16,
+      "form": "WWDLLL",
+      "ycF": 1,
+      "ycA": 1.7,
       "rcF": 0,
       "rcA": 0,
-      "psF": 39,
-      "psA": 41,
-      "cF": 3.6,
-      "cA": 4,
-      "stF": 4.4,
-      "stA": 3.6,
-      "sntF": 5.4,
-      "sntA": 6.6
+      "psF": 42,
+      "psA": 42,
+      "cF": 3.7,
+      "cA": 3.7,
+      "stF": 4.7,
+      "stA": 4,
+      "sntF": 5.3,
+      "sntA": 7.2
     },
     "Leuven": {
       "pos": 10,
@@ -2192,8 +2192,39 @@
       "sntF": 7.2,
       "sntA": 7.2
     },
-    "KV Mechelen": {
+    "Cercle Brugge": {
       "pos": 11,
+      "team": "Cercle Brugge",
+      "p": 12,
+      "hw": 2,
+      "hd": 1,
+      "hl": 3,
+      "hf": 7,
+      "ha": 10,
+      "aw": 1,
+      "ad": 2,
+      "al": 3,
+      "af": 8,
+      "aa": 12,
+      "gd": -7,
+      "pts": 12,
+      "ppg": 1,
+      "form": "LLLWWW",
+      "ycF": 1.8,
+      "ycA": 1.2,
+      "rcF": 0,
+      "rcA": 0,
+      "psF": 38,
+      "psA": 62,
+      "cF": 5.2,
+      "cA": 6,
+      "stF": 3.5,
+      "stA": 5,
+      "sntF": 4.3,
+      "sntA": 5.3
+    },
+    "KV Mechelen": {
+      "pos": 12,
       "team": "KV Mechelen",
       "p": 11,
       "hw": 2,
@@ -2224,7 +2255,7 @@
       "sntA": 6
     },
     "Sint Truidense VV": {
-      "pos": 12,
+      "pos": 13,
       "team": "Sint Truidense VV",
       "p": 11,
       "hw": 2,
@@ -2255,7 +2286,7 @@
       "sntA": 6.6
     },
     "Royal Antwerp": {
-      "pos": 13,
+      "pos": 14,
       "team": "Royal Antwerp",
       "p": 11,
       "hw": 2,
@@ -2286,7 +2317,7 @@
       "sntA": 5.6
     },
     "Zulte-Waregem": {
-      "pos": 14,
+      "pos": 15,
       "team": "Zulte-Waregem",
       "p": 11,
       "hw": 2,
@@ -2317,7 +2348,7 @@
       "sntA": 3.5
     },
     "Waasland-Beveren": {
-      "pos": 15,
+      "pos": 16,
       "team": "Waasland-Beveren",
       "p": 11,
       "hw": 3,
@@ -2346,37 +2377,6 @@
       "stA": 6,
       "sntF": 3.7,
       "sntA": 6.5
-    },
-    "Cercle Brugge": {
-      "pos": 16,
-      "team": "Cercle Brugge",
-      "p": 11,
-      "hw": 1,
-      "hd": 1,
-      "hl": 3,
-      "hf": 6,
-      "ha": 10,
-      "aw": 1,
-      "ad": 2,
-      "al": 3,
-      "af": 8,
-      "aa": 12,
-      "gd": -8,
-      "pts": 9,
-      "ppg": 0.81,
-      "form": "DLLLWW",
-      "ycF": 1.8,
-      "ycA": 1.2,
-      "rcF": 0,
-      "rcA": 0,
-      "psF": 38,
-      "psA": 62,
-      "cF": 5.2,
-      "cA": 6,
-      "stF": 3.5,
-      "stA": 5,
-      "sntF": 4.3,
-      "sntA": 5.3
     },
     "La Louviere": {
       "pos": 17,
@@ -2447,28 +2447,28 @@
     "bttsHits": 10,
     "bttsAccuracy": 66.7,
     "overUnderEvaluated": 15,
-    "overUnderHits": 10,
-    "overUnderAccuracy": 66.7,
-    "overallAccuracy": 66.7,
+    "overUnderHits": 9,
+    "overUnderAccuracy": 60,
+    "overallAccuracy": 63.3,
     "exactScoreHits": 0,
     "exactScoreAccuracy": 0,
     "confusionMatrix": {
       "btts": {
         "predictedYesActualYes": 5,
-        "predictedYesActualNo": 1,
-        "predictedNoActualYes": 4,
+        "predictedYesActualNo": 2,
+        "predictedNoActualYes": 3,
         "predictedNoActualNo": 5
       },
       "overUnder": {
-        "predictedOverActualOver": 8,
-        "predictedOverActualUnder": 4,
+        "predictedOverActualOver": 7,
+        "predictedOverActualUnder": 5,
         "predictedUnderActualOver": 1,
         "predictedUnderActualUnder": 2
       }
     },
-    "logLoss": 0.6509,
-    "brierScore": 0.2327,
-    "simulatedRoi": 27.3
+    "logLoss": 0.6835,
+    "brierScore": 0.2481,
+    "simulatedRoi": 21
   },
   "parameters": {
     "homeAdvantage": 1.18,

@@ -1,157 +1,15 @@
 {
   "leagueId": "4",
   "leagueName": "League Two",
-  "timestamp": "2026-11-20T15:09:04.766Z",
+  "timestamp": "2026-11-21T14:27:05.425Z",
   "fixtures": [
     {
-      "id": "fix_4_1_Gillingham",
+      "id": "fix_4_1_AccringtonStanley",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 1,
-      "time": "12:30",
-      "homeTeam": "Gillingham",
-      "awayTeam": "Crewe",
-      "odds": {
-        "home": 2.7,
-        "draw": 3.4,
-        "away": 2.6
-      },
-      "prediction": {
-        "homeExpectedGoals": 0.96,
-        "awayExpectedGoals": 0.86,
-        "totalExpectedGoals": 1.82,
-        "bttsProbability": 0.3634,
-        "bttsNoProbability": 0.6366,
-        "over25Probability": 0.2742,
-        "under25Probability": 0.7258,
-        "homeWinProbability": 0.4119,
-        "drawProbability": 0.3423,
-        "awayWinProbability": 0.3656,
-        "predictedScore": {
-          "home": 0,
-          "away": 0,
-          "probability": 0.1704
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 45,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1685,
-          "awayElo": 1740,
-          "eloWinProb": 0.514
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 0.96,
-        "awayExpectedGoals": 0.86,
-        "totalExpectedGoals": 1.82,
-        "bttsProbability": 0.3634,
-        "bttsNoProbability": 0.6366,
-        "over25Probability": 0.2742,
-        "under25Probability": 0.7258,
-        "homeWinProbability": 0.4119,
-        "drawProbability": 0.3423,
-        "awayWinProbability": 0.3656,
-        "predictedScore": {
-          "home": 0,
-          "away": 0,
-          "probability": 0.1704
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 45,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1685,
-          "awayElo": 1740,
-          "eloWinProb": 0.514
-        }
-      },
-      "confidenceScore": 73
-    },
-    {
-      "id": "fix_4_2_NewportCounty",
-      "leagueId": "4",
-      "leagueName": "League Two",
-      "dateRaw": "Sat 21/11",
-      "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 1,
-      "time": "12:30",
-      "homeTeam": "Newport County",
-      "awayTeam": "Swindon",
-      "odds": {
-        "home": 1.91,
-        "draw": 3.7,
-        "away": 3.9
-      },
-      "prediction": {
-        "homeExpectedGoals": 2.2,
-        "awayExpectedGoals": 0.29,
-        "totalExpectedGoals": 2.49,
-        "bttsProbability": 0.2265,
-        "bttsNoProbability": 0.7735,
-        "over25Probability": 0.4517,
-        "under25Probability": 0.5483,
-        "homeWinProbability": 0.7509,
-        "drawProbability": 0.1512,
-        "awayWinProbability": 0.1495,
-        "predictedScore": {
-          "home": 2,
-          "away": 0,
-          "probability": 0.2006
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 55,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1681,
-          "awayElo": 1649,
-          "eloWinProb": 0.636
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 2.2,
-        "awayExpectedGoals": 0.29,
-        "totalExpectedGoals": 2.49,
-        "bttsProbability": 0.2265,
-        "bttsNoProbability": 0.7735,
-        "over25Probability": 0.4517,
-        "under25Probability": 0.5483,
-        "homeWinProbability": 0.7509,
-        "drawProbability": 0.1512,
-        "awayWinProbability": 0.1495,
-        "predictedScore": {
-          "home": 2,
-          "away": 0,
-          "probability": 0.2006
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 55,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1681,
-          "awayElo": 1649,
-          "eloWinProb": 0.636
-        }
-      },
-      "confidenceScore": 77
-    },
-    {
-      "id": "fix_4_3_AccringtonStanley",
-      "leagueId": "4",
-      "leagueName": "League Two",
-      "dateRaw": "Sat 21/11",
-      "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "15:00",
       "homeTeam": "Accrington Stanley",
       "awayTeam": "Salford",
@@ -161,20 +19,20 @@
         "away": 2.04
       },
       "prediction": {
-        "homeExpectedGoals": 1.7,
-        "awayExpectedGoals": 3.32,
-        "totalExpectedGoals": 5.02,
-        "bttsProbability": 0.7725,
-        "bttsNoProbability": 0.2275,
-        "over25Probability": 0.8559,
-        "under25Probability": 0.1441,
-        "homeWinProbability": 0.2305,
-        "drawProbability": 0.1486,
-        "awayWinProbability": 0.6594,
+        "homeExpectedGoals": 1.68,
+        "awayExpectedGoals": 3.33,
+        "totalExpectedGoals": 5.01,
+        "bttsProbability": 0.7698,
+        "bttsNoProbability": 0.2302,
+        "over25Probability": 0.855,
+        "under25Probability": 0.145,
+        "homeWinProbability": 0.2268,
+        "drawProbability": 0.1477,
+        "awayWinProbability": 0.6636,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0686
+          "probability": 0.069
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 54,
@@ -182,26 +40,26 @@
         "overUnderConfidence": 71,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1688,
+          "homeElo": 1684,
           "awayElo": 1856,
-          "eloWinProb": 0.356
+          "eloWinProb": 0.351
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.7,
-        "awayExpectedGoals": 3.32,
-        "totalExpectedGoals": 5.02,
-        "bttsProbability": 0.7725,
-        "bttsNoProbability": 0.2275,
-        "over25Probability": 0.8559,
-        "under25Probability": 0.1441,
-        "homeWinProbability": 0.2305,
-        "drawProbability": 0.1486,
-        "awayWinProbability": 0.6594,
+        "homeExpectedGoals": 1.68,
+        "awayExpectedGoals": 3.33,
+        "totalExpectedGoals": 5.01,
+        "bttsProbability": 0.7698,
+        "bttsNoProbability": 0.2302,
+        "over25Probability": 0.855,
+        "under25Probability": 0.145,
+        "homeWinProbability": 0.2268,
+        "drawProbability": 0.1477,
+        "awayWinProbability": 0.6636,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0686
+          "probability": 0.069
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 54,
@@ -209,46 +67,46 @@
         "overUnderConfidence": 71,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1688,
+          "homeElo": 1684,
           "awayElo": 1856,
-          "eloWinProb": 0.356
+          "eloWinProb": 0.351
         }
       },
       "confidenceScore": 86
     },
     {
-      "id": "fix_4_4_Barnet",
+      "id": "fix_4_2_Barnet",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "15:00",
       "homeTeam": "Barnet",
       "awayTeam": "Port Vale",
       "odds": {
-        "home": 2.1,
-        "draw": 3.55,
-        "away": 3.4
+        "home": 2.19,
+        "draw": 3.44,
+        "away": 3.3
       },
       "prediction": {
-        "homeExpectedGoals": 3.87,
+        "homeExpectedGoals": 3.85,
         "awayExpectedGoals": 0.34,
-        "totalExpectedGoals": 4.21,
-        "bttsProbability": 0.2728,
-        "bttsNoProbability": 0.7272,
-        "over25Probability": 0.7473,
-        "under25Probability": 0.2527,
-        "homeWinProbability": 0.8606,
-        "drawProbability": 0.0445,
+        "totalExpectedGoals": 4.19,
+        "bttsProbability": 0.272,
+        "bttsNoProbability": 0.728,
+        "over25Probability": 0.7462,
+        "under25Probability": 0.2538,
+        "homeWinProbability": 0.8608,
+        "drawProbability": 0.0449,
         "awayWinProbability": 0.0822,
         "predictedScore": {
           "home": 3,
           "away": 0,
-          "probability": 0.1432
+          "probability": 0.1437
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 45,
+        "bttsConfidence": 46,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 49,
         "iicdScore": 1,
@@ -259,23 +117,23 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 3.87,
+        "homeExpectedGoals": 3.85,
         "awayExpectedGoals": 0.34,
-        "totalExpectedGoals": 4.21,
-        "bttsProbability": 0.2728,
-        "bttsNoProbability": 0.7272,
-        "over25Probability": 0.7473,
-        "under25Probability": 0.2527,
-        "homeWinProbability": 0.8606,
-        "drawProbability": 0.0445,
+        "totalExpectedGoals": 4.19,
+        "bttsProbability": 0.272,
+        "bttsNoProbability": 0.728,
+        "over25Probability": 0.7462,
+        "under25Probability": 0.2538,
+        "homeWinProbability": 0.8608,
+        "drawProbability": 0.0449,
         "awayWinProbability": 0.0822,
         "predictedScore": {
           "home": 3,
           "away": 0,
-          "probability": 0.1432
+          "probability": 0.1437
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 45,
+        "bttsConfidence": 46,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 49,
         "iicdScore": 1,
@@ -288,83 +146,83 @@
       "confidenceScore": 75
     },
     {
-      "id": "fix_4_5_Cheltenham",
+      "id": "fix_4_3_Cheltenham",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "15:00",
       "homeTeam": "Cheltenham",
       "awayTeam": "Bristol Rovers",
       "odds": {
-        "home": 2.85,
-        "draw": 3.55,
-        "away": 2.4
+        "home": 2.81,
+        "draw": 3.53,
+        "away": 2.43
       },
       "prediction": {
-        "homeExpectedGoals": 3.51,
-        "awayExpectedGoals": 0.84,
-        "totalExpectedGoals": 4.36,
-        "bttsProbability": 0.5399,
-        "bttsNoProbability": 0.4601,
-        "over25Probability": 0.7826,
-        "under25Probability": 0.2174,
-        "homeWinProbability": 0.7871,
-        "drawProbability": 0.0947,
-        "awayWinProbability": 0.1336,
+        "homeExpectedGoals": 3.48,
+        "awayExpectedGoals": 0.85,
+        "totalExpectedGoals": 4.33,
+        "bttsProbability": 0.5408,
+        "bttsNoProbability": 0.4592,
+        "over25Probability": 0.7801,
+        "under25Probability": 0.2199,
+        "homeWinProbability": 0.7841,
+        "drawProbability": 0.0967,
+        "awayWinProbability": 0.1361,
         "predictedScore": {
           "home": 3,
           "away": 0,
-          "probability": 0.0926
+          "probability": 0.0928
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 57,
+        "overUnderConfidence": 56,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1699,
+          "homeElo": 1695,
           "awayElo": 1609,
-          "eloWinProb": 0.709
+          "eloWinProb": 0.705
         }
       },
       "pred": {
-        "homeExpectedGoals": 3.51,
-        "awayExpectedGoals": 0.84,
-        "totalExpectedGoals": 4.36,
-        "bttsProbability": 0.5399,
-        "bttsNoProbability": 0.4601,
-        "over25Probability": 0.7826,
-        "under25Probability": 0.2174,
-        "homeWinProbability": 0.7871,
-        "drawProbability": 0.0947,
-        "awayWinProbability": 0.1336,
+        "homeExpectedGoals": 3.48,
+        "awayExpectedGoals": 0.85,
+        "totalExpectedGoals": 4.33,
+        "bttsProbability": 0.5408,
+        "bttsNoProbability": 0.4592,
+        "over25Probability": 0.7801,
+        "under25Probability": 0.2199,
+        "homeWinProbability": 0.7841,
+        "drawProbability": 0.0967,
+        "awayWinProbability": 0.1361,
         "predictedScore": {
           "home": 3,
           "away": 0,
-          "probability": 0.0926
+          "probability": 0.0928
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 57,
+        "overUnderConfidence": 56,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1699,
+          "homeElo": 1695,
           "awayElo": 1609,
-          "eloWinProb": 0.709
+          "eloWinProb": 0.705
         }
       },
       "confidenceScore": 78
     },
     {
-      "id": "fix_4_6_Chesterfield",
+      "id": "fix_4_4_Chesterfield",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "15:00",
       "homeTeam": "Chesterfield",
       "awayTeam": "Shrewsbury",
@@ -374,68 +232,68 @@
         "away": 5.2
       },
       "prediction": {
-        "homeExpectedGoals": 3.75,
-        "awayExpectedGoals": 1.41,
+        "homeExpectedGoals": 3.77,
+        "awayExpectedGoals": 1.39,
         "totalExpectedGoals": 5.16,
-        "bttsProbability": 0.7108,
-        "bttsNoProbability": 0.2892,
-        "over25Probability": 0.8504,
-        "under25Probability": 0.1496,
-        "homeWinProbability": 0.7202,
-        "drawProbability": 0.1128,
-        "awayWinProbability": 0.1818,
+        "bttsProbability": 0.7073,
+        "bttsNoProbability": 0.2927,
+        "over25Probability": 0.8497,
+        "under25Probability": 0.1503,
+        "homeWinProbability": 0.7239,
+        "drawProbability": 0.1115,
+        "awayWinProbability": 0.1785,
         "predictedScore": {
           "home": 3,
           "away": 1,
-          "probability": 0.0711
+          "probability": 0.0713
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 42,
+        "bttsConfidence": 41,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 70,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1739,
-          "awayElo": 1692,
-          "eloWinProb": 0.656
+          "awayElo": 1688,
+          "eloWinProb": 0.661
         }
       },
       "pred": {
-        "homeExpectedGoals": 3.75,
-        "awayExpectedGoals": 1.41,
+        "homeExpectedGoals": 3.77,
+        "awayExpectedGoals": 1.39,
         "totalExpectedGoals": 5.16,
-        "bttsProbability": 0.7108,
-        "bttsNoProbability": 0.2892,
-        "over25Probability": 0.8504,
-        "under25Probability": 0.1496,
-        "homeWinProbability": 0.7202,
-        "drawProbability": 0.1128,
-        "awayWinProbability": 0.1818,
+        "bttsProbability": 0.7073,
+        "bttsNoProbability": 0.2927,
+        "over25Probability": 0.8497,
+        "under25Probability": 0.1503,
+        "homeWinProbability": 0.7239,
+        "drawProbability": 0.1115,
+        "awayWinProbability": 0.1785,
         "predictedScore": {
           "home": 3,
           "away": 1,
-          "probability": 0.0711
+          "probability": 0.0713
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 42,
+        "bttsConfidence": 41,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 70,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1739,
-          "awayElo": 1692,
-          "eloWinProb": 0.656
+          "awayElo": 1688,
+          "eloWinProb": 0.661
         }
       },
       "confidenceScore": 85
     },
     {
-      "id": "fix_4_7_CrawleyTown",
+      "id": "fix_4_5_CrawleyTown",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "15:00",
       "homeTeam": "Crawley Town",
       "awayTeam": "Fleetwood Town",
@@ -446,67 +304,67 @@
       },
       "prediction": {
         "homeExpectedGoals": 1.04,
-        "awayExpectedGoals": 2.65,
-        "totalExpectedGoals": 3.69,
-        "bttsProbability": 0.6003,
-        "bttsNoProbability": 0.3997,
-        "over25Probability": 0.7061,
-        "under25Probability": 0.2939,
-        "homeWinProbability": 0.2045,
-        "drawProbability": 0.1669,
-        "awayWinProbability": 0.6831,
+        "awayExpectedGoals": 2.62,
+        "totalExpectedGoals": 3.66,
+        "bttsProbability": 0.6004,
+        "bttsNoProbability": 0.3996,
+        "over25Probability": 0.7024,
+        "under25Probability": 0.2976,
+        "homeWinProbability": 0.2081,
+        "drawProbability": 0.1692,
+        "awayWinProbability": 0.6783,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.0913
+          "probability": 0.0918
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 41,
+        "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1530,
-          "awayElo": 1695,
-          "eloWinProb": 0.36
+          "awayElo": 1691,
+          "eloWinProb": 0.365
         }
       },
       "pred": {
         "homeExpectedGoals": 1.04,
-        "awayExpectedGoals": 2.65,
-        "totalExpectedGoals": 3.69,
-        "bttsProbability": 0.6003,
-        "bttsNoProbability": 0.3997,
-        "over25Probability": 0.7061,
-        "under25Probability": 0.2939,
-        "homeWinProbability": 0.2045,
-        "drawProbability": 0.1669,
-        "awayWinProbability": 0.6831,
+        "awayExpectedGoals": 2.62,
+        "totalExpectedGoals": 3.66,
+        "bttsProbability": 0.6004,
+        "bttsNoProbability": 0.3996,
+        "over25Probability": 0.7024,
+        "under25Probability": 0.2976,
+        "homeWinProbability": 0.2081,
+        "drawProbability": 0.1692,
+        "awayWinProbability": 0.6783,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.0913
+          "probability": 0.0918
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 41,
+        "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1530,
-          "awayElo": 1695,
-          "eloWinProb": 0.36
+          "awayElo": 1691,
+          "eloWinProb": 0.365
         }
       },
-      "confidenceScore": 71
+      "confidenceScore": 70
     },
     {
-      "id": "fix_4_8_Grimsby",
+      "id": "fix_4_6_Grimsby",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "15:00",
       "homeTeam": "Grimsby",
       "awayTeam": "Rotherham",
@@ -516,20 +374,20 @@
         "away": 5.2
       },
       "prediction": {
-        "homeExpectedGoals": 2.88,
+        "homeExpectedGoals": 2.85,
         "awayExpectedGoals": 0.46,
-        "totalExpectedGoals": 3.34,
-        "bttsProbability": 0.3496,
-        "bttsNoProbability": 0.6504,
-        "over25Probability": 0.6396,
-        "under25Probability": 0.3604,
-        "homeWinProbability": 0.8441,
-        "drawProbability": 0.1065,
-        "awayWinProbability": 0.0806,
+        "totalExpectedGoals": 3.32,
+        "bttsProbability": 0.3499,
+        "bttsNoProbability": 0.6501,
+        "over25Probability": 0.6351,
+        "under25Probability": 0.3649,
+        "homeWinProbability": 0.8413,
+        "drawProbability": 0.1086,
+        "awayWinProbability": 0.0822,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1464
+          "probability": 0.1475
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -537,26 +395,26 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1775,
+          "homeElo": 1771,
           "awayElo": 1561,
-          "eloWinProb": 0.833
+          "eloWinProb": 0.83
         }
       },
       "pred": {
-        "homeExpectedGoals": 2.88,
+        "homeExpectedGoals": 2.85,
         "awayExpectedGoals": 0.46,
-        "totalExpectedGoals": 3.34,
-        "bttsProbability": 0.3496,
-        "bttsNoProbability": 0.6504,
-        "over25Probability": 0.6396,
-        "under25Probability": 0.3604,
-        "homeWinProbability": 0.8441,
-        "drawProbability": 0.1065,
-        "awayWinProbability": 0.0806,
+        "totalExpectedGoals": 3.32,
+        "bttsProbability": 0.3499,
+        "bttsNoProbability": 0.6501,
+        "over25Probability": 0.6351,
+        "under25Probability": 0.3649,
+        "homeWinProbability": 0.8413,
+        "drawProbability": 0.1086,
+        "awayWinProbability": 0.0822,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1464
+          "probability": 0.1475
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -564,20 +422,20 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1775,
+          "homeElo": 1771,
           "awayElo": 1561,
-          "eloWinProb": 0.833
+          "eloWinProb": 0.83
         }
       },
       "confidenceScore": 65
     },
     {
-      "id": "fix_4_9_Northampton",
+      "id": "fix_4_7_Northampton",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "15:00",
       "homeTeam": "Northampton",
       "awayTeam": "Rochdale",
@@ -588,19 +446,19 @@
       },
       "prediction": {
         "homeExpectedGoals": 0.86,
-        "awayExpectedGoals": 0.44,
+        "awayExpectedGoals": 0.43,
         "totalExpectedGoals": 1.29,
-        "bttsProbability": 0.2095,
-        "bttsNoProbability": 0.7905,
-        "over25Probability": 0.1415,
-        "under25Probability": 0.8585,
-        "homeWinProbability": 0.5055,
-        "drawProbability": 0.3989,
-        "awayWinProbability": 0.2352,
+        "bttsProbability": 0.2085,
+        "bttsNoProbability": 0.7915,
+        "over25Probability": 0.1405,
+        "under25Probability": 0.8595,
+        "homeWinProbability": 0.5051,
+        "drawProbability": 0.3997,
+        "awayWinProbability": 0.235,
         "predictedScore": {
           "home": 0,
           "away": 0,
-          "probability": 0.2803
+          "probability": 0.2815
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 58,
@@ -615,19 +473,19 @@
       },
       "pred": {
         "homeExpectedGoals": 0.86,
-        "awayExpectedGoals": 0.44,
+        "awayExpectedGoals": 0.43,
         "totalExpectedGoals": 1.29,
-        "bttsProbability": 0.2095,
-        "bttsNoProbability": 0.7905,
-        "over25Probability": 0.1415,
-        "under25Probability": 0.8585,
-        "homeWinProbability": 0.5055,
-        "drawProbability": 0.3989,
-        "awayWinProbability": 0.2352,
+        "bttsProbability": 0.2085,
+        "bttsNoProbability": 0.7915,
+        "over25Probability": 0.1405,
+        "under25Probability": 0.8595,
+        "homeWinProbability": 0.5051,
+        "drawProbability": 0.3997,
+        "awayWinProbability": 0.235,
         "predictedScore": {
           "home": 0,
           "away": 0,
-          "probability": 0.2803
+          "probability": 0.2815
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 58,
@@ -643,12 +501,12 @@
       "confidenceScore": 86
     },
     {
-      "id": "fix_4_10_Oldham",
+      "id": "fix_4_8_Oldham",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "15:00",
       "homeTeam": "Oldham",
       "awayTeam": "Exeter",
@@ -661,17 +519,17 @@
         "homeExpectedGoals": 0.96,
         "awayExpectedGoals": 0.53,
         "totalExpectedGoals": 1.49,
-        "bttsProbability": 0.2617,
-        "bttsNoProbability": 0.7383,
-        "over25Probability": 0.1886,
-        "under25Probability": 0.8114,
-        "homeWinProbability": 0.4286,
-        "drawProbability": 0.3698,
-        "awayWinProbability": 0.331,
+        "bttsProbability": 0.2602,
+        "bttsNoProbability": 0.7398,
+        "over25Probability": 0.188,
+        "under25Probability": 0.812,
+        "homeWinProbability": 0.4322,
+        "drawProbability": 0.3696,
+        "awayWinProbability": 0.3276,
         "predictedScore": {
           "home": 0,
           "away": 0,
-          "probability": 0.2323
+          "probability": 0.2328
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 48,
@@ -680,25 +538,25 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1602,
-          "awayElo": 1729,
-          "eloWinProb": 0.412
+          "awayElo": 1725,
+          "eloWinProb": 0.417
         }
       },
       "pred": {
         "homeExpectedGoals": 0.96,
         "awayExpectedGoals": 0.53,
         "totalExpectedGoals": 1.49,
-        "bttsProbability": 0.2617,
-        "bttsNoProbability": 0.7383,
-        "over25Probability": 0.1886,
-        "under25Probability": 0.8114,
-        "homeWinProbability": 0.4286,
-        "drawProbability": 0.3698,
-        "awayWinProbability": 0.331,
+        "bttsProbability": 0.2602,
+        "bttsNoProbability": 0.7398,
+        "over25Probability": 0.188,
+        "under25Probability": 0.812,
+        "homeWinProbability": 0.4322,
+        "drawProbability": 0.3696,
+        "awayWinProbability": 0.3276,
         "predictedScore": {
           "home": 0,
           "away": 0,
-          "probability": 0.2323
+          "probability": 0.2328
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 48,
@@ -707,19 +565,19 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1602,
-          "awayElo": 1729,
-          "eloWinProb": 0.412
+          "awayElo": 1725,
+          "eloWinProb": 0.417
         }
       },
       "confidenceScore": 81
     },
     {
-      "id": "fix_4_11_Tranmere",
+      "id": "fix_4_9_Tranmere",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "15:00",
       "homeTeam": "Tranmere",
       "awayTeam": "Colchester",
@@ -729,20 +587,20 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 2.57,
+        "homeExpectedGoals": 2.56,
         "awayExpectedGoals": 0.64,
-        "totalExpectedGoals": 3.21,
-        "bttsProbability": 0.4395,
-        "bttsNoProbability": 0.5605,
-        "over25Probability": 0.6172,
-        "under25Probability": 0.3828,
-        "homeWinProbability": 0.7479,
-        "drawProbability": 0.1481,
-        "awayWinProbability": 0.1526,
+        "totalExpectedGoals": 3.2,
+        "bttsProbability": 0.4381,
+        "bttsNoProbability": 0.5619,
+        "over25Probability": 0.6151,
+        "under25Probability": 0.3849,
+        "homeWinProbability": 0.7476,
+        "drawProbability": 0.1486,
+        "awayWinProbability": 0.1527,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.133
+          "probability": 0.1335
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -756,20 +614,20 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 2.57,
+        "homeExpectedGoals": 2.56,
         "awayExpectedGoals": 0.64,
-        "totalExpectedGoals": 3.21,
-        "bttsProbability": 0.4395,
-        "bttsNoProbability": 0.5605,
-        "over25Probability": 0.6172,
-        "under25Probability": 0.3828,
-        "homeWinProbability": 0.7479,
-        "drawProbability": 0.1481,
-        "awayWinProbability": 0.1526,
+        "totalExpectedGoals": 3.2,
+        "bttsProbability": 0.4381,
+        "bttsNoProbability": 0.5619,
+        "over25Probability": 0.6151,
+        "under25Probability": 0.3849,
+        "homeWinProbability": 0.7476,
+        "drawProbability": 0.1486,
+        "awayWinProbability": 0.1527,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.133
+          "probability": 0.1335
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -785,12 +643,12 @@
       "confidenceScore": 62
     },
     {
-      "id": "fix_4_12_York",
+      "id": "fix_4_10_York",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 21/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "15:00",
       "homeTeam": "York",
       "awayTeam": "Walsall",
@@ -800,20 +658,20 @@
         "away": 3.67
       },
       "prediction": {
-        "homeExpectedGoals": 1.43,
-        "awayExpectedGoals": 0.99,
-        "totalExpectedGoals": 2.42,
-        "bttsProbability": 0.4866,
-        "bttsNoProbability": 0.5134,
-        "over25Probability": 0.4364,
-        "under25Probability": 0.5636,
-        "homeWinProbability": 0.5091,
-        "drawProbability": 0.282,
-        "awayWinProbability": 0.3075,
+        "homeExpectedGoals": 1.42,
+        "awayExpectedGoals": 1,
+        "totalExpectedGoals": 2.41,
+        "bttsProbability": 0.4852,
+        "bttsNoProbability": 0.5148,
+        "over25Probability": 0.4335,
+        "under25Probability": 0.5665,
+        "homeWinProbability": 0.5045,
+        "drawProbability": 0.2833,
+        "awayWinProbability": 0.3113,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1334
+          "probability": 0.134
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -821,26 +679,26 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1756,
+          "homeElo": 1752,
           "awayElo": 1755,
-          "eloWinProb": 0.594
+          "eloWinProb": 0.588
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.43,
-        "awayExpectedGoals": 0.99,
-        "totalExpectedGoals": 2.42,
-        "bttsProbability": 0.4866,
-        "bttsNoProbability": 0.5134,
-        "over25Probability": 0.4364,
-        "under25Probability": 0.5636,
-        "homeWinProbability": 0.5091,
-        "drawProbability": 0.282,
-        "awayWinProbability": 0.3075,
+        "homeExpectedGoals": 1.42,
+        "awayExpectedGoals": 1,
+        "totalExpectedGoals": 2.41,
+        "bttsProbability": 0.4852,
+        "bttsNoProbability": 0.5148,
+        "over25Probability": 0.4335,
+        "under25Probability": 0.5665,
+        "homeWinProbability": 0.5045,
+        "drawProbability": 0.2833,
+        "awayWinProbability": 0.3113,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1334
+          "probability": 0.134
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -848,20 +706,20 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1756,
+          "homeElo": 1752,
           "awayElo": 1755,
-          "eloWinProb": 0.594
+          "eloWinProb": 0.588
         }
       },
-      "confidenceScore": 56
+      "confidenceScore": 57
     },
     {
-      "id": "fix_4_13_CrawleyTown",
+      "id": "fix_4_11_CrawleyTown",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Tue 24/11",
       "dateIso": "2026-11-24T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "19:45",
       "homeTeam": "Crawley Town",
       "awayTeam": "Barnet",
@@ -874,17 +732,17 @@
         "homeExpectedGoals": 0.63,
         "awayExpectedGoals": 4,
         "totalExpectedGoals": 4.63,
-        "bttsProbability": 0.4361,
-        "bttsNoProbability": 0.5639,
-        "over25Probability": 0.7893,
-        "under25Probability": 0.2107,
-        "homeWinProbability": 0.0944,
-        "drawProbability": 0.0578,
-        "awayWinProbability": 0.8348,
+        "bttsProbability": 0.4351,
+        "bttsNoProbability": 0.5649,
+        "over25Probability": 0.7891,
+        "under25Probability": 0.2109,
+        "homeWinProbability": 0.0943,
+        "drawProbability": 0.0577,
+        "awayWinProbability": 0.8349,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.1041
+          "probability": 0.1043
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -901,17 +759,17 @@
         "homeExpectedGoals": 0.63,
         "awayExpectedGoals": 4,
         "totalExpectedGoals": 4.63,
-        "bttsProbability": 0.4361,
-        "bttsNoProbability": 0.5639,
-        "over25Probability": 0.7893,
-        "under25Probability": 0.2107,
-        "homeWinProbability": 0.0944,
-        "drawProbability": 0.0578,
-        "awayWinProbability": 0.8348,
+        "bttsProbability": 0.4351,
+        "bttsNoProbability": 0.5649,
+        "over25Probability": 0.7891,
+        "under25Probability": 0.2109,
+        "homeWinProbability": 0.0943,
+        "drawProbability": 0.0577,
+        "awayWinProbability": 0.8349,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.1041
+          "probability": 0.1043
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -927,12 +785,12 @@
       "confidenceScore": 79
     },
     {
-      "id": "fix_4_14_PortVale",
+      "id": "fix_4_12_PortVale",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Tue 24/11",
       "dateIso": "2026-11-24T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "19:45",
       "homeTeam": "Port Vale",
       "awayTeam": "Northampton",
@@ -945,17 +803,17 @@
         "homeExpectedGoals": 1.38,
         "awayExpectedGoals": 0.53,
         "totalExpectedGoals": 1.91,
-        "bttsProbability": 0.3153,
-        "bttsNoProbability": 0.6847,
-        "over25Probability": 0.2993,
-        "under25Probability": 0.7007,
-        "homeWinProbability": 0.5933,
-        "drawProbability": 0.291,
-        "awayWinProbability": 0.2175,
+        "bttsProbability": 0.3139,
+        "bttsNoProbability": 0.6861,
+        "over25Probability": 0.2976,
+        "under25Probability": 0.7024,
+        "homeWinProbability": 0.5929,
+        "drawProbability": 0.2917,
+        "awayWinProbability": 0.2174,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1974
+          "probability": 0.1981
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -972,17 +830,17 @@
         "homeExpectedGoals": 1.38,
         "awayExpectedGoals": 0.53,
         "totalExpectedGoals": 1.91,
-        "bttsProbability": 0.3153,
-        "bttsNoProbability": 0.6847,
-        "over25Probability": 0.2993,
-        "under25Probability": 0.7007,
-        "homeWinProbability": 0.5933,
-        "drawProbability": 0.291,
-        "awayWinProbability": 0.2175,
+        "bttsProbability": 0.3139,
+        "bttsNoProbability": 0.6861,
+        "over25Probability": 0.2976,
+        "under25Probability": 0.7024,
+        "homeWinProbability": 0.5929,
+        "drawProbability": 0.2917,
+        "awayWinProbability": 0.2174,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1974
+          "probability": 0.1981
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -998,12 +856,12 @@
       "confidenceScore": 70
     },
     {
-      "id": "fix_4_15_BristolRovers",
+      "id": "fix_4_13_BristolRovers",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "12:30",
       "homeTeam": "Bristol Rovers",
       "awayTeam": "Tranmere",
@@ -1015,18 +873,18 @@
       "prediction": {
         "homeExpectedGoals": 1.14,
         "awayExpectedGoals": 1.03,
-        "totalExpectedGoals": 2.18,
-        "bttsProbability": 0.4466,
-        "bttsNoProbability": 0.5534,
-        "over25Probability": 0.3706,
-        "under25Probability": 0.6294,
-        "homeWinProbability": 0.4187,
-        "drawProbability": 0.3088,
-        "awayWinProbability": 0.3805,
+        "totalExpectedGoals": 2.17,
+        "bttsProbability": 0.4449,
+        "bttsNoProbability": 0.5551,
+        "over25Probability": 0.3685,
+        "under25Probability": 0.6315,
+        "homeWinProbability": 0.4186,
+        "drawProbability": 0.3095,
+        "awayWinProbability": 0.3802,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1421
+          "probability": 0.1422
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1042,18 +900,18 @@
       "pred": {
         "homeExpectedGoals": 1.14,
         "awayExpectedGoals": 1.03,
-        "totalExpectedGoals": 2.18,
-        "bttsProbability": 0.4466,
-        "bttsNoProbability": 0.5534,
-        "over25Probability": 0.3706,
-        "under25Probability": 0.6294,
-        "homeWinProbability": 0.4187,
-        "drawProbability": 0.3088,
-        "awayWinProbability": 0.3805,
+        "totalExpectedGoals": 2.17,
+        "bttsProbability": 0.4449,
+        "bttsNoProbability": 0.5551,
+        "over25Probability": 0.3685,
+        "under25Probability": 0.6315,
+        "homeWinProbability": 0.4186,
+        "drawProbability": 0.3095,
+        "awayWinProbability": 0.3802,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1421
+          "probability": 0.1422
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1067,11 +925,261 @@
         }
       },
       "confidenceScore": 63
+    },
+    {
+      "id": "fix_4_14_Exeter",
+      "leagueId": "4",
+      "leagueName": "League Two",
+      "dateRaw": "Sat 28/11",
+      "dateIso": "2026-11-21T12:00:00.000Z",
+      "daysFromNow": 0,
+      "time": "12:30",
+      "homeTeam": "Exeter",
+      "awayTeam": "Crawley Town",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 0.2,
+        "totalExpectedGoals": 1.91,
+        "bttsProbability": 0.1514,
+        "bttsNoProbability": 0.8486,
+        "over25Probability": 0.2982,
+        "under25Probability": 0.7018,
+        "homeWinProbability": 0.7764,
+        "drawProbability": 0.2095,
+        "awayWinProbability": 0.0871,
+        "predictedScore": {
+          "home": 1,
+          "away": 0,
+          "probability": 0.2503
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 70,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1725,
+          "awayElo": 1530,
+          "eloWinProb": 0.817
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.71,
+        "awayExpectedGoals": 0.2,
+        "totalExpectedGoals": 1.91,
+        "bttsProbability": 0.1514,
+        "bttsNoProbability": 0.8486,
+        "over25Probability": 0.2982,
+        "under25Probability": 0.7018,
+        "homeWinProbability": 0.7764,
+        "drawProbability": 0.2095,
+        "awayWinProbability": 0.0871,
+        "predictedScore": {
+          "home": 1,
+          "away": 0,
+          "probability": 0.2503
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 70,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1725,
+          "awayElo": 1530,
+          "eloWinProb": 0.817
+        }
+      },
+      "confidenceScore": 85
+    },
+    {
+      "id": "fix_4_15_Colchester",
+      "leagueId": "4",
+      "leagueName": "League Two",
+      "dateRaw": "Sat 28/11",
+      "dateIso": "2026-11-21T12:00:00.000Z",
+      "daysFromNow": 0,
+      "time": "15:00",
+      "homeTeam": "Colchester",
+      "awayTeam": "York",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.27,
+        "awayExpectedGoals": 1.06,
+        "totalExpectedGoals": 2.32,
+        "bttsProbability": 0.4765,
+        "bttsNoProbability": 0.5235,
+        "over25Probability": 0.4101,
+        "under25Probability": 0.5899,
+        "homeWinProbability": 0.3932,
+        "drawProbability": 0.2958,
+        "awayWinProbability": 0.4145,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.139
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1598,
+          "awayElo": 1752,
+          "eloWinProb": 0.375
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.27,
+        "awayExpectedGoals": 1.06,
+        "totalExpectedGoals": 2.32,
+        "bttsProbability": 0.4765,
+        "bttsNoProbability": 0.5235,
+        "over25Probability": 0.4101,
+        "under25Probability": 0.5899,
+        "homeWinProbability": 0.3932,
+        "drawProbability": 0.2958,
+        "awayWinProbability": 0.4145,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.139
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1598,
+          "awayElo": 1752,
+          "eloWinProb": 0.375
+        }
+      },
+      "confidenceScore": 59
     }
   ],
   "results": [
     {
-      "id": "res_4_1_FleetwoodTown",
+      "id": "res_4_1_Gillingham",
+      "leagueId": "4",
+      "leagueName": "League Two",
+      "dateRaw": "Sat 21-Nov-2026",
+      "dateIso": "2026-11-21T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "12:30",
+      "homeTeam": "Gillingham",
+      "awayTeam": "Crewe",
+      "score": "2-3",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "totalGoals": 5,
+      "actualBtts": true,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 1.02,
+        "awayExpectedGoals": 1.49,
+        "totalExpectedGoals": 2.51,
+        "bttsProbability": 0.5015,
+        "bttsNoProbability": 0.4985,
+        "over25Probability": 0.4576,
+        "under25Probability": 0.5424,
+        "homeWinProbability": 0.3222,
+        "drawProbability": 0.2753,
+        "awayWinProbability": 0.4987,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1309
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1678,
+          "awayElo": 1774,
+          "eloWinProb": 0.456
+        },
+        "matchFingerprint": "4_gillingham_crewe_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-21T14:27:05.423Z",
+        "auditHash": "SHA256-IMMUTABLE-2207BDE-2026-11-21",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": false,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_4_2_NewportCounty",
+      "leagueId": "4",
+      "leagueName": "League Two",
+      "dateRaw": "Sat 21-Nov-2026",
+      "dateIso": "2026-11-21T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "12:30",
+      "homeTeam": "Newport County",
+      "awayTeam": "Swindon",
+      "score": "2-0",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "totalGoals": 2,
+      "actualBtts": false,
+      "actualOver25": false,
+      "prediction": {
+        "homeExpectedGoals": 2.53,
+        "awayExpectedGoals": 0.2,
+        "totalExpectedGoals": 2.73,
+        "bttsProbability": 0.1704,
+        "bttsNoProbability": 0.8296,
+        "over25Probability": 0.5089,
+        "under25Probability": 0.4911,
+        "homeWinProbability": 0.8155,
+        "drawProbability": 0.1074,
+        "awayWinProbability": 0.1117,
+        "predictedScore": {
+          "home": 2,
+          "away": 0,
+          "probability": 0.2083
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 66,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1735,
+          "awayElo": 1643,
+          "eloWinProb": 0.712
+        },
+        "matchFingerprint": "4_newport county_swindon_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-21T14:27:05.423Z",
+        "auditHash": "SHA256-IMMUTABLE-778D2418-2026-11-21",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": false,
+        "bothHit": false,
+        "exactScoreHit": true
+      }
+    },
+    {
+      "id": "res_4_3_FleetwoodTown",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 14-Nov-2026",
@@ -1087,20 +1195,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 1.48,
+        "homeExpectedGoals": 1.47,
         "awayExpectedGoals": 0.45,
-        "totalExpectedGoals": 1.93,
-        "bttsProbability": 0.287,
-        "bttsNoProbability": 0.713,
-        "over25Probability": 0.3047,
-        "under25Probability": 0.6953,
-        "homeWinProbability": 0.6237,
-        "drawProbability": 0.2711,
-        "awayWinProbability": 0.1999,
+        "totalExpectedGoals": 1.92,
+        "bttsProbability": 0.2864,
+        "bttsNoProbability": 0.7136,
+        "over25Probability": 0.3013,
+        "under25Probability": 0.6987,
+        "homeWinProbability": 0.6193,
+        "drawProbability": 0.2735,
+        "awayWinProbability": 0.2028,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.2084
+          "probability": 0.2091
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 43,
@@ -1108,13 +1216,13 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1695,
+          "homeElo": 1691,
           "awayElo": 1671,
-          "eloWinProb": 0.625
+          "eloWinProb": 0.62
         },
         "matchFingerprint": "4_fleetwood town_tranmere_Sat 14-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:04.764Z",
-        "auditHash": "SHA256-IMMUTABLE-7AD26868-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:05.423Z",
+        "auditHash": "SHA256-IMMUTABLE-524D82D1-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1125,7 +1233,7 @@
       }
     },
     {
-      "id": "res_4_2_BristolRovers",
+      "id": "res_4_4_BristolRovers",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 14-Nov-2026",
@@ -1142,19 +1250,19 @@
       "actualOver25": false,
       "prediction": {
         "homeExpectedGoals": 1.12,
-        "awayExpectedGoals": 1.74,
-        "totalExpectedGoals": 2.86,
-        "bttsProbability": 0.562,
-        "bttsNoProbability": 0.438,
-        "over25Probability": 0.5442,
-        "under25Probability": 0.4558,
-        "homeWinProbability": 0.2976,
-        "drawProbability": 0.2501,
-        "awayWinProbability": 0.5395,
+        "awayExpectedGoals": 1.73,
+        "totalExpectedGoals": 2.85,
+        "bttsProbability": 0.5603,
+        "bttsNoProbability": 0.4397,
+        "over25Probability": 0.5418,
+        "under25Probability": 0.4582,
+        "homeWinProbability": 0.2977,
+        "drawProbability": 0.2507,
+        "awayWinProbability": 0.539,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1184
+          "probability": 0.1188
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1167,8 +1275,8 @@
           "eloWinProb": 0.408
         },
         "matchFingerprint": "4_bristol rovers_chesterfield_Sat 14-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:04.764Z",
-        "auditHash": "SHA256-IMMUTABLE-373034B4-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:05.423Z",
+        "auditHash": "SHA256-IMMUTABLE-5935AADF-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1179,7 +1287,7 @@
       }
     },
     {
-      "id": "res_4_3_Colchester",
+      "id": "res_4_5_Colchester",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 14-Nov-2026",
@@ -1196,19 +1304,19 @@
       "actualOver25": false,
       "prediction": {
         "homeExpectedGoals": 1.06,
-        "awayExpectedGoals": 1.25,
-        "totalExpectedGoals": 2.3,
-        "bttsProbability": 0.4723,
-        "bttsNoProbability": 0.5277,
-        "over25Probability": 0.4043,
-        "under25Probability": 0.5957,
-        "homeWinProbability": 0.3616,
-        "drawProbability": 0.2977,
-        "awayWinProbability": 0.4448,
+        "awayExpectedGoals": 1.19,
+        "totalExpectedGoals": 2.25,
+        "bttsProbability": 0.4628,
+        "bttsNoProbability": 0.5372,
+        "over25Probability": 0.3906,
+        "under25Probability": 0.6094,
+        "homeWinProbability": 0.3742,
+        "drawProbability": 0.3027,
+        "awayWinProbability": 0.429,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1396
+          "probability": 0.141
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1217,12 +1325,12 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1598,
-          "awayElo": 1685,
-          "eloWinProb": 0.468
+          "awayElo": 1678,
+          "eloWinProb": 0.478
         },
         "matchFingerprint": "4_colchester_gillingham_Sat 14-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:04.764Z",
-        "auditHash": "SHA256-IMMUTABLE-2726A823-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:05.423Z",
+        "auditHash": "SHA256-IMMUTABLE-696F8DCD-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1233,7 +1341,7 @@
       }
     },
     {
-      "id": "res_4_4_Crewe",
+      "id": "res_4_6_Crewe",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 14-Nov-2026",
@@ -1249,20 +1357,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 2.24,
-        "awayExpectedGoals": 1,
-        "totalExpectedGoals": 3.24,
-        "bttsProbability": 0.5682,
-        "bttsNoProbability": 0.4318,
-        "over25Probability": 0.626,
-        "under25Probability": 0.374,
-        "homeWinProbability": 0.6555,
-        "drawProbability": 0.2005,
-        "awayWinProbability": 0.2128,
+        "homeExpectedGoals": 2.17,
+        "awayExpectedGoals": 1.03,
+        "totalExpectedGoals": 3.2,
+        "bttsProbability": 0.5726,
+        "bttsNoProbability": 0.4274,
+        "over25Probability": 0.6179,
+        "under25Probability": 0.3821,
+        "homeWinProbability": 0.6339,
+        "drawProbability": 0.2079,
+        "awayWinProbability": 0.2298,
         "predictedScore": {
           "home": 2,
-          "away": 0,
-          "probability": 0.0984
+          "away": 1,
+          "probability": 0.0988
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1270,13 +1378,13 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1740,
-          "awayElo": 1681,
-          "eloWinProb": 0.671
+          "homeElo": 1774,
+          "awayElo": 1735,
+          "eloWinProb": 0.645
         },
         "matchFingerprint": "4_crewe_newport county_Sat 14-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:04.764Z",
-        "auditHash": "SHA256-IMMUTABLE-20EF2D40-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:05.423Z",
+        "auditHash": "SHA256-IMMUTABLE-19775D11-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1287,7 +1395,7 @@
       }
     },
     {
-      "id": "res_4_5_PortVale",
+      "id": "res_4_7_PortVale",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 14-Nov-2026",
@@ -1303,20 +1411,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 2.01,
-        "awayExpectedGoals": 1.02,
-        "totalExpectedGoals": 3.04,
-        "bttsProbability": 0.5605,
-        "bttsNoProbability": 0.4395,
-        "over25Probability": 0.5839,
-        "under25Probability": 0.4161,
-        "homeWinProbability": 0.5742,
-        "drawProbability": 0.223,
-        "awayWinProbability": 0.28,
+        "homeExpectedGoals": 2.02,
+        "awayExpectedGoals": 1.01,
+        "totalExpectedGoals": 3.03,
+        "bttsProbability": 0.5578,
+        "bttsNoProbability": 0.4422,
+        "over25Probability": 0.583,
+        "under25Probability": 0.417,
+        "homeWinProbability": 0.5787,
+        "drawProbability": 0.2222,
+        "awayWinProbability": 0.2762,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1048
+          "probability": 0.1045
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1325,12 +1433,12 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1647,
-          "awayElo": 1688,
-          "eloWinProb": 0.534
+          "awayElo": 1684,
+          "eloWinProb": 0.54
         },
         "matchFingerprint": "4_port vale_accrington stanley_Sat 14-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:04.764Z",
-        "auditHash": "SHA256-IMMUTABLE-6077AF8E-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:05.423Z",
+        "auditHash": "SHA256-IMMUTABLE-724722CB-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1341,7 +1449,7 @@
       }
     },
     {
-      "id": "res_4_6_Rochdale",
+      "id": "res_4_8_Rochdale",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 14-Nov-2026",
@@ -1357,20 +1465,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 1.29,
-        "awayExpectedGoals": 2.25,
-        "totalExpectedGoals": 3.54,
-        "bttsProbability": 0.6519,
-        "bttsNoProbability": 0.3481,
-        "over25Probability": 0.6837,
-        "under25Probability": 0.3163,
-        "homeWinProbability": 0.2551,
-        "drawProbability": 0.2085,
-        "awayWinProbability": 0.6079,
+        "homeExpectedGoals": 1.3,
+        "awayExpectedGoals": 2.22,
+        "totalExpectedGoals": 3.52,
+        "bttsProbability": 0.6512,
+        "bttsNoProbability": 0.3488,
+        "over25Probability": 0.6805,
+        "under25Probability": 0.3195,
+        "homeWinProbability": 0.2592,
+        "drawProbability": 0.2104,
+        "awayWinProbability": 0.6027,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.0947
+          "probability": 0.0949
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1379,12 +1487,12 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1579,
-          "awayElo": 1756,
-          "eloWinProb": 0.344
+          "awayElo": 1752,
+          "eloWinProb": 0.349
         },
         "matchFingerprint": "4_rochdale_york_Sat 14-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:04.764Z",
-        "auditHash": "SHA256-IMMUTABLE-2B147486-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:05.423Z",
+        "auditHash": "SHA256-IMMUTABLE-1E6FAD7B-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1395,7 +1503,7 @@
       }
     },
     {
-      "id": "res_4_7_Salford",
+      "id": "res_4_9_Salford",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 14-Nov-2026",
@@ -1413,18 +1521,18 @@
       "prediction": {
         "homeExpectedGoals": 1.48,
         "awayExpectedGoals": 0.34,
-        "totalExpectedGoals": 1.82,
-        "bttsProbability": 0.2265,
-        "bttsNoProbability": 0.7735,
-        "over25Probability": 0.2747,
-        "under25Probability": 0.7253,
-        "homeWinProbability": 0.7265,
-        "drawProbability": 0.2635,
+        "totalExpectedGoals": 1.81,
+        "bttsProbability": 0.2254,
+        "bttsNoProbability": 0.7746,
+        "over25Probability": 0.2731,
+        "under25Probability": 0.7269,
+        "homeWinProbability": 0.726,
+        "drawProbability": 0.2643,
         "awayWinProbability": 0.1021,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.2352
+          "probability": 0.2359
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 55,
@@ -1437,8 +1545,8 @@
           "eloWinProb": 0.851
         },
         "matchFingerprint": "4_salford_northampton_Sat 14-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:04.764Z",
-        "auditHash": "SHA256-IMMUTABLE-61C5F1EC-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:05.423Z",
+        "auditHash": "SHA256-IMMUTABLE-4D3F400A-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1449,7 +1557,7 @@
       }
     },
     {
-      "id": "res_4_8_Shrewsbury",
+      "id": "res_4_10_Shrewsbury",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 14-Nov-2026",
@@ -1465,20 +1573,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.79,
+        "homeExpectedGoals": 1.77,
         "awayExpectedGoals": 0.54,
-        "totalExpectedGoals": 2.33,
-        "bttsProbability": 0.3528,
-        "bttsNoProbability": 0.6472,
-        "over25Probability": 0.4113,
-        "under25Probability": 0.5887,
-        "homeWinProbability": 0.685,
-        "drawProbability": 0.2279,
-        "awayWinProbability": 0.1665,
+        "totalExpectedGoals": 2.31,
+        "bttsProbability": 0.3523,
+        "bttsNoProbability": 0.6477,
+        "over25Probability": 0.4073,
+        "under25Probability": 0.5927,
+        "homeWinProbability": 0.6808,
+        "drawProbability": 0.2303,
+        "awayWinProbability": 0.1692,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1686
+          "probability": 0.1696
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1486,13 +1594,13 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1692,
+          "homeElo": 1688,
           "awayElo": 1602,
-          "eloWinProb": 0.709
+          "eloWinProb": 0.705
         },
         "matchFingerprint": "4_shrewsbury_oldham_Sat 14-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:04.764Z",
-        "auditHash": "SHA256-IMMUTABLE-5B3BEE46-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:05.423Z",
+        "auditHash": "SHA256-IMMUTABLE-6101D4E5-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1503,7 +1611,7 @@
       }
     },
     {
-      "id": "res_4_9_Swindon",
+      "id": "res_4_11_Swindon",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 14-Nov-2026",
@@ -1521,14 +1629,14 @@
       "prediction": {
         "homeExpectedGoals": 1.28,
         "awayExpectedGoals": 2.91,
-        "totalExpectedGoals": 4.2,
-        "bttsProbability": 0.6789,
-        "bttsNoProbability": 0.3211,
+        "totalExpectedGoals": 4.19,
+        "bttsProbability": 0.6793,
+        "bttsNoProbability": 0.3207,
         "over25Probability": 0.7789,
         "under25Probability": 0.2211,
-        "homeWinProbability": 0.2333,
-        "drawProbability": 0.1582,
-        "awayWinProbability": 0.6572,
+        "homeWinProbability": 0.2327,
+        "drawProbability": 0.1584,
+        "awayWinProbability": 0.6577,
         "predictedScore": {
           "home": 1,
           "away": 2,
@@ -1540,13 +1648,13 @@
         "overUnderConfidence": 56,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1649,
-          "awayElo": 1775,
-          "eloWinProb": 0.413
+          "homeElo": 1643,
+          "awayElo": 1771,
+          "eloWinProb": 0.41
         },
         "matchFingerprint": "4_swindon_grimsby_Sat 14-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:04.764Z",
-        "auditHash": "SHA256-IMMUTABLE-1E6B7A9A-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:05.423Z",
+        "auditHash": "SHA256-IMMUTABLE-3F8D16FC-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1557,7 +1665,7 @@
       }
     },
     {
-      "id": "res_4_10_Exeter",
+      "id": "res_4_12_Exeter",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 14-Nov-2026",
@@ -1576,31 +1684,31 @@
         "homeExpectedGoals": 1.77,
         "awayExpectedGoals": 0.23,
         "totalExpectedGoals": 2,
-        "bttsProbability": 0.173,
-        "bttsNoProbability": 0.827,
-        "over25Probability": 0.3235,
-        "under25Probability": 0.6765,
-        "homeWinProbability": 0.7149,
-        "drawProbability": 0.2021,
+        "bttsProbability": 0.1722,
+        "bttsNoProbability": 0.8278,
+        "over25Probability": 0.3218,
+        "under25Probability": 0.6782,
+        "homeWinProbability": 0.7143,
+        "drawProbability": 0.2029,
         "awayWinProbability": 0.1534,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.2362
+          "probability": 0.2369
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 65,
+        "bttsConfidence": 66,
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1729,
-          "awayElo": 1699,
+          "homeElo": 1725,
+          "awayElo": 1695,
           "eloWinProb": 0.633
         },
         "matchFingerprint": "4_exeter_cheltenham_Sat 14-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:04.764Z",
-        "auditHash": "SHA256-IMMUTABLE-17E99E92-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:05.424Z",
+        "auditHash": "SHA256-IMMUTABLE-170DC4C2-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1611,7 +1719,7 @@
       }
     },
     {
-      "id": "res_4_11_Northampton",
+      "id": "res_4_13_Northampton",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Tue 03-Nov-2026",
@@ -1627,20 +1735,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 0.73,
+        "homeExpectedGoals": 0.72,
         "awayExpectedGoals": 0.31,
         "totalExpectedGoals": 1.03,
-        "bttsProbability": 0.1411,
-        "bttsNoProbability": 0.8589,
-        "over25Probability": 0.0864,
-        "under25Probability": 0.9136,
-        "homeWinProbability": 0.4836,
-        "drawProbability": 0.4495,
-        "awayWinProbability": 0.2242,
+        "bttsProbability": 0.1404,
+        "bttsNoProbability": 0.8596,
+        "over25Probability": 0.0857,
+        "under25Probability": 0.9143,
+        "homeWinProbability": 0.4832,
+        "drawProbability": 0.4504,
+        "awayWinProbability": 0.224,
         "predictedScore": {
           "home": 0,
           "away": 0,
-          "probability": 0.3609
+          "probability": 0.3621
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 72,
@@ -1653,8 +1761,8 @@
           "eloWinProb": 0.615
         },
         "matchFingerprint": "4_northampton_oldham_Tue 03-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:04.764Z",
-        "auditHash": "SHA256-IMMUTABLE-FE1E888-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:05.424Z",
+        "auditHash": "SHA256-IMMUTABLE-CA7A594-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1665,7 +1773,7 @@
       }
     },
     {
-      "id": "res_4_12_AccringtonStanley",
+      "id": "res_4_14_AccringtonStanley",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 31-Oct-2026",
@@ -1681,20 +1789,20 @@
       "actualBtts": true,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 1.56,
+        "homeExpectedGoals": 1.54,
         "awayExpectedGoals": 0.8,
-        "totalExpectedGoals": 2.36,
-        "bttsProbability": 0.4414,
-        "bttsNoProbability": 0.5586,
-        "over25Probability": 0.4185,
-        "under25Probability": 0.5815,
-        "homeWinProbability": 0.5944,
-        "drawProbability": 0.2691,
-        "awayWinProbability": 0.2306,
+        "totalExpectedGoals": 2.34,
+        "bttsProbability": 0.4404,
+        "bttsNoProbability": 0.5596,
+        "over25Probability": 0.4152,
+        "under25Probability": 0.5848,
+        "homeWinProbability": 0.5899,
+        "drawProbability": 0.271,
+        "awayWinProbability": 0.2338,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1405
+          "probability": 0.1409
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1702,13 +1810,13 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1688,
+          "homeElo": 1684,
           "awayElo": 1618,
-          "eloWinProb": 0.685
+          "eloWinProb": 0.68
         },
         "matchFingerprint": "4_accrington stanley_northampton_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:04.764Z",
-        "auditHash": "SHA256-IMMUTABLE-15BD4AF-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:05.424Z",
+        "auditHash": "SHA256-IMMUTABLE-23EC712E-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
@@ -1719,7 +1827,7 @@
       }
     },
     {
-      "id": "res_4_13_Colchester",
+      "id": "res_4_15_Colchester",
       "leagueId": "4",
       "leagueName": "League Two",
       "dateRaw": "Sat 31-Oct-2026",
@@ -1736,19 +1844,19 @@
       "actualOver25": true,
       "prediction": {
         "homeExpectedGoals": 0.54,
-        "awayExpectedGoals": 1.52,
-        "totalExpectedGoals": 2.06,
-        "bttsProbability": 0.3329,
-        "bttsNoProbability": 0.6671,
-        "over25Probability": 0.3398,
-        "under25Probability": 0.6602,
-        "homeWinProbability": 0.2105,
-        "drawProbability": 0.2683,
-        "awayWinProbability": 0.615,
+        "awayExpectedGoals": 1.51,
+        "totalExpectedGoals": 2.05,
+        "bttsProbability": 0.3316,
+        "bttsNoProbability": 0.6684,
+        "over25Probability": 0.3377,
+        "under25Probability": 0.6623,
+        "homeWinProbability": 0.2106,
+        "drawProbability": 0.2691,
+        "awayWinProbability": 0.6143,
         "predictedScore": {
           "home": 0,
           "away": 1,
-          "probability": 0.1871
+          "probability": 0.1879
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1761,121 +1869,13 @@
           "eloWinProb": 0.371
         },
         "matchFingerprint": "4_colchester_walsall_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:04.764Z",
-        "auditHash": "SHA256-IMMUTABLE-49F0F7FA-2026-11-20",
+        "lockedAt": "2026-11-21T14:27:05.424Z",
+        "auditHash": "SHA256-IMMUTABLE-612C2F21-2026-11-21",
         "isImmutable": true
       },
       "evaluation": {
         "bttsHit": false,
         "overUnderHit": false,
-        "bothHit": false,
-        "exactScoreHit": false
-      }
-    },
-    {
-      "id": "res_4_14_Crewe",
-      "leagueId": "4",
-      "leagueName": "League Two",
-      "dateRaw": "Sat 31-Oct-2026",
-      "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "15:00",
-      "homeTeam": "Crewe",
-      "awayTeam": "Barnet",
-      "score": "1-1",
-      "homeGoals": 1,
-      "awayGoals": 1,
-      "totalGoals": 2,
-      "actualBtts": true,
-      "actualOver25": false,
-      "prediction": {
-        "homeExpectedGoals": 1.52,
-        "awayExpectedGoals": 2.76,
-        "totalExpectedGoals": 4.28,
-        "bttsProbability": 0.7291,
-        "bttsNoProbability": 0.2709,
-        "over25Probability": 0.7919,
-        "under25Probability": 0.2081,
-        "homeWinProbability": 0.2989,
-        "drawProbability": 0.1774,
-        "awayWinProbability": 0.5809,
-        "predictedScore": {
-          "home": 1,
-          "away": 2,
-          "probability": 0.0803
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 46,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 58,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1740,
-          "awayElo": 1805,
-          "eloWinProb": 0.5
-        },
-        "matchFingerprint": "4_crewe_barnet_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:04.764Z",
-        "auditHash": "SHA256-IMMUTABLE-53D0B693-2026-11-20",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": true,
-        "overUnderHit": false,
-        "bothHit": false,
-        "exactScoreHit": false
-      }
-    },
-    {
-      "id": "res_4_15_FleetwoodTown",
-      "leagueId": "4",
-      "leagueName": "League Two",
-      "dateRaw": "Sat 31-Oct-2026",
-      "dateIso": "2026-11-21T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "15:00",
-      "homeTeam": "Fleetwood Town",
-      "awayTeam": "Bristol Rovers",
-      "score": "3-1",
-      "homeGoals": 3,
-      "awayGoals": 1,
-      "totalGoals": 4,
-      "actualBtts": true,
-      "actualOver25": true,
-      "prediction": {
-        "homeExpectedGoals": 2.53,
-        "awayExpectedGoals": 0.37,
-        "totalExpectedGoals": 2.91,
-        "bttsProbability": 0.2875,
-        "bttsNoProbability": 0.7125,
-        "over25Probability": 0.5509,
-        "under25Probability": 0.4491,
-        "homeWinProbability": 0.7896,
-        "drawProbability": 0.1258,
-        "awayWinProbability": 0.1256,
-        "predictedScore": {
-          "home": 2,
-          "away": 0,
-          "probability": 0.1756
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 43,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1695,
-          "awayElo": 1609,
-          "eloWinProb": 0.705
-        },
-        "matchFingerprint": "4_fleetwood town_bristol rovers_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-20T15:09:04.764Z",
-        "auditHash": "SHA256-IMMUTABLE-3754193E-2026-11-20",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": false,
-        "overUnderHit": true,
         "bothHit": false,
         "exactScoreHit": false
       }
@@ -1944,8 +1944,39 @@
       "sntF": 4.7,
       "sntA": 4.7
     },
-    "Grimsby": {
+    "Crewe": {
       "pos": 3,
+      "team": "Crewe",
+      "p": 16,
+      "hw": 3,
+      "hd": 5,
+      "hl": 0,
+      "hf": 14,
+      "ha": 10,
+      "aw": 3,
+      "ad": 3,
+      "al": 2,
+      "af": 8,
+      "aa": 11,
+      "gd": 1,
+      "pts": 26,
+      "ppg": 1.62,
+      "form": "WLLDDW",
+      "ycF": 1,
+      "ycA": 0.8,
+      "rcF": 0,
+      "rcA": 0,
+      "psF": 40,
+      "psA": 48,
+      "cF": 2.9,
+      "cA": 3.3,
+      "stF": 2.1,
+      "stA": 3.5,
+      "sntF": 4.8,
+      "sntA": 4.8
+    },
+    "Grimsby": {
+      "pos": 4,
       "team": "Grimsby",
       "p": 15,
       "hw": 4,
@@ -1976,7 +2007,7 @@
       "sntA": 5.5
     },
     "York": {
-      "pos": 4,
+      "pos": 5,
       "team": "York",
       "p": 15,
       "hw": 5,
@@ -2005,37 +2036,6 @@
       "stA": 5.4,
       "sntF": 6.3,
       "sntA": 7.1
-    },
-    "Crewe": {
-      "pos": 5,
-      "team": "Crewe",
-      "p": 15,
-      "hw": 3,
-      "hd": 5,
-      "hl": 0,
-      "hf": 14,
-      "ha": 10,
-      "aw": 2,
-      "ad": 3,
-      "al": 2,
-      "af": 5,
-      "aa": 9,
-      "gd": 0,
-      "pts": 23,
-      "ppg": 1.53,
-      "form": "WWLLDD",
-      "ycF": 0.9,
-      "ycA": 0.6,
-      "rcF": 0,
-      "rcA": 0,
-      "psF": 38,
-      "psA": 47,
-      "cF": 2.6,
-      "cA": 2.6,
-      "stF": 2,
-      "stA": 3.4,
-      "sntF": 4.3,
-      "sntA": 5
     },
     "Walsall": {
       "pos": 6,
@@ -2099,8 +2099,39 @@
       "sntF": 5.8,
       "sntA": 4.3
     },
-    "Exeter": {
+    "Newport County": {
       "pos": 8,
+      "team": "Newport County",
+      "p": 16,
+      "hw": 5,
+      "hd": 3,
+      "hl": 0,
+      "hf": 16,
+      "ha": 6,
+      "aw": 0,
+      "ad": 4,
+      "al": 4,
+      "af": 8,
+      "aa": 13,
+      "gd": 5,
+      "pts": 22,
+      "ppg": 1.37,
+      "form": "DDLWDW",
+      "ycF": 2,
+      "ycA": 2.6,
+      "rcF": 0,
+      "rcA": 0,
+      "psF": 38,
+      "psA": 62,
+      "cF": 2.6,
+      "cA": 4.6,
+      "stF": 3,
+      "stA": 4.5,
+      "sntF": 5.5,
+      "sntA": 6.1
+    },
+    "Exeter": {
+      "pos": 9,
       "team": "Exeter",
       "p": 15,
       "hw": 5,
@@ -2131,7 +2162,7 @@
       "sntA": 4.1
     },
     "Cheltenham": {
-      "pos": 9,
+      "pos": 10,
       "team": "Cheltenham",
       "p": 15,
       "hw": 5,
@@ -2162,7 +2193,7 @@
       "sntA": 7.1
     },
     "Shrewsbury": {
-      "pos": 10,
+      "pos": 11,
       "team": "Shrewsbury",
       "p": 15,
       "hw": 4,
@@ -2193,7 +2224,7 @@
       "sntA": 2.9
     },
     "Fleetwood Town": {
-      "pos": 11,
+      "pos": 12,
       "team": "Fleetwood Town",
       "p": 15,
       "hw": 4,
@@ -2224,23 +2255,23 @@
       "sntA": 4.3
     },
     "Gillingham": {
-      "pos": 12,
+      "pos": 13,
       "team": "Gillingham",
-      "p": 15,
+      "p": 16,
       "hw": 2,
       "hd": 3,
-      "hl": 2,
-      "hf": 8,
-      "ha": 9,
+      "hl": 3,
+      "hf": 10,
+      "ha": 12,
       "aw": 3,
       "ad": 2,
       "al": 3,
       "af": 12,
       "aa": 12,
-      "gd": -1,
+      "gd": -2,
       "pts": 20,
-      "ppg": 1.33,
-      "form": "WLDLWL",
+      "ppg": 1.25,
+      "form": "LDLWLL",
       "ycF": 2.1,
       "ycA": 1.4,
       "rcF": 0.1,
@@ -2255,7 +2286,7 @@
       "sntA": 6.1
     },
     "Accrington Stanley": {
-      "pos": 13,
+      "pos": 14,
       "team": "Accrington Stanley",
       "p": 15,
       "hw": 3,
@@ -2284,37 +2315,6 @@
       "stA": 4.5,
       "sntF": 5.6,
       "sntA": 4.9
-    },
-    "Newport County": {
-      "pos": 14,
-      "team": "Newport County",
-      "p": 15,
-      "hw": 4,
-      "hd": 3,
-      "hl": 0,
-      "hf": 14,
-      "ha": 6,
-      "aw": 0,
-      "ad": 4,
-      "al": 4,
-      "af": 8,
-      "aa": 13,
-      "gd": 3,
-      "pts": 19,
-      "ppg": 1.26,
-      "form": "WDDLWD",
-      "ycF": 2,
-      "ycA": 2.6,
-      "rcF": 0,
-      "rcA": 0,
-      "psF": 38,
-      "psA": 62,
-      "cF": 2.6,
-      "cA": 4.6,
-      "stF": 3,
-      "stA": 4.5,
-      "sntF": 5.5,
-      "sntA": 6.1
     },
     "Tranmere": {
       "pos": 15,
@@ -2350,7 +2350,7 @@
     "Swindon": {
       "pos": 16,
       "team": "Swindon",
-      "p": 15,
+      "p": 16,
       "hw": 4,
       "hd": 2,
       "hl": 2,
@@ -2358,24 +2358,24 @@
       "ha": 11,
       "aw": 1,
       "ad": 2,
-      "al": 4,
+      "al": 5,
       "af": 3,
-      "aa": 10,
-      "gd": -5,
+      "aa": 12,
+      "gd": -7,
       "pts": 19,
-      "ppg": 1.26,
-      "form": "LDWdWL",
-      "ycF": 1.4,
-      "ycA": 0.3,
+      "ppg": 1.18,
+      "form": "DWdWLL",
+      "ycF": 1.8,
+      "ycA": 0.5,
       "rcF": 0,
       "rcA": 0,
-      "psF": 34,
-      "psA": 52,
-      "cF": 3,
-      "cA": 8.4,
-      "stF": 2.3,
-      "stA": 6.9,
-      "sntF": 2.7,
+      "psF": 37,
+      "psA": 50,
+      "cF": 3.4,
+      "cA": 7.8,
+      "stF": 2.5,
+      "stA": 6.8,
+      "sntF": 3.5,
       "sntA": 5.4
     },
     "Port Vale": {
@@ -2630,30 +2630,30 @@
   "backtest": {
     "totalMatches": 15,
     "bttsEvaluated": 15,
-    "bttsHits": 8,
-    "bttsAccuracy": 53.3,
+    "bttsHits": 9,
+    "bttsAccuracy": 60,
     "overUnderEvaluated": 15,
-    "overUnderHits": 10,
-    "overUnderAccuracy": 66.7,
+    "overUnderHits": 9,
+    "overUnderAccuracy": 60,
     "overallAccuracy": 60,
-    "exactScoreHits": 2,
-    "exactScoreAccuracy": 13.3,
+    "exactScoreHits": 3,
+    "exactScoreAccuracy": 20,
     "confusionMatrix": {
       "btts": {
         "predictedYesActualYes": 4,
         "predictedYesActualNo": 2,
-        "predictedNoActualYes": 5,
-        "predictedNoActualNo": 4
+        "predictedNoActualYes": 4,
+        "predictedNoActualNo": 5
       },
       "overUnder": {
-        "predictedOverActualOver": 4,
+        "predictedOverActualOver": 3,
         "predictedOverActualUnder": 3,
-        "predictedUnderActualOver": 2,
+        "predictedUnderActualOver": 3,
         "predictedUnderActualUnder": 6
       }
     },
-    "logLoss": 0.6764,
-    "brierScore": 0.243,
+    "logLoss": 0.6297,
+    "brierScore": 0.223,
     "simulatedRoi": 14.6
   },
   "parameters": {
