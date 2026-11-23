@@ -1,109 +1,38 @@
 {
   "leagueId": "36",
   "leagueName": "Eredivisie",
-  "timestamp": "2026-11-22T14:22:46.715Z",
+  "timestamp": "2026-11-23T17:47:03.225Z",
   "fixtures": [
     {
-      "id": "fix_36_1_GoAheadEagles",
-      "leagueId": "36",
-      "leagueName": "Eredivisie",
-      "dateRaw": "Sun 22/11",
-      "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 0,
-      "time": "15:45",
-      "homeTeam": "Go Ahead Eagles",
-      "awayTeam": "Fortuna Sittard",
-      "odds": {
-        "home": 1.66,
-        "draw": 4.33,
-        "away": 4.8
-      },
-      "prediction": {
-        "homeExpectedGoals": 2.49,
-        "awayExpectedGoals": 1.67,
-        "totalExpectedGoals": 4.16,
-        "bttsProbability": 0.7446,
-        "bttsNoProbability": 0.2554,
-        "over25Probability": 0.7799,
-        "under25Probability": 0.2201,
-        "homeWinProbability": 0.544,
-        "drawProbability": 0.1965,
-        "awayWinProbability": 0.3253,
-        "predictedScore": {
-          "home": 2,
-          "away": 1,
-          "probability": 0.0808
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 49,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 56,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1682,
-          "awayElo": 1724,
-          "eloWinProb": 0.533
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 2.49,
-        "awayExpectedGoals": 1.67,
-        "totalExpectedGoals": 4.16,
-        "bttsProbability": 0.7446,
-        "bttsNoProbability": 0.2554,
-        "over25Probability": 0.7799,
-        "under25Probability": 0.2201,
-        "homeWinProbability": 0.544,
-        "drawProbability": 0.1965,
-        "awayWinProbability": 0.3253,
-        "predictedScore": {
-          "home": 2,
-          "away": 1,
-          "probability": 0.0808
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 49,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 56,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1682,
-          "awayElo": 1724,
-          "eloWinProb": 0.533
-        }
-      },
-      "confidenceScore": 78
-    },
-    {
-      "id": "fix_36_2_FCGroningen",
+      "id": "fix_36_1_FCGroningen",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Fri 27/11",
       "dateIso": "2026-11-27T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "19:00",
       "homeTeam": "FC Groningen",
       "awayTeam": "Willem II",
       "odds": {
-        "home": 1.24,
-        "draw": 6.92,
-        "away": 10.7
+        "home": 1.41,
+        "draw": 5.6,
+        "away": 6.6
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.71,
-        "totalExpectedGoals": 5.21,
-        "bttsProbability": 0.459,
-        "bttsNoProbability": 0.541,
-        "over25Probability": 0.8052,
-        "under25Probability": 0.1948,
-        "homeWinProbability": 0.8467,
-        "drawProbability": 0.0449,
-        "awayWinProbability": 0.0678,
+        "awayExpectedGoals": 0.7,
+        "totalExpectedGoals": 5.2,
+        "bttsProbability": 0.4552,
+        "bttsNoProbability": 0.5448,
+        "over25Probability": 0.8046,
+        "under25Probability": 0.1954,
+        "homeWinProbability": 0.8472,
+        "drawProbability": 0.0445,
+        "awayWinProbability": 0.0675,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.0935
+          "probability": 0.0943
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -118,19 +47,19 @@
       },
       "pred": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.71,
-        "totalExpectedGoals": 5.21,
-        "bttsProbability": 0.459,
-        "bttsNoProbability": 0.541,
-        "over25Probability": 0.8052,
-        "under25Probability": 0.1948,
-        "homeWinProbability": 0.8467,
-        "drawProbability": 0.0449,
-        "awayWinProbability": 0.0678,
+        "awayExpectedGoals": 0.7,
+        "totalExpectedGoals": 5.2,
+        "bttsProbability": 0.4552,
+        "bttsNoProbability": 0.5448,
+        "over25Probability": 0.8046,
+        "under25Probability": 0.1954,
+        "homeWinProbability": 0.8472,
+        "drawProbability": 0.0445,
+        "awayWinProbability": 0.0675,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.0935
+          "probability": 0.0943
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -143,38 +72,38 @@
           "eloWinProb": 0.839
         }
       },
-      "confidenceScore": 81
+      "confidenceScore": 80
     },
     {
-      "id": "fix_36_3_Excelsior",
+      "id": "fix_36_2_Excelsior",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "15:30",
       "homeTeam": "Excelsior",
       "awayTeam": "Telstar",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 2.08,
+        "draw": 3.64,
+        "away": 3.51
       },
       "prediction": {
         "homeExpectedGoals": 0.71,
-        "awayExpectedGoals": 1.41,
-        "totalExpectedGoals": 2.12,
-        "bttsProbability": 0.3908,
-        "bttsNoProbability": 0.6092,
-        "over25Probability": 0.3556,
-        "under25Probability": 0.6444,
-        "homeWinProbability": 0.3425,
-        "drawProbability": 0.288,
-        "awayWinProbability": 0.4702,
+        "awayExpectedGoals": 1.39,
+        "totalExpectedGoals": 2.11,
+        "bttsProbability": 0.391,
+        "bttsNoProbability": 0.609,
+        "over25Probability": 0.3526,
+        "under25Probability": 0.6474,
+        "homeWinProbability": 0.3451,
+        "drawProbability": 0.2904,
+        "awayWinProbability": 0.4661,
         "predictedScore": {
           "home": 0,
           "away": 1,
-          "probability": 0.1623
+          "probability": 0.1621
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -189,19 +118,19 @@
       },
       "pred": {
         "homeExpectedGoals": 0.71,
-        "awayExpectedGoals": 1.41,
-        "totalExpectedGoals": 2.12,
-        "bttsProbability": 0.3908,
-        "bttsNoProbability": 0.6092,
-        "over25Probability": 0.3556,
-        "under25Probability": 0.6444,
-        "homeWinProbability": 0.3425,
-        "drawProbability": 0.288,
-        "awayWinProbability": 0.4702,
+        "awayExpectedGoals": 1.39,
+        "totalExpectedGoals": 2.11,
+        "bttsProbability": 0.391,
+        "bttsNoProbability": 0.609,
+        "over25Probability": 0.3526,
+        "under25Probability": 0.6474,
+        "homeWinProbability": 0.3451,
+        "drawProbability": 0.2904,
+        "awayWinProbability": 0.4661,
         "predictedScore": {
           "home": 0,
           "away": 1,
-          "probability": 0.1623
+          "probability": 0.1621
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -214,38 +143,38 @@
           "eloWinProb": 0.644
         }
       },
-      "confidenceScore": 64
+      "confidenceScore": 65
     },
     {
-      "id": "fix_36_4_PSVEindhoven",
+      "id": "fix_36_3_PSVEindhoven",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "17:45",
       "homeTeam": "PSV Eindhoven",
       "awayTeam": "Go Ahead Eagles",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 1.24,
+        "draw": 7.18,
+        "away": 10.2
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.45,
-        "totalExpectedGoals": 4.95,
-        "bttsProbability": 0.3283,
-        "bttsNoProbability": 0.6717,
-        "over25Probability": 0.7846,
-        "under25Probability": 0.2154,
-        "homeWinProbability": 0.8626,
-        "drawProbability": 0.0323,
-        "awayWinProbability": 0.0601,
+        "awayExpectedGoals": 0.44,
+        "totalExpectedGoals": 4.94,
+        "bttsProbability": 0.3211,
+        "bttsNoProbability": 0.6789,
+        "over25Probability": 0.7835,
+        "under25Probability": 0.2165,
+        "homeWinProbability": 0.864,
+        "drawProbability": 0.0317,
+        "awayWinProbability": 0.0591,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1209
+          "probability": 0.1224
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -254,25 +183,25 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1910,
-          "awayElo": 1682,
-          "eloWinProb": 0.844
+          "awayElo": 1679,
+          "eloWinProb": 0.846
         }
       },
       "pred": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.45,
-        "totalExpectedGoals": 4.95,
-        "bttsProbability": 0.3283,
-        "bttsNoProbability": 0.6717,
-        "over25Probability": 0.7846,
-        "under25Probability": 0.2154,
-        "homeWinProbability": 0.8626,
-        "drawProbability": 0.0323,
-        "awayWinProbability": 0.0601,
+        "awayExpectedGoals": 0.44,
+        "totalExpectedGoals": 4.94,
+        "bttsProbability": 0.3211,
+        "bttsNoProbability": 0.6789,
+        "over25Probability": 0.7835,
+        "under25Probability": 0.2165,
+        "homeWinProbability": 0.864,
+        "drawProbability": 0.0317,
+        "awayWinProbability": 0.0591,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1209
+          "probability": 0.1224
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -281,90 +210,90 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1910,
-          "awayElo": 1682,
-          "eloWinProb": 0.844
+          "awayElo": 1679,
+          "eloWinProb": 0.846
         }
       },
       "confidenceScore": 78
     },
     {
-      "id": "fix_36_5_SCCambuur",
+      "id": "fix_36_4_SCCambuur",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "20:00",
       "homeTeam": "SC Cambuur",
       "awayTeam": "Sparta Rotterdam",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 2.32,
+        "draw": 3.76,
+        "away": 2.9
       },
       "prediction": {
-        "homeExpectedGoals": 4.37,
-        "awayExpectedGoals": 2.68,
-        "totalExpectedGoals": 7.05,
-        "bttsProbability": 0.8437,
-        "bttsNoProbability": 0.1563,
-        "over25Probability": 0.8895,
-        "under25Probability": 0.1105,
-        "homeWinProbability": 0.6342,
-        "drawProbability": 0.1278,
-        "awayWinProbability": 0.2295,
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 2.54,
+        "totalExpectedGoals": 7.04,
+        "bttsProbability": 0.8273,
+        "bttsNoProbability": 0.1727,
+        "over25Probability": 0.8804,
+        "under25Probability": 0.1196,
+        "homeWinProbability": 0.6604,
+        "drawProbability": 0.1194,
+        "awayWinProbability": 0.2029,
         "predictedScore": {
           "home": 4,
           "away": 2,
-          "probability": 0.0473
+          "probability": 0.0483
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 69,
+        "bttsConfidence": 65,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 78,
+        "overUnderConfidence": 76,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1700,
-          "awayElo": 1612,
-          "eloWinProb": 0.707
+          "awayElo": 1591,
+          "eloWinProb": 0.731
         }
       },
       "pred": {
-        "homeExpectedGoals": 4.37,
-        "awayExpectedGoals": 2.68,
-        "totalExpectedGoals": 7.05,
-        "bttsProbability": 0.8437,
-        "bttsNoProbability": 0.1563,
-        "over25Probability": 0.8895,
-        "under25Probability": 0.1105,
-        "homeWinProbability": 0.6342,
-        "drawProbability": 0.1278,
-        "awayWinProbability": 0.2295,
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 2.54,
+        "totalExpectedGoals": 7.04,
+        "bttsProbability": 0.8273,
+        "bttsNoProbability": 0.1727,
+        "over25Probability": 0.8804,
+        "under25Probability": 0.1196,
+        "homeWinProbability": 0.6604,
+        "drawProbability": 0.1194,
+        "awayWinProbability": 0.2029,
         "predictedScore": {
           "home": 4,
           "away": 2,
-          "probability": 0.0473
+          "probability": 0.0483
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 69,
+        "bttsConfidence": 65,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 78,
+        "overUnderConfidence": 76,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1700,
-          "awayElo": 1612,
-          "eloWinProb": 0.707
+          "awayElo": 1591,
+          "eloWinProb": 0.731
         }
       },
-      "confidenceScore": 89
+      "confidenceScore": 88
     },
     {
-      "id": "fix_36_6_ADODenHaag",
+      "id": "fix_36_5_ADODenHaag",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sun 29/11",
-      "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "11:15",
       "homeTeam": "ADO Den Haag",
       "awayTeam": "FC Utrecht",
@@ -374,20 +303,20 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 2.79,
-        "awayExpectedGoals": 1.78,
+        "homeExpectedGoals": 2.8,
+        "awayExpectedGoals": 1.75,
         "totalExpectedGoals": 4.56,
-        "bttsProbability": 0.7755,
-        "bttsNoProbability": 0.2245,
-        "over25Probability": 0.8248,
-        "under25Probability": 0.1752,
-        "homeWinProbability": 0.5708,
-        "drawProbability": 0.1807,
-        "awayWinProbability": 0.3063,
+        "bttsProbability": 0.7728,
+        "bttsNoProbability": 0.2272,
+        "over25Probability": 0.8242,
+        "under25Probability": 0.1758,
+        "homeWinProbability": 0.5754,
+        "drawProbability": 0.1793,
+        "awayWinProbability": 0.3024,
         "predictedScore": {
           "home": 2,
           "away": 1,
-          "probability": 0.072
+          "probability": 0.0723
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 55,
@@ -401,20 +330,20 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 2.79,
-        "awayExpectedGoals": 1.78,
+        "homeExpectedGoals": 2.8,
+        "awayExpectedGoals": 1.75,
         "totalExpectedGoals": 4.56,
-        "bttsProbability": 0.7755,
-        "bttsNoProbability": 0.2245,
-        "over25Probability": 0.8248,
-        "under25Probability": 0.1752,
-        "homeWinProbability": 0.5708,
-        "drawProbability": 0.1807,
-        "awayWinProbability": 0.3063,
+        "bttsProbability": 0.7728,
+        "bttsNoProbability": 0.2272,
+        "over25Probability": 0.8242,
+        "under25Probability": 0.1758,
+        "homeWinProbability": 0.5754,
+        "drawProbability": 0.1793,
+        "awayWinProbability": 0.3024,
         "predictedScore": {
           "home": 2,
           "away": 1,
-          "probability": 0.072
+          "probability": 0.0723
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 55,
@@ -430,12 +359,12 @@
       "confidenceScore": 82
     },
     {
-      "id": "fix_36_7_Feyenoord",
+      "id": "fix_36_6_Feyenoord",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sun 29/11",
-      "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "13:30",
       "homeTeam": "Feyenoord",
       "awayTeam": "Ajax",
@@ -445,20 +374,20 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.45,
-        "awayExpectedGoals": 2.55,
-        "totalExpectedGoals": 4,
+        "homeExpectedGoals": 1.46,
+        "awayExpectedGoals": 2.53,
+        "totalExpectedGoals": 3.99,
         "bttsProbability": 0.7063,
         "bttsNoProbability": 0.2937,
-        "over25Probability": 0.7567,
-        "under25Probability": 0.2433,
-        "homeWinProbability": 0.3194,
-        "drawProbability": 0.1898,
-        "awayWinProbability": 0.5541,
+        "over25Probability": 0.7552,
+        "under25Probability": 0.2448,
+        "homeWinProbability": 0.319,
+        "drawProbability": 0.1909,
+        "awayWinProbability": 0.5539,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.0864
+          "probability": 0.0865
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 41,
@@ -466,26 +395,26 @@
         "overUnderConfidence": 51,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1834,
+          "homeElo": 1830,
           "awayElo": 1873,
-          "eloWinProb": 0.537
+          "eloWinProb": 0.532
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.45,
-        "awayExpectedGoals": 2.55,
-        "totalExpectedGoals": 4,
+        "homeExpectedGoals": 1.46,
+        "awayExpectedGoals": 2.53,
+        "totalExpectedGoals": 3.99,
         "bttsProbability": 0.7063,
         "bttsNoProbability": 0.2937,
-        "over25Probability": 0.7567,
-        "under25Probability": 0.2433,
-        "homeWinProbability": 0.3194,
-        "drawProbability": 0.1898,
-        "awayWinProbability": 0.5541,
+        "over25Probability": 0.7552,
+        "under25Probability": 0.2448,
+        "homeWinProbability": 0.319,
+        "drawProbability": 0.1909,
+        "awayWinProbability": 0.5539,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.0864
+          "probability": 0.0865
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 41,
@@ -493,20 +422,20 @@
         "overUnderConfidence": 51,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1834,
+          "homeElo": 1830,
           "awayElo": 1873,
-          "eloWinProb": 0.537
+          "eloWinProb": 0.532
         }
       },
       "confidenceScore": 76
     },
     {
-      "id": "fix_36_8_FortunaSittard",
+      "id": "fix_36_7_FortunaSittard",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sun 29/11",
-      "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "13:30",
       "homeTeam": "Fortuna Sittard",
       "awayTeam": "SC Heerenveen",
@@ -516,68 +445,68 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.15,
-        "awayExpectedGoals": 2.57,
-        "totalExpectedGoals": 3.72,
-        "bttsProbability": 0.6327,
-        "bttsNoProbability": 0.3673,
-        "over25Probability": 0.7132,
-        "under25Probability": 0.2868,
-        "homeWinProbability": 0.2662,
-        "drawProbability": 0.1786,
-        "awayWinProbability": 0.6144,
+        "homeExpectedGoals": 1.35,
+        "awayExpectedGoals": 2.7,
+        "totalExpectedGoals": 4.05,
+        "bttsProbability": 0.6899,
+        "bttsNoProbability": 0.3101,
+        "over25Probability": 0.7627,
+        "under25Probability": 0.2373,
+        "homeWinProbability": 0.2963,
+        "drawProbability": 0.1759,
+        "awayWinProbability": 0.585,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.092
+          "probability": 0.0857
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 43,
+        "overUnderConfidence": 53,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1724,
-          "awayElo": 1797,
-          "eloWinProb": 0.488
+          "homeElo": 1753,
+          "awayElo": 1793,
+          "eloWinProb": 0.536
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.15,
-        "awayExpectedGoals": 2.57,
-        "totalExpectedGoals": 3.72,
-        "bttsProbability": 0.6327,
-        "bttsNoProbability": 0.3673,
-        "over25Probability": 0.7132,
-        "under25Probability": 0.2868,
-        "homeWinProbability": 0.2662,
-        "drawProbability": 0.1786,
-        "awayWinProbability": 0.6144,
+        "homeExpectedGoals": 1.35,
+        "awayExpectedGoals": 2.7,
+        "totalExpectedGoals": 4.05,
+        "bttsProbability": 0.6899,
+        "bttsNoProbability": 0.3101,
+        "over25Probability": 0.7627,
+        "under25Probability": 0.2373,
+        "homeWinProbability": 0.2963,
+        "drawProbability": 0.1759,
+        "awayWinProbability": 0.585,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.092
+          "probability": 0.0857
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 43,
+        "overUnderConfidence": 53,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1724,
-          "awayElo": 1797,
-          "eloWinProb": 0.488
+          "homeElo": 1753,
+          "awayElo": 1793,
+          "eloWinProb": 0.536
         }
       },
-      "confidenceScore": 71
+      "confidenceScore": 76
     },
     {
-      "id": "fix_36_9_PECZwolle",
+      "id": "fix_36_8_PECZwolle",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sun 29/11",
-      "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "15:45",
       "homeTeam": "PEC Zwolle",
       "awayTeam": "AZ Alkmaar",
@@ -587,68 +516,68 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 0.65,
-        "awayExpectedGoals": 2.47,
-        "totalExpectedGoals": 3.11,
-        "bttsProbability": 0.4385,
-        "bttsNoProbability": 0.5615,
-        "over25Probability": 0.598,
-        "under25Probability": 0.402,
-        "homeWinProbability": 0.1811,
-        "drawProbability": 0.1577,
-        "awayWinProbability": 0.7138,
+        "homeExpectedGoals": 0.69,
+        "awayExpectedGoals": 3.96,
+        "totalExpectedGoals": 4.66,
+        "bttsProbability": 0.4665,
+        "bttsNoProbability": 0.5335,
+        "over25Probability": 0.7941,
+        "under25Probability": 0.2059,
+        "homeWinProbability": 0.133,
+        "drawProbability": 0.063,
+        "awayWinProbability": 0.7942,
         "predictedScore": {
           "home": 0,
-          "away": 2,
-          "probability": 0.1351
+          "away": 3,
+          "probability": 0.0988
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
+        "overUnderConfidence": 59,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1638,
-          "awayElo": 1787,
-          "eloWinProb": 0.381
+          "awayElo": 1824,
+          "eloWinProb": 0.333
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.65,
-        "awayExpectedGoals": 2.47,
-        "totalExpectedGoals": 3.11,
-        "bttsProbability": 0.4385,
-        "bttsNoProbability": 0.5615,
-        "over25Probability": 0.598,
-        "under25Probability": 0.402,
-        "homeWinProbability": 0.1811,
-        "drawProbability": 0.1577,
-        "awayWinProbability": 0.7138,
+        "homeExpectedGoals": 0.69,
+        "awayExpectedGoals": 3.96,
+        "totalExpectedGoals": 4.66,
+        "bttsProbability": 0.4665,
+        "bttsNoProbability": 0.5335,
+        "over25Probability": 0.7941,
+        "under25Probability": 0.2059,
+        "homeWinProbability": 0.133,
+        "drawProbability": 0.063,
+        "awayWinProbability": 0.7942,
         "predictedScore": {
           "home": 0,
-          "away": 2,
-          "probability": 0.1351
+          "away": 3,
+          "probability": 0.0988
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
+        "overUnderConfidence": 59,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1638,
-          "awayElo": 1787,
-          "eloWinProb": 0.381
+          "awayElo": 1824,
+          "eloWinProb": 0.333
         }
       },
-      "confidenceScore": 60
+      "confidenceScore": 79
     },
     {
-      "id": "fix_36_10_N.E.C.",
+      "id": "fix_36_9_N.E.C.",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sun 29/11",
-      "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "19:00",
       "homeTeam": "N.E.C.",
       "awayTeam": "Twente",
@@ -661,17 +590,17 @@
         "homeExpectedGoals": 0.54,
         "awayExpectedGoals": 4,
         "totalExpectedGoals": 4.54,
-        "bttsProbability": 0.3898,
-        "bttsNoProbability": 0.6102,
-        "over25Probability": 0.7798,
-        "under25Probability": 0.2202,
-        "homeWinProbability": 0.1139,
-        "drawProbability": 0.0524,
-        "awayWinProbability": 0.8188,
+        "bttsProbability": 0.3923,
+        "bttsNoProbability": 0.6077,
+        "over25Probability": 0.7803,
+        "under25Probability": 0.2197,
+        "homeWinProbability": 0.1141,
+        "drawProbability": 0.0527,
+        "awayWinProbability": 0.8184,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.1138
+          "probability": 0.1133
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -688,17 +617,17 @@
         "homeExpectedGoals": 0.54,
         "awayExpectedGoals": 4,
         "totalExpectedGoals": 4.54,
-        "bttsProbability": 0.3898,
-        "bttsNoProbability": 0.6102,
-        "over25Probability": 0.7798,
-        "under25Probability": 0.2202,
-        "homeWinProbability": 0.1139,
-        "drawProbability": 0.0524,
-        "awayWinProbability": 0.8188,
+        "bttsProbability": 0.3923,
+        "bttsNoProbability": 0.6077,
+        "over25Probability": 0.7803,
+        "under25Probability": 0.2197,
+        "homeWinProbability": 0.1141,
+        "drawProbability": 0.0527,
+        "awayWinProbability": 0.8184,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.1138
+          "probability": 0.1133
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -714,12 +643,12 @@
       "confidenceScore": 78
     },
     {
-      "id": "fix_36_11_Telstar",
+      "id": "fix_36_10_Telstar",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Fri 04/12",
       "dateIso": "2026-11-27T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "19:00",
       "homeTeam": "Telstar",
       "awayTeam": "FC Groningen",
@@ -729,20 +658,20 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 2.5,
+        "homeExpectedGoals": 2.52,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 6.5,
-        "bttsProbability": 0.851,
-        "bttsNoProbability": 0.149,
-        "over25Probability": 0.9018,
-        "under25Probability": 0.0982,
-        "homeWinProbability": 0.2969,
-        "drawProbability": 0.1377,
-        "awayWinProbability": 0.5777,
+        "totalExpectedGoals": 6.52,
+        "bttsProbability": 0.8525,
+        "bttsNoProbability": 0.1475,
+        "over25Probability": 0.9022,
+        "under25Probability": 0.0978,
+        "homeWinProbability": 0.2987,
+        "drawProbability": 0.1381,
+        "awayWinProbability": 0.5755,
         "predictedScore": {
           "home": 2,
           "away": 3,
-          "probability": 0.0501
+          "probability": 0.0499
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 70,
@@ -756,20 +685,20 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 2.5,
+        "homeExpectedGoals": 2.52,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 6.5,
-        "bttsProbability": 0.851,
-        "bttsNoProbability": 0.149,
-        "over25Probability": 0.9018,
-        "under25Probability": 0.0982,
-        "homeWinProbability": 0.2969,
-        "drawProbability": 0.1377,
-        "awayWinProbability": 0.5777,
+        "totalExpectedGoals": 6.52,
+        "bttsProbability": 0.8525,
+        "bttsNoProbability": 0.1475,
+        "over25Probability": 0.9022,
+        "under25Probability": 0.0978,
+        "homeWinProbability": 0.2987,
+        "drawProbability": 0.1381,
+        "awayWinProbability": 0.5755,
         "predictedScore": {
           "home": 2,
           "away": 3,
-          "probability": 0.0501
+          "probability": 0.0499
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 70,
@@ -785,12 +714,12 @@
       "confidenceScore": 90
     },
     {
-      "id": "fix_36_12_WillemII",
+      "id": "fix_36_11_WillemII",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "15:30",
       "homeTeam": "Willem II",
       "awayTeam": "Feyenoord",
@@ -803,17 +732,17 @@
         "homeExpectedGoals": 0.48,
         "awayExpectedGoals": 4,
         "totalExpectedGoals": 4.48,
-        "bttsProbability": 0.3534,
-        "bttsNoProbability": 0.6466,
-        "over25Probability": 0.7725,
-        "under25Probability": 0.2275,
-        "homeWinProbability": 0.0557,
-        "drawProbability": 0.0484,
-        "awayWinProbability": 0.8796,
+        "bttsProbability": 0.3575,
+        "bttsNoProbability": 0.6425,
+        "over25Probability": 0.7733,
+        "under25Probability": 0.2267,
+        "homeWinProbability": 0.0569,
+        "drawProbability": 0.0488,
+        "awayWinProbability": 0.8782,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.1214
+          "probability": 0.1206
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -822,25 +751,25 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1444,
-          "awayElo": 1834,
-          "eloWinProb": 0.133
+          "awayElo": 1830,
+          "eloWinProb": 0.136
         }
       },
       "pred": {
         "homeExpectedGoals": 0.48,
         "awayExpectedGoals": 4,
         "totalExpectedGoals": 4.48,
-        "bttsProbability": 0.3534,
-        "bttsNoProbability": 0.6466,
-        "over25Probability": 0.7725,
-        "under25Probability": 0.2275,
-        "homeWinProbability": 0.0557,
-        "drawProbability": 0.0484,
-        "awayWinProbability": 0.8796,
+        "bttsProbability": 0.3575,
+        "bttsNoProbability": 0.6425,
+        "over25Probability": 0.7733,
+        "under25Probability": 0.2267,
+        "homeWinProbability": 0.0569,
+        "drawProbability": 0.0488,
+        "awayWinProbability": 0.8782,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.1214
+          "probability": 0.1206
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -849,19 +778,19 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1444,
-          "awayElo": 1834,
-          "eloWinProb": 0.133
+          "awayElo": 1830,
+          "eloWinProb": 0.136
         }
       },
       "confidenceScore": 77
     },
     {
-      "id": "fix_36_13_SpartaRotterdam",
+      "id": "fix_36_12_SpartaRotterdam",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "17:45",
       "homeTeam": "Sparta Rotterdam",
       "awayTeam": "N.E.C.",
@@ -871,68 +800,68 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.45,
-        "awayExpectedGoals": 2.21,
-        "totalExpectedGoals": 3.66,
-        "bttsProbability": 0.685,
-        "bttsNoProbability": 0.315,
-        "over25Probability": 0.7057,
-        "under25Probability": 0.2943,
-        "homeWinProbability": 0.3517,
-        "drawProbability": 0.2131,
-        "awayWinProbability": 0.5084,
+        "homeExpectedGoals": 1.4,
+        "awayExpectedGoals": 2.85,
+        "totalExpectedGoals": 4.26,
+        "bttsProbability": 0.707,
+        "bttsNoProbability": 0.293,
+        "over25Probability": 0.788,
+        "under25Probability": 0.212,
+        "homeWinProbability": 0.2871,
+        "drawProbability": 0.1671,
+        "awayWinProbability": 0.5983,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.0911
+          "probability": 0.0809
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
+        "bttsConfidence": 41,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 41,
+        "overUnderConfidence": 58,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1612,
+          "homeElo": 1591,
           "awayElo": 1641,
-          "eloWinProb": 0.552
+          "eloWinProb": 0.522
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.45,
-        "awayExpectedGoals": 2.21,
-        "totalExpectedGoals": 3.66,
-        "bttsProbability": 0.685,
-        "bttsNoProbability": 0.315,
-        "over25Probability": 0.7057,
-        "under25Probability": 0.2943,
-        "homeWinProbability": 0.3517,
-        "drawProbability": 0.2131,
-        "awayWinProbability": 0.5084,
+        "homeExpectedGoals": 1.4,
+        "awayExpectedGoals": 2.85,
+        "totalExpectedGoals": 4.26,
+        "bttsProbability": 0.707,
+        "bttsNoProbability": 0.293,
+        "over25Probability": 0.788,
+        "under25Probability": 0.212,
+        "homeWinProbability": 0.2871,
+        "drawProbability": 0.1671,
+        "awayWinProbability": 0.5983,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.0911
+          "probability": 0.0809
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
+        "bttsConfidence": 41,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 41,
+        "overUnderConfidence": 58,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1612,
+          "homeElo": 1591,
           "awayElo": 1641,
-          "eloWinProb": 0.552
+          "eloWinProb": 0.522
         }
       },
-      "confidenceScore": 71
+      "confidenceScore": 79
     },
     {
-      "id": "fix_36_14_AZAlkmaar",
+      "id": "fix_36_13_AZAlkmaar",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "19:00",
       "homeTeam": "AZ Alkmaar",
       "awayTeam": "PSV Eindhoven",
@@ -942,68 +871,68 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.82,
-        "awayExpectedGoals": 2.8,
-        "totalExpectedGoals": 4.63,
-        "bttsProbability": 0.7833,
-        "bttsNoProbability": 0.2167,
-        "over25Probability": 0.8315,
-        "under25Probability": 0.1685,
-        "homeWinProbability": 0.3003,
-        "drawProbability": 0.1803,
-        "awayWinProbability": 0.5768,
+        "homeExpectedGoals": 2,
+        "awayExpectedGoals": 2.62,
+        "totalExpectedGoals": 4.62,
+        "bttsProbability": 0.7993,
+        "bttsNoProbability": 0.2007,
+        "over25Probability": 0.833,
+        "under25Probability": 0.167,
+        "homeWinProbability": 0.3556,
+        "drawProbability": 0.1908,
+        "awayWinProbability": 0.5161,
         "predictedScore": {
-          "home": 1,
+          "home": 2,
           "away": 2,
-          "probability": 0.0701
+          "probability": 0.0677
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 57,
+        "bttsConfidence": 60,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 66,
+        "overUnderConfidence": 67,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1787,
+          "homeElo": 1824,
           "awayElo": 1910,
-          "eloWinProb": 0.417
+          "eloWinProb": 0.47
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.82,
-        "awayExpectedGoals": 2.8,
-        "totalExpectedGoals": 4.63,
-        "bttsProbability": 0.7833,
-        "bttsNoProbability": 0.2167,
-        "over25Probability": 0.8315,
-        "under25Probability": 0.1685,
-        "homeWinProbability": 0.3003,
-        "drawProbability": 0.1803,
-        "awayWinProbability": 0.5768,
+        "homeExpectedGoals": 2,
+        "awayExpectedGoals": 2.62,
+        "totalExpectedGoals": 4.62,
+        "bttsProbability": 0.7993,
+        "bttsNoProbability": 0.2007,
+        "over25Probability": 0.833,
+        "under25Probability": 0.167,
+        "homeWinProbability": 0.3556,
+        "drawProbability": 0.1908,
+        "awayWinProbability": 0.5161,
         "predictedScore": {
-          "home": 1,
+          "home": 2,
           "away": 2,
-          "probability": 0.0701
+          "probability": 0.0677
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 57,
+        "bttsConfidence": 60,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 66,
+        "overUnderConfidence": 67,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1787,
+          "homeElo": 1824,
           "awayElo": 1910,
-          "eloWinProb": 0.417
+          "eloWinProb": 0.47
         }
       },
       "confidenceScore": 83
     },
     {
-      "id": "fix_36_15_FortunaSittard",
+      "id": "fix_36_14_FortunaSittard",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "20:00",
       "homeTeam": "Fortuna Sittard",
       "awayTeam": "PEC Zwolle",
@@ -1013,20 +942,20 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.54,
-        "awayExpectedGoals": 1.1,
+        "homeExpectedGoals": 1.6,
+        "awayExpectedGoals": 1.04,
         "totalExpectedGoals": 2.64,
-        "bttsProbability": 0.5319,
-        "bttsNoProbability": 0.4681,
-        "over25Probability": 0.4922,
-        "under25Probability": 0.5078,
-        "homeWinProbability": 0.5502,
-        "drawProbability": 0.2685,
-        "awayWinProbability": 0.2751,
+        "bttsProbability": 0.5235,
+        "bttsNoProbability": 0.4765,
+        "over25Probability": 0.4921,
+        "under25Probability": 0.5079,
+        "homeWinProbability": 0.5812,
+        "drawProbability": 0.2637,
+        "awayWinProbability": 0.2472,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.128
+          "probability": 0.1258
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1034,26 +963,26 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1724,
+          "homeElo": 1753,
           "awayElo": 1638,
-          "eloWinProb": 0.705
+          "eloWinProb": 0.738
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.54,
-        "awayExpectedGoals": 1.1,
+        "homeExpectedGoals": 1.6,
+        "awayExpectedGoals": 1.04,
         "totalExpectedGoals": 2.64,
-        "bttsProbability": 0.5319,
-        "bttsNoProbability": 0.4681,
-        "over25Probability": 0.4922,
-        "under25Probability": 0.5078,
-        "homeWinProbability": 0.5502,
-        "drawProbability": 0.2685,
-        "awayWinProbability": 0.2751,
+        "bttsProbability": 0.5235,
+        "bttsNoProbability": 0.4765,
+        "over25Probability": 0.4921,
+        "under25Probability": 0.5079,
+        "homeWinProbability": 0.5812,
+        "drawProbability": 0.2637,
+        "awayWinProbability": 0.2472,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.128
+          "probability": 0.1258
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1061,21 +990,146 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1724,
+          "homeElo": 1753,
           "awayElo": 1638,
-          "eloWinProb": 0.705
+          "eloWinProb": 0.738
         }
       },
-      "confidenceScore": 53
+      "confidenceScore": 52
+    },
+    {
+      "id": "fix_36_15_SCHeerenveen",
+      "leagueId": "36",
+      "leagueName": "Eredivisie",
+      "dateRaw": "Sun 06/12",
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysFromNow": 6,
+      "time": "11:15",
+      "homeTeam": "SC Heerenveen",
+      "awayTeam": "SC Cambuur",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 2.57,
+        "awayExpectedGoals": 1.32,
+        "totalExpectedGoals": 3.89,
+        "bttsProbability": 0.6776,
+        "bttsNoProbability": 0.3224,
+        "over25Probability": 0.7404,
+        "under25Probability": 0.2596,
+        "homeWinProbability": 0.6619,
+        "drawProbability": 0.1846,
+        "awayWinProbability": 0.2148,
+        "predictedScore": {
+          "home": 2,
+          "away": 1,
+          "probability": 0.0891
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 48,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1793,
+          "awayElo": 1700,
+          "eloWinProb": 0.713
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 2.57,
+        "awayExpectedGoals": 1.32,
+        "totalExpectedGoals": 3.89,
+        "bttsProbability": 0.6776,
+        "bttsNoProbability": 0.3224,
+        "over25Probability": 0.7404,
+        "under25Probability": 0.2596,
+        "homeWinProbability": 0.6619,
+        "drawProbability": 0.1846,
+        "awayWinProbability": 0.2148,
+        "predictedScore": {
+          "home": 2,
+          "away": 1,
+          "probability": 0.0891
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 48,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1793,
+          "awayElo": 1700,
+          "eloWinProb": 0.713
+        }
+      },
+      "confidenceScore": 74
     }
   ],
   "results": [
     {
-      "id": "res_36_1_Ajax",
+      "id": "res_36_1_GoAheadEagles",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sun 22-Nov-2026",
-      "dateIso": "2026-11-22T12:00:00.000Z",
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "15:45",
+      "homeTeam": "Go Ahead Eagles",
+      "awayTeam": "Fortuna Sittard",
+      "score": "0-1",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "totalGoals": 1,
+      "actualBtts": false,
+      "actualOver25": false,
+      "prediction": {
+        "homeExpectedGoals": 1.69,
+        "awayExpectedGoals": 1.49,
+        "totalExpectedGoals": 3.18,
+        "bttsProbability": 0.6368,
+        "bttsNoProbability": 0.3632,
+        "over25Probability": 0.6144,
+        "under25Probability": 0.3856,
+        "homeWinProbability": 0.4434,
+        "drawProbability": 0.2466,
+        "awayWinProbability": 0.396,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1112
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1679,
+          "awayElo": 1753,
+          "eloWinProb": 0.487
+        },
+        "matchFingerprint": "36_go ahead eagles_fortuna sittard_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-23T17:47:03.223Z",
+        "auditHash": "SHA256-IMMUTABLE-11DDFC76-2026-11-23",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": false,
+        "overUnderHit": false,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_36_2_Ajax",
+      "leagueId": "36",
+      "leagueName": "Eredivisie",
+      "dateRaw": "Sun 22-Nov-2026",
+      "dateIso": "2026-11-29T12:00:00.000Z",
       "daysAgo": 0,
       "time": "13:30",
       "homeTeam": "Ajax",
@@ -1090,20 +1144,20 @@
         "homeExpectedGoals": 4.5,
         "awayExpectedGoals": 0.28,
         "totalExpectedGoals": 4.78,
-        "bttsProbability": 0.2237,
-        "bttsNoProbability": 0.7763,
-        "over25Probability": 0.7693,
-        "under25Probability": 0.2307,
-        "homeWinProbability": 0.8907,
-        "drawProbability": 0.0243,
-        "awayWinProbability": 0.0373,
+        "bttsProbability": 0.2209,
+        "bttsNoProbability": 0.7791,
+        "over25Probability": 0.769,
+        "under25Probability": 0.231,
+        "homeWinProbability": 0.8908,
+        "drawProbability": 0.0241,
+        "awayWinProbability": 0.0372,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1429
+          "probability": 0.1435
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 55,
+        "bttsConfidence": 56,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 54,
         "iicdScore": 1,
@@ -1113,8 +1167,8 @@
           "eloWinProb": 0.901
         },
         "matchFingerprint": "36_ajax_ado den haag_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:46.712Z",
-        "auditHash": "SHA256-IMMUTABLE-37FA4290-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:03.223Z",
+        "auditHash": "SHA256-IMMUTABLE-69EBCA4D-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1125,65 +1179,65 @@
       }
     },
     {
-      "id": "res_36_2_SpartaRotterdam",
+      "id": "res_36_3_SpartaRotterdam",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sun 22-Nov-2026",
-      "dateIso": "2026-11-22T12:00:00.000Z",
+      "dateIso": "2026-11-29T12:00:00.000Z",
       "daysAgo": 0,
       "time": "13:30",
       "homeTeam": "Sparta Rotterdam",
       "awayTeam": "AZ Alkmaar",
-      "score": "1-1",
+      "score": "1-5",
       "homeGoals": 1,
-      "awayGoals": 1,
-      "totalGoals": 2,
+      "awayGoals": 5,
+      "totalGoals": 6,
       "actualBtts": true,
-      "actualOver25": false,
+      "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 0.99,
-        "awayExpectedGoals": 2.64,
-        "totalExpectedGoals": 3.64,
-        "bttsProbability": 0.5856,
-        "bttsNoProbability": 0.4144,
-        "over25Probability": 0.6976,
-        "under25Probability": 0.3024,
-        "homeWinProbability": 0.1958,
-        "drawProbability": 0.1651,
-        "awayWinProbability": 0.6931,
+        "homeExpectedGoals": 0.91,
+        "awayExpectedGoals": 4,
+        "totalExpectedGoals": 4.91,
+        "bttsProbability": 0.5566,
+        "bttsNoProbability": 0.4434,
+        "over25Probability": 0.8162,
+        "under25Probability": 0.1838,
+        "homeWinProbability": 0.1216,
+        "drawProbability": 0.0742,
+        "awayWinProbability": 0.7969,
         "predictedScore": {
           "home": 0,
-          "away": 2,
-          "probability": 0.092
+          "away": 3,
+          "probability": 0.0788
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
+        "overUnderConfidence": 63,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1612,
-          "awayElo": 1787,
-          "eloWinProb": 0.347
+          "homeElo": 1591,
+          "awayElo": 1824,
+          "eloWinProb": 0.275
         },
         "matchFingerprint": "36_sparta rotterdam_az alkmaar_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:46.712Z",
-        "auditHash": "SHA256-IMMUTABLE-22B38EBE-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:03.223Z",
+        "auditHash": "SHA256-IMMUTABLE-1CC9F32C-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
         "bttsHit": true,
-        "overUnderHit": false,
-        "bothHit": false,
+        "overUnderHit": true,
+        "bothHit": true,
         "exactScoreHit": false
       }
     },
     {
-      "id": "res_36_3_Twente",
+      "id": "res_36_4_Twente",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sun 22-Nov-2026",
-      "dateIso": "2026-11-22T12:00:00.000Z",
+      "dateIso": "2026-11-29T12:00:00.000Z",
       "daysAgo": 0,
       "time": "11:15",
       "homeTeam": "Twente",
@@ -1196,22 +1250,22 @@
       "actualOver25": true,
       "prediction": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.28,
-        "totalExpectedGoals": 4.78,
-        "bttsProbability": 0.2197,
-        "bttsNoProbability": 0.7803,
-        "over25Probability": 0.7688,
-        "under25Probability": 0.2312,
-        "homeWinProbability": 0.9046,
-        "drawProbability": 0.024,
+        "awayExpectedGoals": 0.27,
+        "totalExpectedGoals": 4.77,
+        "bttsProbability": 0.2173,
+        "bttsNoProbability": 0.7827,
+        "over25Probability": 0.7685,
+        "under25Probability": 0.2315,
+        "homeWinProbability": 0.9048,
+        "drawProbability": 0.0238,
         "awayWinProbability": 0.0235,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1437
+          "probability": 0.1442
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 56,
+        "bttsConfidence": 57,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 54,
         "iicdScore": 1,
@@ -1221,8 +1275,8 @@
           "eloWinProb": 0.94
         },
         "matchFingerprint": "36_twente_willem ii_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:46.712Z",
-        "auditHash": "SHA256-IMMUTABLE-1C09E6DA-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:03.223Z",
+        "auditHash": "SHA256-IMMUTABLE-AFF2400-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1233,7 +1287,7 @@
       }
     },
     {
-      "id": "res_36_4_FCGroningen",
+      "id": "res_36_5_FCGroningen",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1249,34 +1303,34 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.67,
+        "homeExpectedGoals": 1.7,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 5.67,
-        "bttsProbability": 0.757,
-        "bttsNoProbability": 0.243,
-        "over25Probability": 0.8703,
-        "under25Probability": 0.1297,
-        "homeWinProbability": 0.2127,
-        "drawProbability": 0.1122,
-        "awayWinProbability": 0.681,
+        "totalExpectedGoals": 5.7,
+        "bttsProbability": 0.7613,
+        "bttsNoProbability": 0.2387,
+        "over25Probability": 0.8716,
+        "under25Probability": 0.1284,
+        "homeWinProbability": 0.2164,
+        "drawProbability": 0.1132,
+        "awayWinProbability": 0.6766,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0613
+          "probability": 0.0607
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 51,
+        "bttsConfidence": 52,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 74,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1666,
-          "awayElo": 1797,
-          "eloWinProb": 0.406
+          "awayElo": 1793,
+          "eloWinProb": 0.412
         },
         "matchFingerprint": "36_fc groningen_sc heerenveen_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:46.713Z",
-        "auditHash": "SHA256-IMMUTABLE-76603901-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:03.223Z",
+        "auditHash": "SHA256-IMMUTABLE-73FCB48F-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1287,7 +1341,7 @@
       }
     },
     {
-      "id": "res_36_5_Telstar",
+      "id": "res_36_6_Telstar",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1303,20 +1357,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.57,
-        "awayExpectedGoals": 2.16,
-        "totalExpectedGoals": 3.73,
-        "bttsProbability": 0.7035,
-        "bttsNoProbability": 0.2965,
-        "over25Probability": 0.7171,
-        "under25Probability": 0.2829,
-        "homeWinProbability": 0.355,
-        "drawProbability": 0.2165,
-        "awayWinProbability": 0.503,
+        "homeExpectedGoals": 1.58,
+        "awayExpectedGoals": 2.13,
+        "totalExpectedGoals": 3.71,
+        "bttsProbability": 0.7037,
+        "bttsNoProbability": 0.2963,
+        "over25Probability": 0.7151,
+        "under25Probability": 0.2849,
+        "homeWinProbability": 0.3594,
+        "drawProbability": 0.2181,
+        "awayWinProbability": 0.4977,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.0879
+          "probability": 0.0877
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 41,
@@ -1329,8 +1383,8 @@
           "eloWinProb": 0.503
         },
         "matchFingerprint": "36_telstar_pec zwolle_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:46.713Z",
-        "auditHash": "SHA256-IMMUTABLE-C707910-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:03.223Z",
+        "auditHash": "SHA256-IMMUTABLE-1D4373EA-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1341,7 +1395,7 @@
       }
     },
     {
-      "id": "res_36_6_FCUtrecht",
+      "id": "res_36_7_FCUtrecht",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1357,25 +1411,25 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.62,
+        "homeExpectedGoals": 1.63,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 5.62,
-        "bttsProbability": 0.747,
-        "bttsNoProbability": 0.253,
-        "over25Probability": 0.8672,
-        "under25Probability": 0.1328,
-        "homeWinProbability": 0.2146,
-        "drawProbability": 0.1098,
-        "awayWinProbability": 0.6806,
+        "totalExpectedGoals": 5.63,
+        "bttsProbability": 0.7495,
+        "bttsNoProbability": 0.2505,
+        "over25Probability": 0.868,
+        "under25Probability": 0.132,
+        "homeWinProbability": 0.2156,
+        "drawProbability": 0.1104,
+        "awayWinProbability": 0.6793,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0627
+          "probability": 0.0624
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 49,
+        "bttsConfidence": 50,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 73,
+        "overUnderConfidence": 74,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1581,
@@ -1383,8 +1437,8 @@
           "eloWinProb": 0.423
         },
         "matchFingerprint": "36_fc utrecht_sc cambuur_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:46.713Z",
-        "auditHash": "SHA256-IMMUTABLE-1343D1D9-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:03.223Z",
+        "auditHash": "SHA256-IMMUTABLE-1AFF06ED-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1395,7 +1449,7 @@
       }
     },
     {
-      "id": "res_36_7_Feyenoord",
+      "id": "res_36_8_Feyenoord",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1411,20 +1465,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 3.4,
-        "awayExpectedGoals": 0.87,
+        "homeExpectedGoals": 3.41,
+        "awayExpectedGoals": 0.86,
         "totalExpectedGoals": 4.27,
-        "bttsProbability": 0.549,
-        "bttsNoProbability": 0.451,
-        "over25Probability": 0.7755,
-        "under25Probability": 0.2245,
-        "homeWinProbability": 0.8258,
-        "drawProbability": 0.1026,
-        "awayWinProbability": 0.0924,
+        "bttsProbability": 0.5469,
+        "bttsNoProbability": 0.4531,
+        "over25Probability": 0.7756,
+        "under25Probability": 0.2244,
+        "homeWinProbability": 0.8256,
+        "drawProbability": 0.1018,
+        "awayWinProbability": 0.093,
         "predictedScore": {
           "home": 3,
           "away": 0,
-          "probability": 0.092
+          "probability": 0.0923
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1432,13 +1486,13 @@
         "overUnderConfidence": 55,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1834,
+          "homeElo": 1830,
           "awayElo": 1613,
-          "eloWinProb": 0.838
+          "eloWinProb": 0.835
         },
         "matchFingerprint": "36_feyenoord_excelsior_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:46.713Z",
-        "auditHash": "SHA256-IMMUTABLE-2D9C7A52-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:03.223Z",
+        "auditHash": "SHA256-IMMUTABLE-1D2F8427-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1449,7 +1503,7 @@
       }
     },
     {
-      "id": "res_36_8_N.E.C.",
+      "id": "res_36_9_N.E.C.",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1465,20 +1519,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 0.94,
+        "homeExpectedGoals": 0.95,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 4.94,
-        "bttsProbability": 0.5689,
-        "bttsNoProbability": 0.4311,
-        "over25Probability": 0.8191,
-        "under25Probability": 0.1809,
-        "homeWinProbability": 0.1094,
-        "drawProbability": 0.0761,
-        "awayWinProbability": 0.8079,
+        "totalExpectedGoals": 4.95,
+        "bttsProbability": 0.5718,
+        "bttsNoProbability": 0.4282,
+        "over25Probability": 0.8198,
+        "under25Probability": 0.1802,
+        "homeWinProbability": 0.1098,
+        "drawProbability": 0.0765,
+        "awayWinProbability": 0.8072,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.0763
+          "probability": 0.0757
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1491,8 +1545,8 @@
           "eloWinProb": 0.236
         },
         "matchFingerprint": "36_n.e.c._psv eindhoven_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:46.713Z",
-        "auditHash": "SHA256-IMMUTABLE-1E5E2089-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:03.223Z",
+        "auditHash": "SHA256-IMMUTABLE-316E4411-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1503,11 +1557,11 @@
       }
     },
     {
-      "id": "res_36_9_FCUtrecht",
+      "id": "res_36_10_FCUtrecht",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-22T12:00:00.000Z",
+      "dateIso": "2026-11-29T12:00:00.000Z",
       "daysAgo": 0,
       "time": "19:00",
       "homeTeam": "FC Utrecht",
@@ -1519,25 +1573,25 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.77,
-        "awayExpectedGoals": 3.24,
-        "totalExpectedGoals": 5.01,
-        "bttsProbability": 0.7841,
-        "bttsNoProbability": 0.2159,
-        "over25Probability": 0.8579,
-        "under25Probability": 0.1421,
-        "homeWinProbability": 0.2949,
-        "drawProbability": 0.155,
-        "awayWinProbability": 0.5922,
+        "homeExpectedGoals": 1.79,
+        "awayExpectedGoals": 3.2,
+        "totalExpectedGoals": 4.99,
+        "bttsProbability": 0.7862,
+        "bttsNoProbability": 0.2138,
+        "over25Probability": 0.857,
+        "under25Probability": 0.143,
+        "homeWinProbability": 0.299,
+        "drawProbability": 0.1576,
+        "awayWinProbability": 0.5872,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0669
+          "probability": 0.0666
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 57,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 72,
+        "overUnderConfidence": 71,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1581,
@@ -1545,8 +1599,8 @@
           "eloWinProb": 0.507
         },
         "matchFingerprint": "36_fc utrecht_n.e.c._Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:46.713Z",
-        "auditHash": "SHA256-IMMUTABLE-5AE56B8F-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:03.223Z",
+        "auditHash": "SHA256-IMMUTABLE-1942FA6D-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1557,11 +1611,11 @@
       }
     },
     {
-      "id": "res_36_10_AZAlkmaar",
+      "id": "res_36_11_AZAlkmaar",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-22T12:00:00.000Z",
+      "dateIso": "2026-11-29T12:00:00.000Z",
       "daysAgo": 0,
       "time": "15:45",
       "homeTeam": "AZ Alkmaar",
@@ -1573,34 +1627,34 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 4.41,
-        "awayExpectedGoals": 1.53,
-        "totalExpectedGoals": 5.94,
-        "bttsProbability": 0.7122,
-        "bttsNoProbability": 0.2878,
-        "over25Probability": 0.8556,
-        "under25Probability": 0.1444,
-        "homeWinProbability": 0.7549,
-        "drawProbability": 0.0874,
-        "awayWinProbability": 0.1366,
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 1.43,
+        "totalExpectedGoals": 5.93,
+        "bttsProbability": 0.6864,
+        "bttsNoProbability": 0.3136,
+        "over25Probability": 0.8479,
+        "under25Probability": 0.1521,
+        "homeWinProbability": 0.7768,
+        "drawProbability": 0.0792,
+        "awayWinProbability": 0.1154,
         "predictedScore": {
           "home": 4,
           "away": 1,
-          "probability": 0.0635
+          "probability": 0.065
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 42,
+        "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 71,
+        "overUnderConfidence": 70,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1787,
+          "homeElo": 1824,
           "awayElo": 1666,
-          "eloWinProb": 0.745
+          "eloWinProb": 0.783
         },
         "matchFingerprint": "36_az alkmaar_fc groningen_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:46.713Z",
-        "auditHash": "SHA256-IMMUTABLE-12CCDF32-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:03.223Z",
+        "auditHash": "SHA256-IMMUTABLE-4C262FBE-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1611,11 +1665,11 @@
       }
     },
     {
-      "id": "res_36_11_SCCambuur",
+      "id": "res_36_12_SCCambuur",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-22T12:00:00.000Z",
+      "dateIso": "2026-11-29T12:00:00.000Z",
       "daysAgo": 0,
       "time": "15:45",
       "homeTeam": "SC Cambuur",
@@ -1627,20 +1681,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.74,
+        "homeExpectedGoals": 1.75,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 5.74,
-        "bttsProbability": 0.7677,
-        "bttsNoProbability": 0.2323,
-        "over25Probability": 0.8737,
-        "under25Probability": 0.1263,
-        "homeWinProbability": 0.181,
-        "drawProbability": 0.1147,
-        "awayWinProbability": 0.7109,
+        "totalExpectedGoals": 5.75,
+        "bttsProbability": 0.7701,
+        "bttsNoProbability": 0.2299,
+        "over25Probability": 0.8744,
+        "under25Probability": 0.1256,
+        "homeWinProbability": 0.1821,
+        "drawProbability": 0.1153,
+        "awayWinProbability": 0.7094,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0597
+          "probability": 0.0594
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 54,
@@ -1653,8 +1707,8 @@
           "eloWinProb": 0.303
         },
         "matchFingerprint": "36_sc cambuur_psv eindhoven_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:46.713Z",
-        "auditHash": "SHA256-IMMUTABLE-2A5DF0EC-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:03.223Z",
+        "auditHash": "SHA256-IMMUTABLE-73D14E28-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1665,11 +1719,11 @@
       }
     },
     {
-      "id": "res_36_12_Twente",
+      "id": "res_36_13_Twente",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-22T12:00:00.000Z",
+      "dateIso": "2026-11-29T12:00:00.000Z",
       "daysAgo": 0,
       "time": "13:30",
       "homeTeam": "Twente",
@@ -1681,20 +1735,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.37,
-        "awayExpectedGoals": 2.1,
-        "totalExpectedGoals": 3.48,
-        "bttsProbability": 0.6601,
-        "bttsNoProbability": 0.3399,
-        "over25Probability": 0.6734,
-        "under25Probability": 0.3266,
-        "homeWinProbability": 0.3578,
-        "drawProbability": 0.2203,
-        "awayWinProbability": 0.4979,
+        "homeExpectedGoals": 1.39,
+        "awayExpectedGoals": 2.08,
+        "totalExpectedGoals": 3.46,
+        "bttsProbability": 0.6604,
+        "bttsNoProbability": 0.3396,
+        "over25Probability": 0.6709,
+        "under25Probability": 0.3291,
+        "homeWinProbability": 0.3618,
+        "drawProbability": 0.2222,
+        "awayWinProbability": 0.4928,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.0946
+          "probability": 0.0956
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1707,8 +1761,8 @@
           "eloWinProb": 0.571
         },
         "matchFingerprint": "36_twente_ajax_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:46.713Z",
-        "auditHash": "SHA256-IMMUTABLE-423B3228-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:03.223Z",
+        "auditHash": "SHA256-IMMUTABLE-548E227-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1719,11 +1773,11 @@
       }
     },
     {
-      "id": "res_36_13_SCHeerenveen",
+      "id": "res_36_14_SCHeerenveen",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-22T12:00:00.000Z",
+      "dateIso": "2026-11-29T12:00:00.000Z",
       "daysAgo": 0,
       "time": "11:15",
       "homeTeam": "SC Heerenveen",
@@ -1735,34 +1789,34 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 2.13,
-        "awayExpectedGoals": 2.08,
-        "totalExpectedGoals": 4.21,
-        "bttsProbability": 0.7722,
-        "bttsNoProbability": 0.2278,
-        "over25Probability": 0.7879,
-        "under25Probability": 0.2121,
-        "homeWinProbability": 0.4511,
-        "drawProbability": 0.2092,
-        "awayWinProbability": 0.4109,
+        "homeExpectedGoals": 2.15,
+        "awayExpectedGoals": 2.05,
+        "totalExpectedGoals": 4.2,
+        "bttsProbability": 0.7713,
+        "bttsNoProbability": 0.2287,
+        "over25Probability": 0.787,
+        "under25Probability": 0.213,
+        "homeWinProbability": 0.4564,
+        "drawProbability": 0.2093,
+        "awayWinProbability": 0.4056,
         "predictedScore": {
           "home": 2,
           "away": 2,
-          "probability": 0.0729
+          "probability": 0.0728
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 54,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 58,
+        "overUnderConfidence": 57,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1797,
-          "awayElo": 1834,
+          "homeElo": 1793,
+          "awayElo": 1830,
           "eloWinProb": 0.54
         },
         "matchFingerprint": "36_sc heerenveen_feyenoord_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:46.713Z",
-        "auditHash": "SHA256-IMMUTABLE-3E267405-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:03.223Z",
+        "auditHash": "SHA256-IMMUTABLE-276328CC-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1773,7 +1827,7 @@
       }
     },
     {
-      "id": "res_36_14_Excelsior",
+      "id": "res_36_15_Excelsior",
       "leagueId": "36",
       "leagueName": "Eredivisie",
       "dateRaw": "Sat 07-Nov-2026",
@@ -1789,94 +1843,40 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 1.22,
-        "awayExpectedGoals": 2.54,
-        "totalExpectedGoals": 3.76,
-        "bttsProbability": 0.6509,
-        "bttsNoProbability": 0.3491,
-        "over25Probability": 0.7203,
-        "under25Probability": 0.2797,
-        "homeWinProbability": 0.2779,
-        "drawProbability": 0.1836,
-        "awayWinProbability": 0.5997,
+        "homeExpectedGoals": 1.24,
+        "awayExpectedGoals": 2.47,
+        "totalExpectedGoals": 3.71,
+        "bttsProbability": 0.6518,
+        "bttsNoProbability": 0.3482,
+        "over25Probability": 0.712,
+        "under25Probability": 0.288,
+        "homeWinProbability": 0.2859,
+        "drawProbability": 0.1896,
+        "awayWinProbability": 0.5882,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.0916
+          "probability": 0.0926
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 44,
+        "overUnderConfidence": 42,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1613,
-          "awayElo": 1682,
-          "eloWinProb": 0.494
+          "awayElo": 1679,
+          "eloWinProb": 0.499
         },
         "matchFingerprint": "36_excelsior_go ahead eagles_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:46.713Z",
-        "auditHash": "SHA256-IMMUTABLE-4CCC5BB3-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:03.223Z",
+        "auditHash": "SHA256-IMMUTABLE-1E496273-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
         "bttsHit": false,
         "overUnderHit": false,
         "bothHit": false,
-        "exactScoreHit": false
-      }
-    },
-    {
-      "id": "res_36_15_ADODenHaag",
-      "leagueId": "36",
-      "leagueName": "Eredivisie",
-      "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "17:45",
-      "homeTeam": "ADO Den Haag",
-      "awayTeam": "Sparta Rotterdam",
-      "score": "3-1",
-      "homeGoals": 3,
-      "awayGoals": 1,
-      "totalGoals": 4,
-      "actualBtts": true,
-      "actualOver25": true,
-      "prediction": {
-        "homeExpectedGoals": 2.49,
-        "awayExpectedGoals": 2.27,
-        "totalExpectedGoals": 4.76,
-        "bttsProbability": 0.8195,
-        "bttsNoProbability": 0.1805,
-        "over25Probability": 0.8473,
-        "under25Probability": 0.1527,
-        "homeWinProbability": 0.4631,
-        "drawProbability": 0.1934,
-        "awayWinProbability": 0.4069,
-        "predictedScore": {
-          "home": 2,
-          "away": 2,
-          "probability": 0.0684
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 64,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 69,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1554,
-          "awayElo": 1612,
-          "eloWinProb": 0.51
-        },
-        "matchFingerprint": "36_ado den haag_sparta rotterdam_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:46.713Z",
-        "auditHash": "SHA256-IMMUTABLE-7E539FC9-2026-11-22",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": true,
-        "overUnderHit": true,
-        "bothHit": true,
         "exactScoreHit": false
       }
     }
@@ -1975,8 +1975,39 @@
       "sntF": 7,
       "sntA": 2.8
     },
-    "Feyenoord": {
+    "AZ Alkmaar": {
       "pos": 4,
+      "team": "AZ Alkmaar",
+      "p": 13,
+      "hw": 4,
+      "hd": 1,
+      "hl": 1,
+      "hf": 13,
+      "ha": 8,
+      "aw": 4,
+      "ad": 1,
+      "al": 2,
+      "af": 16,
+      "aa": 9,
+      "gd": 12,
+      "pts": 26,
+      "ppg": 2,
+      "form": "LDLLWW",
+      "ycF": 1.9,
+      "ycA": 1.6,
+      "rcF": 0.4,
+      "rcA": 0.4,
+      "psF": 58,
+      "psA": 42,
+      "cF": 7.3,
+      "cA": 3.4,
+      "stF": 6.7,
+      "stA": 3.3,
+      "sntF": 5.4,
+      "sntA": 4.1
+    },
+    "Feyenoord": {
+      "pos": 5,
       "team": "Feyenoord",
       "p": 13,
       "hw": 2,
@@ -2007,7 +2038,7 @@
       "sntA": 6
     },
     "SC Heerenveen": {
-      "pos": 5,
+      "pos": 6,
       "team": "SC Heerenveen",
       "p": 13,
       "hw": 4,
@@ -2037,67 +2068,36 @@
       "sntF": 5.3,
       "sntA": 7.8
     },
-    "AZ Alkmaar": {
-      "pos": 6,
-      "team": "AZ Alkmaar",
-      "p": 13,
-      "hw": 4,
-      "hd": 1,
-      "hl": 1,
-      "hf": 13,
-      "ha": 8,
-      "aw": 3,
-      "ad": 2,
-      "al": 2,
-      "af": 12,
-      "aa": 9,
-      "gd": 8,
-      "pts": 24,
-      "ppg": 1.84,
-      "form": "LDLLWD",
-      "ycF": 1.7,
-      "ycA": 1.3,
-      "rcF": 0.3,
-      "rcA": 0.3,
-      "psF": 57,
-      "psA": 43,
-      "cF": 6.9,
-      "cA": 3,
-      "stF": 5.7,
-      "stA": 3.1,
-      "sntF": 5.1,
-      "sntA": 3.9
-    },
     "Fortuna Sittard": {
       "pos": 7,
       "team": "Fortuna Sittard",
-      "p": 12,
+      "p": 13,
       "hw": 2,
       "hd": 2,
       "hl": 2,
       "hf": 8,
       "ha": 11,
-      "aw": 3,
+      "aw": 4,
       "ad": 3,
       "al": 0,
-      "af": 12,
+      "af": 13,
       "aa": 9,
-      "gd": 0,
-      "pts": 20,
-      "ppg": 1.66,
-      "form": "WDDWDD",
+      "gd": 1,
+      "pts": 23,
+      "ppg": 1.76,
+      "form": "DDWDDW",
       "ycF": 2,
-      "ycA": 1.2,
+      "ycA": 1.3,
       "rcF": 0,
       "rcA": 0,
       "psF": 35,
       "psA": 65,
       "cF": 1,
-      "cA": 7,
-      "stF": 4.2,
-      "stA": 4.5,
-      "sntF": 3.7,
-      "sntA": 8.8
+      "cA": 7.9,
+      "stF": 3.9,
+      "stA": 5.3,
+      "sntF": 4.1,
+      "sntA": 8.4
     },
     "SC Cambuur": {
       "pos": 8,
@@ -2133,21 +2133,21 @@
     "Go Ahead Eagles": {
       "pos": 9,
       "team": "Go Ahead Eagles",
-      "p": 12,
+      "p": 13,
       "hw": 3,
       "hd": 2,
-      "hl": 0,
+      "hl": 1,
       "hf": 14,
-      "ha": 8,
+      "ha": 9,
       "aw": 1,
       "ad": 3,
       "al": 3,
       "af": 10,
       "aa": 19,
-      "gd": -3,
+      "gd": -4,
       "pts": 17,
-      "ppg": 1.41,
-      "form": "DDLWLW",
+      "ppg": 1.3,
+      "form": "DLWLWL",
       "ycF": 0.7,
       "ycA": 0.7,
       "rcF": 0,
@@ -2290,19 +2290,19 @@
       "team": "Sparta Rotterdam",
       "p": 13,
       "hw": 1,
-      "hd": 3,
-      "hl": 3,
+      "hd": 2,
+      "hl": 4,
       "hf": 10,
-      "ha": 15,
+      "ha": 19,
       "aw": 2,
       "ad": 1,
       "al": 3,
       "af": 12,
       "aa": 15,
-      "gd": -8,
-      "pts": 13,
-      "ppg": 1,
-      "form": "DWLWLD",
+      "gd": -12,
+      "pts": 12,
+      "ppg": 0.92,
+      "form": "DWLWLL",
       "ycF": 1.5,
       "ycA": 1,
       "rcF": 0,
@@ -2397,17 +2397,17 @@
       "ppg": 0.69,
       "form": "DWLLWL",
       "ycF": 1.9,
-      "ycA": 1,
+      "ycA": 1.1,
       "rcF": 0,
       "rcA": 0,
-      "psF": 42,
-      "psA": 58,
-      "cF": 2.6,
-      "cA": 8,
-      "stF": 2.4,
-      "stA": 6.7,
+      "psF": 41,
+      "psA": 59,
+      "cF": 2.9,
+      "cA": 8.7,
+      "stF": 2.6,
+      "stA": 7.4,
       "sntF": 3.7,
-      "sntA": 8.3
+      "sntA": 8.9
     },
     "Willem II": {
       "pos": 18,
@@ -2444,18 +2444,18 @@
   "backtest": {
     "totalMatches": 15,
     "bttsEvaluated": 15,
-    "bttsHits": 13,
-    "bttsAccuracy": 86.7,
+    "bttsHits": 12,
+    "bttsAccuracy": 80,
     "overUnderEvaluated": 15,
     "overUnderHits": 13,
     "overUnderAccuracy": 86.7,
-    "overallAccuracy": 86.7,
+    "overallAccuracy": 83.3,
     "exactScoreHits": 1,
     "exactScoreAccuracy": 6.7,
     "confusionMatrix": {
       "btts": {
-        "predictedYesActualYes": 12,
-        "predictedYesActualNo": 1,
+        "predictedYesActualYes": 11,
+        "predictedYesActualNo": 2,
         "predictedNoActualYes": 1,
         "predictedNoActualNo": 1
       },
@@ -2466,9 +2466,9 @@
         "predictedUnderActualUnder": 0
       }
     },
-    "logLoss": 0.4156,
-    "brierScore": 0.126,
-    "simulatedRoi": 65.5
+    "logLoss": 0.4381,
+    "brierScore": 0.1362,
+    "simulatedRoi": 59.2
   },
   "parameters": {
     "homeAdvantage": 1.18,

@@ -1,180 +1,38 @@
 {
   "leagueId": "38",
   "leagueName": "Swiss Super League",
-  "timestamp": "2026-11-22T14:22:52.427Z",
+  "timestamp": "2026-11-23T17:47:25.413Z",
   "fixtures": [
     {
-      "id": "fix_38_1_Basel",
-      "leagueId": "38",
-      "leagueName": "Swiss Super League",
-      "dateRaw": "Sun 22/11",
-      "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 0,
-      "time": "15:30",
-      "homeTeam": "Basel",
-      "awayTeam": "FC Luzern",
-      "odds": {
-        "home": 2.25,
-        "draw": 4.2,
-        "away": 2.75
-      },
-      "prediction": {
-        "homeExpectedGoals": 1.84,
-        "awayExpectedGoals": 1.07,
-        "totalExpectedGoals": 2.91,
-        "bttsProbability": 0.5588,
-        "bttsNoProbability": 0.4412,
-        "over25Probability": 0.5555,
-        "under25Probability": 0.4445,
-        "homeWinProbability": 0.5767,
-        "drawProbability": 0.2406,
-        "awayWinProbability": 0.2665,
-        "predictedScore": {
-          "home": 1,
-          "away": 1,
-          "probability": 0.1138
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1641,
-          "awayElo": 1611,
-          "eloWinProb": 0.633
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 1.84,
-        "awayExpectedGoals": 1.07,
-        "totalExpectedGoals": 2.91,
-        "bttsProbability": 0.5588,
-        "bttsNoProbability": 0.4412,
-        "over25Probability": 0.5555,
-        "under25Probability": 0.4445,
-        "homeWinProbability": 0.5767,
-        "drawProbability": 0.2406,
-        "awayWinProbability": 0.2665,
-        "predictedScore": {
-          "home": 1,
-          "away": 1,
-          "probability": 0.1138
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1641,
-          "awayElo": 1611,
-          "eloWinProb": 0.633
-        }
-      },
-      "confidenceScore": 56
-    },
-    {
-      "id": "fix_38_2_LausanneSports",
-      "leagueId": "38",
-      "leagueName": "Swiss Super League",
-      "dateRaw": "Sun 22/11",
-      "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 0,
-      "time": "15:30",
-      "homeTeam": "Lausanne Sports",
-      "awayTeam": "FC Vaduz",
-      "odds": {
-        "home": 2.15,
-        "draw": 3.81,
-        "away": 3.13
-      },
-      "prediction": {
-        "homeExpectedGoals": 1.91,
-        "awayExpectedGoals": 2.15,
-        "totalExpectedGoals": 4.06,
-        "bttsProbability": 0.7551,
-        "bttsNoProbability": 0.2449,
-        "over25Probability": 0.7685,
-        "under25Probability": 0.2315,
-        "homeWinProbability": 0.4117,
-        "drawProbability": 0.2125,
-        "awayWinProbability": 0.4485,
-        "predictedScore": {
-          "home": 1,
-          "away": 2,
-          "probability": 0.0761
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 51,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 54,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1546,
-          "awayElo": 1589,
-          "eloWinProb": 0.532
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 1.91,
-        "awayExpectedGoals": 2.15,
-        "totalExpectedGoals": 4.06,
-        "bttsProbability": 0.7551,
-        "bttsNoProbability": 0.2449,
-        "over25Probability": 0.7685,
-        "under25Probability": 0.2315,
-        "homeWinProbability": 0.4117,
-        "drawProbability": 0.2125,
-        "awayWinProbability": 0.4485,
-        "predictedScore": {
-          "home": 1,
-          "away": 2,
-          "probability": 0.0761
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 51,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 54,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1546,
-          "awayElo": 1589,
-          "eloWinProb": 0.532
-        }
-      },
-      "confidenceScore": 77
-    },
-    {
-      "id": "fix_38_3_FCVaduz",
+      "id": "fix_38_1_FCVaduz",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "17:00",
       "homeTeam": "FC Vaduz",
       "awayTeam": "FC Zurich",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 2.25,
+        "draw": 4,
+        "away": 2.84
       },
       "prediction": {
-        "homeExpectedGoals": 2.42,
-        "awayExpectedGoals": 2.42,
-        "totalExpectedGoals": 4.84,
-        "bttsProbability": 0.8261,
-        "bttsNoProbability": 0.1739,
-        "over25Probability": 0.8538,
-        "under25Probability": 0.1462,
-        "homeWinProbability": 0.4097,
-        "drawProbability": 0.1924,
-        "awayWinProbability": 0.4607,
+        "homeExpectedGoals": 2.51,
+        "awayExpectedGoals": 2.35,
+        "totalExpectedGoals": 4.86,
+        "bttsProbability": 0.8273,
+        "bttsNoProbability": 0.1727,
+        "over25Probability": 0.8558,
+        "under25Probability": 0.1442,
+        "homeWinProbability": 0.4312,
+        "drawProbability": 0.1914,
+        "awayWinProbability": 0.4396,
         "predictedScore": {
           "home": 2,
           "away": 2,
-          "probability": 0.0679
+          "probability": 0.0674
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 65,
@@ -182,26 +40,26 @@
         "overUnderConfidence": 71,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1589,
+          "homeElo": 1599,
           "awayElo": 1706,
-          "eloWinProb": 0.426
+          "eloWinProb": 0.44
         }
       },
       "pred": {
-        "homeExpectedGoals": 2.42,
-        "awayExpectedGoals": 2.42,
-        "totalExpectedGoals": 4.84,
-        "bttsProbability": 0.8261,
-        "bttsNoProbability": 0.1739,
-        "over25Probability": 0.8538,
-        "under25Probability": 0.1462,
-        "homeWinProbability": 0.4097,
-        "drawProbability": 0.1924,
-        "awayWinProbability": 0.4607,
+        "homeExpectedGoals": 2.51,
+        "awayExpectedGoals": 2.35,
+        "totalExpectedGoals": 4.86,
+        "bttsProbability": 0.8273,
+        "bttsNoProbability": 0.1727,
+        "over25Probability": 0.8558,
+        "under25Probability": 0.1442,
+        "homeWinProbability": 0.4312,
+        "drawProbability": 0.1914,
+        "awayWinProbability": 0.4396,
         "predictedScore": {
           "home": 2,
           "away": 2,
-          "probability": 0.0679
+          "probability": 0.0674
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 65,
@@ -209,114 +67,114 @@
         "overUnderConfidence": 71,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1589,
+          "homeElo": 1599,
           "awayElo": 1706,
-          "eloWinProb": 0.426
+          "eloWinProb": 0.44
         }
       },
-      "confidenceScore": 85
+      "confidenceScore": 86
     },
     {
-      "id": "fix_38_4_GrasshopperClub",
+      "id": "fix_38_2_GrasshopperClub",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "17:00",
       "homeTeam": "Grasshopper Club",
       "awayTeam": "Basel",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 2.94,
+        "draw": 3.8,
+        "away": 2.25
       },
       "prediction": {
-        "homeExpectedGoals": 1.5,
-        "awayExpectedGoals": 2.79,
-        "totalExpectedGoals": 4.3,
-        "bttsProbability": 0.7272,
-        "bttsNoProbability": 0.2728,
-        "over25Probability": 0.794,
-        "under25Probability": 0.206,
-        "homeWinProbability": 0.2926,
-        "drawProbability": 0.1745,
-        "awayWinProbability": 0.5886,
+        "homeExpectedGoals": 1.53,
+        "awayExpectedGoals": 2.64,
+        "totalExpectedGoals": 4.17,
+        "bttsProbability": 0.7259,
+        "bttsNoProbability": 0.2741,
+        "over25Probability": 0.7796,
+        "under25Probability": 0.2204,
+        "homeWinProbability": 0.3086,
+        "drawProbability": 0.1848,
+        "awayWinProbability": 0.5674,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.0798
+          "probability": 0.0824
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 45,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 59,
+        "overUnderConfidence": 56,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1572,
-          "awayElo": 1641,
-          "eloWinProb": 0.494
+          "homeElo": 1568,
+          "awayElo": 1631,
+          "eloWinProb": 0.503
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.5,
-        "awayExpectedGoals": 2.79,
-        "totalExpectedGoals": 4.3,
-        "bttsProbability": 0.7272,
-        "bttsNoProbability": 0.2728,
-        "over25Probability": 0.794,
-        "under25Probability": 0.206,
-        "homeWinProbability": 0.2926,
-        "drawProbability": 0.1745,
-        "awayWinProbability": 0.5886,
+        "homeExpectedGoals": 1.53,
+        "awayExpectedGoals": 2.64,
+        "totalExpectedGoals": 4.17,
+        "bttsProbability": 0.7259,
+        "bttsNoProbability": 0.2741,
+        "over25Probability": 0.7796,
+        "under25Probability": 0.2204,
+        "homeWinProbability": 0.3086,
+        "drawProbability": 0.1848,
+        "awayWinProbability": 0.5674,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.0798
+          "probability": 0.0824
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 45,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 59,
+        "overUnderConfidence": 56,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1572,
-          "awayElo": 1641,
-          "eloWinProb": 0.494
+          "homeElo": 1568,
+          "awayElo": 1631,
+          "eloWinProb": 0.503
         }
       },
-      "confidenceScore": 79
+      "confidenceScore": 78
     },
     {
-      "id": "fix_38_5_ServetteFC",
+      "id": "fix_38_3_ServetteFC",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "19:30",
       "homeTeam": "Servette FC",
       "awayTeam": "Lausanne Sports",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 1.93,
+        "draw": 3.7,
+        "away": 3.8
       },
       "prediction": {
-        "homeExpectedGoals": 0.85,
+        "homeExpectedGoals": 0.84,
         "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 1.05,
-        "bttsProbability": 0.1073,
-        "bttsNoProbability": 0.8927,
-        "over25Probability": 0.0895,
-        "under25Probability": 0.9105,
-        "homeWinProbability": 0.586,
-        "drawProbability": 0.4195,
-        "awayWinProbability": 0.1413,
+        "totalExpectedGoals": 1.04,
+        "bttsProbability": 0.1069,
+        "bttsNoProbability": 0.8931,
+        "over25Probability": 0.0886,
+        "under25Probability": 0.9114,
+        "homeWinProbability": 0.582,
+        "drawProbability": 0.4212,
+        "awayWinProbability": 0.1443,
         "predictedScore": {
           "home": 0,
           "away": 0,
-          "probability": 0.3539
+          "probability": 0.3556
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 79,
@@ -325,25 +183,25 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1668,
-          "awayElo": 1546,
-          "eloWinProb": 0.746
+          "awayElo": 1553,
+          "eloWinProb": 0.738
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.85,
+        "homeExpectedGoals": 0.84,
         "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 1.05,
-        "bttsProbability": 0.1073,
-        "bttsNoProbability": 0.8927,
-        "over25Probability": 0.0895,
-        "under25Probability": 0.9105,
-        "homeWinProbability": 0.586,
-        "drawProbability": 0.4195,
-        "awayWinProbability": 0.1413,
+        "totalExpectedGoals": 1.04,
+        "bttsProbability": 0.1069,
+        "bttsNoProbability": 0.8931,
+        "over25Probability": 0.0886,
+        "under25Probability": 0.9114,
+        "homeWinProbability": 0.582,
+        "drawProbability": 0.4212,
+        "awayWinProbability": 0.1443,
         "predictedScore": {
           "home": 0,
           "away": 0,
-          "probability": 0.3539
+          "probability": 0.3556
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 79,
@@ -352,19 +210,19 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1668,
-          "awayElo": 1546,
-          "eloWinProb": 0.746
+          "awayElo": 1553,
+          "eloWinProb": 0.738
         }
       },
       "confidenceScore": 91
     },
     {
-      "id": "fix_38_6_FCLuzern",
+      "id": "fix_38_4_FCLuzern",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sun 29/11",
-      "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "13:00",
       "homeTeam": "FC Luzern",
       "awayTeam": "FC Lugano",
@@ -374,68 +232,68 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.39,
+        "homeExpectedGoals": 1.55,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 5.39,
-        "bttsProbability": 0.701,
-        "bttsNoProbability": 0.299,
-        "over25Probability": 0.8536,
-        "under25Probability": 0.1464,
-        "homeWinProbability": 0.1301,
-        "drawProbability": 0.0997,
-        "awayWinProbability": 0.7717,
+        "totalExpectedGoals": 5.55,
+        "bttsProbability": 0.7345,
+        "bttsNoProbability": 0.2655,
+        "over25Probability": 0.8634,
+        "under25Probability": 0.1366,
+        "homeWinProbability": 0.153,
+        "drawProbability": 0.1069,
+        "awayWinProbability": 0.7442,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0676
+          "probability": 0.0642
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
+        "bttsConfidence": 47,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 71,
+        "overUnderConfidence": 73,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1611,
+          "homeElo": 1645,
           "awayElo": 1892,
-          "eloWinProb": 0.224
+          "eloWinProb": 0.26
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.39,
+        "homeExpectedGoals": 1.55,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 5.39,
-        "bttsProbability": 0.701,
-        "bttsNoProbability": 0.299,
-        "over25Probability": 0.8536,
-        "under25Probability": 0.1464,
-        "homeWinProbability": 0.1301,
-        "drawProbability": 0.0997,
-        "awayWinProbability": 0.7717,
+        "totalExpectedGoals": 5.55,
+        "bttsProbability": 0.7345,
+        "bttsNoProbability": 0.2655,
+        "over25Probability": 0.8634,
+        "under25Probability": 0.1366,
+        "homeWinProbability": 0.153,
+        "drawProbability": 0.1069,
+        "awayWinProbability": 0.7442,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0676
+          "probability": 0.0642
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
+        "bttsConfidence": 47,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 71,
+        "overUnderConfidence": 73,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1611,
+          "homeElo": 1645,
           "awayElo": 1892,
-          "eloWinProb": 0.224
+          "eloWinProb": 0.26
         }
       },
-      "confidenceScore": 85
+      "confidenceScore": 86
     },
     {
-      "id": "fix_38_7_FCSion",
+      "id": "fix_38_5_FCSion",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sun 29/11",
-      "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "15:30",
       "homeTeam": "FC Sion",
       "awayTeam": "Young Boys",
@@ -445,25 +303,25 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.87,
-        "awayExpectedGoals": 2.31,
-        "totalExpectedGoals": 4.18,
-        "bttsProbability": 0.7631,
-        "bttsNoProbability": 0.2369,
-        "over25Probability": 0.7836,
-        "under25Probability": 0.2164,
-        "homeWinProbability": 0.3978,
-        "drawProbability": 0.2062,
-        "awayWinProbability": 0.466,
+        "homeExpectedGoals": 1.88,
+        "awayExpectedGoals": 2.28,
+        "totalExpectedGoals": 4.16,
+        "bttsProbability": 0.7625,
+        "bttsNoProbability": 0.2375,
+        "over25Probability": 0.7818,
+        "under25Probability": 0.2182,
+        "homeWinProbability": 0.4013,
+        "drawProbability": 0.2072,
+        "awayWinProbability": 0.4619,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.0763
+          "probability": 0.0762
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 53,
+        "bttsConfidence": 52,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 57,
+        "overUnderConfidence": 56,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1803,
@@ -472,25 +330,25 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.87,
-        "awayExpectedGoals": 2.31,
-        "totalExpectedGoals": 4.18,
-        "bttsProbability": 0.7631,
-        "bttsNoProbability": 0.2369,
-        "over25Probability": 0.7836,
-        "under25Probability": 0.2164,
-        "homeWinProbability": 0.3978,
-        "drawProbability": 0.2062,
-        "awayWinProbability": 0.466,
+        "homeExpectedGoals": 1.88,
+        "awayExpectedGoals": 2.28,
+        "totalExpectedGoals": 4.16,
+        "bttsProbability": 0.7625,
+        "bttsNoProbability": 0.2375,
+        "over25Probability": 0.7818,
+        "under25Probability": 0.2182,
+        "homeWinProbability": 0.4013,
+        "drawProbability": 0.2072,
+        "awayWinProbability": 0.4619,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.0763
+          "probability": 0.0762
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 53,
+        "bttsConfidence": 52,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 57,
+        "overUnderConfidence": 56,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1803,
@@ -501,12 +359,12 @@
       "confidenceScore": 78
     },
     {
-      "id": "fix_38_8_Thun",
+      "id": "fix_38_6_Thun",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sun 29/11",
-      "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "15:30",
       "homeTeam": "Thun",
       "awayTeam": "St Gallen",
@@ -516,68 +374,68 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.18,
-        "awayExpectedGoals": 3.28,
-        "totalExpectedGoals": 4.46,
-        "bttsProbability": 0.6549,
-        "bttsNoProbability": 0.3451,
-        "over25Probability": 0.8024,
-        "under25Probability": 0.1976,
-        "homeWinProbability": 0.2121,
-        "drawProbability": 0.1286,
-        "awayWinProbability": 0.6918,
+        "homeExpectedGoals": 1.27,
+        "awayExpectedGoals": 3.62,
+        "totalExpectedGoals": 4.89,
+        "bttsProbability": 0.6799,
+        "bttsNoProbability": 0.3201,
+        "over25Probability": 0.8341,
+        "under25Probability": 0.1659,
+        "homeWinProbability": 0.2048,
+        "drawProbability": 0.1137,
+        "awayWinProbability": 0.7008,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0803
+          "probability": 0.0755
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 60,
+        "overUnderConfidence": 67,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1610,
+          "homeElo": 1606,
           "awayElo": 1725,
-          "eloWinProb": 0.429
+          "eloWinProb": 0.423
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.18,
-        "awayExpectedGoals": 3.28,
-        "totalExpectedGoals": 4.46,
-        "bttsProbability": 0.6549,
-        "bttsNoProbability": 0.3451,
-        "over25Probability": 0.8024,
-        "under25Probability": 0.1976,
-        "homeWinProbability": 0.2121,
-        "drawProbability": 0.1286,
-        "awayWinProbability": 0.6918,
+        "homeExpectedGoals": 1.27,
+        "awayExpectedGoals": 3.62,
+        "totalExpectedGoals": 4.89,
+        "bttsProbability": 0.6799,
+        "bttsNoProbability": 0.3201,
+        "over25Probability": 0.8341,
+        "under25Probability": 0.1659,
+        "homeWinProbability": 0.2048,
+        "drawProbability": 0.1137,
+        "awayWinProbability": 0.7008,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0803
+          "probability": 0.0755
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 60,
+        "overUnderConfidence": 67,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1610,
+          "homeElo": 1606,
           "awayElo": 1725,
-          "eloWinProb": 0.429
+          "eloWinProb": 0.423
         }
       },
-      "confidenceScore": 80
+      "confidenceScore": 83
     },
     {
-      "id": "fix_38_9_FCVaduz",
+      "id": "fix_38_7_FCVaduz",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "17:00",
       "homeTeam": "FC Vaduz",
       "awayTeam": "Young Boys",
@@ -587,68 +445,68 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.39,
+        "homeExpectedGoals": 1.44,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 5.39,
-        "bttsProbability": 0.7002,
-        "bttsNoProbability": 0.2998,
-        "over25Probability": 0.8533,
-        "under25Probability": 0.1467,
-        "homeWinProbability": 0.144,
-        "drawProbability": 0.0995,
-        "awayWinProbability": 0.758,
+        "totalExpectedGoals": 5.44,
+        "bttsProbability": 0.7112,
+        "bttsNoProbability": 0.2888,
+        "over25Probability": 0.8565,
+        "under25Probability": 0.1435,
+        "homeWinProbability": 0.1511,
+        "drawProbability": 0.1019,
+        "awayWinProbability": 0.7494,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0676
+          "probability": 0.0667
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
+        "bttsConfidence": 42,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 71,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1589,
+          "homeElo": 1599,
           "awayElo": 1832,
-          "eloWinProb": 0.264
+          "eloWinProb": 0.275
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.39,
+        "homeExpectedGoals": 1.44,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 5.39,
-        "bttsProbability": 0.7002,
-        "bttsNoProbability": 0.2998,
-        "over25Probability": 0.8533,
-        "under25Probability": 0.1467,
-        "homeWinProbability": 0.144,
-        "drawProbability": 0.0995,
-        "awayWinProbability": 0.758,
+        "totalExpectedGoals": 5.44,
+        "bttsProbability": 0.7112,
+        "bttsNoProbability": 0.2888,
+        "over25Probability": 0.8565,
+        "under25Probability": 0.1435,
+        "homeWinProbability": 0.1511,
+        "drawProbability": 0.1019,
+        "awayWinProbability": 0.7494,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0676
+          "probability": 0.0667
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
+        "bttsConfidence": 42,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 71,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1589,
+          "homeElo": 1599,
           "awayElo": 1832,
-          "eloWinProb": 0.264
+          "eloWinProb": 0.275
         }
       },
-      "confidenceScore": 85
+      "confidenceScore": 86
     },
     {
-      "id": "fix_38_10_Thun",
+      "id": "fix_38_8_Thun",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "17:00",
       "homeTeam": "Thun",
       "awayTeam": "FC Luzern",
@@ -658,68 +516,68 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 2.04,
-        "awayExpectedGoals": 1.94,
-        "totalExpectedGoals": 3.99,
-        "bttsProbability": 0.7484,
-        "bttsNoProbability": 0.2516,
-        "over25Probability": 0.7579,
-        "under25Probability": 0.2421,
-        "homeWinProbability": 0.4733,
-        "drawProbability": 0.216,
-        "awayWinProbability": 0.3849,
+        "homeExpectedGoals": 1.66,
+        "awayExpectedGoals": 2.36,
+        "totalExpectedGoals": 4.02,
+        "bttsProbability": 0.7351,
+        "bttsNoProbability": 0.2649,
+        "over25Probability": 0.762,
+        "under25Probability": 0.238,
+        "homeWinProbability": 0.3599,
+        "drawProbability": 0.204,
+        "awayWinProbability": 0.5053,
         "predictedScore": {
           "home": 1,
-          "away": 1,
-          "probability": 0.0781
+          "away": 2,
+          "probability": 0.0829
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 50,
+        "bttsConfidence": 47,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 52,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1610,
-          "awayElo": 1611,
-          "eloWinProb": 0.591
+          "homeElo": 1606,
+          "awayElo": 1645,
+          "eloWinProb": 0.537
         }
       },
       "pred": {
-        "homeExpectedGoals": 2.04,
-        "awayExpectedGoals": 1.94,
-        "totalExpectedGoals": 3.99,
-        "bttsProbability": 0.7484,
-        "bttsNoProbability": 0.2516,
-        "over25Probability": 0.7579,
-        "under25Probability": 0.2421,
-        "homeWinProbability": 0.4733,
-        "drawProbability": 0.216,
-        "awayWinProbability": 0.3849,
+        "homeExpectedGoals": 1.66,
+        "awayExpectedGoals": 2.36,
+        "totalExpectedGoals": 4.02,
+        "bttsProbability": 0.7351,
+        "bttsNoProbability": 0.2649,
+        "over25Probability": 0.762,
+        "under25Probability": 0.238,
+        "homeWinProbability": 0.3599,
+        "drawProbability": 0.204,
+        "awayWinProbability": 0.5053,
         "predictedScore": {
           "home": 1,
-          "away": 1,
-          "probability": 0.0781
+          "away": 2,
+          "probability": 0.0829
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 50,
+        "bttsConfidence": 47,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 52,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1610,
-          "awayElo": 1611,
-          "eloWinProb": 0.591
+          "homeElo": 1606,
+          "awayElo": 1645,
+          "eloWinProb": 0.537
         }
       },
       "confidenceScore": 76
     },
     {
-      "id": "fix_38_11_FCZurich",
+      "id": "fix_38_9_FCZurich",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "19:30",
       "homeTeam": "FC Zurich",
       "awayTeam": "FC Lugano",
@@ -729,25 +587,25 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.62,
-        "awayExpectedGoals": 3.67,
-        "totalExpectedGoals": 5.29,
-        "bttsProbability": 0.7553,
-        "bttsNoProbability": 0.2447,
-        "over25Probability": 0.8634,
-        "under25Probability": 0.1366,
-        "homeWinProbability": 0.1968,
-        "drawProbability": 0.1262,
-        "awayWinProbability": 0.6989,
+        "homeExpectedGoals": 1.74,
+        "awayExpectedGoals": 3.94,
+        "totalExpectedGoals": 5.68,
+        "bttsProbability": 0.7701,
+        "bttsNoProbability": 0.2299,
+        "over25Probability": 0.8741,
+        "under25Probability": 0.1259,
+        "homeWinProbability": 0.1943,
+        "drawProbability": 0.1178,
+        "awayWinProbability": 0.6979,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0673
+          "probability": 0.0606
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 51,
+        "bttsConfidence": 54,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 73,
+        "overUnderConfidence": 75,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1706,
@@ -756,25 +614,25 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.62,
-        "awayExpectedGoals": 3.67,
-        "totalExpectedGoals": 5.29,
-        "bttsProbability": 0.7553,
-        "bttsNoProbability": 0.2447,
-        "over25Probability": 0.8634,
-        "under25Probability": 0.1366,
-        "homeWinProbability": 0.1968,
-        "drawProbability": 0.1262,
-        "awayWinProbability": 0.6989,
+        "homeExpectedGoals": 1.74,
+        "awayExpectedGoals": 3.94,
+        "totalExpectedGoals": 5.68,
+        "bttsProbability": 0.7701,
+        "bttsNoProbability": 0.2299,
+        "over25Probability": 0.8741,
+        "under25Probability": 0.1259,
+        "homeWinProbability": 0.1943,
+        "drawProbability": 0.1178,
+        "awayWinProbability": 0.6979,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0673
+          "probability": 0.0606
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 51,
+        "bttsConfidence": 54,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 73,
+        "overUnderConfidence": 75,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1706,
@@ -782,15 +640,15 @@
           "eloWinProb": 0.333
         }
       },
-      "confidenceScore": 86
+      "confidenceScore": 87
     },
     {
-      "id": "fix_38_12_Basel",
+      "id": "fix_38_10_Basel",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sun 06/12",
-      "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "13:00",
       "homeTeam": "Basel",
       "awayTeam": "Servette FC",
@@ -800,68 +658,68 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.15,
-        "awayExpectedGoals": 1.38,
-        "totalExpectedGoals": 2.54,
-        "bttsProbability": 0.5203,
-        "bttsNoProbability": 0.4797,
-        "over25Probability": 0.4653,
-        "under25Probability": 0.5347,
-        "homeWinProbability": 0.393,
-        "drawProbability": 0.2809,
-        "awayWinProbability": 0.4243,
+        "homeExpectedGoals": 0.95,
+        "awayExpectedGoals": 1.41,
+        "totalExpectedGoals": 2.35,
+        "bttsProbability": 0.4693,
+        "bttsNoProbability": 0.5307,
+        "over25Probability": 0.4176,
+        "under25Probability": 0.5824,
+        "homeWinProbability": 0.3487,
+        "drawProbability": 0.2858,
+        "awayWinProbability": 0.4655,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1339
+          "probability": 0.1342
         },
-        "bttsPick": "BTTS_SI",
+        "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1641,
+          "homeElo": 1631,
           "awayElo": 1668,
-          "eloWinProb": 0.554
+          "eloWinProb": 0.54
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.15,
-        "awayExpectedGoals": 1.38,
-        "totalExpectedGoals": 2.54,
-        "bttsProbability": 0.5203,
-        "bttsNoProbability": 0.4797,
-        "over25Probability": 0.4653,
-        "under25Probability": 0.5347,
-        "homeWinProbability": 0.393,
-        "drawProbability": 0.2809,
-        "awayWinProbability": 0.4243,
+        "homeExpectedGoals": 0.95,
+        "awayExpectedGoals": 1.41,
+        "totalExpectedGoals": 2.35,
+        "bttsProbability": 0.4693,
+        "bttsNoProbability": 0.5307,
+        "over25Probability": 0.4176,
+        "under25Probability": 0.5824,
+        "homeWinProbability": 0.3487,
+        "drawProbability": 0.2858,
+        "awayWinProbability": 0.4655,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1339
+          "probability": 0.1342
         },
-        "bttsPick": "BTTS_SI",
+        "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1641,
+          "homeElo": 1631,
           "awayElo": 1668,
-          "eloWinProb": 0.554
+          "eloWinProb": 0.54
         }
       },
-      "confidenceScore": 53
+      "confidenceScore": 58
     },
     {
-      "id": "fix_38_13_LausanneSports",
+      "id": "fix_38_11_LausanneSports",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sun 06/12",
-      "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "15:30",
       "homeTeam": "Lausanne Sports",
       "awayTeam": "FC Sion",
@@ -871,68 +729,68 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 0.89,
+        "homeExpectedGoals": 0.96,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 4.89,
-        "bttsProbability": 0.5503,
-        "bttsNoProbability": 0.4497,
-        "over25Probability": 0.8147,
-        "under25Probability": 0.1853,
-        "homeWinProbability": 0.1115,
-        "drawProbability": 0.0732,
-        "awayWinProbability": 0.8076,
+        "totalExpectedGoals": 4.96,
+        "bttsProbability": 0.5756,
+        "bttsNoProbability": 0.4244,
+        "over25Probability": 0.8207,
+        "under25Probability": 0.1793,
+        "homeWinProbability": 0.1174,
+        "drawProbability": 0.0771,
+        "awayWinProbability": 0.7993,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.0802
+          "probability": 0.0749
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 63,
+        "overUnderConfidence": 64,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1546,
+          "homeElo": 1553,
           "awayElo": 1803,
-          "eloWinProb": 0.249
+          "eloWinProb": 0.256
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.89,
+        "homeExpectedGoals": 0.96,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 4.89,
-        "bttsProbability": 0.5503,
-        "bttsNoProbability": 0.4497,
-        "over25Probability": 0.8147,
-        "under25Probability": 0.1853,
-        "homeWinProbability": 0.1115,
-        "drawProbability": 0.0732,
-        "awayWinProbability": 0.8076,
+        "totalExpectedGoals": 4.96,
+        "bttsProbability": 0.5756,
+        "bttsNoProbability": 0.4244,
+        "over25Probability": 0.8207,
+        "under25Probability": 0.1793,
+        "homeWinProbability": 0.1174,
+        "drawProbability": 0.0771,
+        "awayWinProbability": 0.7993,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.0802
+          "probability": 0.0749
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 63,
+        "overUnderConfidence": 64,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1546,
+          "homeElo": 1553,
           "awayElo": 1803,
-          "eloWinProb": 0.249
+          "eloWinProb": 0.256
         }
       },
-      "confidenceScore": 81
+      "confidenceScore": 82
     },
     {
-      "id": "fix_38_14_StGallen",
+      "id": "fix_38_12_StGallen",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sun 06/12",
-      "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "15:30",
       "homeTeam": "St Gallen",
       "awayTeam": "Grasshopper Club",
@@ -942,68 +800,68 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 3.75,
-        "awayExpectedGoals": 0.64,
-        "totalExpectedGoals": 4.38,
-        "bttsProbability": 0.4443,
-        "bttsNoProbability": 0.5557,
-        "over25Probability": 0.7755,
-        "under25Probability": 0.2245,
-        "homeWinProbability": 0.8358,
-        "drawProbability": 0.0691,
-        "awayWinProbability": 0.095,
+        "homeExpectedGoals": 3.81,
+        "awayExpectedGoals": 0.63,
+        "totalExpectedGoals": 4.44,
+        "bttsProbability": 0.4382,
+        "bttsNoProbability": 0.5618,
+        "over25Probability": 0.7787,
+        "under25Probability": 0.2213,
+        "homeWinProbability": 0.8386,
+        "drawProbability": 0.0655,
+        "awayWinProbability": 0.0923,
         "predictedScore": {
           "home": 3,
           "away": 0,
-          "probability": 0.1093
+          "probability": 0.109
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 55,
+        "overUnderConfidence": 56,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1725,
-          "awayElo": 1572,
-          "eloWinProb": 0.778
+          "awayElo": 1568,
+          "eloWinProb": 0.782
         }
       },
       "pred": {
-        "homeExpectedGoals": 3.75,
-        "awayExpectedGoals": 0.64,
-        "totalExpectedGoals": 4.38,
-        "bttsProbability": 0.4443,
-        "bttsNoProbability": 0.5557,
-        "over25Probability": 0.7755,
-        "under25Probability": 0.2245,
-        "homeWinProbability": 0.8358,
-        "drawProbability": 0.0691,
-        "awayWinProbability": 0.095,
+        "homeExpectedGoals": 3.81,
+        "awayExpectedGoals": 0.63,
+        "totalExpectedGoals": 4.44,
+        "bttsProbability": 0.4382,
+        "bttsNoProbability": 0.5618,
+        "over25Probability": 0.7787,
+        "under25Probability": 0.2213,
+        "homeWinProbability": 0.8386,
+        "drawProbability": 0.0655,
+        "awayWinProbability": 0.0923,
         "predictedScore": {
           "home": 3,
           "away": 0,
-          "probability": 0.1093
+          "probability": 0.109
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 55,
+        "overUnderConfidence": 56,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1725,
-          "awayElo": 1572,
-          "eloWinProb": 0.778
+          "awayElo": 1568,
+          "eloWinProb": 0.782
         }
       },
       "confidenceScore": 78
     },
     {
-      "id": "fix_38_15_FCZurich",
+      "id": "fix_38_13_FCZurich",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sat 12/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "17:00",
       "homeTeam": "FC Zurich",
       "awayTeam": "Grasshopper Club",
@@ -1013,99 +871,349 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 2.94,
-        "awayExpectedGoals": 0.64,
-        "totalExpectedGoals": 3.58,
-        "bttsProbability": 0.4454,
-        "bttsNoProbability": 0.5546,
-        "over25Probability": 0.6834,
-        "under25Probability": 0.3166,
-        "homeWinProbability": 0.8002,
-        "drawProbability": 0.1168,
-        "awayWinProbability": 0.1169,
+        "homeExpectedGoals": 3.19,
+        "awayExpectedGoals": 0.68,
+        "totalExpectedGoals": 3.87,
+        "bttsProbability": 0.4681,
+        "bttsNoProbability": 0.5319,
+        "over25Probability": 0.7256,
+        "under25Probability": 0.2744,
+        "homeWinProbability": 0.8099,
+        "drawProbability": 0.1031,
+        "awayWinProbability": 0.1124,
         "predictedScore": {
-          "home": 2,
+          "home": 3,
           "away": 0,
-          "probability": 0.1205
+          "probability": 0.1127
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
+        "overUnderConfidence": 45,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1706,
-          "awayElo": 1572,
-          "eloWinProb": 0.759
+          "awayElo": 1568,
+          "eloWinProb": 0.763
         }
       },
       "pred": {
-        "homeExpectedGoals": 2.94,
-        "awayExpectedGoals": 0.64,
-        "totalExpectedGoals": 3.58,
-        "bttsProbability": 0.4454,
-        "bttsNoProbability": 0.5546,
-        "over25Probability": 0.6834,
-        "under25Probability": 0.3166,
-        "homeWinProbability": 0.8002,
-        "drawProbability": 0.1168,
-        "awayWinProbability": 0.1169,
+        "homeExpectedGoals": 3.19,
+        "awayExpectedGoals": 0.68,
+        "totalExpectedGoals": 3.87,
+        "bttsProbability": 0.4681,
+        "bttsNoProbability": 0.5319,
+        "over25Probability": 0.7256,
+        "under25Probability": 0.2744,
+        "homeWinProbability": 0.8099,
+        "drawProbability": 0.1031,
+        "awayWinProbability": 0.1124,
         "predictedScore": {
-          "home": 2,
+          "home": 3,
           "away": 0,
-          "probability": 0.1205
+          "probability": 0.1127
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
+        "overUnderConfidence": 45,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1706,
-          "awayElo": 1572,
-          "eloWinProb": 0.759
+          "awayElo": 1568,
+          "eloWinProb": 0.763
         }
       },
-      "confidenceScore": 68
+      "confidenceScore": 73
+    },
+    {
+      "id": "fix_38_14_StGallen",
+      "leagueId": "38",
+      "leagueName": "Swiss Super League",
+      "dateRaw": "Sat 12/12",
+      "dateIso": "2026-11-28T12:00:00.000Z",
+      "daysFromNow": 5,
+      "time": "17:00",
+      "homeTeam": "St Gallen",
+      "awayTeam": "FC Vaduz",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 1.16,
+        "totalExpectedGoals": 5.66,
+        "bttsProbability": 0.6191,
+        "bttsNoProbability": 0.3809,
+        "over25Probability": 0.8341,
+        "under25Probability": 0.1659,
+        "homeWinProbability": 0.7859,
+        "drawProbability": 0.0667,
+        "awayWinProbability": 0.1145,
+        "predictedScore": {
+          "home": 4,
+          "away": 1,
+          "probability": 0.0691
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 67,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1725,
+          "awayElo": 1599,
+          "eloWinProb": 0.75
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 1.16,
+        "totalExpectedGoals": 5.66,
+        "bttsProbability": 0.6191,
+        "bttsNoProbability": 0.3809,
+        "over25Probability": 0.8341,
+        "under25Probability": 0.1659,
+        "homeWinProbability": 0.7859,
+        "drawProbability": 0.0667,
+        "awayWinProbability": 0.1145,
+        "predictedScore": {
+          "home": 4,
+          "away": 1,
+          "probability": 0.0691
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 67,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1725,
+          "awayElo": 1599,
+          "eloWinProb": 0.75
+        }
+      },
+      "confidenceScore": 83
+    },
+    {
+      "id": "fix_38_15_YoungBoys",
+      "leagueId": "38",
+      "leagueName": "Swiss Super League",
+      "dateRaw": "Sat 12/12",
+      "dateIso": "2026-11-28T12:00:00.000Z",
+      "daysFromNow": 5,
+      "time": "19:30",
+      "homeTeam": "Young Boys",
+      "awayTeam": "Lausanne Sports",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 3.24,
+        "awayExpectedGoals": 0.34,
+        "totalExpectedGoals": 3.58,
+        "bttsProbability": 0.2741,
+        "bttsNoProbability": 0.7259,
+        "over25Probability": 0.6752,
+        "under25Probability": 0.3248,
+        "homeWinProbability": 0.8883,
+        "drawProbability": 0.0721,
+        "awayWinProbability": 0.0532,
+        "predictedScore": {
+          "home": 3,
+          "away": 0,
+          "probability": 0.158
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 45,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1832,
+          "awayElo": 1553,
+          "eloWinProb": 0.879
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 3.24,
+        "awayExpectedGoals": 0.34,
+        "totalExpectedGoals": 3.58,
+        "bttsProbability": 0.2741,
+        "bttsNoProbability": 0.7259,
+        "over25Probability": 0.6752,
+        "under25Probability": 0.3248,
+        "homeWinProbability": 0.8883,
+        "drawProbability": 0.0721,
+        "awayWinProbability": 0.0532,
+        "predictedScore": {
+          "home": 3,
+          "away": 0,
+          "probability": 0.158
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 45,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1832,
+          "awayElo": 1553,
+          "eloWinProb": 0.879
+        }
+      },
+      "confidenceScore": 73
     }
   ],
   "results": [
     {
-      "id": "res_38_1_FCZurich",
+      "id": "res_38_1_Basel",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sun 22-Nov-2026",
-      "dateIso": "2026-11-22T12:00:00.000Z",
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "15:30",
+      "homeTeam": "Basel",
+      "awayTeam": "FC Luzern",
+      "score": "0-2",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "totalGoals": 2,
+      "actualBtts": false,
+      "actualOver25": false,
+      "prediction": {
+        "homeExpectedGoals": 1.22,
+        "awayExpectedGoals": 1.33,
+        "totalExpectedGoals": 2.56,
+        "bttsProbability": 0.5271,
+        "bttsNoProbability": 0.4729,
+        "over25Probability": 0.4704,
+        "under25Probability": 0.5296,
+        "homeWinProbability": 0.4177,
+        "drawProbability": 0.2813,
+        "awayWinProbability": 0.3994,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1341
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1631,
+          "awayElo": 1645,
+          "eloWinProb": 0.573
+        },
+        "matchFingerprint": "38_basel_fc luzern_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-23T17:47:25.409Z",
+        "auditHash": "SHA256-IMMUTABLE-13913C24-2026-11-23",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": false,
+        "overUnderHit": true,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_38_2_LausanneSports",
+      "leagueId": "38",
+      "leagueName": "Swiss Super League",
+      "dateRaw": "Sun 22-Nov-2026",
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "15:30",
+      "homeTeam": "Lausanne Sports",
+      "awayTeam": "FC Vaduz",
+      "score": "2-2",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "totalGoals": 4,
+      "actualBtts": true,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 1.98,
+        "awayExpectedGoals": 2.2,
+        "totalExpectedGoals": 4.18,
+        "bttsProbability": 0.7679,
+        "bttsNoProbability": 0.2321,
+        "over25Probability": 0.7841,
+        "under25Probability": 0.2159,
+        "homeWinProbability": 0.4146,
+        "drawProbability": 0.2091,
+        "awayWinProbability": 0.4475,
+        "predictedScore": {
+          "home": 1,
+          "away": 2,
+          "probability": 0.0732
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 54,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 57,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1553,
+          "awayElo": 1599,
+          "eloWinProb": 0.527
+        },
+        "matchFingerprint": "38_lausanne sports_fc vaduz_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-23T17:47:25.409Z",
+        "auditHash": "SHA256-IMMUTABLE-5F7EC65A-2026-11-23",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": true,
+        "bothHit": true,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_38_3_FCZurich",
+      "leagueId": "38",
+      "leagueName": "Swiss Super League",
+      "dateRaw": "Sun 22-Nov-2026",
+      "dateIso": "2026-11-29T12:00:00.000Z",
       "daysAgo": 0,
       "time": "13:00",
       "homeTeam": "FC Zurich",
       "awayTeam": "St Gallen",
-      "score": "1-1",
-      "homeGoals": 1,
-      "awayGoals": 1,
-      "totalGoals": 2,
+      "score": "2-2",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "totalGoals": 4,
       "actualBtts": true,
-      "actualOver25": false,
+      "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 2.41,
-        "awayExpectedGoals": 1.71,
-        "totalExpectedGoals": 4.12,
-        "bttsProbability": 0.7467,
-        "bttsNoProbability": 0.2533,
-        "over25Probability": 0.775,
-        "under25Probability": 0.225,
-        "homeWinProbability": 0.5397,
-        "drawProbability": 0.2017,
-        "awayWinProbability": 0.3268,
+        "homeExpectedGoals": 2.81,
+        "awayExpectedGoals": 2.03,
+        "totalExpectedGoals": 4.84,
+        "bttsProbability": 0.8109,
+        "bttsNoProbability": 0.1891,
+        "over25Probability": 0.8517,
+        "under25Probability": 0.1483,
+        "homeWinProbability": 0.5457,
+        "drawProbability": 0.1822,
+        "awayWinProbability": 0.3298,
         "predictedScore": {
           "home": 2,
-          "away": 1,
-          "probability": 0.0806
+          "away": 2,
+          "probability": 0.0644
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 49,
+        "bttsConfidence": 62,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 55,
+        "overUnderConfidence": 70,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1706,
@@ -1113,19 +1221,19 @@
           "eloWinProb": 0.566
         },
         "matchFingerprint": "38_fc zurich_st gallen_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:52.424Z",
-        "auditHash": "SHA256-IMMUTABLE-72C5C145-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:25.409Z",
+        "auditHash": "SHA256-IMMUTABLE-DC20A27-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
         "bttsHit": true,
-        "overUnderHit": false,
-        "bothHit": false,
-        "exactScoreHit": false
+        "overUnderHit": true,
+        "bothHit": true,
+        "exactScoreHit": true
       }
     },
     {
-      "id": "res_38_2_FCSion",
+      "id": "res_38_4_FCSion",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1141,20 +1249,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 3.1,
-        "awayExpectedGoals": 0.66,
+        "homeExpectedGoals": 3.11,
+        "awayExpectedGoals": 0.65,
         "totalExpectedGoals": 3.76,
-        "bttsProbability": 0.4564,
-        "bttsNoProbability": 0.5436,
-        "over25Probability": 0.7098,
-        "under25Probability": 0.2902,
-        "homeWinProbability": 0.807,
-        "drawProbability": 0.1073,
-        "awayWinProbability": 0.1141,
+        "bttsProbability": 0.4532,
+        "bttsNoProbability": 0.5468,
+        "over25Probability": 0.7107,
+        "under25Probability": 0.2893,
+        "homeWinProbability": 0.8085,
+        "drawProbability": 0.1058,
+        "awayWinProbability": 0.1133,
         "predictedScore": {
           "home": 3,
           "away": 0,
-          "probability": 0.1158
+          "probability": 0.1166
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1167,8 +1275,8 @@
           "eloWinProb": 0.76
         },
         "matchFingerprint": "38_fc sion_servette fc_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:52.424Z",
-        "auditHash": "SHA256-IMMUTABLE-62E941AB-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:25.409Z",
+        "auditHash": "SHA256-IMMUTABLE-403DD397-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1179,7 +1287,7 @@
       }
     },
     {
-      "id": "res_38_3_FCLugano",
+      "id": "res_38_5_FCLugano",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1202,9 +1310,9 @@
         "bttsNoProbability": 0.8359,
         "over25Probability": 0.7611,
         "under25Probability": 0.2389,
-        "homeWinProbability": 0.8945,
+        "homeWinProbability": 0.8952,
         "drawProbability": 0.0203,
-        "awayWinProbability": 0.0361,
+        "awayWinProbability": 0.0353,
         "predictedScore": {
           "home": 4,
           "away": 0,
@@ -1217,12 +1325,12 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1892,
-          "awayElo": 1572,
-          "eloWinProb": 0.902
+          "awayElo": 1568,
+          "eloWinProb": 0.904
         },
         "matchFingerprint": "38_fc lugano_grasshopper club_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:52.424Z",
-        "auditHash": "SHA256-IMMUTABLE-8B8C93F-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:25.409Z",
+        "auditHash": "SHA256-IMMUTABLE-5201FDED-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1233,7 +1341,7 @@
       }
     },
     {
-      "id": "res_38_4_YoungBoys",
+      "id": "res_38_6_YoungBoys",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1250,33 +1358,33 @@
       "actualOver25": false,
       "prediction": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 2.42,
-        "totalExpectedGoals": 6.92,
-        "bttsProbability": 0.8195,
-        "bttsNoProbability": 0.1805,
-        "over25Probability": 0.8787,
-        "under25Probability": 0.1213,
-        "homeWinProbability": 0.7092,
-        "drawProbability": 0.1163,
-        "awayWinProbability": 0.1569,
+        "awayExpectedGoals": 2.38,
+        "totalExpectedGoals": 6.88,
+        "bttsProbability": 0.8166,
+        "bttsNoProbability": 0.1834,
+        "over25Probability": 0.8781,
+        "under25Probability": 0.1219,
+        "homeWinProbability": 0.7139,
+        "drawProbability": 0.1151,
+        "awayWinProbability": 0.1531,
         "predictedScore": {
           "home": 4,
           "away": 2,
-          "probability": 0.0494
+          "probability": 0.0498
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 64,
+        "bttsConfidence": 63,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 76,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1832,
-          "awayElo": 1610,
-          "eloWinProb": 0.839
+          "awayElo": 1606,
+          "eloWinProb": 0.842
         },
         "matchFingerprint": "38_young boys_thun_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:52.424Z",
-        "auditHash": "SHA256-IMMUTABLE-3FBD14B8-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:25.409Z",
+        "auditHash": "SHA256-IMMUTABLE-5F9D358A-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1287,11 +1395,11 @@
       }
     },
     {
-      "id": "res_38_5_ServetteFC",
+      "id": "res_38_7_ServetteFC",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-22T12:00:00.000Z",
+      "dateIso": "2026-11-29T12:00:00.000Z",
       "daysAgo": 0,
       "time": "15:30",
       "homeTeam": "Servette FC",
@@ -1303,20 +1411,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 1.42,
-        "awayExpectedGoals": 0.92,
+        "homeExpectedGoals": 1.43,
+        "awayExpectedGoals": 0.91,
         "totalExpectedGoals": 2.34,
-        "bttsProbability": 0.4631,
-        "bttsNoProbability": 0.5369,
-        "over25Probability": 0.4144,
-        "under25Probability": 0.5856,
-        "homeWinProbability": 0.5007,
-        "drawProbability": 0.2846,
-        "awayWinProbability": 0.3142,
+        "bttsProbability": 0.4612,
+        "bttsNoProbability": 0.5388,
+        "over25Probability": 0.4137,
+        "under25Probability": 0.5863,
+        "homeWinProbability": 0.5035,
+        "drawProbability": 0.284,
+        "awayWinProbability": 0.3119,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1332
+          "probability": 0.1328
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1329,8 +1437,8 @@
           "eloWinProb": 0.539
         },
         "matchFingerprint": "38_servette fc_fc zurich_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:52.425Z",
-        "auditHash": "SHA256-IMMUTABLE-6681A2A5-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:25.409Z",
+        "auditHash": "SHA256-IMMUTABLE-24660847-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1341,11 +1449,11 @@
       }
     },
     {
-      "id": "res_38_6_Thun",
+      "id": "res_38_8_Thun",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-22T12:00:00.000Z",
+      "dateIso": "2026-11-29T12:00:00.000Z",
       "daysAgo": 0,
       "time": "15:30",
       "homeTeam": "Thun",
@@ -1357,34 +1465,34 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.56,
-        "awayExpectedGoals": 3.66,
-        "totalExpectedGoals": 5.22,
-        "bttsProbability": 0.745,
-        "bttsNoProbability": 0.255,
-        "over25Probability": 0.859,
-        "under25Probability": 0.141,
-        "homeWinProbability": 0.2689,
-        "drawProbability": 0.1249,
-        "awayWinProbability": 0.6282,
+        "homeExpectedGoals": 1.58,
+        "awayExpectedGoals": 3.46,
+        "totalExpectedGoals": 5.05,
+        "bttsProbability": 0.7515,
+        "bttsNoProbability": 0.2485,
+        "over25Probability": 0.8536,
+        "under25Probability": 0.1464,
+        "homeWinProbability": 0.2829,
+        "drawProbability": 0.1365,
+        "awayWinProbability": 0.6118,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0689
+          "probability": 0.0705
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 49,
+        "bttsConfidence": 50,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 72,
+        "overUnderConfidence": 71,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1610,
-          "awayElo": 1641,
-          "eloWinProb": 0.549
+          "homeElo": 1606,
+          "awayElo": 1631,
+          "eloWinProb": 0.557
         },
         "matchFingerprint": "38_thun_basel_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:52.425Z",
-        "auditHash": "SHA256-IMMUTABLE-1530C59D-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:25.410Z",
+        "auditHash": "SHA256-IMMUTABLE-25825322-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1395,11 +1503,11 @@
       }
     },
     {
-      "id": "res_38_7_StGallen",
+      "id": "res_38_9_StGallen",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-22T12:00:00.000Z",
+      "dateIso": "2026-11-29T12:00:00.000Z",
       "daysAgo": 0,
       "time": "13:00",
       "homeTeam": "St Gallen",
@@ -1411,23 +1519,23 @@
       "actualBtts": false,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 2.06,
-        "awayExpectedGoals": 3.66,
-        "totalExpectedGoals": 5.72,
-        "bttsProbability": 0.8209,
-        "bttsNoProbability": 0.1791,
-        "over25Probability": 0.8895,
-        "under25Probability": 0.1105,
-        "homeWinProbability": 0.2432,
-        "drawProbability": 0.1417,
-        "awayWinProbability": 0.6421,
+        "homeExpectedGoals": 2.08,
+        "awayExpectedGoals": 3.63,
+        "totalExpectedGoals": 5.71,
+        "bttsProbability": 0.824,
+        "bttsNoProbability": 0.176,
+        "over25Probability": 0.8903,
+        "under25Probability": 0.1097,
+        "homeWinProbability": 0.2475,
+        "drawProbability": 0.144,
+        "awayWinProbability": 0.6373,
         "predictedScore": {
           "home": 2,
           "away": 3,
-          "probability": 0.0568
+          "probability": 0.0572
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 64,
+        "bttsConfidence": 65,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 78,
         "iicdScore": 1,
@@ -1437,8 +1545,8 @@
           "eloWinProb": 0.357
         },
         "matchFingerprint": "38_st gallen_fc lugano_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:52.425Z",
-        "auditHash": "SHA256-IMMUTABLE-76A6086F-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:25.410Z",
+        "auditHash": "SHA256-IMMUTABLE-38B63533-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1449,7 +1557,7 @@
       }
     },
     {
-      "id": "res_38_8_GrasshopperClub",
+      "id": "res_38_10_GrasshopperClub",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sat 07-Nov-2026",
@@ -1465,20 +1573,20 @@
       "actualBtts": true,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 0.87,
-        "awayExpectedGoals": 0.48,
+        "homeExpectedGoals": 0.86,
+        "awayExpectedGoals": 0.49,
         "totalExpectedGoals": 1.35,
-        "bttsProbability": 0.2287,
-        "bttsNoProbability": 0.7713,
-        "over25Probability": 0.155,
-        "under25Probability": 0.845,
-        "homeWinProbability": 0.4937,
-        "drawProbability": 0.3921,
-        "awayWinProbability": 0.2515,
+        "bttsProbability": 0.2302,
+        "bttsNoProbability": 0.7698,
+        "over25Probability": 0.1547,
+        "under25Probability": 0.8453,
+        "homeWinProbability": 0.4842,
+        "drawProbability": 0.3936,
+        "awayWinProbability": 0.2599,
         "predictedScore": {
           "home": 0,
           "away": 0,
-          "probability": 0.2652
+          "probability": 0.2656
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 54,
@@ -1486,13 +1594,13 @@
         "overUnderConfidence": 69,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1572,
-          "awayElo": 1546,
-          "eloWinProb": 0.628
+          "homeElo": 1568,
+          "awayElo": 1553,
+          "eloWinProb": 0.613
         },
         "matchFingerprint": "38_grasshopper club_lausanne sports_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:52.425Z",
-        "auditHash": "SHA256-IMMUTABLE-3C062E68-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:25.410Z",
+        "auditHash": "SHA256-IMMUTABLE-EB15D21-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1503,7 +1611,7 @@
       }
     },
     {
-      "id": "res_38_9_FCLuzern",
+      "id": "res_38_11_FCLuzern",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sat 07-Nov-2026",
@@ -1519,34 +1627,34 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.22,
+        "homeExpectedGoals": 1.36,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 5.22,
-        "bttsProbability": 0.658,
-        "bttsNoProbability": 0.342,
-        "over25Probability": 0.8417,
-        "under25Probability": 0.1583,
-        "homeWinProbability": 0.1428,
-        "drawProbability": 0.0912,
-        "awayWinProbability": 0.7646,
+        "totalExpectedGoals": 5.36,
+        "bttsProbability": 0.6933,
+        "bttsNoProbability": 0.3067,
+        "over25Probability": 0.8514,
+        "under25Probability": 0.1486,
+        "homeWinProbability": 0.1657,
+        "drawProbability": 0.0981,
+        "awayWinProbability": 0.7372,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0703
+          "probability": 0.0682
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 68,
+        "overUnderConfidence": 70,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1611,
+          "homeElo": 1645,
           "awayElo": 1832,
-          "eloWinProb": 0.289
+          "eloWinProb": 0.331
         },
         "matchFingerprint": "38_fc luzern_young boys_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:52.425Z",
-        "auditHash": "SHA256-IMMUTABLE-153BEB31-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:25.410Z",
+        "auditHash": "SHA256-IMMUTABLE-42AA696C-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1557,7 +1665,7 @@
       }
     },
     {
-      "id": "res_38_10_FCVaduz",
+      "id": "res_38_12_FCVaduz",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sat 07-Nov-2026",
@@ -1573,34 +1681,34 @@
       "actualBtts": false,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.71,
+        "homeExpectedGoals": 1.77,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 5.71,
-        "bttsProbability": 0.7637,
-        "bttsNoProbability": 0.2363,
-        "over25Probability": 0.8724,
-        "under25Probability": 0.1276,
-        "homeWinProbability": 0.1775,
-        "drawProbability": 0.1138,
-        "awayWinProbability": 0.715,
+        "totalExpectedGoals": 5.77,
+        "bttsProbability": 0.7734,
+        "bttsNoProbability": 0.2266,
+        "over25Probability": 0.8755,
+        "under25Probability": 0.1245,
+        "homeWinProbability": 0.1862,
+        "drawProbability": 0.1162,
+        "awayWinProbability": 0.7048,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0604
+          "probability": 0.0588
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 53,
+        "bttsConfidence": 55,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 74,
+        "overUnderConfidence": 75,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1589,
+          "homeElo": 1599,
           "awayElo": 1803,
-          "eloWinProb": 0.298
+          "eloWinProb": 0.31
         },
         "matchFingerprint": "38_fc vaduz_fc sion_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:52.425Z",
-        "auditHash": "SHA256-IMMUTABLE-57E29885-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:25.410Z",
+        "auditHash": "SHA256-IMMUTABLE-67BA1AFC-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1611,11 +1719,11 @@
       }
     },
     {
-      "id": "res_38_11_FCLugano",
+      "id": "res_38_13_FCLugano",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sun 01-Nov-2026",
-      "dateIso": "2026-11-22T12:00:00.000Z",
+      "dateIso": "2026-11-29T12:00:00.000Z",
       "daysAgo": 0,
       "time": "15:30",
       "homeTeam": "FC Lugano",
@@ -1628,19 +1736,19 @@
       "actualOver25": true,
       "prediction": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.52,
-        "totalExpectedGoals": 5.02,
-        "bttsProbability": 0.3685,
-        "bttsNoProbability": 0.6315,
-        "over25Probability": 0.7907,
-        "under25Probability": 0.2093,
-        "homeWinProbability": 0.8646,
-        "drawProbability": 0.0358,
-        "awayWinProbability": 0.0558,
+        "awayExpectedGoals": 0.49,
+        "totalExpectedGoals": 4.99,
+        "bttsProbability": 0.3517,
+        "bttsNoProbability": 0.6483,
+        "over25Probability": 0.7881,
+        "under25Probability": 0.2119,
+        "homeWinProbability": 0.8686,
+        "drawProbability": 0.0343,
+        "awayWinProbability": 0.0528,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1125
+          "probability": 0.116
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1649,12 +1757,12 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1892,
-          "awayElo": 1641,
-          "eloWinProb": 0.86
+          "awayElo": 1631,
+          "eloWinProb": 0.867
         },
         "matchFingerprint": "38_fc lugano_basel_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:52.425Z",
-        "auditHash": "SHA256-IMMUTABLE-19B0B5FF-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:25.410Z",
+        "auditHash": "SHA256-IMMUTABLE-432C6CB7-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1665,11 +1773,11 @@
       }
     },
     {
-      "id": "res_38_12_LausanneSports",
+      "id": "res_38_14_LausanneSports",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sun 01-Nov-2026",
-      "dateIso": "2026-11-22T12:00:00.000Z",
+      "dateIso": "2026-11-29T12:00:00.000Z",
       "daysAgo": 0,
       "time": "15:30",
       "homeTeam": "Lausanne Sports",
@@ -1681,34 +1789,34 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.91,
-        "awayExpectedGoals": 4,
-        "totalExpectedGoals": 5.91,
-        "bttsProbability": 0.7927,
-        "bttsNoProbability": 0.2073,
-        "over25Probability": 0.8818,
-        "under25Probability": 0.1182,
-        "homeWinProbability": 0.2631,
-        "drawProbability": 0.1211,
-        "awayWinProbability": 0.6245,
+        "homeExpectedGoals": 2.06,
+        "awayExpectedGoals": 3.95,
+        "totalExpectedGoals": 6.01,
+        "bttsProbability": 0.8143,
+        "bttsNoProbability": 0.1857,
+        "over25Probability": 0.8893,
+        "under25Probability": 0.1107,
+        "homeWinProbability": 0.2837,
+        "drawProbability": 0.1289,
+        "awayWinProbability": 0.6005,
         "predictedScore": {
-          "home": 1,
+          "home": 2,
           "away": 3,
-          "probability": 0.0554
+          "probability": 0.0535
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 59,
+        "bttsConfidence": 63,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 76,
+        "overUnderConfidence": 78,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1546,
-          "awayElo": 1610,
-          "eloWinProb": 0.501
+          "homeElo": 1553,
+          "awayElo": 1606,
+          "eloWinProb": 0.517
         },
         "matchFingerprint": "38_lausanne sports_thun_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:52.425Z",
-        "auditHash": "SHA256-IMMUTABLE-E4E37C1-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:25.410Z",
+        "auditHash": "SHA256-IMMUTABLE-189ABC9C-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1719,11 +1827,11 @@
       }
     },
     {
-      "id": "res_38_13_YoungBoys",
+      "id": "res_38_15_YoungBoys",
       "leagueId": "38",
       "leagueName": "Swiss Super League",
       "dateRaw": "Sun 01-Nov-2026",
-      "dateIso": "2026-11-22T12:00:00.000Z",
+      "dateIso": "2026-11-29T12:00:00.000Z",
       "daysAgo": 0,
       "time": "13:00",
       "homeTeam": "Young Boys",
@@ -1736,22 +1844,22 @@
       "actualOver25": true,
       "prediction": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 1.98,
-        "totalExpectedGoals": 6.48,
-        "bttsProbability": 0.7776,
-        "bttsNoProbability": 0.2224,
-        "over25Probability": 0.8688,
-        "under25Probability": 0.1312,
-        "homeWinProbability": 0.7183,
-        "drawProbability": 0.1019,
-        "awayWinProbability": 0.1586,
+        "awayExpectedGoals": 1.96,
+        "totalExpectedGoals": 6.46,
+        "bttsProbability": 0.7751,
+        "bttsNoProbability": 0.2249,
+        "over25Probability": 0.8682,
+        "under25Probability": 0.1318,
+        "homeWinProbability": 0.7201,
+        "drawProbability": 0.1012,
+        "awayWinProbability": 0.1573,
         "predictedScore": {
           "home": 4,
           "away": 1,
-          "probability": 0.0519
+          "probability": 0.0524
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 56,
+        "bttsConfidence": 55,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 74,
         "iicdScore": 1,
@@ -1761,116 +1869,8 @@
           "eloWinProb": 0.75
         },
         "matchFingerprint": "38_young boys_fc zurich_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:52.425Z",
-        "auditHash": "SHA256-IMMUTABLE-14BB5BFA-2026-11-22",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": true,
-        "overUnderHit": true,
-        "bothHit": true,
-        "exactScoreHit": false
-      }
-    },
-    {
-      "id": "res_38_14_FCLuzern",
-      "leagueId": "38",
-      "leagueName": "Swiss Super League",
-      "dateRaw": "Sat 31-Oct-2026",
-      "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "19:30",
-      "homeTeam": "FC Luzern",
-      "awayTeam": "FC Sion",
-      "score": "1-1",
-      "homeGoals": 1,
-      "awayGoals": 1,
-      "totalGoals": 2,
-      "actualBtts": true,
-      "actualOver25": false,
-      "prediction": {
-        "homeExpectedGoals": 1.51,
-        "awayExpectedGoals": 4,
-        "totalExpectedGoals": 5.51,
-        "bttsProbability": 0.7255,
-        "bttsNoProbability": 0.2745,
-        "over25Probability": 0.8607,
-        "under25Probability": 0.1393,
-        "homeWinProbability": 0.1728,
-        "drawProbability": 0.1049,
-        "awayWinProbability": 0.7256,
-        "predictedScore": {
-          "home": 1,
-          "away": 3,
-          "probability": 0.0653
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 45,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 72,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1611,
-          "awayElo": 1803,
-          "eloWinProb": 0.325
-        },
-        "matchFingerprint": "38_fc luzern_fc sion_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:52.425Z",
-        "auditHash": "SHA256-IMMUTABLE-BEAF585-2026-11-22",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": true,
-        "overUnderHit": false,
-        "bothHit": false,
-        "exactScoreHit": false
-      }
-    },
-    {
-      "id": "res_38_15_GrasshopperClub",
-      "leagueId": "38",
-      "leagueName": "Swiss Super League",
-      "dateRaw": "Sat 31-Oct-2026",
-      "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "17:00",
-      "homeTeam": "Grasshopper Club",
-      "awayTeam": "FC Vaduz",
-      "score": "2-2",
-      "homeGoals": 2,
-      "awayGoals": 2,
-      "totalGoals": 4,
-      "actualBtts": true,
-      "actualOver25": true,
-      "prediction": {
-        "homeExpectedGoals": 1.98,
-        "awayExpectedGoals": 1.77,
-        "totalExpectedGoals": 3.75,
-        "bttsProbability": 0.7189,
-        "bttsNoProbability": 0.2811,
-        "over25Probability": 0.7215,
-        "under25Probability": 0.2785,
-        "homeWinProbability": 0.4775,
-        "drawProbability": 0.2233,
-        "awayWinProbability": 0.3764,
-        "predictedScore": {
-          "home": 1,
-          "away": 1,
-          "probability": 0.0874
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 44,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 44,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1572,
-          "awayElo": 1589,
-          "eloWinProb": 0.569
-        },
-        "matchFingerprint": "38_grasshopper club_fc vaduz_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:52.425Z",
-        "auditHash": "SHA256-IMMUTABLE-1AA2F2C3-2026-11-22",
+        "lockedAt": "2026-11-23T17:47:25.410Z",
+        "auditHash": "SHA256-IMMUTABLE-6A044798-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1987,24 +1987,24 @@
       "aw": 3,
       "ad": 1,
       "al": 3,
-      "af": 10,
-      "aa": 12,
+      "af": 11,
+      "aa": 13,
       "gd": 2,
       "pts": 23,
       "ppg": 1.64,
       "form": "WWLWWD",
-      "ycF": 1.9,
+      "ycF": 2,
       "ycA": 2,
       "rcF": 0.3,
       "rcA": 0.3,
       "psF": 46,
       "psA": 54,
-      "cF": 7.4,
-      "cA": 4,
-      "stF": 5.6,
-      "stA": 5,
-      "sntF": 6.1,
-      "sntA": 5.9
+      "cF": 8.3,
+      "cA": 4.6,
+      "stF": 6.3,
+      "stA": 5.1,
+      "sntF": 6.4,
+      "sntA": 6.1
     },
     "FC Zurich": {
       "pos": 5,
@@ -2013,8 +2013,8 @@
       "hw": 4,
       "hd": 1,
       "hl": 2,
-      "hf": 14,
-      "ha": 12,
+      "hf": 15,
+      "ha": 13,
       "aw": 2,
       "ad": 3,
       "al": 2,
@@ -2068,24 +2068,55 @@
       "sntF": 4.9,
       "sntA": 6.7
     },
-    "Basel": {
+    "FC Luzern": {
       "pos": 7,
+      "team": "FC Luzern",
+      "p": 14,
+      "hw": 3,
+      "hd": 1,
+      "hl": 3,
+      "hf": 14,
+      "ha": 13,
+      "aw": 1,
+      "ad": 3,
+      "al": 3,
+      "af": 9,
+      "aa": 15,
+      "gd": -5,
+      "pts": 16,
+      "ppg": 1.14,
+      "form": "WLLDLW",
+      "ycF": 2.4,
+      "ycA": 2.4,
+      "rcF": 0,
+      "rcA": 0,
+      "psF": 44,
+      "psA": 56,
+      "cF": 5.4,
+      "cA": 6.4,
+      "stF": 4.7,
+      "stA": 6.7,
+      "sntF": 6.6,
+      "sntA": 6.7
+    },
+    "Basel": {
+      "pos": 8,
       "team": "Basel",
-      "p": 13,
+      "p": 14,
       "hw": 1,
       "hd": 1,
-      "hl": 4,
+      "hl": 5,
       "hf": 7,
-      "ha": 11,
+      "ha": 13,
       "aw": 3,
       "ad": 2,
       "al": 2,
       "af": 14,
       "aa": 14,
-      "gd": -4,
+      "gd": -6,
       "pts": 15,
-      "ppg": 1.15,
-      "form": "WLLdLD",
+      "ppg": 1.07,
+      "form": "LLdLDL",
       "ycF": 2.1,
       "ycA": 2.3,
       "rcF": 0,
@@ -2100,7 +2131,7 @@
       "sntA": 7.3
     },
     "Thun": {
-      "pos": 8,
+      "pos": 9,
       "team": "Thun",
       "p": 14,
       "hw": 0,
@@ -2130,39 +2161,39 @@
       "sntF": 5.6,
       "sntA": 7.1
     },
-    "FC Luzern": {
-      "pos": 9,
-      "team": "FC Luzern",
-      "p": 13,
+    "FC Vaduz": {
+      "pos": 10,
+      "team": "FC Vaduz",
+      "p": 14,
       "hw": 3,
-      "hd": 1,
+      "hd": 0,
       "hl": 3,
       "hf": 14,
-      "ha": 13,
+      "ha": 12,
       "aw": 0,
-      "ad": 3,
-      "al": 3,
-      "af": 7,
-      "aa": 15,
-      "gd": -7,
-      "pts": 13,
-      "ppg": 1,
-      "form": "LWLLDL",
-      "ycF": 2.3,
-      "ycA": 2.7,
+      "ad": 2,
+      "al": 6,
+      "af": 12,
+      "aa": 19,
+      "gd": -5,
+      "pts": 11,
+      "ppg": 0.78,
+      "form": "LWLDLD",
+      "ycF": 3.1,
+      "ycA": 2.1,
       "rcF": 0,
       "rcA": 0,
-      "psF": 43,
-      "psA": 57,
-      "cF": 5,
-      "cA": 6.7,
-      "stF": 4.2,
-      "stA": 7.7,
-      "sntF": 6,
-      "sntA": 7.2
+      "psF": 58,
+      "psA": 46,
+      "cF": 4.3,
+      "cA": 6.3,
+      "stF": 4,
+      "stA": 7.6,
+      "sntF": 5.8,
+      "sntA": 8.3
     },
     "Grasshopper Club": {
-      "pos": 10,
+      "pos": 11,
       "team": "Grasshopper Club",
       "p": 14,
       "hw": 1,
@@ -2192,55 +2223,24 @@
       "sntF": 6.6,
       "sntA": 6.6
     },
-    "FC Vaduz": {
-      "pos": 11,
-      "team": "FC Vaduz",
-      "p": 13,
-      "hw": 3,
-      "hd": 0,
-      "hl": 3,
-      "hf": 14,
-      "ha": 12,
-      "aw": 0,
-      "ad": 1,
-      "al": 6,
-      "af": 10,
-      "aa": 17,
-      "gd": -5,
-      "pts": 10,
-      "ppg": 0.76,
-      "form": "LLWLDL",
-      "ycF": 3,
-      "ycA": 2,
-      "rcF": 0,
-      "rcA": 0,
-      "psF": 58,
-      "psA": 47,
-      "cF": 4.3,
-      "cA": 6.4,
-      "stF": 4,
-      "stA": 8,
-      "sntF": 5.7,
-      "sntA": 8.6
-    },
     "Lausanne Sports": {
       "pos": 12,
       "team": "Lausanne Sports",
-      "p": 13,
+      "p": 14,
       "hw": 0,
-      "hd": 2,
+      "hd": 3,
       "hl": 4,
-      "hf": 9,
-      "ha": 16,
+      "hf": 11,
+      "ha": 18,
       "aw": 1,
       "ad": 2,
       "al": 4,
       "af": 3,
       "aa": 7,
       "gd": -11,
-      "pts": 7,
-      "ppg": 0.53,
-      "form": "LLLLLD",
+      "pts": 8,
+      "ppg": 0.57,
+      "form": "LLLLDD",
       "ycF": 3.1,
       "ycA": 2,
       "rcF": 0,
@@ -2258,31 +2258,31 @@
   "backtest": {
     "totalMatches": 15,
     "bttsEvaluated": 15,
-    "bttsHits": 10,
-    "bttsAccuracy": 66.7,
+    "bttsHits": 9,
+    "bttsAccuracy": 60,
     "overUnderEvaluated": 15,
-    "overUnderHits": 10,
-    "overUnderAccuracy": 66.7,
-    "overallAccuracy": 66.7,
-    "exactScoreHits": 0,
-    "exactScoreAccuracy": 0,
+    "overUnderHits": 12,
+    "overUnderAccuracy": 80,
+    "overallAccuracy": 70,
+    "exactScoreHits": 1,
+    "exactScoreAccuracy": 6.7,
     "confusionMatrix": {
       "btts": {
-        "predictedYesActualYes": 7,
-        "predictedYesActualNo": 3,
+        "predictedYesActualYes": 6,
+        "predictedYesActualNo": 4,
         "predictedNoActualYes": 2,
         "predictedNoActualNo": 3
       },
       "overUnder": {
-        "predictedOverActualOver": 8,
-        "predictedOverActualUnder": 5,
+        "predictedOverActualOver": 9,
+        "predictedOverActualUnder": 3,
         "predictedUnderActualOver": 0,
-        "predictedUnderActualUnder": 2
+        "predictedUnderActualUnder": 3
       }
     },
-    "logLoss": 0.7083,
-    "brierScore": 0.2494,
-    "simulatedRoi": 27.3
+    "logLoss": 0.625,
+    "brierScore": 0.2165,
+    "simulatedRoi": 33.7
   },
   "parameters": {
     "homeAdvantage": 1.18,

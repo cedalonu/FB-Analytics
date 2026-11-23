@@ -1,180 +1,38 @@
 {
   "leagueId": "34",
   "leagueName": "Ligue 1",
-  "timestamp": "2026-11-22T14:22:39.142Z",
+  "timestamp": "2026-11-23T17:46:49.044Z",
   "fixtures": [
     {
-      "id": "fix_34_1_Lorient",
-      "leagueId": "34",
-      "leagueName": "Ligue 1",
-      "dateRaw": "Sun 22/11",
-      "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 0,
-      "time": "16:15",
-      "homeTeam": "Lorient",
-      "awayTeam": "Rennes",
-      "odds": {
-        "home": 2.96,
-        "draw": 3.64,
-        "away": 2.49
-      },
-      "prediction": {
-        "homeExpectedGoals": 2.5,
-        "awayExpectedGoals": 1.6,
-        "totalExpectedGoals": 4.09,
-        "bttsProbability": 0.732,
-        "bttsNoProbability": 0.268,
-        "over25Probability": 0.7708,
-        "under25Probability": 0.2292,
-        "homeWinProbability": 0.5699,
-        "drawProbability": 0.1953,
-        "awayWinProbability": 0.3002,
-        "predictedScore": {
-          "home": 2,
-          "away": 1,
-          "probability": 0.083
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 46,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 54,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1687,
-          "awayElo": 1698,
-          "eloWinProb": 0.577
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 2.5,
-        "awayExpectedGoals": 1.6,
-        "totalExpectedGoals": 4.09,
-        "bttsProbability": 0.732,
-        "bttsNoProbability": 0.268,
-        "over25Probability": 0.7708,
-        "under25Probability": 0.2292,
-        "homeWinProbability": 0.5699,
-        "drawProbability": 0.1953,
-        "awayWinProbability": 0.3002,
-        "predictedScore": {
-          "home": 2,
-          "away": 1,
-          "probability": 0.083
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 46,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 54,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1687,
-          "awayElo": 1698,
-          "eloWinProb": 0.577
-        }
-      },
-      "confidenceScore": 77
-    },
-    {
-      "id": "fix_34_2_Marseille",
-      "leagueId": "34",
-      "leagueName": "Ligue 1",
-      "dateRaw": "Sun 22/11",
-      "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 0,
-      "time": "19:45",
-      "homeTeam": "Marseille",
-      "awayTeam": "Le Mans",
-      "odds": {
-        "home": 1.5,
-        "draw": 5.03,
-        "away": 6.67
-      },
-      "prediction": {
-        "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.84,
-        "totalExpectedGoals": 5.34,
-        "bttsProbability": 0.5146,
-        "bttsNoProbability": 0.4854,
-        "over25Probability": 0.8148,
-        "under25Probability": 0.1852,
-        "homeWinProbability": 0.8289,
-        "drawProbability": 0.0515,
-        "awayWinProbability": 0.0813,
-        "predictedScore": {
-          "home": 4,
-          "away": 0,
-          "probability": 0.0818
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 63,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1757,
-          "awayElo": 1568,
-          "eloWinProb": 0.812
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.84,
-        "totalExpectedGoals": 5.34,
-        "bttsProbability": 0.5146,
-        "bttsNoProbability": 0.4854,
-        "over25Probability": 0.8148,
-        "under25Probability": 0.1852,
-        "homeWinProbability": 0.8289,
-        "drawProbability": 0.0515,
-        "awayWinProbability": 0.0813,
-        "predictedScore": {
-          "home": 4,
-          "away": 0,
-          "probability": 0.0818
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 63,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1757,
-          "awayElo": 1568,
-          "eloWinProb": 0.812
-        }
-      },
-      "confidenceScore": 81
-    },
-    {
-      "id": "fix_34_3_Brest",
+      "id": "fix_34_1_Brest",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Fri 27/11",
       "dateIso": "2026-11-27T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "19:45",
       "homeTeam": "Brest",
       "awayTeam": "Paris FC",
       "odds": {
-        "home": 3.18,
-        "draw": 3.72,
-        "away": 2.31
+        "home": 3.26,
+        "draw": 3.7,
+        "away": 2.28
       },
       "prediction": {
-        "homeExpectedGoals": 1.47,
-        "awayExpectedGoals": 1,
-        "totalExpectedGoals": 2.47,
-        "bttsProbability": 0.4941,
-        "bttsNoProbability": 0.5059,
-        "over25Probability": 0.4478,
-        "under25Probability": 0.5522,
-        "homeWinProbability": 0.4914,
-        "drawProbability": 0.278,
-        "awayWinProbability": 0.3278,
+        "homeExpectedGoals": 1.36,
+        "awayExpectedGoals": 1.05,
+        "totalExpectedGoals": 2.41,
+        "bttsProbability": 0.4911,
+        "bttsNoProbability": 0.5089,
+        "over25Probability": 0.4328,
+        "under25Probability": 0.5672,
+        "homeWinProbability": 0.4485,
+        "drawProbability": 0.2874,
+        "awayWinProbability": 0.3646,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1319
+          "probability": 0.1361
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -183,25 +41,25 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1750,
-          "awayElo": 1795,
-          "eloWinProb": 0.529
+          "awayElo": 1826,
+          "eloWinProb": 0.484
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.47,
-        "awayExpectedGoals": 1,
-        "totalExpectedGoals": 2.47,
-        "bttsProbability": 0.4941,
-        "bttsNoProbability": 0.5059,
-        "over25Probability": 0.4478,
-        "under25Probability": 0.5522,
-        "homeWinProbability": 0.4914,
-        "drawProbability": 0.278,
-        "awayWinProbability": 0.3278,
+        "homeExpectedGoals": 1.36,
+        "awayExpectedGoals": 1.05,
+        "totalExpectedGoals": 2.41,
+        "bttsProbability": 0.4911,
+        "bttsNoProbability": 0.5089,
+        "over25Probability": 0.4328,
+        "under25Probability": 0.5672,
+        "homeWinProbability": 0.4485,
+        "drawProbability": 0.2874,
+        "awayWinProbability": 0.3646,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1319
+          "probability": 0.1361
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -210,42 +68,42 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1750,
-          "awayElo": 1795,
-          "eloWinProb": 0.529
+          "awayElo": 1826,
+          "eloWinProb": 0.484
         }
       },
-      "confidenceScore": 55
+      "confidenceScore": 57
     },
     {
-      "id": "fix_34_4_Angers",
+      "id": "fix_34_2_Angers",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "16:15",
       "homeTeam": "Angers",
       "awayTeam": "Lens",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 4.67,
+        "draw": 4.31,
+        "away": 1.76
       },
       "prediction": {
-        "homeExpectedGoals": 0.75,
-        "awayExpectedGoals": 2.33,
-        "totalExpectedGoals": 3.08,
-        "bttsProbability": 0.4793,
-        "bttsNoProbability": 0.5207,
-        "over25Probability": 0.5914,
-        "under25Probability": 0.4086,
-        "homeWinProbability": 0.2192,
-        "drawProbability": 0.1786,
-        "awayWinProbability": 0.6629,
+        "homeExpectedGoals": 0.68,
+        "awayExpectedGoals": 2.38,
+        "totalExpectedGoals": 3.06,
+        "bttsProbability": 0.4521,
+        "bttsNoProbability": 0.5479,
+        "over25Probability": 0.5876,
+        "under25Probability": 0.4124,
+        "homeWinProbability": 0.1972,
+        "drawProbability": 0.169,
+        "awayWinProbability": 0.6909,
         "predictedScore": {
           "home": 0,
           "away": 2,
-          "probability": 0.1249
+          "probability": 0.1324
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -253,26 +111,26 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1573,
+          "homeElo": 1547,
           "awayElo": 1677,
-          "eloWinProb": 0.444
+          "eloWinProb": 0.408
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.75,
-        "awayExpectedGoals": 2.33,
-        "totalExpectedGoals": 3.08,
-        "bttsProbability": 0.4793,
-        "bttsNoProbability": 0.5207,
-        "over25Probability": 0.5914,
-        "under25Probability": 0.4086,
-        "homeWinProbability": 0.2192,
-        "drawProbability": 0.1786,
-        "awayWinProbability": 0.6629,
+        "homeExpectedGoals": 0.68,
+        "awayExpectedGoals": 2.38,
+        "totalExpectedGoals": 3.06,
+        "bttsProbability": 0.4521,
+        "bttsNoProbability": 0.5479,
+        "over25Probability": 0.5876,
+        "under25Probability": 0.4124,
+        "homeWinProbability": 0.1972,
+        "drawProbability": 0.169,
+        "awayWinProbability": 0.6909,
         "predictedScore": {
           "home": 0,
           "away": 2,
-          "probability": 0.1249
+          "probability": 0.1324
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -280,43 +138,43 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1573,
+          "homeElo": 1547,
           "awayElo": 1677,
-          "eloWinProb": 0.444
+          "eloWinProb": 0.408
         }
       },
       "confidenceScore": 59
     },
     {
-      "id": "fix_34_5_LeHavre",
+      "id": "fix_34_3_LeHavre",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "19:45",
       "homeTeam": "Le Havre",
       "awayTeam": "Strasbourg",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 3.1,
+        "draw": 3.9,
+        "away": 2.29
       },
       "prediction": {
-        "homeExpectedGoals": 0.76,
-        "awayExpectedGoals": 2.77,
-        "totalExpectedGoals": 3.52,
-        "bttsProbability": 0.4966,
-        "bttsNoProbability": 0.5034,
-        "over25Probability": 0.6759,
-        "under25Probability": 0.3241,
-        "homeWinProbability": 0.1947,
-        "drawProbability": 0.1394,
-        "awayWinProbability": 0.7097,
+        "homeExpectedGoals": 0.74,
+        "awayExpectedGoals": 2.7,
+        "totalExpectedGoals": 3.44,
+        "bttsProbability": 0.4869,
+        "bttsNoProbability": 0.5131,
+        "over25Probability": 0.6609,
+        "under25Probability": 0.3391,
+        "homeWinProbability": 0.1974,
+        "drawProbability": 0.1436,
+        "awayWinProbability": 0.7049,
         "predictedScore": {
           "home": 0,
           "away": 2,
-          "probability": 0.113
+          "probability": 0.1172
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -325,25 +183,25 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1482,
-          "awayElo": 1601,
-          "eloWinProb": 0.423
+          "awayElo": 1597,
+          "eloWinProb": 0.429
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.76,
-        "awayExpectedGoals": 2.77,
-        "totalExpectedGoals": 3.52,
-        "bttsProbability": 0.4966,
-        "bttsNoProbability": 0.5034,
-        "over25Probability": 0.6759,
-        "under25Probability": 0.3241,
-        "homeWinProbability": 0.1947,
-        "drawProbability": 0.1394,
-        "awayWinProbability": 0.7097,
+        "homeExpectedGoals": 0.74,
+        "awayExpectedGoals": 2.7,
+        "totalExpectedGoals": 3.44,
+        "bttsProbability": 0.4869,
+        "bttsNoProbability": 0.5131,
+        "over25Probability": 0.6609,
+        "under25Probability": 0.3391,
+        "homeWinProbability": 0.1974,
+        "drawProbability": 0.1436,
+        "awayWinProbability": 0.7049,
         "predictedScore": {
           "home": 0,
           "away": 2,
-          "probability": 0.113
+          "probability": 0.1172
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -352,232 +210,232 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1482,
-          "awayElo": 1601,
-          "eloWinProb": 0.423
+          "awayElo": 1597,
+          "eloWinProb": 0.429
+        }
+      },
+      "confidenceScore": 66
+    },
+    {
+      "id": "fix_34_4_LeMans",
+      "leagueId": "34",
+      "leagueName": "Ligue 1",
+      "dateRaw": "Sat 28/11",
+      "dateIso": "2026-11-28T12:00:00.000Z",
+      "daysFromNow": 5,
+      "time": "19:45",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Lille",
+      "odds": {
+        "home": 4.06,
+        "draw": 3.7,
+        "away": 2
+      },
+      "prediction": {
+        "homeExpectedGoals": 0.65,
+        "awayExpectedGoals": 2.88,
+        "totalExpectedGoals": 3.53,
+        "bttsProbability": 0.4507,
+        "bttsNoProbability": 0.5493,
+        "over25Probability": 0.6751,
+        "under25Probability": 0.3249,
+        "homeWinProbability": 0.1578,
+        "drawProbability": 0.1228,
+        "awayWinProbability": 0.7562,
+        "predictedScore": {
+          "home": 0,
+          "away": 2,
+          "probability": 0.1214
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1616,
+          "awayElo": 1788,
+          "eloWinProb": 0.351
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 0.65,
+        "awayExpectedGoals": 2.88,
+        "totalExpectedGoals": 3.53,
+        "bttsProbability": 0.4507,
+        "bttsNoProbability": 0.5493,
+        "over25Probability": 0.6751,
+        "under25Probability": 0.3249,
+        "homeWinProbability": 0.1578,
+        "drawProbability": 0.1228,
+        "awayWinProbability": 0.7562,
+        "predictedScore": {
+          "home": 0,
+          "away": 2,
+          "probability": 0.1214
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1616,
+          "awayElo": 1788,
+          "eloWinProb": 0.351
         }
       },
       "confidenceScore": 68
     },
     {
-      "id": "fix_34_6_LeMans",
+      "id": "fix_34_5_Nice",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 6,
-      "time": "19:45",
-      "homeTeam": "Le Mans",
-      "awayTeam": "Lille",
-      "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
-      },
-      "prediction": {
-        "homeExpectedGoals": 0.55,
-        "awayExpectedGoals": 2.82,
-        "totalExpectedGoals": 3.36,
-        "bttsProbability": 0.3953,
-        "bttsNoProbability": 0.6047,
-        "over25Probability": 0.6447,
-        "under25Probability": 0.3553,
-        "homeWinProbability": 0.1306,
-        "drawProbability": 0.1186,
-        "awayWinProbability": 0.7868,
-        "predictedScore": {
-          "home": 0,
-          "away": 2,
-          "probability": 0.1374
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1568,
-          "awayElo": 1788,
-          "eloWinProb": 0.291
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 0.55,
-        "awayExpectedGoals": 2.82,
-        "totalExpectedGoals": 3.36,
-        "bttsProbability": 0.3953,
-        "bttsNoProbability": 0.6047,
-        "over25Probability": 0.6447,
-        "under25Probability": 0.3553,
-        "homeWinProbability": 0.1306,
-        "drawProbability": 0.1186,
-        "awayWinProbability": 0.7868,
-        "predictedScore": {
-          "home": 0,
-          "away": 2,
-          "probability": 0.1374
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1568,
-          "awayElo": 1788,
-          "eloWinProb": 0.291
-        }
-      },
-      "confidenceScore": 64
-    },
-    {
-      "id": "fix_34_7_Nice",
-      "leagueId": "34",
-      "leagueName": "Ligue 1",
-      "dateRaw": "Sat 28/11",
-      "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "19:45",
       "homeTeam": "Nice",
       "awayTeam": "Troyes",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 1.69,
+        "draw": 4.31,
+        "away": 5.18
       },
       "prediction": {
-        "homeExpectedGoals": 2.03,
-        "awayExpectedGoals": 0.28,
-        "totalExpectedGoals": 2.31,
-        "bttsProbability": 0.2141,
-        "bttsNoProbability": 0.7859,
-        "over25Probability": 0.4044,
-        "under25Probability": 0.5956,
-        "homeWinProbability": 0.7701,
-        "drawProbability": 0.1711,
-        "awayWinProbability": 0.1179,
+        "homeExpectedGoals": 2.16,
+        "awayExpectedGoals": 0.31,
+        "totalExpectedGoals": 2.47,
+        "bttsProbability": 0.2389,
+        "bttsNoProbability": 0.7611,
+        "over25Probability": 0.4465,
+        "under25Probability": 0.5535,
+        "homeWinProbability": 0.7793,
+        "drawProbability": 0.1584,
+        "awayWinProbability": 0.1166,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.2049
+          "probability": 0.1973
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 57,
+        "bttsConfidence": 52,
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1721,
-          "awayElo": 1610,
-          "eloWinProb": 0.734
+          "awayElo": 1606,
+          "eloWinProb": 0.738
         }
       },
       "pred": {
-        "homeExpectedGoals": 2.03,
-        "awayExpectedGoals": 0.28,
-        "totalExpectedGoals": 2.31,
-        "bttsProbability": 0.2141,
-        "bttsNoProbability": 0.7859,
-        "over25Probability": 0.4044,
-        "under25Probability": 0.5956,
-        "homeWinProbability": 0.7701,
-        "drawProbability": 0.1711,
-        "awayWinProbability": 0.1179,
+        "homeExpectedGoals": 2.16,
+        "awayExpectedGoals": 0.31,
+        "totalExpectedGoals": 2.47,
+        "bttsProbability": 0.2389,
+        "bttsNoProbability": 0.7611,
+        "over25Probability": 0.4465,
+        "under25Probability": 0.5535,
+        "homeWinProbability": 0.7793,
+        "drawProbability": 0.1584,
+        "awayWinProbability": 0.1166,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.2049
+          "probability": 0.1973
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 57,
+        "bttsConfidence": 52,
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1721,
-          "awayElo": 1610,
-          "eloWinProb": 0.734
+          "awayElo": 1606,
+          "eloWinProb": 0.738
         }
       },
-      "confidenceScore": 79
+      "confidenceScore": 76
     },
     {
-      "id": "fix_34_8_ParisSaintGermain",
+      "id": "fix_34_6_ParisSaintGermain",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "19:45",
       "homeTeam": "Paris Saint Germain",
       "awayTeam": "Lorient",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 1.25,
+        "draw": 7.07,
+        "away": 13.1
       },
       "prediction": {
-        "homeExpectedGoals": 0.79,
-        "awayExpectedGoals": 0.34,
-        "totalExpectedGoals": 1.14,
-        "bttsProbability": 0.1637,
-        "bttsNoProbability": 0.8363,
-        "over25Probability": 0.1069,
-        "under25Probability": 0.8931,
-        "homeWinProbability": 0.5618,
-        "drawProbability": 0.4248,
-        "awayWinProbability": 0.1621,
+        "homeExpectedGoals": 0.85,
+        "awayExpectedGoals": 0.38,
+        "totalExpectedGoals": 1.23,
+        "bttsProbability": 0.1886,
+        "bttsNoProbability": 0.8114,
+        "over25Probability": 0.1281,
+        "under25Probability": 0.8719,
+        "homeWinProbability": 0.5644,
+        "drawProbability": 0.4056,
+        "awayWinProbability": 0.172,
         "predictedScore": {
           "home": 0,
           "away": 0,
-          "probability": 0.3264
+          "probability": 0.2967
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 67,
+        "bttsConfidence": 62,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 79,
+        "overUnderConfidence": 74,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1865,
-          "awayElo": 1687,
-          "eloWinProb": 0.802
+          "awayElo": 1697,
+          "eloWinProb": 0.793
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.79,
-        "awayExpectedGoals": 0.34,
-        "totalExpectedGoals": 1.14,
-        "bttsProbability": 0.1637,
-        "bttsNoProbability": 0.8363,
-        "over25Probability": 0.1069,
-        "under25Probability": 0.8931,
-        "homeWinProbability": 0.5618,
-        "drawProbability": 0.4248,
-        "awayWinProbability": 0.1621,
+        "homeExpectedGoals": 0.85,
+        "awayExpectedGoals": 0.38,
+        "totalExpectedGoals": 1.23,
+        "bttsProbability": 0.1886,
+        "bttsNoProbability": 0.8114,
+        "over25Probability": 0.1281,
+        "under25Probability": 0.8719,
+        "homeWinProbability": 0.5644,
+        "drawProbability": 0.4056,
+        "awayWinProbability": 0.172,
         "predictedScore": {
           "home": 0,
           "away": 0,
-          "probability": 0.3264
+          "probability": 0.2967
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 67,
+        "bttsConfidence": 62,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 79,
+        "overUnderConfidence": 74,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1865,
-          "awayElo": 1687,
-          "eloWinProb": 0.802
+          "awayElo": 1697,
+          "eloWinProb": 0.793
         }
       },
-      "confidenceScore": 89
+      "confidenceScore": 87
     },
     {
-      "id": "fix_34_9_Auxerre",
+      "id": "fix_34_7_Auxerre",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Sun 29/11",
-      "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "14:00",
       "homeTeam": "Auxerre",
       "awayTeam": "Marseille",
@@ -587,20 +445,20 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 0.65,
-        "awayExpectedGoals": 2.3,
-        "totalExpectedGoals": 2.95,
-        "bttsProbability": 0.4318,
-        "bttsNoProbability": 0.5682,
-        "over25Probability": 0.5622,
-        "under25Probability": 0.4378,
-        "homeWinProbability": 0.1823,
-        "drawProbability": 0.1742,
-        "awayWinProbability": 0.7028,
+        "homeExpectedGoals": 0.63,
+        "awayExpectedGoals": 2.26,
+        "totalExpectedGoals": 2.89,
+        "bttsProbability": 0.4204,
+        "bttsNoProbability": 0.5796,
+        "over25Probability": 0.5489,
+        "under25Probability": 0.4511,
+        "homeWinProbability": 0.1812,
+        "drawProbability": 0.1767,
+        "awayWinProbability": 0.7024,
         "predictedScore": {
           "home": 0,
           "away": 2,
-          "probability": 0.1389
+          "probability": 0.1425
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -608,26 +466,26 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1597,
-          "awayElo": 1757,
-          "eloWinProb": 0.367
+          "homeElo": 1593,
+          "awayElo": 1754,
+          "eloWinProb": 0.365
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.65,
-        "awayExpectedGoals": 2.3,
-        "totalExpectedGoals": 2.95,
-        "bttsProbability": 0.4318,
-        "bttsNoProbability": 0.5682,
-        "over25Probability": 0.5622,
-        "under25Probability": 0.4378,
-        "homeWinProbability": 0.1823,
-        "drawProbability": 0.1742,
-        "awayWinProbability": 0.7028,
+        "homeExpectedGoals": 0.63,
+        "awayExpectedGoals": 2.26,
+        "totalExpectedGoals": 2.89,
+        "bttsProbability": 0.4204,
+        "bttsNoProbability": 0.5796,
+        "over25Probability": 0.5489,
+        "under25Probability": 0.4511,
+        "homeWinProbability": 0.1812,
+        "drawProbability": 0.1767,
+        "awayWinProbability": 0.7024,
         "predictedScore": {
           "home": 0,
           "away": 2,
-          "probability": 0.1389
+          "probability": 0.1425
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -635,20 +493,20 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1597,
-          "awayElo": 1757,
-          "eloWinProb": 0.367
+          "homeElo": 1593,
+          "awayElo": 1754,
+          "eloWinProb": 0.365
         }
       },
-      "confidenceScore": 57
+      "confidenceScore": 58
     },
     {
-      "id": "fix_34_10_Toulouse",
+      "id": "fix_34_8_Toulouse",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Sun 29/11",
-      "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "16:15",
       "homeTeam": "Toulouse",
       "awayTeam": "Rennes",
@@ -658,68 +516,68 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 3.41,
-        "awayExpectedGoals": 1.83,
-        "totalExpectedGoals": 5.25,
-        "bttsProbability": 0.7942,
-        "bttsNoProbability": 0.2058,
-        "over25Probability": 0.8705,
-        "under25Probability": 0.1295,
-        "homeWinProbability": 0.6186,
-        "drawProbability": 0.1479,
-        "awayWinProbability": 0.2696,
+        "homeExpectedGoals": 2.8,
+        "awayExpectedGoals": 1.69,
+        "totalExpectedGoals": 4.49,
+        "bttsProbability": 0.7619,
+        "bttsNoProbability": 0.2381,
+        "over25Probability": 0.8165,
+        "under25Probability": 0.1835,
+        "homeWinProbability": 0.5778,
+        "drawProbability": 0.1786,
+        "awayWinProbability": 0.3007,
         "predictedScore": {
-          "home": 3,
+          "home": 2,
           "away": 1,
-          "probability": 0.064
+          "probability": 0.0744
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 59,
+        "bttsConfidence": 52,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 74,
+        "overUnderConfidence": 63,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1670,
-          "awayElo": 1698,
-          "eloWinProb": 0.553
+          "awayElo": 1707,
+          "eloWinProb": 0.54
         }
       },
       "pred": {
-        "homeExpectedGoals": 3.41,
-        "awayExpectedGoals": 1.83,
-        "totalExpectedGoals": 5.25,
-        "bttsProbability": 0.7942,
-        "bttsNoProbability": 0.2058,
-        "over25Probability": 0.8705,
-        "under25Probability": 0.1295,
-        "homeWinProbability": 0.6186,
-        "drawProbability": 0.1479,
-        "awayWinProbability": 0.2696,
+        "homeExpectedGoals": 2.8,
+        "awayExpectedGoals": 1.69,
+        "totalExpectedGoals": 4.49,
+        "bttsProbability": 0.7619,
+        "bttsNoProbability": 0.2381,
+        "over25Probability": 0.8165,
+        "under25Probability": 0.1835,
+        "homeWinProbability": 0.5778,
+        "drawProbability": 0.1786,
+        "awayWinProbability": 0.3007,
         "predictedScore": {
-          "home": 3,
+          "home": 2,
           "away": 1,
-          "probability": 0.064
+          "probability": 0.0744
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 59,
+        "bttsConfidence": 52,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 74,
+        "overUnderConfidence": 63,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1670,
-          "awayElo": 1698,
-          "eloWinProb": 0.553
+          "awayElo": 1707,
+          "eloWinProb": 0.54
         }
       },
-      "confidenceScore": 87
+      "confidenceScore": 82
     },
     {
-      "id": "fix_34_11_OlympiqueLyonnais",
+      "id": "fix_34_9_OlympiqueLyonnais",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Sun 29/11",
-      "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "19:45",
       "homeTeam": "Olympique Lyonnais",
       "awayTeam": "Monaco",
@@ -729,23 +587,23 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 2.24,
-        "awayExpectedGoals": 0.39,
-        "totalExpectedGoals": 2.63,
-        "bttsProbability": 0.2921,
-        "bttsNoProbability": 0.7079,
-        "over25Probability": 0.488,
-        "under25Probability": 0.512,
-        "homeWinProbability": 0.7513,
-        "drawProbability": 0.1574,
-        "awayWinProbability": 0.145,
+        "homeExpectedGoals": 2.18,
+        "awayExpectedGoals": 0.38,
+        "totalExpectedGoals": 2.56,
+        "bttsProbability": 0.2857,
+        "bttsNoProbability": 0.7143,
+        "over25Probability": 0.4696,
+        "under25Probability": 0.5304,
+        "homeWinProbability": 0.7459,
+        "drawProbability": 0.1644,
+        "awayWinProbability": 0.1461,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1806
+          "probability": 0.1831
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 42,
+        "bttsConfidence": 43,
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 1,
@@ -756,23 +614,23 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 2.24,
-        "awayExpectedGoals": 0.39,
-        "totalExpectedGoals": 2.63,
-        "bttsProbability": 0.2921,
-        "bttsNoProbability": 0.7079,
-        "over25Probability": 0.488,
-        "under25Probability": 0.512,
-        "homeWinProbability": 0.7513,
-        "drawProbability": 0.1574,
-        "awayWinProbability": 0.145,
+        "homeExpectedGoals": 2.18,
+        "awayExpectedGoals": 0.38,
+        "totalExpectedGoals": 2.56,
+        "bttsProbability": 0.2857,
+        "bttsNoProbability": 0.7143,
+        "over25Probability": 0.4696,
+        "under25Probability": 0.5304,
+        "homeWinProbability": 0.7459,
+        "drawProbability": 0.1644,
+        "awayWinProbability": 0.1461,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1806
+          "probability": 0.1831
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 42,
+        "bttsConfidence": 43,
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 1,
@@ -785,12 +643,12 @@
       "confidenceScore": 71
     },
     {
-      "id": "fix_34_12_Toulouse",
+      "id": "fix_34_10_Toulouse",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Fri 04/12",
       "dateIso": "2026-11-27T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "19:45",
       "homeTeam": "Toulouse",
       "awayTeam": "Paris Saint Germain",
@@ -800,25 +658,25 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 0.77,
-        "awayExpectedGoals": 3.49,
-        "totalExpectedGoals": 4.26,
-        "bttsProbability": 0.5085,
-        "bttsNoProbability": 0.4915,
-        "over25Probability": 0.7716,
-        "under25Probability": 0.2284,
-        "homeWinProbability": 0.1405,
-        "drawProbability": 0.0909,
-        "awayWinProbability": 0.7832,
+        "homeExpectedGoals": 0.84,
+        "awayExpectedGoals": 3.63,
+        "totalExpectedGoals": 4.47,
+        "bttsProbability": 0.537,
+        "bttsNoProbability": 0.463,
+        "over25Probability": 0.7909,
+        "under25Probability": 0.2091,
+        "homeWinProbability": 0.1415,
+        "drawProbability": 0.0881,
+        "awayWinProbability": 0.7804,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.1
+          "probability": 0.0913
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 54,
+        "overUnderConfidence": 58,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1670,
@@ -827,25 +685,25 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.77,
-        "awayExpectedGoals": 3.49,
-        "totalExpectedGoals": 4.26,
-        "bttsProbability": 0.5085,
-        "bttsNoProbability": 0.4915,
-        "over25Probability": 0.7716,
-        "under25Probability": 0.2284,
-        "homeWinProbability": 0.1405,
-        "drawProbability": 0.0909,
-        "awayWinProbability": 0.7832,
+        "homeExpectedGoals": 0.84,
+        "awayExpectedGoals": 3.63,
+        "totalExpectedGoals": 4.47,
+        "bttsProbability": 0.537,
+        "bttsNoProbability": 0.463,
+        "over25Probability": 0.7909,
+        "under25Probability": 0.2091,
+        "homeWinProbability": 0.1415,
+        "drawProbability": 0.0881,
+        "awayWinProbability": 0.7804,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.1
+          "probability": 0.0913
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 54,
+        "overUnderConfidence": 58,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1670,
@@ -853,15 +711,15 @@
           "eloWinProb": 0.321
         }
       },
-      "confidenceScore": 77
+      "confidenceScore": 79
     },
     {
-      "id": "fix_34_13_Lille",
+      "id": "fix_34_11_Lille",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "16:15",
       "homeTeam": "Lille",
       "awayTeam": "Auxerre",
@@ -871,68 +729,68 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 4.3,
-        "awayExpectedGoals": 0.59,
-        "totalExpectedGoals": 4.89,
-        "bttsProbability": 0.4101,
-        "bttsNoProbability": 0.5899,
-        "over25Probability": 0.7949,
-        "under25Probability": 0.2051,
-        "homeWinProbability": 0.8493,
-        "drawProbability": 0.0451,
-        "awayWinProbability": 0.0752,
+        "homeExpectedGoals": 4.2,
+        "awayExpectedGoals": 0.58,
+        "totalExpectedGoals": 4.77,
+        "bttsProbability": 0.4054,
+        "bttsNoProbability": 0.5946,
+        "over25Probability": 0.7913,
+        "under25Probability": 0.2087,
+        "homeWinProbability": 0.8532,
+        "drawProbability": 0.0477,
+        "awayWinProbability": 0.0744,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1069
+          "probability": 0.1092
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 59,
+        "overUnderConfidence": 58,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1788,
-          "awayElo": 1597,
-          "eloWinProb": 0.814
+          "awayElo": 1593,
+          "eloWinProb": 0.817
         }
       },
       "pred": {
-        "homeExpectedGoals": 4.3,
-        "awayExpectedGoals": 0.59,
-        "totalExpectedGoals": 4.89,
-        "bttsProbability": 0.4101,
-        "bttsNoProbability": 0.5899,
-        "over25Probability": 0.7949,
-        "under25Probability": 0.2051,
-        "homeWinProbability": 0.8493,
-        "drawProbability": 0.0451,
-        "awayWinProbability": 0.0752,
+        "homeExpectedGoals": 4.2,
+        "awayExpectedGoals": 0.58,
+        "totalExpectedGoals": 4.77,
+        "bttsProbability": 0.4054,
+        "bttsNoProbability": 0.5946,
+        "over25Probability": 0.7913,
+        "under25Probability": 0.2087,
+        "homeWinProbability": 0.8532,
+        "drawProbability": 0.0477,
+        "awayWinProbability": 0.0744,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1069
+          "probability": 0.1092
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 59,
+        "overUnderConfidence": 58,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1788,
-          "awayElo": 1597,
-          "eloWinProb": 0.814
+          "awayElo": 1593,
+          "eloWinProb": 0.817
         }
       },
       "confidenceScore": 79
     },
     {
-      "id": "fix_34_14_Lens",
+      "id": "fix_34_12_Lens",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "19:45",
       "homeTeam": "Lens",
       "awayTeam": "Le Havre",
@@ -943,19 +801,19 @@
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 1.08,
-        "totalExpectedGoals": 5.58,
-        "bttsProbability": 0.5984,
-        "bttsNoProbability": 0.4016,
-        "over25Probability": 0.8301,
-        "under25Probability": 0.1699,
-        "homeWinProbability": 0.8144,
-        "drawProbability": 0.0633,
-        "awayWinProbability": 0.0882,
+        "awayExpectedGoals": 1.06,
+        "totalExpectedGoals": 5.56,
+        "bttsProbability": 0.5923,
+        "bttsNoProbability": 0.4077,
+        "over25Probability": 0.829,
+        "under25Probability": 0.171,
+        "homeWinProbability": 0.8158,
+        "drawProbability": 0.0624,
+        "awayWinProbability": 0.0874,
         "predictedScore": {
           "home": 4,
           "away": 1,
-          "probability": 0.0696
+          "probability": 0.0697
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -970,19 +828,19 @@
       },
       "pred": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 1.08,
-        "totalExpectedGoals": 5.58,
-        "bttsProbability": 0.5984,
-        "bttsNoProbability": 0.4016,
-        "over25Probability": 0.8301,
-        "under25Probability": 0.1699,
-        "homeWinProbability": 0.8144,
-        "drawProbability": 0.0633,
-        "awayWinProbability": 0.0882,
+        "awayExpectedGoals": 1.06,
+        "totalExpectedGoals": 5.56,
+        "bttsProbability": 0.5923,
+        "bttsNoProbability": 0.4077,
+        "over25Probability": 0.829,
+        "under25Probability": 0.171,
+        "homeWinProbability": 0.8158,
+        "drawProbability": 0.0624,
+        "awayWinProbability": 0.0874,
         "predictedScore": {
           "home": 4,
           "away": 1,
-          "probability": 0.0696
+          "probability": 0.0697
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -998,12 +856,12 @@
       "confidenceScore": 83
     },
     {
-      "id": "fix_34_15_Monaco",
+      "id": "fix_34_13_Monaco",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "19:45",
       "homeTeam": "Monaco",
       "awayTeam": "Angers",
@@ -1013,119 +871,369 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 2.22,
-        "awayExpectedGoals": 0.44,
-        "totalExpectedGoals": 2.65,
-        "bttsProbability": 0.3176,
-        "bttsNoProbability": 0.6824,
-        "over25Probability": 0.4921,
-        "under25Probability": 0.5079,
-        "homeWinProbability": 0.7751,
-        "drawProbability": 0.1651,
-        "awayWinProbability": 0.1162,
-        "predictedScore": {
-          "home": 2,
-          "away": 0,
-          "probability": 0.1733
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1717,
-          "awayElo": 1573,
-          "eloWinProb": 0.769
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 2.22,
-        "awayExpectedGoals": 0.44,
-        "totalExpectedGoals": 2.65,
-        "bttsProbability": 0.3176,
-        "bttsNoProbability": 0.6824,
-        "over25Probability": 0.4921,
-        "under25Probability": 0.5079,
-        "homeWinProbability": 0.7751,
-        "drawProbability": 0.1651,
-        "awayWinProbability": 0.1162,
-        "predictedScore": {
-          "home": 2,
-          "away": 0,
-          "probability": 0.1733
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1717,
-          "awayElo": 1573,
-          "eloWinProb": 0.769
-        }
-      },
-      "confidenceScore": 68
-    }
-  ],
-  "results": [
-    {
-      "id": "res_34_1_ParisFC",
-      "leagueId": "34",
-      "leagueName": "Ligue 1",
-      "dateRaw": "Sun 22-Nov-2026",
-      "dateIso": "2026-11-22T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "14:00",
-      "homeTeam": "Paris FC",
-      "awayTeam": "Angers",
-      "score": "0-0",
-      "homeGoals": 0,
-      "awayGoals": 0,
-      "totalGoals": 0,
-      "actualBtts": false,
-      "actualOver25": false,
-      "prediction": {
-        "homeExpectedGoals": 3.41,
-        "awayExpectedGoals": 0.32,
-        "totalExpectedGoals": 3.73,
-        "bttsProbability": 0.2611,
-        "bttsNoProbability": 0.7389,
-        "over25Probability": 0.6958,
-        "under25Probability": 0.3042,
-        "homeWinProbability": 0.8799,
-        "drawProbability": 0.0618,
-        "awayWinProbability": 0.0649,
+        "homeExpectedGoals": 3.35,
+        "awayExpectedGoals": 0.4,
+        "totalExpectedGoals": 3.76,
+        "bttsProbability": 0.3139,
+        "bttsNoProbability": 0.6861,
+        "over25Probability": 0.7023,
+        "under25Probability": 0.2977,
+        "homeWinProbability": 0.8558,
+        "drawProbability": 0.071,
+        "awayWinProbability": 0.084,
         "predictedScore": {
           "home": 3,
           "away": 0,
-          "probability": 0.1584
+          "probability": 0.1471
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 48,
+        "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1795,
-          "awayElo": 1573,
-          "eloWinProb": 0.839
+          "homeElo": 1717,
+          "awayElo": 1547,
+          "eloWinProb": 0.795
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 3.35,
+        "awayExpectedGoals": 0.4,
+        "totalExpectedGoals": 3.76,
+        "bttsProbability": 0.3139,
+        "bttsNoProbability": 0.6861,
+        "over25Probability": 0.7023,
+        "under25Probability": 0.2977,
+        "homeWinProbability": 0.8558,
+        "drawProbability": 0.071,
+        "awayWinProbability": 0.084,
+        "predictedScore": {
+          "home": 3,
+          "away": 0,
+          "probability": 0.1471
         },
-        "matchFingerprint": "34_paris fc_angers_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:39.139Z",
-        "auditHash": "SHA256-IMMUTABLE-60A186EE-2026-11-22",
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1717,
+          "awayElo": 1547,
+          "eloWinProb": 0.795
+        }
+      },
+      "confidenceScore": 70
+    },
+    {
+      "id": "fix_34_14_ParisFC",
+      "leagueId": "34",
+      "leagueName": "Ligue 1",
+      "dateRaw": "Sat 05/12",
+      "dateIso": "2026-11-28T12:00:00.000Z",
+      "daysFromNow": 5,
+      "time": "19:45",
+      "homeTeam": "Paris FC",
+      "awayTeam": "Le Mans",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.57,
+        "totalExpectedGoals": 5.07,
+        "bttsProbability": 0.3916,
+        "bttsNoProbability": 0.6084,
+        "over25Probability": 0.7943,
+        "under25Probability": 0.2057,
+        "homeWinProbability": 0.8515,
+        "drawProbability": 0.038,
+        "awayWinProbability": 0.0675,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.1076
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 59,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1826,
+          "awayElo": 1616,
+          "eloWinProb": 0.83
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.57,
+        "totalExpectedGoals": 5.07,
+        "bttsProbability": 0.3916,
+        "bttsNoProbability": 0.6084,
+        "over25Probability": 0.7943,
+        "under25Probability": 0.2057,
+        "homeWinProbability": 0.8515,
+        "drawProbability": 0.038,
+        "awayWinProbability": 0.0675,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.1076
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 59,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1826,
+          "awayElo": 1616,
+          "eloWinProb": 0.83
+        }
+      },
+      "confidenceScore": 79
+    },
+    {
+      "id": "fix_34_15_Strasbourg",
+      "leagueId": "34",
+      "leagueName": "Ligue 1",
+      "dateRaw": "Sat 05/12",
+      "dateIso": "2026-11-28T12:00:00.000Z",
+      "daysFromNow": 5,
+      "time": "19:45",
+      "homeTeam": "Strasbourg",
+      "awayTeam": "Lorient",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 0.41,
+        "awayExpectedGoals": 0.97,
+        "totalExpectedGoals": 1.38,
+        "bttsProbability": 0.2158,
+        "bttsNoProbability": 0.7842,
+        "over25Probability": 0.1619,
+        "under25Probability": 0.8381,
+        "homeWinProbability": 0.2536,
+        "drawProbability": 0.3744,
+        "awayWinProbability": 0.503,
+        "predictedScore": {
+          "home": 0,
+          "away": 0,
+          "probability": 0.2574
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 57,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 68,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1597,
+          "awayElo": 1697,
+          "eloWinProb": 0.45
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 0.41,
+        "awayExpectedGoals": 0.97,
+        "totalExpectedGoals": 1.38,
+        "bttsProbability": 0.2158,
+        "bttsNoProbability": 0.7842,
+        "over25Probability": 0.1619,
+        "under25Probability": 0.8381,
+        "homeWinProbability": 0.2536,
+        "drawProbability": 0.3744,
+        "awayWinProbability": 0.503,
+        "predictedScore": {
+          "home": 0,
+          "away": 0,
+          "probability": 0.2574
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 57,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 68,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1597,
+          "awayElo": 1697,
+          "eloWinProb": 0.45
+        }
+      },
+      "confidenceScore": 84
+    }
+  ],
+  "results": [
+    {
+      "id": "res_34_1_Marseille",
+      "leagueId": "34",
+      "leagueName": "Ligue 1",
+      "dateRaw": "Sun 22-Nov-2026",
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "19:45",
+      "homeTeam": "Marseille",
+      "awayTeam": "Le Mans",
+      "score": "2-3",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "totalGoals": 5,
+      "actualBtts": true,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 1.39,
+        "totalExpectedGoals": 5.89,
+        "bttsProbability": 0.6793,
+        "bttsNoProbability": 0.3207,
+        "over25Probability": 0.8464,
+        "under25Probability": 0.1536,
+        "homeWinProbability": 0.7722,
+        "drawProbability": 0.0777,
+        "awayWinProbability": 0.1209,
+        "predictedScore": {
+          "home": 4,
+          "away": 1,
+          "probability": 0.0656
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 69,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1754,
+          "awayElo": 1616,
+          "eloWinProb": 0.763
+        },
+        "matchFingerprint": "34_marseille_le mans_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-23T17:46:49.041Z",
+        "auditHash": "SHA256-IMMUTABLE-8627BCC-2026-11-23",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": true,
+        "bothHit": true,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_34_2_Lorient",
+      "leagueId": "34",
+      "leagueName": "Ligue 1",
+      "dateRaw": "Sun 22-Nov-2026",
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "16:15",
+      "homeTeam": "Lorient",
+      "awayTeam": "Rennes",
+      "score": "1-1",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "totalGoals": 2,
+      "actualBtts": true,
+      "actualOver25": false,
+      "prediction": {
+        "homeExpectedGoals": 2.1,
+        "awayExpectedGoals": 1.41,
+        "totalExpectedGoals": 3.51,
+        "bttsProbability": 0.667,
+        "bttsNoProbability": 0.333,
+        "over25Probability": 0.6794,
+        "under25Probability": 0.3206,
+        "homeWinProbability": 0.5459,
+        "drawProbability": 0.2204,
+        "awayWinProbability": 0.3097,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.0938
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1697,
+          "awayElo": 1707,
+          "eloWinProb": 0.578
+        },
+        "matchFingerprint": "34_lorient_rennes_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-23T17:46:49.041Z",
+        "auditHash": "SHA256-IMMUTABLE-E3DEBF0-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
         "bttsHit": true,
         "overUnderHit": false,
         "bothHit": false,
-        "exactScoreHit": false
+        "exactScoreHit": true
       }
     },
     {
-      "id": "res_34_2_Lens",
+      "id": "res_34_3_ParisFC",
+      "leagueId": "34",
+      "leagueName": "Ligue 1",
+      "dateRaw": "Sun 22-Nov-2026",
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "14:00",
+      "homeTeam": "Paris FC",
+      "awayTeam": "Angers",
+      "score": "4-0",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "totalGoals": 4,
+      "actualBtts": false,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.28,
+        "totalExpectedGoals": 4.78,
+        "bttsProbability": 0.2231,
+        "bttsNoProbability": 0.7769,
+        "over25Probability": 0.7693,
+        "under25Probability": 0.2307,
+        "homeWinProbability": 0.8828,
+        "drawProbability": 0.0242,
+        "awayWinProbability": 0.0451,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.143
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 55,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 54,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1826,
+          "awayElo": 1547,
+          "eloWinProb": 0.879
+        },
+        "matchFingerprint": "34_paris fc_angers_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-23T17:46:49.041Z",
+        "auditHash": "SHA256-IMMUTABLE-6F67C99C-2026-11-23",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": true,
+        "bothHit": true,
+        "exactScoreHit": true
+      }
+    },
+    {
+      "id": "res_34_4_Lens",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1141,25 +1249,25 @@
       "actualBtts": true,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 2.34,
-        "awayExpectedGoals": 1.92,
-        "totalExpectedGoals": 4.26,
-        "bttsProbability": 0.7716,
-        "bttsNoProbability": 0.2284,
-        "over25Probability": 0.7937,
-        "under25Probability": 0.2063,
-        "homeWinProbability": 0.5187,
-        "drawProbability": 0.2041,
-        "awayWinProbability": 0.3462,
+        "homeExpectedGoals": 2.27,
+        "awayExpectedGoals": 1.88,
+        "totalExpectedGoals": 4.15,
+        "bttsProbability": 0.7616,
+        "bttsNoProbability": 0.2384,
+        "over25Probability": 0.7803,
+        "under25Probability": 0.2197,
+        "homeWinProbability": 0.5142,
+        "drawProbability": 0.2077,
+        "awayWinProbability": 0.3488,
         "predictedScore": {
           "home": 2,
           "away": 1,
-          "probability": 0.0743
+          "probability": 0.0763
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 54,
+        "bttsConfidence": 52,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 59,
+        "overUnderConfidence": 56,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1677,
@@ -1167,8 +1275,8 @@
           "eloWinProb": 0.602
         },
         "matchFingerprint": "34_lens_toulouse_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:39.139Z",
-        "auditHash": "SHA256-IMMUTABLE-5D6B0900-2026-11-22",
+        "lockedAt": "2026-11-23T17:46:49.041Z",
+        "auditHash": "SHA256-IMMUTABLE-31E3856C-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1179,7 +1287,7 @@
       }
     },
     {
-      "id": "res_34_3_Lille",
+      "id": "res_34_5_Lille",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1195,25 +1303,25 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 0.92,
-        "awayExpectedGoals": 0.33,
-        "totalExpectedGoals": 1.25,
-        "bttsProbability": 0.1737,
-        "bttsNoProbability": 0.8263,
-        "over25Probability": 0.1311,
-        "under25Probability": 0.8689,
-        "homeWinProbability": 0.5285,
-        "drawProbability": 0.3909,
-        "awayWinProbability": 0.2174,
+        "homeExpectedGoals": 0.89,
+        "awayExpectedGoals": 0.32,
+        "totalExpectedGoals": 1.21,
+        "bttsProbability": 0.1679,
+        "bttsNoProbability": 0.8321,
+        "over25Probability": 0.1237,
+        "under25Probability": 0.8763,
+        "homeWinProbability": 0.5228,
+        "drawProbability": 0.3988,
+        "awayWinProbability": 0.2179,
         "predictedScore": {
           "home": 0,
           "away": 0,
-          "probability": 0.2922
+          "probability": 0.302
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 65,
+        "bttsConfidence": 66,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 74,
+        "overUnderConfidence": 75,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1788,
@@ -1221,8 +1329,8 @@
           "eloWinProb": 0.608
         },
         "matchFingerprint": "34_lille_olympique lyonnais_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:39.139Z",
-        "auditHash": "SHA256-IMMUTABLE-374D169D-2026-11-22",
+        "lockedAt": "2026-11-23T17:46:49.041Z",
+        "auditHash": "SHA256-IMMUTABLE-41937EB8-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1233,7 +1341,7 @@
       }
     },
     {
-      "id": "res_34_4_Monaco",
+      "id": "res_34_6_Monaco",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1249,34 +1357,34 @@
       "actualBtts": true,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 4.23,
-        "awayExpectedGoals": 0.88,
-        "totalExpectedGoals": 5.11,
-        "bttsProbability": 0.541,
-        "bttsNoProbability": 0.459,
-        "over25Probability": 0.8186,
-        "under25Probability": 0.1814,
-        "homeWinProbability": 0.8058,
-        "drawProbability": 0.0635,
-        "awayWinProbability": 0.1103,
+        "homeExpectedGoals": 4.12,
+        "awayExpectedGoals": 0.86,
+        "totalExpectedGoals": 4.99,
+        "bttsProbability": 0.5359,
+        "bttsNoProbability": 0.4641,
+        "over25Probability": 0.8153,
+        "under25Probability": 0.1847,
+        "homeWinProbability": 0.8092,
+        "drawProbability": 0.0664,
+        "awayWinProbability": 0.1094,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.0802
+          "probability": 0.0823
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 64,
+        "overUnderConfidence": 63,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1717,
-          "awayElo": 1597,
-          "eloWinProb": 0.744
+          "awayElo": 1593,
+          "eloWinProb": 0.748
         },
         "matchFingerprint": "34_monaco_auxerre_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:39.139Z",
-        "auditHash": "SHA256-IMMUTABLE-1418A793-2026-11-22",
+        "lockedAt": "2026-11-23T17:46:49.041Z",
+        "auditHash": "SHA256-IMMUTABLE-2B7CC372-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1287,7 +1395,7 @@
       }
     },
     {
-      "id": "res_34_5_Strasbourg",
+      "id": "res_34_7_Strasbourg",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1303,20 +1411,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 0.99,
-        "awayExpectedGoals": 2.13,
-        "totalExpectedGoals": 3.12,
-        "bttsProbability": 0.5577,
-        "bttsNoProbability": 0.4423,
-        "over25Probability": 0.6019,
-        "under25Probability": 0.3981,
-        "homeWinProbability": 0.2369,
-        "drawProbability": 0.2102,
-        "awayWinProbability": 0.6254,
+        "homeExpectedGoals": 0.95,
+        "awayExpectedGoals": 2.11,
+        "totalExpectedGoals": 3.06,
+        "bttsProbability": 0.5441,
+        "bttsNoProbability": 0.4559,
+        "over25Probability": 0.5886,
+        "under25Probability": 0.4114,
+        "homeWinProbability": 0.2322,
+        "drawProbability": 0.2114,
+        "awayWinProbability": 0.6294,
         "predictedScore": {
           "home": 0,
           "away": 2,
-          "probability": 0.1004
+          "probability": 0.1042
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1324,13 +1432,13 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1601,
+          "homeElo": 1597,
           "awayElo": 1750,
-          "eloWinProb": 0.381
+          "eloWinProb": 0.376
         },
         "matchFingerprint": "34_strasbourg_brest_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:39.139Z",
-        "auditHash": "SHA256-IMMUTABLE-9642F21-2026-11-22",
+        "lockedAt": "2026-11-23T17:46:49.041Z",
+        "auditHash": "SHA256-IMMUTABLE-3F83B057-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1341,7 +1449,7 @@
       }
     },
     {
-      "id": "res_34_6_Nice",
+      "id": "res_34_8_Nice",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1350,32 +1458,32 @@
       "time": "16:15",
       "homeTeam": "Nice",
       "awayTeam": "Paris Saint Germain",
-      "score": "1-2",
-      "homeGoals": 1,
-      "awayGoals": 2,
-      "totalGoals": 3,
+      "score": "2-3",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "totalGoals": 5,
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.46,
-        "awayExpectedGoals": 3.52,
-        "totalExpectedGoals": 4.98,
-        "bttsProbability": 0.7264,
-        "bttsNoProbability": 0.2736,
-        "over25Probability": 0.8461,
-        "under25Probability": 0.1539,
-        "homeWinProbability": 0.211,
-        "drawProbability": 0.1283,
-        "awayWinProbability": 0.6877,
+        "homeExpectedGoals": 1.74,
+        "awayExpectedGoals": 4,
+        "totalExpectedGoals": 5.74,
+        "bttsProbability": 0.7683,
+        "bttsNoProbability": 0.2317,
+        "over25Probability": 0.8739,
+        "under25Probability": 0.1261,
+        "homeWinProbability": 0.2112,
+        "drawProbability": 0.1149,
+        "awayWinProbability": 0.6806,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0729
+          "probability": 0.0596
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 45,
+        "bttsConfidence": 54,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 69,
+        "overUnderConfidence": 75,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1721,
@@ -1383,8 +1491,8 @@
           "eloWinProb": 0.388
         },
         "matchFingerprint": "34_nice_paris saint germain_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:39.139Z",
-        "auditHash": "SHA256-IMMUTABLE-1CE0395-2026-11-22",
+        "lockedAt": "2026-11-23T17:46:49.041Z",
+        "auditHash": "SHA256-IMMUTABLE-553DF937-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1395,7 +1503,7 @@
       }
     },
     {
-      "id": "res_34_7_Troyes",
+      "id": "res_34_9_Troyes",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Fri 20-Nov-2026",
@@ -1411,34 +1519,34 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 2.68,
-        "awayExpectedGoals": 1.61,
-        "totalExpectedGoals": 4.29,
-        "bttsProbability": 0.7434,
-        "bttsNoProbability": 0.2566,
-        "over25Probability": 0.7944,
-        "under25Probability": 0.2056,
-        "homeWinProbability": 0.6494,
-        "drawProbability": 0.1844,
-        "awayWinProbability": 0.2265,
+        "homeExpectedGoals": 2.58,
+        "awayExpectedGoals": 1.59,
+        "totalExpectedGoals": 4.17,
+        "bttsProbability": 0.7354,
+        "bttsNoProbability": 0.2646,
+        "over25Probability": 0.7805,
+        "under25Probability": 0.2195,
+        "homeWinProbability": 0.6398,
+        "drawProbability": 0.1901,
+        "awayWinProbability": 0.2332,
         "predictedScore": {
           "home": 2,
           "away": 1,
-          "probability": 0.0793
+          "probability": 0.0818
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 49,
+        "bttsConfidence": 47,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 59,
+        "overUnderConfidence": 56,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1610,
+          "homeElo": 1606,
           "awayElo": 1482,
-          "eloWinProb": 0.752
+          "eloWinProb": 0.748
         },
         "matchFingerprint": "34_troyes_le havre_Fri 20-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:39.140Z",
-        "auditHash": "SHA256-IMMUTABLE-57A00AA6-2026-11-22",
+        "lockedAt": "2026-11-23T17:46:49.041Z",
+        "auditHash": "SHA256-IMMUTABLE-76459B80-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1449,11 +1557,11 @@
       }
     },
     {
-      "id": "res_34_8_Lens",
+      "id": "res_34_10_Lens",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-22T12:00:00.000Z",
+      "dateIso": "2026-11-29T12:00:00.000Z",
       "daysAgo": 0,
       "time": "19:45",
       "homeTeam": "Lens",
@@ -1465,34 +1573,34 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.64,
-        "awayExpectedGoals": 2.53,
-        "totalExpectedGoals": 4.17,
-        "bttsProbability": 0.7415,
-        "bttsNoProbability": 0.2585,
-        "over25Probability": 0.781,
-        "under25Probability": 0.219,
-        "homeWinProbability": 0.3221,
-        "drawProbability": 0.1937,
-        "awayWinProbability": 0.5489,
+        "homeExpectedGoals": 1.6,
+        "awayExpectedGoals": 2.47,
+        "totalExpectedGoals": 4.07,
+        "bttsProbability": 0.7308,
+        "bttsNoProbability": 0.2692,
+        "over25Probability": 0.7678,
+        "under25Probability": 0.2322,
+        "homeWinProbability": 0.3232,
+        "drawProbability": 0.1968,
+        "awayWinProbability": 0.5461,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.0811
+          "probability": 0.0834
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 48,
+        "bttsConfidence": 46,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 56,
+        "overUnderConfidence": 54,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1677,
-          "awayElo": 1757,
-          "eloWinProb": 0.478
+          "awayElo": 1754,
+          "eloWinProb": 0.483
         },
         "matchFingerprint": "34_lens_marseille_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:39.140Z",
-        "auditHash": "SHA256-IMMUTABLE-4D339DF7-2026-11-22",
+        "lockedAt": "2026-11-23T17:46:49.041Z",
+        "auditHash": "SHA256-IMMUTABLE-BA229C9-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1503,11 +1611,11 @@
       }
     },
     {
-      "id": "res_34_9_Angers",
+      "id": "res_34_11_Angers",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-22T12:00:00.000Z",
+      "dateIso": "2026-11-29T12:00:00.000Z",
       "daysAgo": 0,
       "time": "16:15",
       "homeTeam": "Angers",
@@ -1519,20 +1627,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 0.61,
-        "awayExpectedGoals": 1.84,
-        "totalExpectedGoals": 2.45,
-        "bttsProbability": 0.3909,
-        "bttsNoProbability": 0.6091,
-        "over25Probability": 0.4435,
-        "under25Probability": 0.5565,
-        "homeWinProbability": 0.2061,
-        "drawProbability": 0.2257,
-        "awayWinProbability": 0.6468,
+        "homeExpectedGoals": 0.56,
+        "awayExpectedGoals": 1.88,
+        "totalExpectedGoals": 2.44,
+        "bttsProbability": 0.3679,
+        "bttsNoProbability": 0.6321,
+        "over25Probability": 0.4398,
+        "under25Probability": 0.5602,
+        "homeWinProbability": 0.1846,
+        "drawProbability": 0.2169,
+        "awayWinProbability": 0.6739,
         "predictedScore": {
           "home": 0,
           "away": 1,
-          "probability": 0.1525
+          "probability": 0.1585
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1540,13 +1648,13 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1573,
+          "homeElo": 1547,
           "awayElo": 1721,
-          "eloWinProb": 0.383
+          "eloWinProb": 0.348
         },
         "matchFingerprint": "34_angers_nice_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:39.140Z",
-        "auditHash": "SHA256-IMMUTABLE-7757AE86-2026-11-22",
+        "lockedAt": "2026-11-23T17:46:49.042Z",
+        "auditHash": "SHA256-IMMUTABLE-4C188554-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1557,11 +1665,11 @@
       }
     },
     {
-      "id": "res_34_10_Brest",
+      "id": "res_34_12_Brest",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-22T12:00:00.000Z",
+      "dateIso": "2026-11-29T12:00:00.000Z",
       "daysAgo": 0,
       "time": "16:15",
       "homeTeam": "Brest",
@@ -1573,20 +1681,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 1.51,
-        "awayExpectedGoals": 0.63,
-        "totalExpectedGoals": 2.13,
-        "bttsProbability": 0.3694,
-        "bttsNoProbability": 0.6306,
-        "over25Probability": 0.3596,
-        "under25Probability": 0.6404,
-        "homeWinProbability": 0.5709,
-        "drawProbability": 0.2729,
-        "awayWinProbability": 0.2516,
+        "homeExpectedGoals": 1.46,
+        "awayExpectedGoals": 0.62,
+        "totalExpectedGoals": 2.08,
+        "bttsProbability": 0.3599,
+        "bttsNoProbability": 0.6401,
+        "over25Probability": 0.3443,
+        "under25Probability": 0.6557,
+        "homeWinProbability": 0.5652,
+        "drawProbability": 0.2795,
+        "awayWinProbability": 0.253,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1716
+          "probability": 0.1763
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1599,8 +1707,8 @@
           "eloWinProb": 0.554
         },
         "matchFingerprint": "34_brest_olympique lyonnais_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:39.140Z",
-        "auditHash": "SHA256-IMMUTABLE-7317E833-2026-11-22",
+        "lockedAt": "2026-11-23T17:46:49.042Z",
+        "auditHash": "SHA256-IMMUTABLE-4BFE3FB6-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1611,11 +1719,11 @@
       }
     },
     {
-      "id": "res_34_11_LeHavre",
+      "id": "res_34_13_LeHavre",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-22T12:00:00.000Z",
+      "dateIso": "2026-11-29T12:00:00.000Z",
       "daysAgo": 0,
       "time": "16:15",
       "homeTeam": "Le Havre",
@@ -1628,33 +1736,33 @@
       "actualOver25": false,
       "prediction": {
         "homeExpectedGoals": 0.25,
-        "awayExpectedGoals": 1.77,
-        "totalExpectedGoals": 2.02,
-        "bttsProbability": 0.1871,
-        "bttsNoProbability": 0.8129,
-        "over25Probability": 0.3292,
-        "under25Probability": 0.6708,
-        "homeWinProbability": 0.1358,
-        "drawProbability": 0.2046,
-        "awayWinProbability": 0.7309,
+        "awayExpectedGoals": 1.79,
+        "totalExpectedGoals": 2.04,
+        "bttsProbability": 0.1875,
+        "bttsNoProbability": 0.8125,
+        "over25Probability": 0.3329,
+        "under25Probability": 0.6671,
+        "homeWinProbability": 0.1312,
+        "drawProbability": 0.2025,
+        "awayWinProbability": 0.7369,
         "predictedScore": {
           "home": 0,
           "away": 1,
-          "probability": 0.2309
+          "probability": 0.2295
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 63,
+        "bttsConfidence": 62,
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1482,
-          "awayElo": 1687,
-          "eloWinProb": 0.309
+          "awayElo": 1697,
+          "eloWinProb": 0.297
         },
         "matchFingerprint": "34_le havre_lorient_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:39.140Z",
-        "auditHash": "SHA256-IMMUTABLE-20E764DD-2026-11-22",
+        "lockedAt": "2026-11-23T17:46:49.042Z",
+        "auditHash": "SHA256-IMMUTABLE-644BEC92-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1665,11 +1773,11 @@
       }
     },
     {
-      "id": "res_34_12_LeMans",
+      "id": "res_34_14_LeMans",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-22T12:00:00.000Z",
+      "dateIso": "2026-11-29T12:00:00.000Z",
       "daysAgo": 0,
       "time": "16:15",
       "homeTeam": "Le Mans",
@@ -1681,20 +1789,20 @@
       "actualBtts": true,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 0.89,
-        "awayExpectedGoals": 1.62,
-        "totalExpectedGoals": 2.5,
-        "bttsProbability": 0.4784,
-        "bttsNoProbability": 0.5216,
-        "over25Probability": 0.4568,
-        "under25Probability": 0.5432,
-        "homeWinProbability": 0.2631,
-        "drawProbability": 0.2627,
-        "awayWinProbability": 0.566,
+        "homeExpectedGoals": 0.95,
+        "awayExpectedGoals": 1.47,
+        "totalExpectedGoals": 2.42,
+        "bttsProbability": 0.4789,
+        "bttsNoProbability": 0.5211,
+        "over25Probability": 0.4352,
+        "under25Probability": 0.5648,
+        "homeWinProbability": 0.3097,
+        "drawProbability": 0.2784,
+        "awayWinProbability": 0.5092,
         "predictedScore": {
-          "home": 0,
+          "home": 1,
           "away": 1,
-          "probability": 0.1251
+          "probability": 0.1315
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1702,28 +1810,28 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1568,
+          "homeElo": 1616,
           "awayElo": 1717,
-          "eloWinProb": 0.381
+          "eloWinProb": 0.448
         },
         "matchFingerprint": "34_le mans_monaco_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:39.140Z",
-        "auditHash": "SHA256-IMMUTABLE-78EBCF2B-2026-11-22",
+        "lockedAt": "2026-11-23T17:46:49.042Z",
+        "auditHash": "SHA256-IMMUTABLE-4A45759F-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
         "bttsHit": false,
         "overUnderHit": true,
         "bothHit": false,
-        "exactScoreHit": false
+        "exactScoreHit": true
       }
     },
     {
-      "id": "res_34_13_Rennes",
+      "id": "res_34_15_Rennes",
       "leagueId": "34",
       "leagueName": "Ligue 1",
       "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-22T12:00:00.000Z",
+      "dateIso": "2026-11-29T12:00:00.000Z",
       "daysAgo": 0,
       "time": "14:00",
       "homeTeam": "Rennes",
@@ -1736,19 +1844,19 @@
       "actualOver25": true,
       "prediction": {
         "homeExpectedGoals": 1.32,
-        "awayExpectedGoals": 1.68,
-        "totalExpectedGoals": 3,
-        "bttsProbability": 0.6024,
-        "bttsNoProbability": 0.3976,
-        "over25Probability": 0.5757,
-        "under25Probability": 0.4243,
-        "homeWinProbability": 0.3551,
-        "drawProbability": 0.2523,
-        "awayWinProbability": 0.4806,
+        "awayExpectedGoals": 1.62,
+        "totalExpectedGoals": 2.94,
+        "bttsProbability": 0.5937,
+        "bttsNoProbability": 0.4063,
+        "over25Probability": 0.5624,
+        "under25Probability": 0.4376,
+        "homeWinProbability": 0.3646,
+        "drawProbability": 0.2564,
+        "awayWinProbability": 0.4685,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1172
+          "probability": 0.1199
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1756,13 +1864,13 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1698,
+          "homeElo": 1707,
           "awayElo": 1788,
-          "eloWinProb": 0.464
+          "eloWinProb": 0.477
         },
         "matchFingerprint": "34_rennes_lille_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:39.140Z",
-        "auditHash": "SHA256-IMMUTABLE-6377029B-2026-11-22",
+        "lockedAt": "2026-11-23T17:46:49.042Z",
+        "auditHash": "SHA256-IMMUTABLE-7F57F318-2026-11-23",
         "isImmutable": true
       },
       "evaluation": {
@@ -1770,114 +1878,6 @@
         "overUnderHit": true,
         "bothHit": true,
         "exactScoreHit": false
-      }
-    },
-    {
-      "id": "res_34_14_ParisSaintGermain",
-      "leagueId": "34",
-      "leagueName": "Ligue 1",
-      "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "20:05",
-      "homeTeam": "Paris Saint Germain",
-      "awayTeam": "Troyes",
-      "score": "1-0",
-      "homeGoals": 1,
-      "awayGoals": 0,
-      "totalGoals": 1,
-      "actualBtts": false,
-      "actualOver25": false,
-      "prediction": {
-        "homeExpectedGoals": 2.68,
-        "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 2.88,
-        "bttsProbability": 0.1695,
-        "bttsNoProbability": 0.8305,
-        "over25Probability": 0.5437,
-        "under25Probability": 0.4563,
-        "homeWinProbability": 0.8778,
-        "drawProbability": 0.0939,
-        "awayWinProbability": 0.057,
-        "predictedScore": {
-          "home": 2,
-          "away": 0,
-          "probability": 0.2014
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 66,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1865,
-          "awayElo": 1610,
-          "eloWinProb": 0.863
-        },
-        "matchFingerprint": "34_paris saint germain_troyes_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:39.140Z",
-        "auditHash": "SHA256-IMMUTABLE-DCA846E-2026-11-22",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": true,
-        "overUnderHit": false,
-        "bothHit": false,
-        "exactScoreHit": false
-      }
-    },
-    {
-      "id": "res_34_15_Auxerre",
-      "leagueId": "34",
-      "leagueName": "Ligue 1",
-      "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "18:00",
-      "homeTeam": "Auxerre",
-      "awayTeam": "Paris FC",
-      "score": "0-1",
-      "homeGoals": 0,
-      "awayGoals": 1,
-      "totalGoals": 1,
-      "actualBtts": false,
-      "actualOver25": false,
-      "prediction": {
-        "homeExpectedGoals": 0.51,
-        "awayExpectedGoals": 1.27,
-        "totalExpectedGoals": 1.77,
-        "bttsProbability": 0.2926,
-        "bttsNoProbability": 0.7074,
-        "over25Probability": 0.2625,
-        "under25Probability": 0.7375,
-        "homeWinProbability": 0.2036,
-        "drawProbability": 0.3106,
-        "awayWinProbability": 0.5944,
-        "predictedScore": {
-          "home": 0,
-          "away": 1,
-          "probability": 0.2082
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 41,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 47,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1597,
-          "awayElo": 1795,
-          "eloWinProb": 0.317
-        },
-        "matchFingerprint": "34_auxerre_paris fc_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-22T14:22:39.140Z",
-        "auditHash": "SHA256-IMMUTABLE-663C1345-2026-11-22",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": true,
-        "overUnderHit": true,
-        "bothHit": true,
-        "exactScoreHit": true
       }
     }
   ],
@@ -1894,43 +1894,43 @@
       "aw": 5,
       "ad": 2,
       "al": 0,
-      "af": 17,
-      "aa": 8,
+      "af": 18,
+      "aa": 9,
       "gd": 13,
       "pts": 26,
       "ppg": 2.36,
       "form": "WWWWWW",
       "ycF": 0.9,
-      "ycA": 1.4,
+      "ycA": 1.6,
       "rcF": 0.1,
       "rcA": 0.1,
-      "psF": 68,
-      "psA": 32,
-      "cF": 5.1,
+      "psF": 67,
+      "psA": 33,
+      "cF": 5.4,
       "cA": 2.1,
-      "stF": 6.4,
-      "stA": 4.3,
-      "sntF": 6.7,
+      "stF": 6.9,
+      "stA": 4.6,
+      "sntF": 7,
       "sntA": 4.4
     },
     "Paris FC": {
       "pos": 2,
       "team": "Paris FC",
       "p": 11,
-      "hw": 4,
-      "hd": 2,
+      "hw": 5,
+      "hd": 1,
       "hl": 0,
-      "hf": 12,
+      "hf": 16,
       "ha": 5,
       "aw": 2,
       "ad": 1,
       "al": 2,
       "af": 5,
       "aa": 5,
-      "gd": 7,
-      "pts": 21,
-      "ppg": 1.9,
-      "form": "LWLWWd",
+      "gd": 11,
+      "pts": 23,
+      "ppg": 2.09,
+      "form": "LWLWWW",
       "ycF": 2.4,
       "ycA": 1.6,
       "rcF": 0,
@@ -2009,21 +2009,21 @@
     "Marseille": {
       "pos": 5,
       "team": "Marseille",
-      "p": 10,
+      "p": 11,
       "hw": 3,
       "hd": 0,
-      "hl": 2,
-      "hf": 13,
-      "ha": 8,
+      "hl": 3,
+      "hf": 15,
+      "ha": 11,
       "aw": 3,
       "ad": 0,
       "al": 2,
       "af": 9,
       "aa": 6,
-      "gd": 8,
+      "gd": 7,
       "pts": 18,
-      "ppg": 1.8,
-      "form": "LWWWWW",
+      "ppg": 1.63,
+      "form": "WWWWWL",
       "ycF": 1.6,
       "ycA": 2.2,
       "rcF": 0,
@@ -2075,8 +2075,8 @@
       "hw": 3,
       "hd": 2,
       "hl": 1,
-      "hf": 11,
-      "ha": 7,
+      "hf": 12,
+      "ha": 8,
       "aw": 2,
       "ad": 0,
       "al": 3,
@@ -2133,52 +2133,52 @@
     "Rennes": {
       "pos": 9,
       "team": "Rennes",
-      "p": 10,
+      "p": 11,
       "hw": 4,
       "hd": 1,
       "hl": 1,
       "hf": 14,
       "ha": 7,
       "aw": 1,
-      "ad": 0,
+      "ad": 1,
       "al": 3,
-      "af": 7,
-      "aa": 14,
+      "af": 8,
+      "aa": 15,
       "gd": 0,
-      "pts": 16,
-      "ppg": 1.6,
-      "form": "LWLWLL",
-      "ycF": 2.5,
-      "ycA": 3,
+      "pts": 17,
+      "ppg": 1.54,
+      "form": "WLWLLD",
+      "ycF": 2.4,
+      "ycA": 2.8,
       "rcF": 0,
       "rcA": 0,
       "psF": 53,
       "psA": 47,
-      "cF": 6.3,
-      "cA": 5.5,
-      "stF": 6.3,
-      "stA": 7.3,
+      "cF": 6,
+      "cA": 5.8,
+      "stF": 5.6,
+      "stA": 6.4,
       "sntF": 5.8,
-      "sntA": 4.8
+      "sntA": 5
     },
     "Lorient": {
       "pos": 10,
       "team": "Lorient",
-      "p": 10,
+      "p": 11,
       "hw": 2,
-      "hd": 1,
+      "hd": 2,
       "hl": 2,
-      "hf": 5,
-      "ha": 6,
+      "hf": 6,
+      "ha": 7,
       "aw": 2,
       "ad": 2,
       "al": 1,
       "af": 4,
       "aa": 2,
       "gd": 1,
-      "pts": 15,
-      "ppg": 1.5,
-      "form": "LWWdLW",
+      "pts": 16,
+      "ppg": 1.45,
+      "form": "WWdLWD",
       "ycF": 1.6,
       "ycA": 1.8,
       "rcF": 0.2,
@@ -2254,8 +2254,39 @@
       "sntF": 4.2,
       "sntA": 7.5
     },
-    "Troyes": {
+    "Le Mans": {
       "pos": 13,
+      "team": "Le Mans",
+      "p": 11,
+      "hw": 1,
+      "hd": 3,
+      "hl": 1,
+      "hf": 7,
+      "ha": 9,
+      "aw": 1,
+      "ad": 2,
+      "al": 3,
+      "af": 8,
+      "aa": 12,
+      "gd": -6,
+      "pts": 11,
+      "ppg": 1,
+      "form": "LLDLDW",
+      "ycF": 3.2,
+      "ycA": 2,
+      "rcF": 0,
+      "rcA": 0,
+      "psF": 42,
+      "psA": 58,
+      "cF": 3.3,
+      "cA": 5,
+      "stF": 3.8,
+      "stA": 6,
+      "sntF": 4.8,
+      "sntA": 5.7
+    },
+    "Troyes": {
+      "pos": 14,
       "team": "Troyes",
       "p": 11,
       "hw": 2,
@@ -2286,7 +2317,7 @@
       "sntA": 5
     },
     "Auxerre": {
-      "pos": 14,
+      "pos": 15,
       "team": "Auxerre",
       "p": 11,
       "hw": 2,
@@ -2317,7 +2348,7 @@
       "sntA": 6
     },
     "Strasbourg": {
-      "pos": 15,
+      "pos": 16,
       "team": "Strasbourg",
       "p": 11,
       "hw": 2,
@@ -2348,7 +2379,7 @@
       "sntA": 5.5
     },
     "Angers": {
-      "pos": 16,
+      "pos": 17,
       "team": "Angers",
       "p": 11,
       "hw": 1,
@@ -2357,57 +2388,26 @@
       "hf": 5,
       "ha": 11,
       "aw": 1,
-      "ad": 2,
-      "al": 2,
-      "af": 4,
-      "aa": 8,
-      "gd": -10,
-      "pts": 9,
-      "ppg": 0.81,
-      "form": "LLdLLd",
-      "ycF": 1,
-      "ycA": 1,
-      "rcF": 0,
-      "rcA": 0,
-      "psF": 43,
-      "psA": 57,
-      "cF": 4.8,
-      "cA": 4.4,
-      "stF": 2.4,
-      "stA": 5.6,
-      "sntF": 3.8,
-      "sntA": 7.4
-    },
-    "Le Mans": {
-      "pos": 17,
-      "team": "Le Mans",
-      "p": 10,
-      "hw": 1,
-      "hd": 3,
-      "hl": 1,
-      "hf": 7,
-      "ha": 9,
-      "aw": 0,
-      "ad": 2,
+      "ad": 1,
       "al": 3,
-      "af": 5,
-      "aa": 10,
-      "gd": -7,
+      "af": 4,
+      "aa": 12,
+      "gd": -14,
       "pts": 8,
-      "ppg": 0.8,
-      "form": "WLLDLD",
-      "ycF": 3,
-      "ycA": 1.8,
+      "ppg": 0.72,
+      "form": "LLdLLL",
+      "ycF": 1.2,
+      "ycA": 1.2,
       "rcF": 0,
       "rcA": 0,
-      "psF": 41,
-      "psA": 59,
-      "cF": 3,
-      "cA": 5.6,
-      "stF": 2.8,
-      "stA": 6.2,
-      "sntF": 4.8,
-      "sntA": 5.8
+      "psF": 42,
+      "psA": 58,
+      "cF": 5.2,
+      "cA": 5.8,
+      "stF": 2.6,
+      "stA": 7.2,
+      "sntF": 4.6,
+      "sntA": 7.8
     },
     "Le Havre": {
       "pos": 18,
@@ -2447,28 +2447,28 @@
     "bttsHits": 13,
     "bttsAccuracy": 86.7,
     "overUnderEvaluated": 15,
-    "overUnderHits": 10,
-    "overUnderAccuracy": 66.7,
-    "overallAccuracy": 76.7,
-    "exactScoreHits": 2,
-    "exactScoreAccuracy": 13.3,
+    "overUnderHits": 11,
+    "overUnderAccuracy": 73.3,
+    "overallAccuracy": 80,
+    "exactScoreHits": 4,
+    "exactScoreAccuracy": 26.7,
     "confusionMatrix": {
       "btts": {
-        "predictedYesActualYes": 6,
+        "predictedYesActualYes": 8,
         "predictedYesActualNo": 1,
         "predictedNoActualYes": 1,
-        "predictedNoActualNo": 7
+        "predictedNoActualNo": 5
       },
       "overUnder": {
-        "predictedOverActualOver": 4,
-        "predictedOverActualUnder": 5,
+        "predictedOverActualOver": 6,
+        "predictedOverActualUnder": 4,
         "predictedUnderActualOver": 0,
-        "predictedUnderActualUnder": 6
+        "predictedUnderActualUnder": 5
       }
     },
-    "logLoss": 0.5301,
-    "brierScore": 0.1738,
-    "simulatedRoi": 46.4
+    "logLoss": 0.5052,
+    "brierScore": 0.1629,
+    "simulatedRoi": 52.8
   },
   "parameters": {
     "homeAdvantage": 1.18,
