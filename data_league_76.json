@@ -1,254 +1,41 @@
 {
   "leagueId": "76",
   "leagueName": "Brazil Serie A",
-  "timestamp": "2026-11-23T17:48:20.594Z",
+  "timestamp": "2026-11-24T17:18:49.455Z",
   "fixtures": [
     {
-      "id": "fix_76_1_Internacional",
-      "leagueId": "76",
-      "leagueName": "Brazil Serie A",
-      "dateRaw": "Mon 23/11",
-      "dateIso": "2026-11-23T12:00:00.000Z",
-      "daysFromNow": 0,
-      "time": "22:30",
-      "homeTeam": "Internacional",
-      "awayTeam": "Vitoria",
-      "odds": {
-        "home": 1.67,
-        "draw": 4.05,
-        "away": 5.5
-      },
-      "prediction": {
-        "homeExpectedGoals": 2.03,
-        "awayExpectedGoals": 0.58,
-        "totalExpectedGoals": 2.6,
-        "bttsProbability": 0.3845,
-        "bttsNoProbability": 0.6155,
-        "over25Probability": 0.4813,
-        "under25Probability": 0.5187,
-        "homeWinProbability": 0.6736,
-        "drawProbability": 0.1994,
-        "awayWinProbability": 0.196,
-        "predictedScore": {
-          "home": 2,
-          "away": 0,
-          "probability": 0.1522
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1616,
-          "awayElo": 1607,
-          "eloWinProb": 0.605
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 2.03,
-        "awayExpectedGoals": 0.58,
-        "totalExpectedGoals": 2.6,
-        "bttsProbability": 0.3845,
-        "bttsNoProbability": 0.6155,
-        "over25Probability": 0.4813,
-        "under25Probability": 0.5187,
-        "homeWinProbability": 0.6736,
-        "drawProbability": 0.1994,
-        "awayWinProbability": 0.196,
-        "predictedScore": {
-          "home": 2,
-          "away": 0,
-          "probability": 0.1522
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1616,
-          "awayElo": 1607,
-          "eloWinProb": 0.605
-        }
-      },
-      "confidenceScore": 62
-    },
-    {
-      "id": "fix_76_2_BotafogoASF",
-      "leagueId": "76",
-      "leagueName": "Brazil Serie A",
-      "dateRaw": "Mon 23/11",
-      "dateIso": "2026-11-23T12:00:00.000Z",
-      "daysFromNow": 0,
-      "time": "23:00",
-      "homeTeam": "Botafogo ASF",
-      "awayTeam": "Sao Paulo",
-      "odds": {
-        "home": 2.28,
-        "draw": 3.5,
-        "away": 3.2
-      },
-      "prediction": {
-        "homeExpectedGoals": 1.71,
-        "awayExpectedGoals": 1.01,
-        "totalExpectedGoals": 2.72,
-        "bttsProbability": 0.5269,
-        "bttsNoProbability": 0.4731,
-        "over25Probability": 0.51,
-        "under25Probability": 0.49,
-        "homeWinProbability": 0.5316,
-        "drawProbability": 0.2533,
-        "awayWinProbability": 0.3035,
-        "predictedScore": {
-          "home": 1,
-          "away": 1,
-          "probability": 0.1208
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1626,
-          "awayElo": 1667,
-          "eloWinProb": 0.534
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 1.71,
-        "awayExpectedGoals": 1.01,
-        "totalExpectedGoals": 2.72,
-        "bttsProbability": 0.5269,
-        "bttsNoProbability": 0.4731,
-        "over25Probability": 0.51,
-        "under25Probability": 0.49,
-        "homeWinProbability": 0.5316,
-        "drawProbability": 0.2533,
-        "awayWinProbability": 0.3035,
-        "predictedScore": {
-          "home": 1,
-          "away": 1,
-          "probability": 0.1208
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1626,
-          "awayElo": 1667,
-          "eloWinProb": 0.534
-        }
-      },
-      "confidenceScore": 53
-    },
-    {
-      "id": "fix_76_3_Santos",
+      "id": "fix_76_1_Chapecoense",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Tue 24/11",
       "dateIso": "2026-11-24T12:00:00.000Z",
-      "daysFromNow": 1,
-      "time": "00:00",
-      "homeTeam": "Santos",
-      "awayTeam": "Gremio",
-      "odds": {
-        "home": 1.72,
-        "draw": 4.25,
-        "away": 4.85
-      },
-      "prediction": {
-        "homeExpectedGoals": 1.86,
-        "awayExpectedGoals": 0.59,
-        "totalExpectedGoals": 2.44,
-        "bttsProbability": 0.3796,
-        "bttsNoProbability": 0.6204,
-        "over25Probability": 0.4412,
-        "under25Probability": 0.5588,
-        "homeWinProbability": 0.6928,
-        "drawProbability": 0.2216,
-        "awayWinProbability": 0.1627,
-        "predictedScore": {
-          "home": 1,
-          "away": 0,
-          "probability": 0.1556
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1706,
-          "awayElo": 1600,
-          "eloWinProb": 0.728
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 1.86,
-        "awayExpectedGoals": 0.59,
-        "totalExpectedGoals": 2.44,
-        "bttsProbability": 0.3796,
-        "bttsNoProbability": 0.6204,
-        "over25Probability": 0.4412,
-        "under25Probability": 0.5588,
-        "homeWinProbability": 0.6928,
-        "drawProbability": 0.2216,
-        "awayWinProbability": 0.1627,
-        "predictedScore": {
-          "home": 1,
-          "away": 0,
-          "probability": 0.1556
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1706,
-          "awayElo": 1600,
-          "eloWinProb": 0.728
-        }
-      },
-      "confidenceScore": 62
-    },
-    {
-      "id": "fix_76_4_Chapecoense",
-      "leagueId": "76",
-      "leagueName": "Brazil Serie A",
-      "dateRaw": "Tue 24/11",
-      "dateIso": "2026-11-24T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "21:00",
       "homeTeam": "Chapecoense",
       "awayTeam": "Palmeiras",
       "odds": {
-        "home": 4.1,
-        "draw": 4.2,
-        "away": 1.8
+        "home": 3.55,
+        "draw": 3.8,
+        "away": 2.1
       },
       "prediction": {
         "homeExpectedGoals": 0.33,
         "awayExpectedGoals": 4,
         "totalExpectedGoals": 4.33,
-        "bttsProbability": 0.2622,
-        "bttsNoProbability": 0.7378,
-        "over25Probability": 0.7552,
-        "under25Probability": 0.2448,
+        "bttsProbability": 0.2629,
+        "bttsNoProbability": 0.7371,
+        "over25Probability": 0.7553,
+        "under25Probability": 0.2447,
         "homeWinProbability": 0.0361,
-        "drawProbability": 0.0392,
-        "awayWinProbability": 0.9052,
+        "drawProbability": 0.0393,
+        "awayWinProbability": 0.9051,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.1405
+          "probability": 0.1404
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 48,
+        "bttsConfidence": 47,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 51,
         "iicdScore": 1,
@@ -262,20 +49,20 @@
         "homeExpectedGoals": 0.33,
         "awayExpectedGoals": 4,
         "totalExpectedGoals": 4.33,
-        "bttsProbability": 0.2622,
-        "bttsNoProbability": 0.7378,
-        "over25Probability": 0.7552,
-        "under25Probability": 0.2448,
+        "bttsProbability": 0.2629,
+        "bttsNoProbability": 0.7371,
+        "over25Probability": 0.7553,
+        "under25Probability": 0.2447,
         "homeWinProbability": 0.0361,
-        "drawProbability": 0.0392,
-        "awayWinProbability": 0.9052,
+        "drawProbability": 0.0393,
+        "awayWinProbability": 0.9051,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.1405
+          "probability": 0.1404
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 48,
+        "bttsConfidence": 47,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 51,
         "iicdScore": 1,
@@ -288,12 +75,12 @@
       "confidenceScore": 76
     },
     {
-      "id": "fix_76_5_AtleticoMG",
+      "id": "fix_76_2_AtleticoMG",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Wed 25/11",
       "dateIso": "2026-11-25T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "23:00",
       "homeTeam": "Atletico MG",
       "awayTeam": "Corinthians",
@@ -303,91 +90,91 @@
         "away": 3.05
       },
       "prediction": {
-        "homeExpectedGoals": 2,
-        "awayExpectedGoals": 0.85,
+        "homeExpectedGoals": 2.02,
+        "awayExpectedGoals": 0.84,
         "totalExpectedGoals": 2.86,
-        "bttsProbability": 0.5021,
-        "bttsNoProbability": 0.4979,
-        "over25Probability": 0.5429,
-        "under25Probability": 0.4571,
-        "homeWinProbability": 0.6599,
-        "drawProbability": 0.2184,
-        "awayWinProbability": 0.1974,
+        "bttsProbability": 0.4978,
+        "bttsNoProbability": 0.5022,
+        "over25Probability": 0.5436,
+        "under25Probability": 0.4564,
+        "homeWinProbability": 0.6664,
+        "drawProbability": 0.2158,
+        "awayWinProbability": 0.1925,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1152
+          "probability": 0.1169
         },
-        "bttsPick": "BTTS_SI",
+        "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1723,
-          "awayElo": 1635,
-          "eloWinProb": 0.707
+          "awayElo": 1631,
+          "eloWinProb": 0.712
         }
       },
       "pred": {
-        "homeExpectedGoals": 2,
-        "awayExpectedGoals": 0.85,
+        "homeExpectedGoals": 2.02,
+        "awayExpectedGoals": 0.84,
         "totalExpectedGoals": 2.86,
-        "bttsProbability": 0.5021,
-        "bttsNoProbability": 0.4979,
-        "over25Probability": 0.5429,
-        "under25Probability": 0.4571,
-        "homeWinProbability": 0.6599,
-        "drawProbability": 0.2184,
-        "awayWinProbability": 0.1974,
+        "bttsProbability": 0.4978,
+        "bttsNoProbability": 0.5022,
+        "over25Probability": 0.5436,
+        "under25Probability": 0.4564,
+        "homeWinProbability": 0.6664,
+        "drawProbability": 0.2158,
+        "awayWinProbability": 0.1925,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1152
+          "probability": 0.1169
         },
-        "bttsPick": "BTTS_SI",
+        "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1723,
-          "awayElo": 1635,
-          "eloWinProb": 0.707
+          "awayElo": 1631,
+          "eloWinProb": 0.712
         }
       },
       "confidenceScore": 54
     },
     {
-      "id": "fix_76_6_SaoPaulo",
+      "id": "fix_76_3_SaoPaulo",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-26T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "23:00",
       "homeTeam": "Sao Paulo",
       "awayTeam": "Clube do Remo",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 1.42,
+        "draw": 4.81,
+        "away": 7.65
       },
       "prediction": {
-        "homeExpectedGoals": 2.79,
-        "awayExpectedGoals": 0.52,
-        "totalExpectedGoals": 3.31,
-        "bttsProbability": 0.3792,
-        "bttsNoProbability": 0.6208,
-        "over25Probability": 0.6344,
-        "under25Probability": 0.3656,
-        "homeWinProbability": 0.802,
-        "drawProbability": 0.1181,
-        "awayWinProbability": 0.116,
+        "homeExpectedGoals": 2.77,
+        "awayExpectedGoals": 0.51,
+        "totalExpectedGoals": 3.28,
+        "bttsProbability": 0.3725,
+        "bttsNoProbability": 0.6275,
+        "over25Probability": 0.6285,
+        "under25Probability": 0.3715,
+        "homeWinProbability": 0.8049,
+        "drawProbability": 0.1187,
+        "awayWinProbability": 0.113,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1424
+          "probability": 0.1448
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -395,26 +182,26 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1667,
+          "homeElo": 1674,
           "awayElo": 1544,
-          "eloWinProb": 0.747
+          "eloWinProb": 0.754
         }
       },
       "pred": {
-        "homeExpectedGoals": 2.79,
-        "awayExpectedGoals": 0.52,
-        "totalExpectedGoals": 3.31,
-        "bttsProbability": 0.3792,
-        "bttsNoProbability": 0.6208,
-        "over25Probability": 0.6344,
-        "under25Probability": 0.3656,
-        "homeWinProbability": 0.802,
-        "drawProbability": 0.1181,
-        "awayWinProbability": 0.116,
+        "homeExpectedGoals": 2.77,
+        "awayExpectedGoals": 0.51,
+        "totalExpectedGoals": 3.28,
+        "bttsProbability": 0.3725,
+        "bttsNoProbability": 0.6275,
+        "over25Probability": 0.6285,
+        "under25Probability": 0.3715,
+        "homeWinProbability": 0.8049,
+        "drawProbability": 0.1187,
+        "awayWinProbability": 0.113,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1424
+          "probability": 0.1448
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -422,20 +209,20 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1667,
+          "homeElo": 1674,
           "awayElo": 1544,
-          "eloWinProb": 0.747
+          "eloWinProb": 0.754
         }
       },
       "confidenceScore": 63
     },
     {
-      "id": "fix_76_7_Fluminense",
+      "id": "fix_76_4_Fluminense",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Fri 27/11",
       "dateIso": "2026-11-27T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "23:00",
       "homeTeam": "Fluminense",
       "awayTeam": "Cruzeiro",
@@ -445,20 +232,20 @@
         "away": 3.45
       },
       "prediction": {
-        "homeExpectedGoals": 2.78,
-        "awayExpectedGoals": 1.58,
-        "totalExpectedGoals": 4.35,
-        "bttsProbability": 0.7409,
-        "bttsNoProbability": 0.2591,
-        "over25Probability": 0.8014,
-        "under25Probability": 0.1986,
-        "homeWinProbability": 0.611,
-        "drawProbability": 0.1772,
-        "awayWinProbability": 0.2686,
+        "homeExpectedGoals": 2.79,
+        "awayExpectedGoals": 1.56,
+        "totalExpectedGoals": 4.34,
+        "bttsProbability": 0.7377,
+        "bttsNoProbability": 0.2623,
+        "over25Probability": 0.8,
+        "under25Probability": 0.2,
+        "homeWinProbability": 0.6141,
+        "drawProbability": 0.1763,
+        "awayWinProbability": 0.266,
         "predictedScore": {
           "home": 2,
           "away": 1,
-          "probability": 0.0782
+          "probability": 0.0785
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 48,
@@ -472,20 +259,20 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 2.78,
-        "awayExpectedGoals": 1.58,
-        "totalExpectedGoals": 4.35,
-        "bttsProbability": 0.7409,
-        "bttsNoProbability": 0.2591,
-        "over25Probability": 0.8014,
-        "under25Probability": 0.1986,
-        "homeWinProbability": 0.611,
-        "drawProbability": 0.1772,
-        "awayWinProbability": 0.2686,
+        "homeExpectedGoals": 2.79,
+        "awayExpectedGoals": 1.56,
+        "totalExpectedGoals": 4.34,
+        "bttsProbability": 0.7377,
+        "bttsNoProbability": 0.2623,
+        "over25Probability": 0.8,
+        "under25Probability": 0.2,
+        "homeWinProbability": 0.6141,
+        "drawProbability": 0.1763,
+        "awayWinProbability": 0.266,
         "predictedScore": {
           "home": 2,
           "away": 1,
-          "probability": 0.0782
+          "probability": 0.0785
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 48,
@@ -501,35 +288,35 @@
       "confidenceScore": 80
     },
     {
-      "id": "fix_76_8_BotafogoASF",
+      "id": "fix_76_5_BotafogoASF",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "00:00",
       "homeTeam": "Botafogo ASF",
       "awayTeam": "Bahia",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 2.05,
+        "draw": 3.76,
+        "away": 3.41
       },
       "prediction": {
-        "homeExpectedGoals": 1.45,
-        "awayExpectedGoals": 1.7,
-        "totalExpectedGoals": 3.15,
-        "bttsProbability": 0.6316,
-        "bttsNoProbability": 0.3684,
-        "over25Probability": 0.6093,
-        "under25Probability": 0.3907,
-        "homeWinProbability": 0.361,
-        "drawProbability": 0.247,
-        "awayWinProbability": 0.4782,
+        "homeExpectedGoals": 1.42,
+        "awayExpectedGoals": 1.67,
+        "totalExpectedGoals": 3.09,
+        "bttsProbability": 0.621,
+        "bttsNoProbability": 0.379,
+        "over25Probability": 0.5952,
+        "under25Probability": 0.4048,
+        "homeWinProbability": 0.3605,
+        "drawProbability": 0.2502,
+        "awayWinProbability": 0.4765,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1119
+          "probability": 0.1146
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -537,26 +324,26 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1626,
+          "homeElo": 1625,
           "awayElo": 1737,
-          "eloWinProb": 0.434
+          "eloWinProb": 0.433
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.45,
-        "awayExpectedGoals": 1.7,
-        "totalExpectedGoals": 3.15,
-        "bttsProbability": 0.6316,
-        "bttsNoProbability": 0.3684,
-        "over25Probability": 0.6093,
-        "under25Probability": 0.3907,
-        "homeWinProbability": 0.361,
-        "drawProbability": 0.247,
-        "awayWinProbability": 0.4782,
+        "homeExpectedGoals": 1.42,
+        "awayExpectedGoals": 1.67,
+        "totalExpectedGoals": 3.09,
+        "bttsProbability": 0.621,
+        "bttsNoProbability": 0.379,
+        "over25Probability": 0.5952,
+        "under25Probability": 0.4048,
+        "homeWinProbability": 0.3605,
+        "drawProbability": 0.2502,
+        "awayWinProbability": 0.4765,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1119
+          "probability": 0.1146
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -564,43 +351,43 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1626,
+          "homeElo": 1625,
           "awayElo": 1737,
-          "eloWinProb": 0.434
+          "eloWinProb": 0.433
         }
       },
-      "confidenceScore": 63
+      "confidenceScore": 62
     },
     {
-      "id": "fix_76_9_Coritiba",
+      "id": "fix_76_6_Coritiba",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "19:00",
       "homeTeam": "Coritiba",
       "awayTeam": "Flamengo",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 4.59,
+        "draw": 4.04,
+        "away": 1.73
       },
       "prediction": {
         "homeExpectedGoals": 0.51,
         "awayExpectedGoals": 4,
         "totalExpectedGoals": 4.51,
-        "bttsProbability": 0.3722,
-        "bttsNoProbability": 0.6278,
-        "over25Probability": 0.7762,
-        "under25Probability": 0.2238,
-        "homeWinProbability": 0.0783,
-        "drawProbability": 0.0504,
-        "awayWinProbability": 0.8557,
+        "bttsProbability": 0.3713,
+        "bttsNoProbability": 0.6287,
+        "over25Probability": 0.776,
+        "under25Probability": 0.224,
+        "homeWinProbability": 0.077,
+        "drawProbability": 0.0503,
+        "awayWinProbability": 0.857,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.1175
+          "probability": 0.1177
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -608,26 +395,26 @@
         "overUnderConfidence": 55,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1644,
+          "homeElo": 1640,
           "awayElo": 1955,
-          "eloWinProb": 0.195
+          "eloWinProb": 0.192
         }
       },
       "pred": {
         "homeExpectedGoals": 0.51,
         "awayExpectedGoals": 4,
         "totalExpectedGoals": 4.51,
-        "bttsProbability": 0.3722,
-        "bttsNoProbability": 0.6278,
-        "over25Probability": 0.7762,
-        "under25Probability": 0.2238,
-        "homeWinProbability": 0.0783,
-        "drawProbability": 0.0504,
-        "awayWinProbability": 0.8557,
+        "bttsProbability": 0.3713,
+        "bttsNoProbability": 0.6287,
+        "over25Probability": 0.776,
+        "under25Probability": 0.224,
+        "homeWinProbability": 0.077,
+        "drawProbability": 0.0503,
+        "awayWinProbability": 0.857,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.1175
+          "probability": 0.1177
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -635,43 +422,43 @@
         "overUnderConfidence": 55,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1644,
+          "homeElo": 1640,
           "awayElo": 1955,
-          "eloWinProb": 0.195
+          "eloWinProb": 0.192
         }
       },
       "confidenceScore": 78
     },
     {
-      "id": "fix_76_10_Vitoria",
+      "id": "fix_76_7_Vitoria",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "19:00",
       "homeTeam": "Vitoria",
       "awayTeam": "Santos",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 3.06,
+        "draw": 3.35,
+        "away": 2.38
       },
       "prediction": {
-        "homeExpectedGoals": 1.32,
-        "awayExpectedGoals": 1.51,
-        "totalExpectedGoals": 2.84,
-        "bttsProbability": 0.579,
-        "bttsNoProbability": 0.421,
-        "over25Probability": 0.5388,
-        "under25Probability": 0.4612,
-        "homeWinProbability": 0.3695,
-        "drawProbability": 0.2638,
-        "awayWinProbability": 0.4588,
+        "homeExpectedGoals": 1.44,
+        "awayExpectedGoals": 1.43,
+        "totalExpectedGoals": 2.87,
+        "bttsProbability": 0.588,
+        "bttsNoProbability": 0.412,
+        "over25Probability": 0.5478,
+        "under25Probability": 0.4522,
+        "homeWinProbability": 0.414,
+        "drawProbability": 0.263,
+        "awayWinProbability": 0.4149,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1245
+          "probability": 0.1236
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -679,26 +466,26 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1607,
-          "awayElo": 1706,
-          "eloWinProb": 0.451
+          "homeElo": 1630,
+          "awayElo": 1700,
+          "eloWinProb": 0.493
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.32,
-        "awayExpectedGoals": 1.51,
-        "totalExpectedGoals": 2.84,
-        "bttsProbability": 0.579,
-        "bttsNoProbability": 0.421,
-        "over25Probability": 0.5388,
-        "under25Probability": 0.4612,
-        "homeWinProbability": 0.3695,
-        "drawProbability": 0.2638,
-        "awayWinProbability": 0.4588,
+        "homeExpectedGoals": 1.44,
+        "awayExpectedGoals": 1.43,
+        "totalExpectedGoals": 2.87,
+        "bttsProbability": 0.588,
+        "bttsNoProbability": 0.412,
+        "over25Probability": 0.5478,
+        "under25Probability": 0.4522,
+        "homeWinProbability": 0.414,
+        "drawProbability": 0.263,
+        "awayWinProbability": 0.4149,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1245
+          "probability": 0.1236
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -706,20 +493,20 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1607,
-          "awayElo": 1706,
-          "eloWinProb": 0.451
+          "homeElo": 1630,
+          "awayElo": 1700,
+          "eloWinProb": 0.493
         }
       },
-      "confidenceScore": 58
+      "confidenceScore": 59
     },
     {
-      "id": "fix_76_11_Corinthians",
+      "id": "fix_76_8_Corinthians",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "21:30",
       "homeTeam": "Corinthians",
       "awayTeam": "Gremio",
@@ -729,20 +516,20 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.48,
-        "awayExpectedGoals": 0.5,
-        "totalExpectedGoals": 1.98,
-        "bttsProbability": 0.3101,
-        "bttsNoProbability": 0.6899,
-        "over25Probability": 0.3189,
-        "under25Probability": 0.6811,
-        "homeWinProbability": 0.6209,
-        "drawProbability": 0.2722,
-        "awayWinProbability": 0.202,
+        "homeExpectedGoals": 1.34,
+        "awayExpectedGoals": 0.59,
+        "totalExpectedGoals": 1.93,
+        "bttsProbability": 0.3363,
+        "bttsNoProbability": 0.6637,
+        "over25Probability": 0.3048,
+        "under25Probability": 0.6952,
+        "homeWinProbability": 0.5633,
+        "drawProbability": 0.2983,
+        "awayWinProbability": 0.2428,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.198
+          "probability": 0.1874
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -750,26 +537,26 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1635,
-          "awayElo": 1600,
-          "eloWinProb": 0.64
+          "homeElo": 1631,
+          "awayElo": 1627,
+          "eloWinProb": 0.598
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.48,
-        "awayExpectedGoals": 0.5,
-        "totalExpectedGoals": 1.98,
-        "bttsProbability": 0.3101,
-        "bttsNoProbability": 0.6899,
-        "over25Probability": 0.3189,
-        "under25Probability": 0.6811,
-        "homeWinProbability": 0.6209,
-        "drawProbability": 0.2722,
-        "awayWinProbability": 0.202,
+        "homeExpectedGoals": 1.34,
+        "awayExpectedGoals": 0.59,
+        "totalExpectedGoals": 1.93,
+        "bttsProbability": 0.3363,
+        "bttsNoProbability": 0.6637,
+        "over25Probability": 0.3048,
+        "under25Probability": 0.6952,
+        "homeWinProbability": 0.5633,
+        "drawProbability": 0.2983,
+        "awayWinProbability": 0.2428,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.198
+          "probability": 0.1874
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -777,43 +564,43 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1635,
-          "awayElo": 1600,
-          "eloWinProb": 0.64
+          "homeElo": 1631,
+          "awayElo": 1627,
+          "eloWinProb": 0.598
         }
       },
-      "confidenceScore": 69
+      "confidenceScore": 70
     },
     {
-      "id": "fix_76_12_Internacional",
+      "id": "fix_76_9_Internacional",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "21:30",
       "homeTeam": "Internacional",
       "awayTeam": "Red Bull Bragantino",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 1.97,
+        "draw": 3.69,
+        "away": 3.72
       },
       "prediction": {
         "homeExpectedGoals": 1.06,
-        "awayExpectedGoals": 0.95,
-        "totalExpectedGoals": 2.01,
-        "bttsProbability": 0.4078,
-        "bttsNoProbability": 0.5922,
-        "over25Probability": 0.3249,
-        "under25Probability": 0.6751,
-        "homeWinProbability": 0.3953,
-        "drawProbability": 0.3234,
-        "awayWinProbability": 0.3945,
+        "awayExpectedGoals": 1.17,
+        "totalExpectedGoals": 2.23,
+        "bttsProbability": 0.4582,
+        "bttsNoProbability": 0.5418,
+        "over25Probability": 0.3846,
+        "under25Probability": 0.6154,
+        "homeWinProbability": 0.3586,
+        "drawProbability": 0.3047,
+        "awayWinProbability": 0.4434,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.143
+          "probability": 0.1414
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -821,26 +608,26 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1616,
+          "homeElo": 1603,
           "awayElo": 1719,
-          "eloWinProb": 0.446
+          "eloWinProb": 0.427
         }
       },
       "pred": {
         "homeExpectedGoals": 1.06,
-        "awayExpectedGoals": 0.95,
-        "totalExpectedGoals": 2.01,
-        "bttsProbability": 0.4078,
-        "bttsNoProbability": 0.5922,
-        "over25Probability": 0.3249,
-        "under25Probability": 0.6751,
-        "homeWinProbability": 0.3953,
-        "drawProbability": 0.3234,
-        "awayWinProbability": 0.3945,
+        "awayExpectedGoals": 1.17,
+        "totalExpectedGoals": 2.23,
+        "bttsProbability": 0.4582,
+        "bttsNoProbability": 0.5418,
+        "over25Probability": 0.3846,
+        "under25Probability": 0.6154,
+        "homeWinProbability": 0.3586,
+        "drawProbability": 0.3047,
+        "awayWinProbability": 0.4434,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.143
+          "probability": 0.1414
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -848,43 +635,43 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1616,
+          "homeElo": 1603,
           "awayElo": 1719,
-          "eloWinProb": 0.446
+          "eloWinProb": 0.427
         }
       },
-      "confidenceScore": 68
+      "confidenceScore": 62
     },
     {
-      "id": "fix_76_13_Mirassol",
+      "id": "fix_76_10_Mirassol",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "21:30",
       "homeTeam": "Mirassol",
       "awayTeam": "CA Paranaense",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 2.14,
+        "draw": 3.66,
+        "away": 3.32
       },
       "prediction": {
         "homeExpectedGoals": 1.18,
-        "awayExpectedGoals": 1.71,
-        "totalExpectedGoals": 2.89,
-        "bttsProbability": 0.5746,
-        "bttsNoProbability": 0.4254,
-        "over25Probability": 0.5524,
-        "under25Probability": 0.4476,
-        "homeWinProbability": 0.3012,
-        "drawProbability": 0.2519,
-        "awayWinProbability": 0.5348,
+        "awayExpectedGoals": 1.7,
+        "totalExpectedGoals": 2.88,
+        "bttsProbability": 0.5725,
+        "bttsNoProbability": 0.4275,
+        "over25Probability": 0.5494,
+        "under25Probability": 0.4506,
+        "homeWinProbability": 0.2996,
+        "drawProbability": 0.2527,
+        "awayWinProbability": 0.5359,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1187
+          "probability": 0.1192
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -892,26 +679,26 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1618,
+          "homeElo": 1614,
           "awayElo": 1765,
-          "eloWinProb": 0.384
+          "eloWinProb": 0.379
         }
       },
       "pred": {
         "homeExpectedGoals": 1.18,
-        "awayExpectedGoals": 1.71,
-        "totalExpectedGoals": 2.89,
-        "bttsProbability": 0.5746,
-        "bttsNoProbability": 0.4254,
-        "over25Probability": 0.5524,
-        "under25Probability": 0.4476,
-        "homeWinProbability": 0.3012,
-        "drawProbability": 0.2519,
-        "awayWinProbability": 0.5348,
+        "awayExpectedGoals": 1.7,
+        "totalExpectedGoals": 2.88,
+        "bttsProbability": 0.5725,
+        "bttsNoProbability": 0.4275,
+        "over25Probability": 0.5494,
+        "under25Probability": 0.4506,
+        "homeWinProbability": 0.2996,
+        "drawProbability": 0.2527,
+        "awayWinProbability": 0.5359,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1187
+          "probability": 0.1192
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -919,20 +706,20 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1618,
+          "homeElo": 1614,
           "awayElo": 1765,
-          "eloWinProb": 0.384
+          "eloWinProb": 0.379
         }
       },
       "confidenceScore": 57
     },
     {
-      "id": "fix_76_14_AtleticoMG",
+      "id": "fix_76_11_AtleticoMG",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "22:30",
       "homeTeam": "Atletico MG",
       "awayTeam": "Vasco da Gama",
@@ -942,20 +729,20 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.93,
-        "awayExpectedGoals": 1.02,
-        "totalExpectedGoals": 2.95,
-        "bttsProbability": 0.5513,
-        "bttsNoProbability": 0.4487,
-        "over25Probability": 0.5639,
-        "under25Probability": 0.4361,
-        "homeWinProbability": 0.608,
-        "drawProbability": 0.231,
-        "awayWinProbability": 0.2413,
+        "homeExpectedGoals": 1.94,
+        "awayExpectedGoals": 1.01,
+        "totalExpectedGoals": 2.94,
+        "bttsProbability": 0.5482,
+        "bttsNoProbability": 0.4518,
+        "over25Probability": 0.5626,
+        "under25Probability": 0.4374,
+        "homeWinProbability": 0.6106,
+        "drawProbability": 0.2302,
+        "awayWinProbability": 0.2392,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1092
+          "probability": 0.1089
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -969,20 +756,20 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.93,
-        "awayExpectedGoals": 1.02,
-        "totalExpectedGoals": 2.95,
-        "bttsProbability": 0.5513,
-        "bttsNoProbability": 0.4487,
-        "over25Probability": 0.5639,
-        "under25Probability": 0.4361,
-        "homeWinProbability": 0.608,
-        "drawProbability": 0.231,
-        "awayWinProbability": 0.2413,
+        "homeExpectedGoals": 1.94,
+        "awayExpectedGoals": 1.01,
+        "totalExpectedGoals": 2.94,
+        "bttsProbability": 0.5482,
+        "bttsNoProbability": 0.4518,
+        "over25Probability": 0.5626,
+        "under25Probability": 0.4374,
+        "homeWinProbability": 0.6106,
+        "drawProbability": 0.2302,
+        "awayWinProbability": 0.2392,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1092
+          "probability": 0.1089
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -998,12 +785,12 @@
       "confidenceScore": 56
     },
     {
-      "id": "fix_76_15_Bahia",
+      "id": "fix_76_12_Bahia",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Thu 03/12",
       "dateIso": "2026-11-26T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "00:30",
       "homeTeam": "Bahia",
       "awayTeam": "Atletico MG",
@@ -1014,19 +801,19 @@
       },
       "prediction": {
         "homeExpectedGoals": 1.3,
-        "awayExpectedGoals": 0.89,
-        "totalExpectedGoals": 2.19,
-        "bttsProbability": 0.4363,
-        "bttsNoProbability": 0.5637,
-        "over25Probability": 0.3739,
-        "under25Probability": 0.6261,
-        "homeWinProbability": 0.5075,
-        "drawProbability": 0.3,
-        "awayWinProbability": 0.2974,
+        "awayExpectedGoals": 0.88,
+        "totalExpectedGoals": 2.18,
+        "bttsProbability": 0.4338,
+        "bttsNoProbability": 0.5662,
+        "over25Probability": 0.3722,
+        "under25Probability": 0.6278,
+        "homeWinProbability": 0.5099,
+        "drawProbability": 0.2999,
+        "awayWinProbability": 0.2952,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1377
+          "probability": 0.139
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1041,19 +828,19 @@
       },
       "pred": {
         "homeExpectedGoals": 1.3,
-        "awayExpectedGoals": 0.89,
-        "totalExpectedGoals": 2.19,
-        "bttsProbability": 0.4363,
-        "bttsNoProbability": 0.5637,
-        "over25Probability": 0.3739,
-        "under25Probability": 0.6261,
-        "homeWinProbability": 0.5075,
-        "drawProbability": 0.3,
-        "awayWinProbability": 0.2974,
+        "awayExpectedGoals": 0.88,
+        "totalExpectedGoals": 2.18,
+        "bttsProbability": 0.4338,
+        "bttsNoProbability": 0.5662,
+        "over25Probability": 0.3722,
+        "under25Probability": 0.6278,
+        "homeWinProbability": 0.5099,
+        "drawProbability": 0.2999,
+        "awayWinProbability": 0.2952,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1377
+          "probability": 0.139
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1067,11 +854,386 @@
         }
       },
       "confidenceScore": 63
+    },
+    {
+      "id": "fix_76_13_CAParanaense",
+      "leagueId": "76",
+      "leagueName": "Brazil Serie A",
+      "dateRaw": "Thu 03/12",
+      "dateIso": "2026-11-26T12:00:00.000Z",
+      "daysFromNow": 2,
+      "time": "00:30",
+      "homeTeam": "CA Paranaense",
+      "awayTeam": "Sao Paulo",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 2.23,
+        "awayExpectedGoals": 0.69,
+        "totalExpectedGoals": 2.92,
+        "bttsProbability": 0.4502,
+        "bttsNoProbability": 0.5498,
+        "over25Probability": 0.5568,
+        "under25Probability": 0.4432,
+        "homeWinProbability": 0.7145,
+        "drawProbability": 0.1853,
+        "awayWinProbability": 0.1637,
+        "predictedScore": {
+          "home": 2,
+          "away": 0,
+          "probability": 0.1337
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1765,
+          "awayElo": 1674,
+          "eloWinProb": 0.711
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 2.23,
+        "awayExpectedGoals": 0.69,
+        "totalExpectedGoals": 2.92,
+        "bttsProbability": 0.4502,
+        "bttsNoProbability": 0.5498,
+        "over25Probability": 0.5568,
+        "under25Probability": 0.4432,
+        "homeWinProbability": 0.7145,
+        "drawProbability": 0.1853,
+        "awayWinProbability": 0.1637,
+        "predictedScore": {
+          "home": 2,
+          "away": 0,
+          "probability": 0.1337
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1765,
+          "awayElo": 1674,
+          "eloWinProb": 0.711
+        }
+      },
+      "confidenceScore": 56
+    },
+    {
+      "id": "fix_76_14_ClubedoRemo",
+      "leagueId": "76",
+      "leagueName": "Brazil Serie A",
+      "dateRaw": "Thu 03/12",
+      "dateIso": "2026-11-26T12:00:00.000Z",
+      "daysFromNow": 2,
+      "time": "00:30",
+      "homeTeam": "Clube do Remo",
+      "awayTeam": "Corinthians",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.26,
+        "awayExpectedGoals": 1.27,
+        "totalExpectedGoals": 2.54,
+        "bttsProbability": 0.5245,
+        "bttsNoProbability": 0.4755,
+        "over25Probability": 0.466,
+        "under25Probability": 0.534,
+        "homeWinProbability": 0.3953,
+        "drawProbability": 0.2829,
+        "awayWinProbability": 0.4208,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1349
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1544,
+          "awayElo": 1631,
+          "eloWinProb": 0.468
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.26,
+        "awayExpectedGoals": 1.27,
+        "totalExpectedGoals": 2.54,
+        "bttsProbability": 0.5245,
+        "bttsNoProbability": 0.4755,
+        "over25Probability": 0.466,
+        "under25Probability": 0.534,
+        "homeWinProbability": 0.3953,
+        "drawProbability": 0.2829,
+        "awayWinProbability": 0.4208,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1349
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1544,
+          "awayElo": 1631,
+          "eloWinProb": 0.468
+        }
+      },
+      "confidenceScore": 53
+    },
+    {
+      "id": "fix_76_15_Cruzeiro",
+      "leagueId": "76",
+      "leagueName": "Brazil Serie A",
+      "dateRaw": "Thu 03/12",
+      "dateIso": "2026-11-26T12:00:00.000Z",
+      "daysFromNow": 2,
+      "time": "00:30",
+      "homeTeam": "Cruzeiro",
+      "awayTeam": "Internacional",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 3.51,
+        "awayExpectedGoals": 0.7,
+        "totalExpectedGoals": 4.21,
+        "bttsProbability": 0.4772,
+        "bttsNoProbability": 0.5228,
+        "over25Probability": 0.7638,
+        "under25Probability": 0.2362,
+        "homeWinProbability": 0.8397,
+        "drawProbability": 0.0855,
+        "awayWinProbability": 0.0872,
+        "predictedScore": {
+          "home": 3,
+          "away": 0,
+          "probability": 0.107
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 53,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1801,
+          "awayElo": 1603,
+          "eloWinProb": 0.82
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 3.51,
+        "awayExpectedGoals": 0.7,
+        "totalExpectedGoals": 4.21,
+        "bttsProbability": 0.4772,
+        "bttsNoProbability": 0.5228,
+        "over25Probability": 0.7638,
+        "under25Probability": 0.2362,
+        "homeWinProbability": 0.8397,
+        "drawProbability": 0.0855,
+        "awayWinProbability": 0.0872,
+        "predictedScore": {
+          "home": 3,
+          "away": 0,
+          "probability": 0.107
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 53,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1801,
+          "awayElo": 1603,
+          "eloWinProb": 0.82
+        }
+      },
+      "confidenceScore": 76
     }
   ],
   "results": [
     {
-      "id": "res_76_1_RedBullBragantino",
+      "id": "res_76_1_Santos",
+      "leagueId": "76",
+      "leagueName": "Brazil Serie A",
+      "dateRaw": "Tue 24-Nov-2026",
+      "dateIso": "2026-11-24T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "00:00",
+      "homeTeam": "Santos",
+      "awayTeam": "Gremio",
+      "score": "0-2",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "totalGoals": 2,
+      "actualBtts": false,
+      "actualOver25": false,
+      "prediction": {
+        "homeExpectedGoals": 1.58,
+        "awayExpectedGoals": 0.72,
+        "totalExpectedGoals": 2.3,
+        "bttsProbability": 0.4139,
+        "bttsNoProbability": 0.5861,
+        "over25Probability": 0.4036,
+        "under25Probability": 0.5964,
+        "homeWinProbability": 0.6136,
+        "drawProbability": 0.2647,
+        "awayWinProbability": 0.2141,
+        "predictedScore": {
+          "home": 1,
+          "away": 0,
+          "probability": 0.1517
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1700,
+          "awayElo": 1627,
+          "eloWinProb": 0.689
+        },
+        "matchFingerprint": "76_santos_gremio_Tue 24-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-24T17:18:49.453Z",
+        "auditHash": "SHA256-IMMUTABLE-F11B681-2026-11-24",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": true,
+        "bothHit": true,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_76_2_BotafogoASF",
+      "leagueId": "76",
+      "leagueName": "Brazil Serie A",
+      "dateRaw": "Mon 23-Nov-2026",
+      "dateIso": "2026-11-30T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "23:00",
+      "homeTeam": "Botafogo ASF",
+      "awayTeam": "Sao Paulo",
+      "score": "1-1",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "totalGoals": 2,
+      "actualBtts": true,
+      "actualOver25": false,
+      "prediction": {
+        "homeExpectedGoals": 1.62,
+        "awayExpectedGoals": 0.99,
+        "totalExpectedGoals": 2.61,
+        "bttsProbability": 0.5112,
+        "bttsNoProbability": 0.4888,
+        "over25Probability": 0.4846,
+        "under25Probability": 0.5154,
+        "homeWinProbability": 0.5177,
+        "drawProbability": 0.2618,
+        "awayWinProbability": 0.3119,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1248
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1625,
+          "awayElo": 1674,
+          "eloWinProb": 0.523
+        },
+        "matchFingerprint": "76_botafogo asf_sao paulo_Mon 23-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-24T17:18:49.453Z",
+        "auditHash": "SHA256-IMMUTABLE-4525903D-2026-11-24",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": true,
+        "bothHit": true,
+        "exactScoreHit": true
+      }
+    },
+    {
+      "id": "res_76_3_Internacional",
+      "leagueId": "76",
+      "leagueName": "Brazil Serie A",
+      "dateRaw": "Mon 23-Nov-2026",
+      "dateIso": "2026-11-30T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "22:30",
+      "homeTeam": "Internacional",
+      "awayTeam": "Vitoria",
+      "score": "2-5",
+      "homeGoals": 2,
+      "awayGoals": 5,
+      "totalGoals": 7,
+      "actualBtts": true,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 1.96,
+        "awayExpectedGoals": 1.02,
+        "totalExpectedGoals": 2.98,
+        "bttsProbability": 0.5554,
+        "bttsNoProbability": 0.4446,
+        "over25Probability": 0.5715,
+        "under25Probability": 0.4285,
+        "homeWinProbability": 0.5739,
+        "drawProbability": 0.2283,
+        "awayWinProbability": 0.2771,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1077
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1603,
+          "awayElo": 1630,
+          "eloWinProb": 0.554
+        },
+        "matchFingerprint": "76_internacional_vitoria_Mon 23-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-24T17:18:49.453Z",
+        "auditHash": "SHA256-IMMUTABLE-37227CC7-2026-11-24",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": true,
+        "bothHit": true,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_76_4_RedBullBragantino",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Sun 22-Nov-2026",
@@ -1088,19 +1250,19 @@
       "actualOver25": false,
       "prediction": {
         "homeExpectedGoals": 2.11,
-        "awayExpectedGoals": 0.97,
+        "awayExpectedGoals": 0.96,
         "totalExpectedGoals": 3.07,
-        "bttsProbability": 0.5489,
-        "bttsNoProbability": 0.4511,
-        "over25Probability": 0.5915,
-        "under25Probability": 0.4085,
-        "homeWinProbability": 0.6381,
-        "drawProbability": 0.2121,
-        "awayWinProbability": 0.223,
+        "bttsProbability": 0.5456,
+        "bttsNoProbability": 0.4544,
+        "over25Probability": 0.5904,
+        "under25Probability": 0.4096,
+        "homeWinProbability": 0.6406,
+        "drawProbability": 0.2111,
+        "awayWinProbability": 0.2212,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1027
+          "probability": 0.1038
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1113,8 +1275,8 @@
           "eloWinProb": 0.656
         },
         "matchFingerprint": "76_red bull bragantino_vasco da gama_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:48:20.591Z",
-        "auditHash": "SHA256-IMMUTABLE-4443379E-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:49.453Z",
+        "auditHash": "SHA256-IMMUTABLE-45D28BFA-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1125,7 +1287,7 @@
       }
     },
     {
-      "id": "res_76_2_Fluminense",
+      "id": "res_76_5_Fluminense",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Sun 22-Nov-2026",
@@ -1141,20 +1303,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 2.86,
-        "awayExpectedGoals": 0.51,
-        "totalExpectedGoals": 3.37,
-        "bttsProbability": 0.3736,
-        "bttsNoProbability": 0.6264,
-        "over25Probability": 0.6447,
-        "under25Probability": 0.3553,
-        "homeWinProbability": 0.8302,
-        "drawProbability": 0.1116,
-        "awayWinProbability": 0.0913,
+        "homeExpectedGoals": 2.89,
+        "awayExpectedGoals": 0.5,
+        "totalExpectedGoals": 3.38,
+        "bttsProbability": 0.3689,
+        "bttsNoProbability": 0.6311,
+        "over25Probability": 0.6476,
+        "under25Probability": 0.3524,
+        "homeWinProbability": 0.834,
+        "drawProbability": 0.1088,
+        "awayWinProbability": 0.0889,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1412
+          "probability": 0.1413
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1163,12 +1325,12 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1806,
-          "awayElo": 1618,
-          "eloWinProb": 0.811
+          "awayElo": 1614,
+          "eloWinProb": 0.814
         },
         "matchFingerprint": "76_fluminense_mirassol_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:48:20.591Z",
-        "auditHash": "SHA256-IMMUTABLE-788826C4-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:49.453Z",
+        "auditHash": "SHA256-IMMUTABLE-6C05A915-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1179,7 +1341,7 @@
       }
     },
     {
-      "id": "res_76_3_CAParanaense",
+      "id": "res_76_6_CAParanaense",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Sun 22-Nov-2026",
@@ -1195,20 +1357,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 3.92,
-        "awayExpectedGoals": 0.64,
-        "totalExpectedGoals": 4.55,
-        "bttsProbability": 0.441,
-        "bttsNoProbability": 0.559,
-        "over25Probability": 0.7859,
-        "under25Probability": 0.2141,
-        "homeWinProbability": 0.8582,
-        "drawProbability": 0.0616,
-        "awayWinProbability": 0.0717,
+        "homeExpectedGoals": 3.93,
+        "awayExpectedGoals": 0.63,
+        "totalExpectedGoals": 4.56,
+        "bttsProbability": 0.4372,
+        "bttsNoProbability": 0.5628,
+        "over25Probability": 0.7857,
+        "under25Probability": 0.2143,
+        "homeWinProbability": 0.8588,
+        "drawProbability": 0.0607,
+        "awayWinProbability": 0.0713,
         "predictedScore": {
           "home": 3,
           "away": 0,
-          "probability": 0.1055
+          "probability": 0.106
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1221,8 +1383,8 @@
           "eloWinProb": 0.838
         },
         "matchFingerprint": "76_ca paranaense_clube do remo_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:48:20.591Z",
-        "auditHash": "SHA256-IMMUTABLE-28244D93-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:49.453Z",
+        "auditHash": "SHA256-IMMUTABLE-64EFF166-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1233,7 +1395,7 @@
       }
     },
     {
-      "id": "res_76_4_Chapecoense",
+      "id": "res_76_7_Chapecoense",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Sun 22-Nov-2026",
@@ -1252,17 +1414,17 @@
         "homeExpectedGoals": 0.87,
         "awayExpectedGoals": 4,
         "totalExpectedGoals": 4.87,
-        "bttsProbability": 0.5429,
-        "bttsNoProbability": 0.4571,
-        "over25Probability": 0.813,
-        "under25Probability": 0.187,
-        "homeWinProbability": 0.0791,
-        "drawProbability": 0.0721,
-        "awayWinProbability": 0.8408,
+        "bttsProbability": 0.5439,
+        "bttsNoProbability": 0.4561,
+        "over25Probability": 0.8132,
+        "under25Probability": 0.1868,
+        "homeWinProbability": 0.0792,
+        "drawProbability": 0.0723,
+        "awayWinProbability": 0.8406,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.0817
+          "probability": 0.0815
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1275,8 +1437,8 @@
           "eloWinProb": 0.159
         },
         "matchFingerprint": "76_chapecoense_cruzeiro_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:48:20.591Z",
-        "auditHash": "SHA256-IMMUTABLE-7E4C7F7-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:49.453Z",
+        "auditHash": "SHA256-IMMUTABLE-50F1B972-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1287,7 +1449,7 @@
       }
     },
     {
-      "id": "res_76_5_Bahia",
+      "id": "res_76_8_Bahia",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1303,20 +1465,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 2,
-        "awayExpectedGoals": 0.84,
-        "totalExpectedGoals": 2.83,
-        "bttsProbability": 0.4949,
-        "bttsNoProbability": 0.5051,
-        "over25Probability": 0.5371,
-        "under25Probability": 0.4629,
-        "homeWinProbability": 0.664,
-        "drawProbability": 0.2184,
-        "awayWinProbability": 0.1933,
+        "homeExpectedGoals": 2.01,
+        "awayExpectedGoals": 0.82,
+        "totalExpectedGoals": 2.84,
+        "bttsProbability": 0.4907,
+        "bttsNoProbability": 0.5093,
+        "over25Probability": 0.5378,
+        "under25Probability": 0.4622,
+        "homeWinProbability": 0.6704,
+        "drawProbability": 0.2158,
+        "awayWinProbability": 0.1886,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1173
+          "probability": 0.119
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1325,12 +1487,12 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1737,
-          "awayElo": 1644,
-          "eloWinProb": 0.713
+          "awayElo": 1640,
+          "eloWinProb": 0.718
         },
         "matchFingerprint": "76_bahia_coritiba_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:48:20.591Z",
-        "auditHash": "SHA256-IMMUTABLE-630B1B6F-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:49.453Z",
+        "auditHash": "SHA256-IMMUTABLE-75F480A2-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1341,7 +1503,7 @@
       }
     },
     {
-      "id": "res_76_6_Palmeiras",
+      "id": "res_76_9_Palmeiras",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1357,20 +1519,20 @@
       "actualBtts": true,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 1.47,
-        "awayExpectedGoals": 1.45,
-        "totalExpectedGoals": 2.93,
-        "bttsProbability": 0.5973,
-        "bttsNoProbability": 0.4027,
-        "over25Probability": 0.5599,
-        "under25Probability": 0.4401,
-        "homeWinProbability": 0.4322,
-        "drawProbability": 0.2602,
-        "awayWinProbability": 0.3985,
+        "homeExpectedGoals": 1.48,
+        "awayExpectedGoals": 1.44,
+        "totalExpectedGoals": 2.91,
+        "bttsProbability": 0.5951,
+        "bttsNoProbability": 0.4049,
+        "over25Probability": 0.5571,
+        "under25Probability": 0.4429,
+        "homeWinProbability": 0.435,
+        "drawProbability": 0.2608,
+        "awayWinProbability": 0.3953,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1216
+          "probability": 0.122
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1383,8 +1545,8 @@
           "eloWinProb": 0.539
         },
         "matchFingerprint": "76_palmeiras_flamengo_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:48:20.591Z",
-        "auditHash": "SHA256-IMMUTABLE-6EB24FC-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:49.453Z",
+        "auditHash": "SHA256-IMMUTABLE-5B6121A-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1395,7 +1557,7 @@
       }
     },
     {
-      "id": "res_76_7_SaoPaulo",
+      "id": "res_76_10_SaoPaulo",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Fri 20-Nov-2026",
@@ -1411,45 +1573,45 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 1.2,
-        "awayExpectedGoals": 1.25,
-        "totalExpectedGoals": 2.44,
-        "bttsProbability": 0.5047,
-        "bttsNoProbability": 0.4953,
-        "over25Probability": 0.4412,
-        "under25Probability": 0.5588,
-        "homeWinProbability": 0.3616,
-        "drawProbability": 0.2892,
-        "awayWinProbability": 0.4503,
+        "homeExpectedGoals": 1.19,
+        "awayExpectedGoals": 1.22,
+        "totalExpectedGoals": 2.41,
+        "bttsProbability": 0.4974,
+        "bttsNoProbability": 0.5026,
+        "over25Probability": 0.4319,
+        "under25Probability": 0.5681,
+        "homeWinProbability": 0.3671,
+        "drawProbability": 0.2918,
+        "awayWinProbability": 0.4431,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1374
+          "probability": 0.1383
         },
-        "bttsPick": "BTTS_SI",
+        "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1667,
+          "homeElo": 1674,
           "awayElo": 1806,
-          "eloWinProb": 0.395
+          "eloWinProb": 0.405
         },
         "matchFingerprint": "76_sao paulo_fluminense_Fri 20-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:48:20.592Z",
-        "auditHash": "SHA256-IMMUTABLE-7C10D6CF-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:49.453Z",
+        "auditHash": "SHA256-IMMUTABLE-29252D8-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
-        "bttsHit": false,
+        "bttsHit": true,
         "overUnderHit": true,
-        "bothHit": false,
+        "bothHit": true,
         "exactScoreHit": false
       }
     },
     {
-      "id": "res_76_8_VascodaGama",
+      "id": "res_76_11_VascodaGama",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Thu 19-Nov-2026",
@@ -1465,20 +1627,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.98,
-        "awayExpectedGoals": 1.05,
+        "homeExpectedGoals": 2.02,
+        "awayExpectedGoals": 1,
         "totalExpectedGoals": 3.03,
-        "bttsProbability": 0.5647,
-        "bttsNoProbability": 0.4353,
-        "over25Probability": 0.5816,
-        "under25Probability": 0.4184,
-        "homeWinProbability": 0.6125,
-        "drawProbability": 0.2268,
-        "awayWinProbability": 0.2393,
+        "bttsProbability": 0.5548,
+        "bttsNoProbability": 0.4452,
+        "over25Probability": 0.5818,
+        "under25Probability": 0.4182,
+        "homeWinProbability": 0.6313,
+        "drawProbability": 0.2213,
+        "awayWinProbability": 0.224,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1065
+          "probability": 0.1042
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1487,12 +1649,12 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1672,
-          "awayElo": 1616,
-          "eloWinProb": 0.667
+          "awayElo": 1603,
+          "eloWinProb": 0.684
         },
         "matchFingerprint": "76_vasco da gama_internacional_Thu 19-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:48:20.592Z",
-        "auditHash": "SHA256-IMMUTABLE-7BD5CF5A-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:49.453Z",
+        "auditHash": "SHA256-IMMUTABLE-7351E66F-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1503,7 +1665,7 @@
       }
     },
     {
-      "id": "res_76_9_Vitoria",
+      "id": "res_76_12_Vitoria",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Thu 19-Nov-2026",
@@ -1519,20 +1681,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.07,
-        "awayExpectedGoals": 0.91,
-        "totalExpectedGoals": 1.97,
-        "bttsProbability": 0.3986,
-        "bttsNoProbability": 0.6014,
-        "over25Probability": 0.3156,
-        "under25Probability": 0.6844,
-        "homeWinProbability": 0.3979,
-        "drawProbability": 0.3259,
-        "awayWinProbability": 0.3902,
+        "homeExpectedGoals": 1.15,
+        "awayExpectedGoals": 0.86,
+        "totalExpectedGoals": 2.02,
+        "bttsProbability": 0.4037,
+        "bttsNoProbability": 0.5963,
+        "over25Probability": 0.3277,
+        "under25Probability": 0.6723,
+        "homeWinProbability": 0.4331,
+        "drawProbability": 0.3185,
+        "awayWinProbability": 0.3599,
         "predictedScore": {
-          "home": 0,
+          "home": 1,
           "away": 0,
-          "probability": 0.1473
+          "probability": 0.1454
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1540,13 +1702,13 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1607,
+          "homeElo": 1630,
           "awayElo": 1719,
-          "eloWinProb": 0.433
+          "eloWinProb": 0.466
         },
         "matchFingerprint": "76_vitoria_red bull bragantino_Thu 19-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:48:20.592Z",
-        "auditHash": "SHA256-IMMUTABLE-7083054E-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:49.453Z",
+        "auditHash": "SHA256-IMMUTABLE-DC98067-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1557,7 +1719,7 @@
       }
     },
     {
-      "id": "res_76_10_Corinthians",
+      "id": "res_76_13_Corinthians",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Thu 19-Nov-2026",
@@ -1575,18 +1737,18 @@
       "prediction": {
         "homeExpectedGoals": 1.81,
         "awayExpectedGoals": 0.85,
-        "totalExpectedGoals": 2.67,
-        "bttsProbability": 0.4862,
-        "bttsNoProbability": 0.5138,
-        "over25Probability": 0.4975,
-        "under25Probability": 0.5025,
-        "homeWinProbability": 0.5979,
-        "drawProbability": 0.2393,
-        "awayWinProbability": 0.2461,
+        "totalExpectedGoals": 2.66,
+        "bttsProbability": 0.4838,
+        "bttsNoProbability": 0.5162,
+        "over25Probability": 0.4953,
+        "under25Probability": 0.5047,
+        "homeWinProbability": 0.597,
+        "drawProbability": 0.2395,
+        "awayWinProbability": 0.247,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1196
+          "probability": 0.1206
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1594,13 +1756,13 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1635,
-          "awayElo": 1626,
-          "eloWinProb": 0.605
+          "homeElo": 1631,
+          "awayElo": 1625,
+          "eloWinProb": 0.601
         },
         "matchFingerprint": "76_corinthians_botafogo asf_Thu 19-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:48:20.592Z",
-        "auditHash": "SHA256-IMMUTABLE-19FC2BC8-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:49.453Z",
+        "auditHash": "SHA256-IMMUTABLE-5E7B3026-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1611,7 +1773,7 @@
       }
     },
     {
-      "id": "res_76_11_Gremio",
+      "id": "res_76_14_Gremio",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Thu 19-Nov-2026",
@@ -1627,20 +1789,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 1.31,
-        "awayExpectedGoals": 1.6,
+        "homeExpectedGoals": 1.4,
+        "awayExpectedGoals": 1.52,
         "totalExpectedGoals": 2.91,
-        "bttsProbability": 0.5885,
-        "bttsNoProbability": 0.4115,
-        "over25Probability": 0.5549,
-        "under25Probability": 0.4451,
-        "homeWinProbability": 0.3382,
-        "drawProbability": 0.2583,
-        "awayWinProbability": 0.4937,
+        "bttsProbability": 0.594,
+        "bttsNoProbability": 0.406,
+        "over25Probability": 0.5567,
+        "under25Probability": 0.4433,
+        "homeWinProbability": 0.3755,
+        "drawProbability": 0.2605,
+        "awayWinProbability": 0.455,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1212
+          "probability": 0.1219
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1648,13 +1810,13 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1600,
+          "homeElo": 1627,
           "awayElo": 1737,
-          "eloWinProb": 0.398
+          "eloWinProb": 0.436
         },
         "matchFingerprint": "76_gremio_bahia_Thu 19-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:48:20.592Z",
-        "auditHash": "SHA256-IMMUTABLE-64BD8471-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:49.453Z",
+        "auditHash": "SHA256-IMMUTABLE-2D42A20A-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1665,7 +1827,7 @@
       }
     },
     {
-      "id": "res_76_12_Cruzeiro",
+      "id": "res_76_15_Cruzeiro",
       "leagueId": "76",
       "leagueName": "Brazil Serie A",
       "dateRaw": "Wed 18-Nov-2026",
@@ -1682,19 +1844,19 @@
       "actualOver25": true,
       "prediction": {
         "homeExpectedGoals": 1.12,
-        "awayExpectedGoals": 1.98,
-        "totalExpectedGoals": 3.1,
-        "bttsProbability": 0.5856,
-        "bttsNoProbability": 0.4144,
-        "over25Probability": 0.597,
-        "under25Probability": 0.403,
-        "homeWinProbability": 0.2828,
-        "drawProbability": 0.2283,
-        "awayWinProbability": 0.5681,
+        "awayExpectedGoals": 1.95,
+        "totalExpectedGoals": 3.08,
+        "bttsProbability": 0.5845,
+        "bttsNoProbability": 0.4155,
+        "over25Probability": 0.5929,
+        "under25Probability": 0.4071,
+        "homeWinProbability": 0.2852,
+        "drawProbability": 0.2304,
+        "awayWinProbability": 0.5644,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1061
+          "probability": 0.1072
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1707,176 +1869,14 @@
           "eloWinProb": 0.427
         },
         "matchFingerprint": "76_cruzeiro_palmeiras_Wed 18-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:48:20.592Z",
-        "auditHash": "SHA256-IMMUTABLE-51A547DA-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:49.454Z",
+        "auditHash": "SHA256-IMMUTABLE-48FC8BBC-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
         "bttsHit": true,
         "overUnderHit": true,
         "bothHit": true,
-        "exactScoreHit": false
-      }
-    },
-    {
-      "id": "res_76_13_Flamengo",
-      "leagueId": "76",
-      "leagueName": "Brazil Serie A",
-      "dateRaw": "Wed 18-Nov-2026",
-      "dateIso": "2026-11-25T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "23:30",
-      "homeTeam": "Flamengo",
-      "awayTeam": "CA Paranaense",
-      "score": "2-1",
-      "homeGoals": 2,
-      "awayGoals": 1,
-      "totalGoals": 3,
-      "actualBtts": true,
-      "actualOver25": true,
-      "prediction": {
-        "homeExpectedGoals": 3.56,
-        "awayExpectedGoals": 0.65,
-        "totalExpectedGoals": 4.21,
-        "bttsProbability": 0.4525,
-        "bttsNoProbability": 0.5475,
-        "over25Probability": 0.7621,
-        "under25Probability": 0.2379,
-        "homeWinProbability": 0.8435,
-        "drawProbability": 0.079,
-        "awayWinProbability": 0.0861,
-        "predictedScore": {
-          "home": 3,
-          "away": 0,
-          "probability": 0.1116
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 52,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1955,
-          "awayElo": 1765,
-          "eloWinProb": 0.813
-        },
-        "matchFingerprint": "76_flamengo_ca paranaense_Wed 18-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:48:20.592Z",
-        "auditHash": "SHA256-IMMUTABLE-7D6B4E49-2026-11-23",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": false,
-        "overUnderHit": true,
-        "bothHit": false,
-        "exactScoreHit": false
-      }
-    },
-    {
-      "id": "res_76_14_ClubedoRemo",
-      "leagueId": "76",
-      "leagueName": "Brazil Serie A",
-      "dateRaw": "Wed 18-Nov-2026",
-      "dateIso": "2026-11-25T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "23:00",
-      "homeTeam": "Clube do Remo",
-      "awayTeam": "Chapecoense",
-      "score": "2-0",
-      "homeGoals": 2,
-      "awayGoals": 0,
-      "totalGoals": 2,
-      "actualBtts": false,
-      "actualOver25": false,
-      "prediction": {
-        "homeExpectedGoals": 2.15,
-        "awayExpectedGoals": 0.51,
-        "totalExpectedGoals": 2.66,
-        "bttsProbability": 0.3561,
-        "bttsNoProbability": 0.6439,
-        "over25Probability": 0.4945,
-        "under25Probability": 0.5055,
-        "homeWinProbability": 0.7387,
-        "drawProbability": 0.1794,
-        "awayWinProbability": 0.1436,
-        "predictedScore": {
-          "home": 2,
-          "away": 0,
-          "probability": 0.1619
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1544,
-          "awayElo": 1446,
-          "eloWinProb": 0.719
-        },
-        "matchFingerprint": "76_clube do remo_chapecoense_Wed 18-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:48:20.592Z",
-        "auditHash": "SHA256-IMMUTABLE-4F442B78-2026-11-23",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": true,
-        "overUnderHit": true,
-        "bothHit": true,
-        "exactScoreHit": true
-      }
-    },
-    {
-      "id": "res_76_15_Coritiba",
-      "leagueId": "76",
-      "leagueName": "Brazil Serie A",
-      "dateRaw": "Wed 18-Nov-2026",
-      "dateIso": "2026-11-25T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "22:30",
-      "homeTeam": "Coritiba",
-      "awayTeam": "Santos",
-      "score": "0-1",
-      "homeGoals": 0,
-      "awayGoals": 1,
-      "totalGoals": 1,
-      "actualBtts": false,
-      "actualOver25": false,
-      "prediction": {
-        "homeExpectedGoals": 1.23,
-        "awayExpectedGoals": 1.85,
-        "totalExpectedGoals": 3.08,
-        "bttsProbability": 0.6014,
-        "bttsNoProbability": 0.3986,
-        "over25Probability": 0.593,
-        "under25Probability": 0.407,
-        "homeWinProbability": 0.3369,
-        "drawProbability": 0.2401,
-        "awayWinProbability": 0.5066,
-        "predictedScore": {
-          "home": 1,
-          "away": 1,
-          "probability": 0.111
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1644,
-          "awayElo": 1706,
-          "eloWinProb": 0.504
-        },
-        "matchFingerprint": "76_coritiba_santos_Wed 18-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:48:20.592Z",
-        "auditHash": "SHA256-IMMUTABLE-10BF4755-2026-11-23",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": false,
-        "overUnderHit": false,
-        "bothHit": false,
         "exactScoreHit": false
       }
     }
@@ -2133,21 +2133,21 @@
     "Santos": {
       "pos": 9,
       "team": "Santos",
-      "p": 35,
+      "p": 36,
       "hw": 6,
       "hd": 7,
-      "hl": 4,
+      "hl": 5,
       "hf": 23,
-      "ha": 21,
+      "ha": 23,
       "aw": 7,
       "ad": 4,
       "al": 7,
       "af": 28,
       "aa": 28,
-      "gd": 2,
+      "gd": 0,
       "pts": 50,
-      "ppg": 1.42,
-      "form": "LWDdLW",
+      "ppg": 1.38,
+      "form": "WDdLWL",
       "ycF": 2.7,
       "ycA": 2,
       "rcF": 0.1,
@@ -2192,8 +2192,39 @@
       "sntF": 6.2,
       "sntA": 5.4
     },
-    "Coritiba": {
+    "Sao Paulo": {
       "pos": 11,
+      "team": "Sao Paulo",
+      "p": 36,
+      "hw": 10,
+      "hd": 4,
+      "hl": 4,
+      "hf": 25,
+      "ha": 14,
+      "aw": 2,
+      "ad": 5,
+      "al": 11,
+      "af": 15,
+      "aa": 27,
+      "gd": -1,
+      "pts": 45,
+      "ppg": 1.25,
+      "form": "WDLdLD",
+      "ycF": 2.2,
+      "ycA": 2.4,
+      "rcF": 0.1,
+      "rcA": 0.1,
+      "psF": 54,
+      "psA": 46,
+      "cF": 5.7,
+      "cA": 5.3,
+      "stF": 3.9,
+      "stA": 4.3,
+      "sntF": 4.6,
+      "sntA": 5.9
+    },
+    "Coritiba": {
+      "pos": 12,
       "team": "Coritiba",
       "p": 36,
       "hw": 6,
@@ -2223,55 +2254,55 @@
       "sntF": 4.2,
       "sntA": 7.2
     },
-    "Sao Paulo": {
-      "pos": 12,
-      "team": "Sao Paulo",
-      "p": 35,
-      "hw": 10,
-      "hd": 4,
-      "hl": 4,
+    "Vitoria": {
+      "pos": 13,
+      "team": "Vitoria",
+      "p": 36,
+      "hw": 11,
+      "hd": 2,
+      "hl": 5,
       "hf": 25,
-      "ha": 14,
-      "aw": 2,
-      "ad": 4,
+      "ha": 17,
+      "aw": 1,
+      "ad": 6,
       "al": 11,
-      "af": 14,
-      "aa": 26,
-      "gd": -1,
+      "af": 17,
+      "aa": 37,
+      "gd": -12,
       "pts": 44,
-      "ppg": 1.25,
-      "form": "WWDLdL",
-      "ycF": 2.1,
-      "ycA": 2.5,
-      "rcF": 0,
-      "rcA": 0,
-      "psF": 54,
-      "psA": 46,
-      "cF": 5.8,
-      "cA": 5.2,
+      "ppg": 1.22,
+      "form": "DDLLWW",
+      "ycF": 2.6,
+      "ycA": 2.4,
+      "rcF": 0.1,
+      "rcA": 0.1,
+      "psF": 43,
+      "psA": 57,
+      "cF": 4.1,
+      "cA": 6.6,
       "stF": 3.7,
-      "stA": 4.2,
-      "sntF": 4.6,
-      "sntA": 5.5
+      "stA": 6.3,
+      "sntF": 3.9,
+      "sntA": 6.6
     },
     "Botafogo ASF": {
-      "pos": 13,
+      "pos": 14,
       "team": "Botafogo ASF",
-      "p": 35,
+      "p": 36,
       "hw": 7,
-      "hd": 6,
+      "hd": 7,
       "hl": 4,
-      "hf": 27,
-      "ha": 22,
+      "hf": 28,
+      "ha": 23,
       "aw": 4,
       "ad": 3,
       "al": 11,
       "af": 19,
       "aa": 35,
       "gd": -11,
-      "pts": 42,
-      "ppg": 1.2,
-      "form": "DWLLWL",
+      "pts": 43,
+      "ppg": 1.19,
+      "form": "WLLWLD",
       "ycF": 2.6,
       "ycA": 1.8,
       "rcF": 0.1,
@@ -2285,39 +2316,39 @@
       "sntF": 5.2,
       "sntA": 5.7
     },
-    "Vitoria": {
-      "pos": 14,
-      "team": "Vitoria",
-      "p": 35,
-      "hw": 11,
-      "hd": 2,
-      "hl": 5,
-      "hf": 25,
-      "ha": 17,
-      "aw": 0,
-      "ad": 6,
+    "Gremio": {
+      "pos": 15,
+      "team": "Gremio",
+      "p": 36,
+      "hw": 8,
+      "hd": 6,
+      "hl": 4,
+      "hf": 27,
+      "ha": 21,
+      "aw": 2,
+      "ad": 5,
       "al": 11,
-      "af": 12,
-      "aa": 35,
-      "gd": -15,
+      "af": 13,
+      "aa": 26,
+      "gd": -7,
       "pts": 41,
-      "ppg": 1.17,
-      "form": "LDDLLW",
-      "ycF": 2.5,
-      "ycA": 2.4,
+      "ppg": 1.13,
+      "form": "LWWLdW",
+      "ycF": 2.7,
+      "ycA": 2.1,
       "rcF": 0.1,
       "rcA": 0.1,
-      "psF": 44,
-      "psA": 56,
-      "cF": 4,
-      "cA": 6.4,
-      "stF": 3.4,
-      "stA": 6.5,
-      "sntF": 3.9,
-      "sntA": 6.4
+      "psF": 50,
+      "psA": 50,
+      "cF": 3.7,
+      "cA": 5.8,
+      "stF": 2.9,
+      "stA": 5.2,
+      "sntF": 4.4,
+      "sntA": 7.1
     },
     "Mirassol": {
-      "pos": 15,
+      "pos": 16,
       "team": "Mirassol",
       "p": 36,
       "hw": 7,
@@ -2348,7 +2379,7 @@
       "sntA": 7.3
     },
     "Corinthians": {
-      "pos": 16,
+      "pos": 17,
       "team": "Corinthians",
       "p": 35,
       "hw": 7,
@@ -2379,23 +2410,23 @@
       "sntA": 6.9
     },
     "Internacional": {
-      "pos": 17,
+      "pos": 18,
       "team": "Internacional",
-      "p": 35,
+      "p": 36,
       "hw": 6,
       "hd": 5,
-      "hl": 6,
-      "hf": 22,
-      "ha": 17,
+      "hl": 7,
+      "hf": 24,
+      "ha": 22,
       "aw": 3,
       "ad": 6,
       "al": 9,
       "af": 17,
       "aa": 27,
-      "gd": -5,
+      "gd": -8,
       "pts": 38,
-      "ppg": 1.08,
-      "form": "DLWLWL",
+      "ppg": 1.05,
+      "form": "LWLWLL",
       "ycF": 2.8,
       "ycA": 2.4,
       "rcF": 0,
@@ -2408,37 +2439,6 @@
       "stA": 4.2,
       "sntF": 5.3,
       "sntA": 5.5
-    },
-    "Gremio": {
-      "pos": 18,
-      "team": "Gremio",
-      "p": 35,
-      "hw": 8,
-      "hd": 6,
-      "hl": 4,
-      "hf": 27,
-      "ha": 21,
-      "aw": 1,
-      "ad": 5,
-      "al": 11,
-      "af": 11,
-      "aa": 26,
-      "gd": -9,
-      "pts": 38,
-      "ppg": 1.08,
-      "form": "DLWWLd",
-      "ycF": 2.7,
-      "ycA": 2.1,
-      "rcF": 0.1,
-      "rcA": 0.1,
-      "psF": 51,
-      "psA": 49,
-      "cF": 3.8,
-      "cA": 5.6,
-      "stF": 2.8,
-      "stA": 5.1,
-      "sntF": 4.6,
-      "sntA": 7.2
     },
     "Clube do Remo": {
       "pos": 19,
@@ -2506,31 +2506,31 @@
   "backtest": {
     "totalMatches": 15,
     "bttsEvaluated": 15,
-    "bttsHits": 8,
-    "bttsAccuracy": 53.3,
+    "bttsHits": 11,
+    "bttsAccuracy": 73.3,
     "overUnderEvaluated": 15,
-    "overUnderHits": 7,
-    "overUnderAccuracy": 46.7,
-    "overallAccuracy": 50,
+    "overUnderHits": 8,
+    "overUnderAccuracy": 53.3,
+    "overallAccuracy": 63.3,
     "exactScoreHits": 2,
     "exactScoreAccuracy": 13.3,
     "confusionMatrix": {
       "btts": {
-        "predictedYesActualYes": 4,
-        "predictedYesActualNo": 4,
-        "predictedNoActualYes": 3,
-        "predictedNoActualNo": 4
+        "predictedYesActualYes": 6,
+        "predictedYesActualNo": 2,
+        "predictedNoActualYes": 2,
+        "predictedNoActualNo": 5
       },
       "overUnder": {
         "predictedOverActualOver": 5,
-        "predictedOverActualUnder": 6,
+        "predictedOverActualUnder": 5,
         "predictedUnderActualOver": 2,
-        "predictedUnderActualUnder": 2
+        "predictedUnderActualUnder": 3
       }
     },
-    "logLoss": 0.6817,
-    "brierScore": 0.246,
-    "simulatedRoi": -4.5
+    "logLoss": 0.6642,
+    "brierScore": 0.2368,
+    "simulatedRoi": 21
   },
   "parameters": {
     "homeAdvantage": 1.18,

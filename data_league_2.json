@@ -1,7 +1,7 @@
 {
   "leagueId": "2",
   "leagueName": "Championship",
-  "timestamp": "2026-11-23T17:46:27.251Z",
+  "timestamp": "2026-11-24T17:18:16.568Z",
   "fixtures": [
     {
       "id": "fix_2_1_BristolCity",
@@ -9,14 +9,14 @@
       "leagueName": "Championship",
       "dateRaw": "Tue 24/11",
       "dateIso": "2026-11-24T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "19:45",
       "homeTeam": "Bristol City",
       "awayTeam": "Wrexham",
       "odds": {
-        "home": 2.5,
-        "draw": 3.4,
-        "away": 2.88
+        "home": 2.42,
+        "draw": 3.35,
+        "away": 3.05
       },
       "prediction": {
         "homeExpectedGoals": 0.43,
@@ -80,13 +80,13 @@
       "leagueName": "Championship",
       "dateRaw": "Tue 24/11",
       "dateIso": "2026-11-24T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "19:45",
       "homeTeam": "Cardiff",
       "awayTeam": "Preston",
       "odds": {
         "home": 1.53,
-        "draw": 4.9,
+        "draw": 4.8,
         "away": 5.6
       },
       "prediction": {
@@ -151,7 +151,7 @@
       "leagueName": "Championship",
       "dateRaw": "Tue 24/11",
       "dateIso": "2026-11-24T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "19:45",
       "homeTeam": "Charlton",
       "awayTeam": "Lincoln City",
@@ -222,7 +222,7 @@
       "leagueName": "Championship",
       "dateRaw": "Tue 24/11",
       "dateIso": "2026-11-24T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "19:45",
       "homeTeam": "Middlesbrough",
       "awayTeam": "Swansea",
@@ -293,7 +293,7 @@
       "leagueName": "Championship",
       "dateRaw": "Tue 24/11",
       "dateIso": "2026-11-24T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "19:45",
       "homeTeam": "Norwich",
       "awayTeam": "QPR",
@@ -364,7 +364,7 @@
       "leagueName": "Championship",
       "dateRaw": "Tue 24/11",
       "dateIso": "2026-11-24T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "19:45",
       "homeTeam": "Portsmouth",
       "awayTeam": "West Ham",
@@ -435,7 +435,7 @@
       "leagueName": "Championship",
       "dateRaw": "Tue 24/11",
       "dateIso": "2026-11-24T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "19:45",
       "homeTeam": "Sheffield Utd",
       "awayTeam": "Southampton",
@@ -445,20 +445,20 @@
         "away": 2.7
       },
       "prediction": {
-        "homeExpectedGoals": 1.39,
-        "awayExpectedGoals": 0.88,
-        "totalExpectedGoals": 2.27,
-        "bttsProbability": 0.447,
-        "bttsNoProbability": 0.553,
-        "over25Probability": 0.3952,
-        "under25Probability": 0.6048,
-        "homeWinProbability": 0.4896,
-        "drawProbability": 0.2897,
-        "awayWinProbability": 0.322,
+        "homeExpectedGoals": 1.36,
+        "awayExpectedGoals": 0.9,
+        "totalExpectedGoals": 2.26,
+        "bttsProbability": 0.4483,
+        "bttsNoProbability": 0.5517,
+        "over25Probability": 0.3928,
+        "under25Probability": 0.6072,
+        "homeWinProbability": 0.4763,
+        "drawProbability": 0.2923,
+        "awayWinProbability": 0.3336,
         "predictedScore": {
           "home": 1,
-          "away": 0,
-          "probability": 0.1359
+          "away": 1,
+          "probability": 0.1354
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -467,25 +467,25 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1757,
-          "awayElo": 1815,
-          "eloWinProb": 0.51
+          "awayElo": 1827,
+          "eloWinProb": 0.493
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.39,
-        "awayExpectedGoals": 0.88,
-        "totalExpectedGoals": 2.27,
-        "bttsProbability": 0.447,
-        "bttsNoProbability": 0.553,
-        "over25Probability": 0.3952,
-        "under25Probability": 0.6048,
-        "homeWinProbability": 0.4896,
-        "drawProbability": 0.2897,
-        "awayWinProbability": 0.322,
+        "homeExpectedGoals": 1.36,
+        "awayExpectedGoals": 0.9,
+        "totalExpectedGoals": 2.26,
+        "bttsProbability": 0.4483,
+        "bttsNoProbability": 0.5517,
+        "over25Probability": 0.3928,
+        "under25Probability": 0.6072,
+        "homeWinProbability": 0.4763,
+        "drawProbability": 0.2923,
+        "awayWinProbability": 0.3336,
         "predictedScore": {
           "home": 1,
-          "away": 0,
-          "probability": 0.1359
+          "away": 1,
+          "probability": 0.1354
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -494,11 +494,11 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1757,
-          "awayElo": 1815,
-          "eloWinProb": 0.51
+          "awayElo": 1827,
+          "eloWinProb": 0.493
         }
       },
-      "confidenceScore": 60
+      "confidenceScore": 61
     },
     {
       "id": "fix_2_8_Wolverhampton",
@@ -506,30 +506,30 @@
       "leagueName": "Championship",
       "dateRaw": "Tue 24/11",
       "dateIso": "2026-11-24T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "20:00",
       "homeTeam": "Wolverhampton",
       "awayTeam": "Derby",
       "odds": {
-        "home": 1.32,
+        "home": 1.33,
         "draw": 5.6,
-        "away": 9.4
+        "away": 9
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
         "awayExpectedGoals": 0.39,
         "totalExpectedGoals": 4.89,
-        "bttsProbability": 0.2906,
-        "bttsNoProbability": 0.7094,
-        "over25Probability": 0.7789,
-        "under25Probability": 0.2211,
-        "homeWinProbability": 0.8869,
-        "drawProbability": 0.0292,
-        "awayWinProbability": 0.0378,
+        "bttsProbability": 0.292,
+        "bttsNoProbability": 0.708,
+        "over25Probability": 0.7792,
+        "under25Probability": 0.2208,
+        "homeWinProbability": 0.8861,
+        "drawProbability": 0.0293,
+        "awayWinProbability": 0.0386,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1289
+          "probability": 0.1285
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 42,
@@ -537,26 +537,26 @@
         "overUnderConfidence": 56,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1837,
+          "homeElo": 1833,
           "awayElo": 1512,
-          "eloWinProb": 0.904
+          "eloWinProb": 0.902
         }
       },
       "pred": {
         "homeExpectedGoals": 4.5,
         "awayExpectedGoals": 0.39,
         "totalExpectedGoals": 4.89,
-        "bttsProbability": 0.2906,
-        "bttsNoProbability": 0.7094,
-        "over25Probability": 0.7789,
-        "under25Probability": 0.2211,
-        "homeWinProbability": 0.8869,
-        "drawProbability": 0.0292,
-        "awayWinProbability": 0.0378,
+        "bttsProbability": 0.292,
+        "bttsNoProbability": 0.708,
+        "over25Probability": 0.7792,
+        "under25Probability": 0.2208,
+        "homeWinProbability": 0.8861,
+        "drawProbability": 0.0293,
+        "awayWinProbability": 0.0386,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1289
+          "probability": 0.1285
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 42,
@@ -564,9 +564,9 @@
         "overUnderConfidence": 56,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1837,
+          "homeElo": 1833,
           "awayElo": 1512,
-          "eloWinProb": 0.904
+          "eloWinProb": 0.902
         }
       },
       "confidenceScore": 78
@@ -577,7 +577,7 @@
       "leagueName": "Championship",
       "dateRaw": "Wed 25/11",
       "dateIso": "2026-11-25T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "19:45",
       "homeTeam": "Bolton",
       "awayTeam": "West Brom",
@@ -588,56 +588,56 @@
       },
       "prediction": {
         "homeExpectedGoals": 0.81,
-        "awayExpectedGoals": 3.22,
-        "totalExpectedGoals": 4.02,
-        "bttsProbability": 0.5242,
-        "bttsNoProbability": 0.4758,
-        "over25Probability": 0.7481,
-        "under25Probability": 0.2519,
-        "homeWinProbability": 0.1536,
-        "drawProbability": 0.11,
-        "awayWinProbability": 0.7636,
+        "awayExpectedGoals": 3.2,
+        "totalExpectedGoals": 4.01,
+        "bttsProbability": 0.5262,
+        "bttsNoProbability": 0.4738,
+        "over25Probability": 0.7465,
+        "under25Probability": 0.2535,
+        "homeWinProbability": 0.1563,
+        "drawProbability": 0.1117,
+        "awayWinProbability": 0.7602,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.0993
+          "probability": 0.099
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 50,
+        "overUnderConfidence": 49,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1626,
-          "awayElo": 1811,
-          "eloWinProb": 0.334
+          "awayElo": 1807,
+          "eloWinProb": 0.339
         }
       },
       "pred": {
         "homeExpectedGoals": 0.81,
-        "awayExpectedGoals": 3.22,
-        "totalExpectedGoals": 4.02,
-        "bttsProbability": 0.5242,
-        "bttsNoProbability": 0.4758,
-        "over25Probability": 0.7481,
-        "under25Probability": 0.2519,
-        "homeWinProbability": 0.1536,
-        "drawProbability": 0.11,
-        "awayWinProbability": 0.7636,
+        "awayExpectedGoals": 3.2,
+        "totalExpectedGoals": 4.01,
+        "bttsProbability": 0.5262,
+        "bttsNoProbability": 0.4738,
+        "over25Probability": 0.7465,
+        "under25Probability": 0.2535,
+        "homeWinProbability": 0.1563,
+        "drawProbability": 0.1117,
+        "awayWinProbability": 0.7602,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.0993
+          "probability": 0.099
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 50,
+        "overUnderConfidence": 49,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1626,
-          "awayElo": 1811,
-          "eloWinProb": 0.334
+          "awayElo": 1807,
+          "eloWinProb": 0.339
         }
       },
       "confidenceScore": 75
@@ -648,30 +648,30 @@
       "leagueName": "Championship",
       "dateRaw": "Wed 25/11",
       "dateIso": "2026-11-25T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "19:45",
       "homeTeam": "Burnley",
       "awayTeam": "Birmingham",
       "odds": {
-        "home": 2.65,
-        "draw": 3.75,
+        "home": 2.7,
+        "draw": 3.65,
         "away": 2.55
       },
       "prediction": {
-        "homeExpectedGoals": 0.52,
-        "awayExpectedGoals": 2.4,
-        "totalExpectedGoals": 2.93,
-        "bttsProbability": 0.3742,
-        "bttsNoProbability": 0.6258,
-        "over25Probability": 0.5572,
-        "under25Probability": 0.4428,
-        "homeWinProbability": 0.1173,
-        "drawProbability": 0.1536,
-        "awayWinProbability": 0.7807,
+        "homeExpectedGoals": 0.53,
+        "awayExpectedGoals": 2.39,
+        "totalExpectedGoals": 2.92,
+        "bttsProbability": 0.3755,
+        "bttsNoProbability": 0.6245,
+        "over25Probability": 0.5547,
+        "under25Probability": 0.4453,
+        "homeWinProbability": 0.1195,
+        "drawProbability": 0.1553,
+        "awayWinProbability": 0.7774,
         "predictedScore": {
           "home": 0,
           "away": 2,
-          "probability": 0.1545
+          "probability": 0.1543
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -680,25 +680,25 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1551,
-          "awayElo": 1830,
-          "eloWinProb": 0.226
+          "awayElo": 1826,
+          "eloWinProb": 0.23
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.52,
-        "awayExpectedGoals": 2.4,
-        "totalExpectedGoals": 2.93,
-        "bttsProbability": 0.3742,
-        "bttsNoProbability": 0.6258,
-        "over25Probability": 0.5572,
-        "under25Probability": 0.4428,
-        "homeWinProbability": 0.1173,
-        "drawProbability": 0.1536,
-        "awayWinProbability": 0.7807,
+        "homeExpectedGoals": 0.53,
+        "awayExpectedGoals": 2.39,
+        "totalExpectedGoals": 2.92,
+        "bttsProbability": 0.3755,
+        "bttsNoProbability": 0.6245,
+        "over25Probability": 0.5547,
+        "under25Probability": 0.4453,
+        "homeWinProbability": 0.1195,
+        "drawProbability": 0.1553,
+        "awayWinProbability": 0.7774,
         "predictedScore": {
           "home": 0,
           "away": 2,
-          "probability": 0.1545
+          "probability": 0.1543
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -707,11 +707,11 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1551,
-          "awayElo": 1830,
-          "eloWinProb": 0.226
+          "awayElo": 1826,
+          "eloWinProb": 0.23
         }
       },
-      "confidenceScore": 63
+      "confidenceScore": 62
     },
     {
       "id": "fix_2_11_Watford",
@@ -719,14 +719,14 @@
       "leagueName": "Championship",
       "dateRaw": "Wed 25/11",
       "dateIso": "2026-11-25T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "19:45",
       "homeTeam": "Watford",
       "awayTeam": "Blackburn",
       "odds": {
-        "home": 2.5,
+        "home": 2.6,
         "draw": 3.5,
-        "away": 2.8
+        "away": 2.75
       },
       "prediction": {
         "homeExpectedGoals": 1.17,
@@ -790,14 +790,14 @@
       "leagueName": "Championship",
       "dateRaw": "Wed 25/11",
       "dateIso": "2026-11-25T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "20:00",
       "homeTeam": "Stoke",
       "awayTeam": "Millwall",
       "odds": {
-        "home": 2.36,
+        "home": 2.2,
         "draw": 3.4,
-        "away": 3.1
+        "away": 3.4
       },
       "prediction": {
         "homeExpectedGoals": 3.79,
@@ -861,7 +861,7 @@
       "leagueName": "Championship",
       "dateRaw": "Fri 27/11",
       "dateIso": "2026-11-27T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "20:00",
       "homeTeam": "Southampton",
       "awayTeam": "Middlesbrough",
@@ -871,20 +871,20 @@
         "away": 2.28
       },
       "prediction": {
-        "homeExpectedGoals": 2.37,
-        "awayExpectedGoals": 0.92,
-        "totalExpectedGoals": 3.29,
-        "bttsProbability": 0.549,
-        "bttsNoProbability": 0.451,
-        "over25Probability": 0.636,
-        "under25Probability": 0.364,
-        "homeWinProbability": 0.6296,
-        "drawProbability": 0.1848,
-        "awayWinProbability": 0.2483,
+        "homeExpectedGoals": 2.42,
+        "awayExpectedGoals": 0.91,
+        "totalExpectedGoals": 3.32,
+        "bttsProbability": 0.5449,
+        "bttsNoProbability": 0.4551,
+        "over25Probability": 0.6411,
+        "under25Probability": 0.3589,
+        "homeWinProbability": 0.6429,
+        "drawProbability": 0.1799,
+        "awayWinProbability": 0.238,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1044
+          "probability": 0.1054
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -892,26 +892,26 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1815,
+          "homeElo": 1827,
           "awayElo": 1865,
-          "eloWinProb": 0.522
+          "eloWinProb": 0.539
         }
       },
       "pred": {
-        "homeExpectedGoals": 2.37,
-        "awayExpectedGoals": 0.92,
-        "totalExpectedGoals": 3.29,
-        "bttsProbability": 0.549,
-        "bttsNoProbability": 0.451,
-        "over25Probability": 0.636,
-        "under25Probability": 0.364,
-        "homeWinProbability": 0.6296,
-        "drawProbability": 0.1848,
-        "awayWinProbability": 0.2483,
+        "homeExpectedGoals": 2.42,
+        "awayExpectedGoals": 0.91,
+        "totalExpectedGoals": 3.32,
+        "bttsProbability": 0.5449,
+        "bttsNoProbability": 0.4551,
+        "over25Probability": 0.6411,
+        "under25Probability": 0.3589,
+        "homeWinProbability": 0.6429,
+        "drawProbability": 0.1799,
+        "awayWinProbability": 0.238,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1044
+          "probability": 0.1054
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -919,9 +919,9 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1815,
+          "homeElo": 1827,
           "awayElo": 1865,
-          "eloWinProb": 0.522
+          "eloWinProb": 0.539
         }
       },
       "confidenceScore": 64
@@ -932,14 +932,14 @@
       "leagueName": "Championship",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "12:30",
       "homeTeam": "Blackburn",
       "awayTeam": "Charlton",
       "odds": {
-        "home": 1.87,
-        "draw": 3.6,
-        "away": 4.25
+        "home": 1.85,
+        "draw": 3.7,
+        "away": 4.3
       },
       "prediction": {
         "homeExpectedGoals": 3.12,
@@ -1003,30 +1003,30 @@
       "leagueName": "Championship",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "12:30",
       "homeTeam": "Lincoln City",
       "awayTeam": "Wolverhampton",
       "odds": {
-        "home": 5,
+        "home": 5.2,
         "draw": 4.1,
-        "away": 1.65
+        "away": 1.66
       },
       "prediction": {
-        "homeExpectedGoals": 0.6,
+        "homeExpectedGoals": 0.61,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 4.6,
-        "bttsProbability": 0.4224,
-        "bttsNoProbability": 0.5776,
-        "over25Probability": 0.7865,
-        "under25Probability": 0.2135,
-        "homeWinProbability": 0.1004,
-        "drawProbability": 0.0562,
-        "awayWinProbability": 0.8298,
+        "totalExpectedGoals": 4.61,
+        "bttsProbability": 0.4243,
+        "bttsNoProbability": 0.5757,
+        "over25Probability": 0.7869,
+        "under25Probability": 0.2131,
+        "homeWinProbability": 0.1021,
+        "drawProbability": 0.0564,
+        "awayWinProbability": 0.828,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.107
+          "probability": 0.1066
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1035,25 +1035,25 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1581,
-          "awayElo": 1837,
-          "eloWinProb": 0.25
+          "awayElo": 1833,
+          "eloWinProb": 0.254
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.6,
+        "homeExpectedGoals": 0.61,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 4.6,
-        "bttsProbability": 0.4224,
-        "bttsNoProbability": 0.5776,
-        "over25Probability": 0.7865,
-        "under25Probability": 0.2135,
-        "homeWinProbability": 0.1004,
-        "drawProbability": 0.0562,
-        "awayWinProbability": 0.8298,
+        "totalExpectedGoals": 4.61,
+        "bttsProbability": 0.4243,
+        "bttsNoProbability": 0.5757,
+        "over25Probability": 0.7869,
+        "under25Probability": 0.2131,
+        "homeWinProbability": 0.1021,
+        "drawProbability": 0.0564,
+        "awayWinProbability": 0.828,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.107
+          "probability": 0.1066
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1062,8 +1062,8 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1581,
-          "awayElo": 1837,
-          "eloWinProb": 0.25
+          "awayElo": 1833,
+          "eloWinProb": 0.254
         }
       },
       "confidenceScore": 79
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.385
         },
         "matchFingerprint": "2_burnley_blackburn_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:27.250Z",
-        "auditHash": "SHA256-IMMUTABLE-1A76B4A2-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:16.567Z",
+        "auditHash": "SHA256-IMMUTABLE-769B08A1-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.461
         },
         "matchFingerprint": "2_bolton_portsmouth_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:27.250Z",
-        "auditHash": "SHA256-IMMUTABLE-6F90C4F-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:16.567Z",
+        "auditHash": "SHA256-IMMUTABLE-67F5366E-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.444
         },
         "matchFingerprint": "2_lincoln city_wrexham_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:27.250Z",
-        "auditHash": "SHA256-IMMUTABLE-77E3A9AC-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:16.567Z",
+        "auditHash": "SHA256-IMMUTABLE-192E1397-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.857
         },
         "matchFingerprint": "2_middlesbrough_bristol city_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:27.250Z",
-        "auditHash": "SHA256-IMMUTABLE-31FA02EE-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:16.567Z",
+        "auditHash": "SHA256-IMMUTABLE-5F17BA55-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.809
         },
         "matchFingerprint": "2_sheffield utd_watford_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:27.250Z",
-        "auditHash": "SHA256-IMMUTABLE-33C3747F-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:16.567Z",
+        "auditHash": "SHA256-IMMUTABLE-5D4E48C4-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1358,33 +1358,33 @@
       "actualOver25": false,
       "prediction": {
         "homeExpectedGoals": 1.11,
-        "awayExpectedGoals": 0.69,
+        "awayExpectedGoals": 0.68,
         "totalExpectedGoals": 1.79,
-        "bttsProbability": 0.3394,
-        "bttsNoProbability": 0.6606,
-        "over25Probability": 0.2669,
-        "under25Probability": 0.7331,
-        "homeWinProbability": 0.504,
-        "drawProbability": 0.3344,
-        "awayWinProbability": 0.2786,
+        "bttsProbability": 0.3391,
+        "bttsNoProbability": 0.6609,
+        "over25Probability": 0.2676,
+        "under25Probability": 0.7324,
+        "homeWinProbability": 0.5081,
+        "drawProbability": 0.3335,
+        "awayWinProbability": 0.2751,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1768
+          "probability": 0.1775
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 47,
+        "overUnderConfidence": 46,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1843,
-          "awayElo": 1830,
-          "eloWinProb": 0.61
+          "awayElo": 1826,
+          "eloWinProb": 0.616
         },
         "matchFingerprint": "2_stoke_birmingham_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:27.250Z",
-        "auditHash": "SHA256-IMMUTABLE-32C5942B-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:16.567Z",
+        "auditHash": "SHA256-IMMUTABLE-5BF1BA49-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1411,20 +1411,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.31,
-        "awayExpectedGoals": 0.81,
-        "totalExpectedGoals": 2.11,
-        "bttsProbability": 0.411,
-        "bttsNoProbability": 0.589,
-        "over25Probability": 0.3538,
-        "under25Probability": 0.6462,
-        "homeWinProbability": 0.4973,
-        "drawProbability": 0.3012,
-        "awayWinProbability": 0.3069,
+        "homeExpectedGoals": 1.32,
+        "awayExpectedGoals": 0.8,
+        "totalExpectedGoals": 2.12,
+        "bttsProbability": 0.4106,
+        "bttsNoProbability": 0.5894,
+        "over25Probability": 0.3546,
+        "under25Probability": 0.6454,
+        "homeWinProbability": 0.5016,
+        "drawProbability": 0.3002,
+        "awayWinProbability": 0.3032,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1505
+          "probability": 0.151
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1433,12 +1433,12 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1771,
-          "awayElo": 1811,
-          "eloWinProb": 0.536
+          "awayElo": 1807,
+          "eloWinProb": 0.542
         },
         "matchFingerprint": "2_swansea_west brom_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:27.250Z",
-        "auditHash": "SHA256-IMMUTABLE-70FA3FA3-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:16.567Z",
+        "auditHash": "SHA256-IMMUTABLE-5B57698C-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.871
         },
         "matchFingerprint": "2_west ham_preston_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:27.250Z",
-        "auditHash": "SHA256-IMMUTABLE-301210-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:16.567Z",
+        "auditHash": "SHA256-IMMUTABLE-6EBE30AD-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1522,17 +1522,17 @@
         "homeExpectedGoals": 4.5,
         "awayExpectedGoals": 0.43,
         "totalExpectedGoals": 4.93,
-        "bttsProbability": 0.315,
-        "bttsNoProbability": 0.685,
-        "over25Probability": 0.7826,
-        "under25Probability": 0.2174,
-        "homeWinProbability": 0.865,
-        "drawProbability": 0.0312,
-        "awayWinProbability": 0.0584,
+        "bttsProbability": 0.3165,
+        "bttsNoProbability": 0.6835,
+        "over25Probability": 0.7828,
+        "under25Probability": 0.2172,
+        "homeWinProbability": 0.8639,
+        "drawProbability": 0.0313,
+        "awayWinProbability": 0.0595,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1237
+          "probability": 0.1234
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1540,13 +1540,13 @@
         "overUnderConfidence": 57,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1837,
+          "homeElo": 1833,
           "awayElo": 1604,
-          "eloWinProb": 0.848
+          "eloWinProb": 0.845
         },
         "matchFingerprint": "2_wolverhampton_charlton_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:27.250Z",
-        "auditHash": "SHA256-IMMUTABLE-7C86A068-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:16.567Z",
+        "auditHash": "SHA256-IMMUTABLE-7D47F1CD-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.391
         },
         "matchFingerprint": "2_millwall_qpr_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:27.250Z",
-        "auditHash": "SHA256-IMMUTABLE-2FD5F7E9-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:16.567Z",
+        "auditHash": "SHA256-IMMUTABLE-613BC55A-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.713
         },
         "matchFingerprint": "2_norwich_cardiff_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:27.250Z",
-        "auditHash": "SHA256-IMMUTABLE-438E3854-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:16.567Z",
+        "auditHash": "SHA256-IMMUTABLE-4D8384EF-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1684,31 +1684,31 @@
         "homeExpectedGoals": 4.5,
         "awayExpectedGoals": 0.25,
         "totalExpectedGoals": 4.75,
-        "bttsProbability": 0.2005,
-        "bttsNoProbability": 0.7995,
-        "over25Probability": 0.7661,
-        "under25Probability": 0.2339,
-        "homeWinProbability": 0.8892,
-        "drawProbability": 0.0227,
-        "awayWinProbability": 0.0398,
+        "bttsProbability": 0.1972,
+        "bttsNoProbability": 0.8028,
+        "over25Probability": 0.7657,
+        "under25Probability": 0.2343,
+        "homeWinProbability": 0.8916,
+        "drawProbability": 0.0225,
+        "awayWinProbability": 0.0375,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1478
+          "probability": 0.1484
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 60,
+        "bttsConfidence": 61,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 53,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1815,
+          "homeElo": 1827,
           "awayElo": 1512,
-          "eloWinProb": 0.893
+          "eloWinProb": 0.899
         },
         "matchFingerprint": "2_southampton_derby_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:27.250Z",
-        "auditHash": "SHA256-IMMUTABLE-FB9C5C0-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:16.567Z",
+        "auditHash": "SHA256-IMMUTABLE-53DA674A-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1735,20 +1735,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 3.67,
+        "homeExpectedGoals": 3.65,
         "awayExpectedGoals": 0.95,
-        "totalExpectedGoals": 4.62,
-        "bttsProbability": 0.5777,
-        "bttsNoProbability": 0.4223,
-        "over25Probability": 0.8052,
-        "under25Probability": 0.1948,
-        "homeWinProbability": 0.7686,
-        "drawProbability": 0.0926,
-        "awayWinProbability": 0.1492,
+        "totalExpectedGoals": 4.6,
+        "bttsProbability": 0.5801,
+        "bttsNoProbability": 0.4199,
+        "over25Probability": 0.8045,
+        "under25Probability": 0.1955,
+        "homeWinProbability": 0.7656,
+        "drawProbability": 0.0942,
+        "awayWinProbability": 0.1519,
         "predictedScore": {
           "home": 3,
           "away": 0,
-          "probability": 0.0815
+          "probability": 0.0813
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1756,13 +1756,13 @@
         "overUnderConfidence": 61,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1830,
+          "homeElo": 1826,
           "awayElo": 1771,
-          "eloWinProb": 0.671
+          "eloWinProb": 0.666
         },
         "matchFingerprint": "2_birmingham_swansea_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:27.250Z",
-        "auditHash": "SHA256-IMMUTABLE-7AAC4EDC-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:16.567Z",
+        "auditHash": "SHA256-IMMUTABLE-779728A1-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.488
         },
         "matchFingerprint": "2_blackburn_west ham_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:27.250Z",
-        "auditHash": "SHA256-IMMUTABLE-38616238-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:16.567Z",
+        "auditHash": "SHA256-IMMUTABLE-58B05B0B-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.729
         },
         "matchFingerprint": "2_cardiff_burnley_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:27.250Z",
-        "auditHash": "SHA256-IMMUTABLE-B4C655E-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:16.567Z",
+        "auditHash": "SHA256-IMMUTABLE-63A1DD5F-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1944,8 +1944,39 @@
       "sntF": 5,
       "sntA": 6.5
     },
-    "Wolverhampton": {
+    "Southampton": {
       "pos": 3,
+      "team": "Southampton",
+      "p": 16,
+      "hw": 7,
+      "hd": 1,
+      "hl": 0,
+      "hf": 22,
+      "ha": 5,
+      "aw": 2,
+      "ad": 3,
+      "al": 3,
+      "af": 9,
+      "aa": 10,
+      "gd": 16,
+      "pts": 27,
+      "ppg": 1.68,
+      "form": "dWWDLW",
+      "ycF": 1.8,
+      "ycA": 2.9,
+      "rcF": 0,
+      "rcA": 0,
+      "psF": 58,
+      "psA": 42,
+      "cF": 5.6,
+      "cA": 4.8,
+      "stF": 5,
+      "stA": 4.8,
+      "sntF": 6.4,
+      "sntA": 6.6
+    },
+    "Wolverhampton": {
+      "pos": 4,
       "team": "Wolverhampton",
       "p": 16,
       "hw": 5,
@@ -1976,7 +2007,7 @@
       "sntA": 4
     },
     "Birmingham": {
-      "pos": 4,
+      "pos": 5,
       "team": "Birmingham",
       "p": 16,
       "hw": 4,
@@ -2007,7 +2038,7 @@
       "sntA": 4.4
     },
     "West Brom": {
-      "pos": 5,
+      "pos": 6,
       "team": "West Brom",
       "p": 16,
       "hw": 4,
@@ -2036,37 +2067,6 @@
       "stA": 5.1,
       "sntF": 3.6,
       "sntA": 5.3
-    },
-    "Southampton": {
-      "pos": 6,
-      "team": "Southampton",
-      "p": 16,
-      "hw": 7,
-      "hd": 1,
-      "hl": 0,
-      "hf": 22,
-      "ha": 5,
-      "aw": 2,
-      "ad": 3,
-      "al": 3,
-      "af": 9,
-      "aa": 10,
-      "gd": 16,
-      "pts": 27,
-      "ppg": 1.68,
-      "form": "dWWDLW",
-      "ycF": 1.8,
-      "ycA": 2.9,
-      "rcF": 0,
-      "rcA": 0,
-      "psF": 58,
-      "psA": 42,
-      "cF": 5.6,
-      "cA": 4.8,
-      "stF": 5,
-      "stA": 4.8,
-      "sntF": 6.4,
-      "sntA": 6.6
     },
     "QPR": {
       "pos": 7,
@@ -2652,8 +2652,8 @@
         "predictedUnderActualUnder": 3
       }
     },
-    "logLoss": 0.6295,
-    "brierScore": 0.2196,
+    "logLoss": 0.629,
+    "brierScore": 0.2194,
     "simulatedRoi": 21
   },
   "parameters": {

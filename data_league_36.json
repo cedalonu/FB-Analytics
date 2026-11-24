@@ -1,7 +1,7 @@
 {
   "leagueId": "36",
   "leagueName": "Eredivisie",
-  "timestamp": "2026-11-23T17:47:03.225Z",
+  "timestamp": "2026-11-24T17:18:34.940Z",
   "fixtures": [
     {
       "id": "fix_36_1_FCGroningen",
@@ -9,7 +9,7 @@
       "leagueName": "Eredivisie",
       "dateRaw": "Fri 27/11",
       "dateIso": "2026-11-27T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "19:00",
       "homeTeam": "FC Groningen",
       "awayTeam": "Willem II",
@@ -80,14 +80,14 @@
       "leagueName": "Eredivisie",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "15:30",
       "homeTeam": "Excelsior",
       "awayTeam": "Telstar",
       "odds": {
-        "home": 2.08,
-        "draw": 3.64,
-        "away": 3.51
+        "home": 2.07,
+        "draw": 3.75,
+        "away": 3.45
       },
       "prediction": {
         "homeExpectedGoals": 0.71,
@@ -151,14 +151,14 @@
       "leagueName": "Eredivisie",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "17:45",
       "homeTeam": "PSV Eindhoven",
       "awayTeam": "Go Ahead Eagles",
       "odds": {
-        "home": 1.24,
-        "draw": 7.18,
-        "away": 10.2
+        "home": 1.26,
+        "draw": 7.2,
+        "away": 9.4
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
@@ -222,14 +222,14 @@
       "leagueName": "Eredivisie",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "20:00",
       "homeTeam": "SC Cambuur",
       "awayTeam": "Sparta Rotterdam",
       "odds": {
-        "home": 2.32,
-        "draw": 3.76,
-        "away": 2.9
+        "home": 2.23,
+        "draw": 3.78,
+        "away": 3.04
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
@@ -293,14 +293,14 @@
       "leagueName": "Eredivisie",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "11:15",
       "homeTeam": "ADO Den Haag",
       "awayTeam": "FC Utrecht",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 2.8,
+        "draw": 3.69,
+        "away": 2.41
       },
       "prediction": {
         "homeExpectedGoals": 2.8,
@@ -364,14 +364,14 @@
       "leagueName": "Eredivisie",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "13:30",
       "homeTeam": "Feyenoord",
       "awayTeam": "Ajax",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 2.17,
+        "draw": 4,
+        "away": 3.02
       },
       "prediction": {
         "homeExpectedGoals": 1.46,
@@ -435,14 +435,14 @@
       "leagueName": "Eredivisie",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "13:30",
       "homeTeam": "Fortuna Sittard",
       "awayTeam": "SC Heerenveen",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 3.59,
+        "draw": 3.9,
+        "away": 1.97
       },
       "prediction": {
         "homeExpectedGoals": 1.35,
@@ -506,14 +506,14 @@
       "leagueName": "Eredivisie",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "15:45",
       "homeTeam": "PEC Zwolle",
       "awayTeam": "AZ Alkmaar",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 5.42,
+        "draw": 4.54,
+        "away": 1.57
       },
       "prediction": {
         "homeExpectedGoals": 0.69,
@@ -577,14 +577,14 @@
       "leagueName": "Eredivisie",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "19:00",
       "homeTeam": "N.E.C.",
       "awayTeam": "Twente",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 3.88,
+        "draw": 3.92,
+        "away": 1.89
       },
       "prediction": {
         "homeExpectedGoals": 0.54,
@@ -648,7 +648,7 @@
       "leagueName": "Eredivisie",
       "dateRaw": "Fri 04/12",
       "dateIso": "2026-11-27T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "19:00",
       "homeTeam": "Telstar",
       "awayTeam": "FC Groningen",
@@ -719,7 +719,7 @@
       "leagueName": "Eredivisie",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "15:30",
       "homeTeam": "Willem II",
       "awayTeam": "Feyenoord",
@@ -790,7 +790,7 @@
       "leagueName": "Eredivisie",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "17:45",
       "homeTeam": "Sparta Rotterdam",
       "awayTeam": "N.E.C.",
@@ -861,7 +861,7 @@
       "leagueName": "Eredivisie",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "19:00",
       "homeTeam": "AZ Alkmaar",
       "awayTeam": "PSV Eindhoven",
@@ -932,7 +932,7 @@
       "leagueName": "Eredivisie",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "20:00",
       "homeTeam": "Fortuna Sittard",
       "awayTeam": "PEC Zwolle",
@@ -1003,7 +1003,7 @@
       "leagueName": "Eredivisie",
       "dateRaw": "Sun 06/12",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "11:15",
       "homeTeam": "SC Heerenveen",
       "awayTeam": "SC Cambuur",
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.487
         },
         "matchFingerprint": "36_go ahead eagles_fortuna sittard_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:47:03.223Z",
-        "auditHash": "SHA256-IMMUTABLE-11DDFC76-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:34.937Z",
+        "auditHash": "SHA256-IMMUTABLE-602FB959-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.901
         },
         "matchFingerprint": "36_ajax_ado den haag_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:47:03.223Z",
-        "auditHash": "SHA256-IMMUTABLE-69EBCA4D-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:34.937Z",
+        "auditHash": "SHA256-IMMUTABLE-1B9A0D6A-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.275
         },
         "matchFingerprint": "36_sparta rotterdam_az alkmaar_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:47:03.223Z",
-        "auditHash": "SHA256-IMMUTABLE-1CC9F32C-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:34.937Z",
+        "auditHash": "SHA256-IMMUTABLE-3187C9B7-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.94
         },
         "matchFingerprint": "36_twente_willem ii_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:47:03.223Z",
-        "auditHash": "SHA256-IMMUTABLE-AFF2400-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:34.937Z",
+        "auditHash": "SHA256-IMMUTABLE-435298E3-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.412
         },
         "matchFingerprint": "36_fc groningen_sc heerenveen_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:47:03.223Z",
-        "auditHash": "SHA256-IMMUTABLE-73FCB48F-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:34.937Z",
+        "auditHash": "SHA256-IMMUTABLE-25AAF7AC-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.503
         },
         "matchFingerprint": "36_telstar_pec zwolle_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:47:03.223Z",
-        "auditHash": "SHA256-IMMUTABLE-1D4373EA-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:34.937Z",
+        "auditHash": "SHA256-IMMUTABLE-6B9530CD-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.423
         },
         "matchFingerprint": "36_fc utrecht_sc cambuur_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:47:03.223Z",
-        "auditHash": "SHA256-IMMUTABLE-1AFF06ED-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:34.937Z",
+        "auditHash": "SHA256-IMMUTABLE-6950C3D0-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.835
         },
         "matchFingerprint": "36_feyenoord_excelsior_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:47:03.223Z",
-        "auditHash": "SHA256-IMMUTABLE-1D2F8427-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:34.937Z",
+        "auditHash": "SHA256-IMMUTABLE-312238BC-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.236
         },
         "matchFingerprint": "36_n.e.c._psv eindhoven_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:47:03.223Z",
-        "auditHash": "SHA256-IMMUTABLE-316E4411-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:34.937Z",
+        "auditHash": "SHA256-IMMUTABLE-7FC000F4-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.507
         },
         "matchFingerprint": "36_fc utrecht_n.e.c._Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:47:03.223Z",
-        "auditHash": "SHA256-IMMUTABLE-1942FA6D-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:34.937Z",
+        "auditHash": "SHA256-IMMUTABLE-350EC276-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.783
         },
         "matchFingerprint": "36_az alkmaar_fc groningen_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:47:03.223Z",
-        "auditHash": "SHA256-IMMUTABLE-4C262FBE-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:34.938Z",
+        "auditHash": "SHA256-IMMUTABLE-22B8D06-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.303
         },
         "matchFingerprint": "36_sc cambuur_psv eindhoven_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:47:03.223Z",
-        "auditHash": "SHA256-IMMUTABLE-73D14E28-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:34.938Z",
+        "auditHash": "SHA256-IMMUTABLE-3DDCF514-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.571
         },
         "matchFingerprint": "36_twente_ajax_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:47:03.223Z",
-        "auditHash": "SHA256-IMMUTABLE-548E227-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:34.938Z",
+        "auditHash": "SHA256-IMMUTABLE-539A9EEB-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.54
         },
         "matchFingerprint": "36_sc heerenveen_feyenoord_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:47:03.223Z",
-        "auditHash": "SHA256-IMMUTABLE-276328CC-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:34.938Z",
+        "auditHash": "SHA256-IMMUTABLE-75B4E590-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.499
         },
         "matchFingerprint": "36_excelsior_go ahead eagles_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:47:03.223Z",
-        "auditHash": "SHA256-IMMUTABLE-1E496273-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:34.938Z",
+        "auditHash": "SHA256-IMMUTABLE-6C9B1F37-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {

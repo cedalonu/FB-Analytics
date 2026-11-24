@@ -1,86 +1,15 @@
 {
   "leagueId": "31",
   "leagueName": "La Liga",
-  "timestamp": "2026-11-23T17:46:42.797Z",
+  "timestamp": "2026-11-24T17:18:20.797Z",
   "fixtures": [
     {
       "id": "fix_31_1_Levante",
       "leagueId": "31",
       "leagueName": "La Liga",
-      "dateRaw": "Mon 23/11",
-      "dateIso": "2026-11-23T12:00:00.000Z",
-      "daysFromNow": 0,
-      "time": "20:00",
-      "homeTeam": "Levante",
-      "awayTeam": "Elche",
-      "odds": {
-        "home": 2.26,
-        "draw": 3.82,
-        "away": 3.21
-      },
-      "prediction": {
-        "homeExpectedGoals": 1.77,
-        "awayExpectedGoals": 3.05,
-        "totalExpectedGoals": 4.83,
-        "bttsProbability": 0.7821,
-        "bttsNoProbability": 0.2179,
-        "over25Probability": 0.8462,
-        "under25Probability": 0.1538,
-        "homeWinProbability": 0.3443,
-        "drawProbability": 0.1656,
-        "awayWinProbability": 0.5392,
-        "predictedScore": {
-          "home": 1,
-          "away": 3,
-          "probability": 0.0675
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 56,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 69,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1569,
-          "awayElo": 1555,
-          "eloWinProb": 0.612
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 1.77,
-        "awayExpectedGoals": 3.05,
-        "totalExpectedGoals": 4.83,
-        "bttsProbability": 0.7821,
-        "bttsNoProbability": 0.2179,
-        "over25Probability": 0.8462,
-        "under25Probability": 0.1538,
-        "homeWinProbability": 0.3443,
-        "drawProbability": 0.1656,
-        "awayWinProbability": 0.5392,
-        "predictedScore": {
-          "home": 1,
-          "away": 3,
-          "probability": 0.0675
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 56,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 69,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1569,
-          "awayElo": 1555,
-          "eloWinProb": 0.612
-        }
-      },
-      "confidenceScore": 85
-    },
-    {
-      "id": "fix_31_2_Levante",
-      "leagueId": "31",
-      "leagueName": "La Liga",
       "dateRaw": "Fri 27/11",
       "dateIso": "2026-11-27T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "20:00",
       "homeTeam": "Levante",
       "awayTeam": "Racing Santander",
@@ -91,90 +20,90 @@
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 2.03,
-        "totalExpectedGoals": 6.53,
-        "bttsProbability": 0.7839,
-        "bttsNoProbability": 0.2161,
-        "over25Probability": 0.8703,
-        "under25Probability": 0.1297,
-        "homeWinProbability": 0.6259,
-        "drawProbability": 0.1039,
-        "awayWinProbability": 0.2496,
+        "awayExpectedGoals": 1.79,
+        "totalExpectedGoals": 6.29,
+        "bttsProbability": 0.7515,
+        "bttsNoProbability": 0.2485,
+        "over25Probability": 0.8626,
+        "under25Probability": 0.1374,
+        "homeWinProbability": 0.6573,
+        "drawProbability": 0.0945,
+        "awayWinProbability": 0.2247,
         "predictedScore": {
           "home": 4,
-          "away": 2,
-          "probability": 0.0514
+          "away": 1,
+          "probability": 0.0568
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 57,
+        "bttsConfidence": 50,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 74,
+        "overUnderConfidence": 73,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1569,
+          "homeElo": 1588,
           "awayElo": 1634,
-          "eloWinProb": 0.5
+          "eloWinProb": 0.527
         }
       },
       "pred": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 2.03,
-        "totalExpectedGoals": 6.53,
-        "bttsProbability": 0.7839,
-        "bttsNoProbability": 0.2161,
-        "over25Probability": 0.8703,
-        "under25Probability": 0.1297,
-        "homeWinProbability": 0.6259,
-        "drawProbability": 0.1039,
-        "awayWinProbability": 0.2496,
+        "awayExpectedGoals": 1.79,
+        "totalExpectedGoals": 6.29,
+        "bttsProbability": 0.7515,
+        "bttsNoProbability": 0.2485,
+        "over25Probability": 0.8626,
+        "under25Probability": 0.1374,
+        "homeWinProbability": 0.6573,
+        "drawProbability": 0.0945,
+        "awayWinProbability": 0.2247,
         "predictedScore": {
           "home": 4,
-          "away": 2,
-          "probability": 0.0514
+          "away": 1,
+          "probability": 0.0568
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 57,
+        "bttsConfidence": 50,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 74,
+        "overUnderConfidence": 73,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1569,
+          "homeElo": 1588,
           "awayElo": 1634,
-          "eloWinProb": 0.5
+          "eloWinProb": 0.527
         }
       },
-      "confidenceScore": 87
+      "confidenceScore": 86
     },
     {
-      "id": "fix_31_3_RealBetis",
+      "id": "fix_31_2_RealBetis",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "13:00",
       "homeTeam": "Real Betis",
       "awayTeam": "Rayo Vallecano",
       "odds": {
-        "home": 1.59,
-        "draw": 4.68,
-        "away": 5.75
+        "home": 1.63,
+        "draw": 4.57,
+        "away": 5.44
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
         "awayExpectedGoals": 0.83,
         "totalExpectedGoals": 5.33,
-        "bttsProbability": 0.5108,
-        "bttsNoProbability": 0.4892,
-        "over25Probability": 0.8141,
-        "under25Probability": 0.1859,
-        "homeWinProbability": 0.8283,
-        "drawProbability": 0.051,
-        "awayWinProbability": 0.0822,
+        "bttsProbability": 0.5093,
+        "bttsNoProbability": 0.4907,
+        "over25Probability": 0.8138,
+        "under25Probability": 0.1862,
+        "homeWinProbability": 0.8298,
+        "drawProbability": 0.0508,
+        "awayWinProbability": 0.0809,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.0826
+          "probability": 0.0829
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -183,25 +112,25 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1767,
-          "awayElo": 1582,
-          "eloWinProb": 0.808
+          "awayElo": 1578,
+          "eloWinProb": 0.812
         }
       },
       "pred": {
         "homeExpectedGoals": 4.5,
         "awayExpectedGoals": 0.83,
         "totalExpectedGoals": 5.33,
-        "bttsProbability": 0.5108,
-        "bttsNoProbability": 0.4892,
-        "over25Probability": 0.8141,
-        "under25Probability": 0.1859,
-        "homeWinProbability": 0.8283,
-        "drawProbability": 0.051,
-        "awayWinProbability": 0.0822,
+        "bttsProbability": 0.5093,
+        "bttsNoProbability": 0.4907,
+        "over25Probability": 0.8138,
+        "under25Probability": 0.1862,
+        "homeWinProbability": 0.8298,
+        "drawProbability": 0.0508,
+        "awayWinProbability": 0.0809,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.0826
+          "probability": 0.0829
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -210,19 +139,19 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1767,
-          "awayElo": 1582,
-          "eloWinProb": 0.808
+          "awayElo": 1578,
+          "eloWinProb": 0.812
         }
       },
       "confidenceScore": 81
     },
     {
-      "id": "fix_31_4_Malaga",
+      "id": "fix_31_3_Malaga",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "15:15",
       "homeTeam": "Malaga",
       "awayTeam": "Athletic Bilbao",
@@ -232,20 +161,20 @@
         "away": 1.83
       },
       "prediction": {
-        "homeExpectedGoals": 0.59,
+        "homeExpectedGoals": 0.6,
         "awayExpectedGoals": 1.6,
-        "totalExpectedGoals": 2.19,
-        "bttsProbability": 0.3637,
-        "bttsNoProbability": 0.6363,
-        "over25Probability": 0.3747,
-        "under25Probability": 0.6253,
-        "homeWinProbability": 0.2043,
-        "drawProbability": 0.2587,
-        "awayWinProbability": 0.6274,
+        "totalExpectedGoals": 2.2,
+        "bttsProbability": 0.3647,
+        "bttsNoProbability": 0.6353,
+        "over25Probability": 0.3758,
+        "under25Probability": 0.6242,
+        "homeWinProbability": 0.2044,
+        "drawProbability": 0.2583,
+        "awayWinProbability": 0.6276,
         "predictedScore": {
           "home": 0,
           "away": 1,
-          "probability": 0.1721
+          "probability": 0.1716
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -259,20 +188,20 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.59,
+        "homeExpectedGoals": 0.6,
         "awayExpectedGoals": 1.6,
-        "totalExpectedGoals": 2.19,
-        "bttsProbability": 0.3637,
-        "bttsNoProbability": 0.6363,
-        "over25Probability": 0.3747,
-        "under25Probability": 0.6253,
-        "homeWinProbability": 0.2043,
-        "drawProbability": 0.2587,
-        "awayWinProbability": 0.6274,
+        "totalExpectedGoals": 2.2,
+        "bttsProbability": 0.3647,
+        "bttsNoProbability": 0.6353,
+        "over25Probability": 0.3758,
+        "under25Probability": 0.6242,
+        "homeWinProbability": 0.2044,
+        "drawProbability": 0.2583,
+        "awayWinProbability": 0.6276,
         "predictedScore": {
           "home": 0,
           "away": 1,
-          "probability": 0.1721
+          "probability": 0.1716
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -288,19 +217,19 @@
       "confidenceScore": 64
     },
     {
-      "id": "fix_31_5_Elche",
+      "id": "fix_31_4_Elche",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "17:30",
       "homeTeam": "Elche",
       "awayTeam": "Atletico Madrid",
       "odds": {
-        "home": 5.29,
-        "draw": 4.36,
-        "away": 1.67
+        "home": 5.91,
+        "draw": 4.58,
+        "away": 1.59
       },
       "prediction": {
         "homeExpectedGoals": 0.25,
@@ -310,9 +239,9 @@
         "bttsNoProbability": 0.7933,
         "over25Probability": 0.7452,
         "under25Probability": 0.2548,
-        "homeWinProbability": 0.0837,
+        "homeWinProbability": 0.0862,
         "drawProbability": 0.0342,
-        "awayWinProbability": 0.8608,
+        "awayWinProbability": 0.8583,
         "predictedScore": {
           "home": 0,
           "away": 3,
@@ -324,9 +253,9 @@
         "overUnderConfidence": 49,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1555,
+          "homeElo": 1562,
           "awayElo": 1831,
-          "eloWinProb": 0.229
+          "eloWinProb": 0.236
         }
       },
       "pred": {
@@ -337,9 +266,9 @@
         "bttsNoProbability": 0.7933,
         "over25Probability": 0.7452,
         "under25Probability": 0.2548,
-        "homeWinProbability": 0.0837,
+        "homeWinProbability": 0.0862,
         "drawProbability": 0.0342,
-        "awayWinProbability": 0.8608,
+        "awayWinProbability": 0.8583,
         "predictedScore": {
           "home": 0,
           "away": 3,
@@ -351,20 +280,20 @@
         "overUnderConfidence": 49,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1555,
+          "homeElo": 1562,
           "awayElo": 1831,
-          "eloWinProb": 0.229
+          "eloWinProb": 0.236
         }
       },
       "confidenceScore": 79
     },
     {
-      "id": "fix_31_6_RealMadrid",
+      "id": "fix_31_5_RealMadrid",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "20:00",
       "homeTeam": "Real Madrid",
       "awayTeam": "Alaves",
@@ -377,17 +306,17 @@
         "homeExpectedGoals": 4.5,
         "awayExpectedGoals": 0.24,
         "totalExpectedGoals": 4.74,
-        "bttsProbability": 0.1927,
-        "bttsNoProbability": 0.8073,
-        "over25Probability": 0.765,
-        "under25Probability": 0.235,
+        "bttsProbability": 0.193,
+        "bttsNoProbability": 0.807,
+        "over25Probability": 0.7651,
+        "under25Probability": 0.2349,
         "homeWinProbability": 0.8681,
         "drawProbability": 0.0222,
         "awayWinProbability": 0.0612,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1494
+          "probability": 0.1493
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 61,
@@ -404,17 +333,17 @@
         "homeExpectedGoals": 4.5,
         "awayExpectedGoals": 0.24,
         "totalExpectedGoals": 4.74,
-        "bttsProbability": 0.1927,
-        "bttsNoProbability": 0.8073,
-        "over25Probability": 0.765,
-        "under25Probability": 0.235,
+        "bttsProbability": 0.193,
+        "bttsNoProbability": 0.807,
+        "over25Probability": 0.7651,
+        "under25Probability": 0.2349,
         "homeWinProbability": 0.8681,
         "drawProbability": 0.0222,
         "awayWinProbability": 0.0612,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1494
+          "probability": 0.1493
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 61,
@@ -430,35 +359,35 @@
       "confidenceScore": 81
     },
     {
-      "id": "fix_31_7_Valencia",
+      "id": "fix_31_6_Valencia",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "13:00",
       "homeTeam": "Valencia",
       "awayTeam": "Osasuna",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 2.2,
+        "draw": 3.56,
+        "away": 3.58
       },
       "prediction": {
         "homeExpectedGoals": 0.9,
-        "awayExpectedGoals": 1.81,
-        "totalExpectedGoals": 2.71,
-        "bttsProbability": 0.5027,
-        "bttsNoProbability": 0.4973,
-        "over25Probability": 0.5088,
-        "under25Probability": 0.4912,
-        "homeWinProbability": 0.3046,
-        "drawProbability": 0.2407,
-        "awayWinProbability": 0.5386,
+        "awayExpectedGoals": 1.83,
+        "totalExpectedGoals": 2.72,
+        "bttsProbability": 0.503,
+        "bttsNoProbability": 0.497,
+        "over25Probability": 0.5115,
+        "under25Probability": 0.4885,
+        "homeWinProbability": 0.301,
+        "drawProbability": 0.239,
+        "awayWinProbability": 0.5432,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1148
+          "probability": 0.114
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -466,26 +395,26 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1566,
+          "homeElo": 1562,
           "awayElo": 1602,
-          "eloWinProb": 0.542
+          "eloWinProb": 0.536
         }
       },
       "pred": {
         "homeExpectedGoals": 0.9,
-        "awayExpectedGoals": 1.81,
-        "totalExpectedGoals": 2.71,
-        "bttsProbability": 0.5027,
-        "bttsNoProbability": 0.4973,
-        "over25Probability": 0.5088,
-        "under25Probability": 0.4912,
-        "homeWinProbability": 0.3046,
-        "drawProbability": 0.2407,
-        "awayWinProbability": 0.5386,
+        "awayExpectedGoals": 1.83,
+        "totalExpectedGoals": 2.72,
+        "bttsProbability": 0.503,
+        "bttsNoProbability": 0.497,
+        "over25Probability": 0.5115,
+        "under25Probability": 0.4885,
+        "homeWinProbability": 0.301,
+        "drawProbability": 0.239,
+        "awayWinProbability": 0.5432,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1148
+          "probability": 0.114
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -493,43 +422,43 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1566,
+          "homeElo": 1562,
           "awayElo": 1602,
-          "eloWinProb": 0.542
+          "eloWinProb": 0.536
         }
       },
       "confidenceScore": 51
     },
     {
-      "id": "fix_31_8_DeportivodeLaCoruna",
+      "id": "fix_31_7_DeportivodeLaCoruna",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "15:15",
       "homeTeam": "Deportivo de La Coruna",
       "awayTeam": "Barcelona",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 11.4,
+        "draw": 6.36,
+        "away": 1.3
       },
       "prediction": {
         "homeExpectedGoals": 0.59,
         "awayExpectedGoals": 4,
         "totalExpectedGoals": 4.59,
-        "bttsProbability": 0.4158,
-        "bttsNoProbability": 0.5842,
-        "over25Probability": 0.7851,
-        "under25Probability": 0.2149,
-        "homeWinProbability": 0.0841,
-        "drawProbability": 0.0554,
-        "awayWinProbability": 0.8466,
+        "bttsProbability": 0.4166,
+        "bttsNoProbability": 0.5834,
+        "over25Probability": 0.7853,
+        "under25Probability": 0.2147,
+        "homeWinProbability": 0.0842,
+        "drawProbability": 0.0555,
+        "awayWinProbability": 0.8465,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.1084
+          "probability": 0.1082
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -546,17 +475,17 @@
         "homeExpectedGoals": 0.59,
         "awayExpectedGoals": 4,
         "totalExpectedGoals": 4.59,
-        "bttsProbability": 0.4158,
-        "bttsNoProbability": 0.5842,
-        "over25Probability": 0.7851,
-        "under25Probability": 0.2149,
-        "homeWinProbability": 0.0841,
-        "drawProbability": 0.0554,
-        "awayWinProbability": 0.8466,
+        "bttsProbability": 0.4166,
+        "bttsNoProbability": 0.5834,
+        "over25Probability": 0.7853,
+        "under25Probability": 0.2147,
+        "homeWinProbability": 0.0842,
+        "drawProbability": 0.0555,
+        "awayWinProbability": 0.8465,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.1084
+          "probability": 0.1082
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -572,35 +501,35 @@
       "confidenceScore": 79
     },
     {
-      "id": "fix_31_9_CeltadeVigo",
+      "id": "fix_31_8_CeltadeVigo",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "17:30",
       "homeTeam": "Celta de Vigo",
       "awayTeam": "Villarreal",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 2.82,
+        "draw": 3.64,
+        "away": 2.59
       },
       "prediction": {
-        "homeExpectedGoals": 1.31,
+        "homeExpectedGoals": 1.32,
         "awayExpectedGoals": 1.12,
-        "totalExpectedGoals": 2.43,
-        "bttsProbability": 0.5,
-        "bttsNoProbability": 0.5,
-        "over25Probability": 0.4388,
-        "under25Probability": 0.5612,
-        "homeWinProbability": 0.4516,
-        "drawProbability": 0.2882,
-        "awayWinProbability": 0.361,
+        "totalExpectedGoals": 2.44,
+        "bttsProbability": 0.5012,
+        "bttsNoProbability": 0.4988,
+        "over25Probability": 0.4403,
+        "under25Probability": 0.5597,
+        "homeWinProbability": 0.452,
+        "drawProbability": 0.2878,
+        "awayWinProbability": 0.3608,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1368
+          "probability": 0.1366
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -614,20 +543,20 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.31,
+        "homeExpectedGoals": 1.32,
         "awayExpectedGoals": 1.12,
-        "totalExpectedGoals": 2.43,
-        "bttsProbability": 0.5,
-        "bttsNoProbability": 0.5,
-        "over25Probability": 0.4388,
-        "under25Probability": 0.5612,
-        "homeWinProbability": 0.4516,
-        "drawProbability": 0.2882,
-        "awayWinProbability": 0.361,
+        "totalExpectedGoals": 2.44,
+        "bttsProbability": 0.5012,
+        "bttsNoProbability": 0.4988,
+        "over25Probability": 0.4403,
+        "under25Probability": 0.5597,
+        "homeWinProbability": 0.452,
+        "drawProbability": 0.2878,
+        "awayWinProbability": 0.3608,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1368
+          "probability": 0.1366
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -643,35 +572,35 @@
       "confidenceScore": 56
     },
     {
-      "id": "fix_31_10_RealSociedad",
+      "id": "fix_31_9_RealSociedad",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "20:00",
       "homeTeam": "Real Sociedad",
       "awayTeam": "Sevilla",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 2.22,
+        "draw": 3.7,
+        "away": 3.39
       },
       "prediction": {
-        "homeExpectedGoals": 2.38,
+        "homeExpectedGoals": 2.39,
         "awayExpectedGoals": 1.55,
-        "totalExpectedGoals": 3.93,
-        "bttsProbability": 0.7162,
-        "bttsNoProbability": 0.2838,
-        "over25Probability": 0.7478,
-        "under25Probability": 0.2522,
-        "homeWinProbability": 0.582,
-        "drawProbability": 0.2024,
-        "awayWinProbability": 0.2843,
+        "totalExpectedGoals": 3.94,
+        "bttsProbability": 0.7172,
+        "bttsNoProbability": 0.2828,
+        "over25Probability": 0.7492,
+        "under25Probability": 0.2508,
+        "homeWinProbability": 0.5825,
+        "drawProbability": 0.202,
+        "awayWinProbability": 0.284,
         "predictedScore": {
           "home": 2,
           "away": 1,
-          "probability": 0.0863
+          "probability": 0.0861
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 43,
@@ -685,20 +614,20 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 2.38,
+        "homeExpectedGoals": 2.39,
         "awayExpectedGoals": 1.55,
-        "totalExpectedGoals": 3.93,
-        "bttsProbability": 0.7162,
-        "bttsNoProbability": 0.2838,
-        "over25Probability": 0.7478,
-        "under25Probability": 0.2522,
-        "homeWinProbability": 0.582,
-        "drawProbability": 0.2024,
-        "awayWinProbability": 0.2843,
+        "totalExpectedGoals": 3.94,
+        "bttsProbability": 0.7172,
+        "bttsNoProbability": 0.2828,
+        "over25Probability": 0.7492,
+        "under25Probability": 0.2508,
+        "homeWinProbability": 0.5825,
+        "drawProbability": 0.202,
+        "awayWinProbability": 0.284,
         "predictedScore": {
           "home": 2,
           "away": 1,
-          "probability": 0.0863
+          "probability": 0.0861
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 43,
@@ -714,12 +643,12 @@
       "confidenceScore": 75
     },
     {
-      "id": "fix_31_11_Espanyol",
+      "id": "fix_31_10_Espanyol",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Mon 30/11",
-      "dateIso": "2026-11-23T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-30T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "20:00",
       "homeTeam": "Espanyol",
       "awayTeam": "Getafe",
@@ -729,20 +658,20 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.87,
+        "homeExpectedGoals": 1.88,
         "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 2.07,
-        "bttsProbability": 0.1559,
-        "bttsNoProbability": 0.8441,
-        "over25Probability": 0.3404,
-        "under25Probability": 0.6596,
-        "homeWinProbability": 0.7556,
-        "drawProbability": 0.1843,
-        "awayWinProbability": 0.1241,
+        "totalExpectedGoals": 2.08,
+        "bttsProbability": 0.1564,
+        "bttsNoProbability": 0.8436,
+        "over25Probability": 0.345,
+        "under25Probability": 0.655,
+        "homeWinProbability": 0.7593,
+        "drawProbability": 0.1817,
+        "awayWinProbability": 0.1221,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.2336
+          "probability": 0.2317
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 69,
@@ -751,25 +680,25 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1640,
-          "awayElo": 1556,
-          "eloWinProb": 0.702
+          "awayElo": 1552,
+          "eloWinProb": 0.707
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.87,
+        "homeExpectedGoals": 1.88,
         "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 2.07,
-        "bttsProbability": 0.1559,
-        "bttsNoProbability": 0.8441,
-        "over25Probability": 0.3404,
-        "under25Probability": 0.6596,
-        "homeWinProbability": 0.7556,
-        "drawProbability": 0.1843,
-        "awayWinProbability": 0.1241,
+        "totalExpectedGoals": 2.08,
+        "bttsProbability": 0.1564,
+        "bttsNoProbability": 0.8436,
+        "over25Probability": 0.345,
+        "under25Probability": 0.655,
+        "homeWinProbability": 0.7593,
+        "drawProbability": 0.1817,
+        "awayWinProbability": 0.1221,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.2336
+          "probability": 0.2317
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 69,
@@ -778,19 +707,19 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1640,
-          "awayElo": 1556,
-          "eloWinProb": 0.702
+          "awayElo": 1552,
+          "eloWinProb": 0.707
         }
       },
       "confidenceScore": 84
     },
     {
-      "id": "fix_31_12_RealSociedad",
+      "id": "fix_31_11_RealSociedad",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Wed 02/12",
       "dateIso": "2026-11-25T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "18:00",
       "homeTeam": "Real Sociedad",
       "awayTeam": "Real Madrid",
@@ -802,23 +731,23 @@
       "prediction": {
         "homeExpectedGoals": 0.9,
         "awayExpectedGoals": 2.95,
-        "totalExpectedGoals": 3.84,
-        "bttsProbability": 0.5575,
-        "bttsNoProbability": 0.4425,
-        "over25Probability": 0.727,
-        "under25Probability": 0.273,
+        "totalExpectedGoals": 3.85,
+        "bttsProbability": 0.5586,
+        "bttsNoProbability": 0.4414,
+        "over25Probability": 0.7281,
+        "under25Probability": 0.2719,
         "homeWinProbability": 0.1833,
-        "drawProbability": 0.1352,
+        "drawProbability": 0.135,
         "awayWinProbability": 0.7219,
         "predictedScore": {
           "home": 0,
           "away": 2,
-          "probability": 0.0931
+          "probability": 0.0927
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 45,
+        "overUnderConfidence": 46,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1713,
@@ -829,23 +758,23 @@
       "pred": {
         "homeExpectedGoals": 0.9,
         "awayExpectedGoals": 2.95,
-        "totalExpectedGoals": 3.84,
-        "bttsProbability": 0.5575,
-        "bttsNoProbability": 0.4425,
-        "over25Probability": 0.727,
-        "under25Probability": 0.273,
+        "totalExpectedGoals": 3.85,
+        "bttsProbability": 0.5586,
+        "bttsNoProbability": 0.4414,
+        "over25Probability": 0.7281,
+        "under25Probability": 0.2719,
         "homeWinProbability": 0.1833,
-        "drawProbability": 0.1352,
+        "drawProbability": 0.135,
         "awayWinProbability": 0.7219,
         "predictedScore": {
           "home": 0,
           "away": 2,
-          "probability": 0.0931
+          "probability": 0.0927
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 45,
+        "overUnderConfidence": 46,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1713,
@@ -856,12 +785,12 @@
       "confidenceScore": 73
     },
     {
-      "id": "fix_31_13_Barcelona",
+      "id": "fix_31_12_Barcelona",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Wed 02/12",
       "dateIso": "2026-11-25T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "20:30",
       "homeTeam": "Barcelona",
       "awayTeam": "Atletico Madrid",
@@ -871,20 +800,20 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 2.7,
+        "homeExpectedGoals": 2.71,
         "awayExpectedGoals": 1.94,
-        "totalExpectedGoals": 4.64,
-        "bttsProbability": 0.7949,
-        "bttsNoProbability": 0.2051,
-        "over25Probability": 0.8338,
-        "under25Probability": 0.1662,
-        "homeWinProbability": 0.6015,
-        "drawProbability": 0.1868,
-        "awayWinProbability": 0.2723,
+        "totalExpectedGoals": 4.65,
+        "bttsProbability": 0.7957,
+        "bttsNoProbability": 0.2043,
+        "over25Probability": 0.8348,
+        "under25Probability": 0.1652,
+        "homeWinProbability": 0.6019,
+        "drawProbability": 0.1864,
+        "awayWinProbability": 0.272,
         "predictedScore": {
           "home": 2,
           "away": 1,
-          "probability": 0.0684
+          "probability": 0.0681
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 59,
@@ -898,20 +827,20 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 2.7,
+        "homeExpectedGoals": 2.71,
         "awayExpectedGoals": 1.94,
-        "totalExpectedGoals": 4.64,
-        "bttsProbability": 0.7949,
-        "bttsNoProbability": 0.2051,
-        "over25Probability": 0.8338,
-        "under25Probability": 0.1662,
-        "homeWinProbability": 0.6015,
-        "drawProbability": 0.1868,
-        "awayWinProbability": 0.2723,
+        "totalExpectedGoals": 4.65,
+        "bttsProbability": 0.7957,
+        "bttsNoProbability": 0.2043,
+        "over25Probability": 0.8348,
+        "under25Probability": 0.1652,
+        "homeWinProbability": 0.6019,
+        "drawProbability": 0.1864,
+        "awayWinProbability": 0.272,
         "predictedScore": {
           "home": 2,
           "away": 1,
-          "probability": 0.0684
+          "probability": 0.0681
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 59,
@@ -927,12 +856,12 @@
       "confidenceScore": 83
     },
     {
-      "id": "fix_31_14_Alaves",
+      "id": "fix_31_13_Alaves",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Fri 04/12",
       "dateIso": "2026-11-27T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "20:00",
       "homeTeam": "Alaves",
       "awayTeam": "Espanyol",
@@ -942,20 +871,20 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.44,
+        "homeExpectedGoals": 1.45,
         "awayExpectedGoals": 0.83,
-        "totalExpectedGoals": 2.27,
-        "bttsProbability": 0.4384,
-        "bttsNoProbability": 0.5616,
-        "over25Probability": 0.3966,
-        "under25Probability": 0.6034,
-        "homeWinProbability": 0.544,
-        "drawProbability": 0.2836,
-        "awayWinProbability": 0.2715,
+        "totalExpectedGoals": 2.28,
+        "bttsProbability": 0.4394,
+        "bttsNoProbability": 0.5606,
+        "over25Probability": 0.3981,
+        "under25Probability": 0.6019,
+        "homeWinProbability": 0.5445,
+        "drawProbability": 0.2831,
+        "awayWinProbability": 0.2714,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1411
+          "probability": 0.1407
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -969,20 +898,20 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.44,
+        "homeExpectedGoals": 1.45,
         "awayExpectedGoals": 0.83,
-        "totalExpectedGoals": 2.27,
-        "bttsProbability": 0.4384,
-        "bttsNoProbability": 0.5616,
-        "over25Probability": 0.3966,
-        "under25Probability": 0.6034,
-        "homeWinProbability": 0.544,
-        "drawProbability": 0.2836,
-        "awayWinProbability": 0.2715,
+        "totalExpectedGoals": 2.28,
+        "bttsProbability": 0.4394,
+        "bttsNoProbability": 0.5606,
+        "over25Probability": 0.3981,
+        "under25Probability": 0.6019,
+        "homeWinProbability": 0.5445,
+        "drawProbability": 0.2831,
+        "awayWinProbability": 0.2714,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1411
+          "probability": 0.1407
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -998,12 +927,12 @@
       "confidenceScore": 60
     },
     {
-      "id": "fix_31_15_RacingSantander",
+      "id": "fix_31_14_RacingSantander",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "13:00",
       "homeTeam": "Racing Santander",
       "awayTeam": "Deportivo de La Coruna",
@@ -1013,25 +942,25 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 2.28,
-        "awayExpectedGoals": 1.57,
-        "totalExpectedGoals": 3.85,
-        "bttsProbability": 0.7141,
-        "bttsNoProbability": 0.2859,
-        "over25Probability": 0.7369,
-        "under25Probability": 0.2631,
-        "homeWinProbability": 0.5517,
-        "drawProbability": 0.209,
-        "awayWinProbability": 0.3107,
+        "homeExpectedGoals": 2.29,
+        "awayExpectedGoals": 1.58,
+        "totalExpectedGoals": 3.86,
+        "bttsProbability": 0.7151,
+        "bttsNoProbability": 0.2849,
+        "over25Probability": 0.7384,
+        "under25Probability": 0.2616,
+        "homeWinProbability": 0.5522,
+        "drawProbability": 0.2086,
+        "awayWinProbability": 0.3105,
         "predictedScore": {
           "home": 2,
           "away": 1,
-          "probability": 0.0867
+          "probability": 0.0865
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 43,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 47,
+        "overUnderConfidence": 48,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1634,
@@ -1040,25 +969,25 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 2.28,
-        "awayExpectedGoals": 1.57,
-        "totalExpectedGoals": 3.85,
-        "bttsProbability": 0.7141,
-        "bttsNoProbability": 0.2859,
-        "over25Probability": 0.7369,
-        "under25Probability": 0.2631,
-        "homeWinProbability": 0.5517,
-        "drawProbability": 0.209,
-        "awayWinProbability": 0.3107,
+        "homeExpectedGoals": 2.29,
+        "awayExpectedGoals": 1.58,
+        "totalExpectedGoals": 3.86,
+        "bttsProbability": 0.7151,
+        "bttsNoProbability": 0.2849,
+        "over25Probability": 0.7384,
+        "under25Probability": 0.2616,
+        "homeWinProbability": 0.5522,
+        "drawProbability": 0.2086,
+        "awayWinProbability": 0.3105,
         "predictedScore": {
           "home": 2,
           "away": 1,
-          "probability": 0.0867
+          "probability": 0.0865
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 43,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 47,
+        "overUnderConfidence": 48,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1634,
@@ -1067,11 +996,136 @@
         }
       },
       "confidenceScore": 74
+    },
+    {
+      "id": "fix_31_15_RayoVallecano",
+      "leagueId": "31",
+      "leagueName": "La Liga",
+      "dateRaw": "Sat 05/12",
+      "dateIso": "2026-11-28T12:00:00.000Z",
+      "daysFromNow": 4,
+      "time": "15:15",
+      "homeTeam": "Rayo Vallecano",
+      "awayTeam": "Levante",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.33,
+        "awayExpectedGoals": 0.41,
+        "totalExpectedGoals": 1.74,
+        "bttsProbability": 0.2536,
+        "bttsNoProbability": 0.7464,
+        "over25Probability": 0.2538,
+        "under25Probability": 0.7462,
+        "homeWinProbability": 0.5896,
+        "drawProbability": 0.2964,
+        "awayWinProbability": 0.2177,
+        "predictedScore": {
+          "home": 1,
+          "away": 0,
+          "probability": 0.2275
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 49,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 49,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1578,
+          "awayElo": 1588,
+          "eloWinProb": 0.578
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.33,
+        "awayExpectedGoals": 0.41,
+        "totalExpectedGoals": 1.74,
+        "bttsProbability": 0.2536,
+        "bttsNoProbability": 0.7464,
+        "over25Probability": 0.2538,
+        "under25Probability": 0.7462,
+        "homeWinProbability": 0.5896,
+        "drawProbability": 0.2964,
+        "awayWinProbability": 0.2177,
+        "predictedScore": {
+          "home": 1,
+          "away": 0,
+          "probability": 0.2275
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 49,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 49,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1578,
+          "awayElo": 1588,
+          "eloWinProb": 0.578
+        }
+      },
+      "confidenceScore": 75
     }
   ],
   "results": [
     {
-      "id": "res_31_1_Getafe",
+      "id": "res_31_1_Levante",
+      "leagueId": "31",
+      "leagueName": "La Liga",
+      "dateRaw": "Mon 23-Nov-2026",
+      "dateIso": "2026-11-30T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "20:00",
+      "homeTeam": "Levante",
+      "awayTeam": "Elche",
+      "score": "1-1",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "totalGoals": 2,
+      "actualBtts": true,
+      "actualOver25": false,
+      "prediction": {
+        "homeExpectedGoals": 1.62,
+        "awayExpectedGoals": 2.5,
+        "totalExpectedGoals": 4.12,
+        "bttsProbability": 0.7374,
+        "bttsNoProbability": 0.2626,
+        "over25Probability": 0.775,
+        "under25Probability": 0.225,
+        "homeWinProbability": 0.3755,
+        "drawProbability": 0.1956,
+        "awayWinProbability": 0.4945,
+        "predictedScore": {
+          "home": 1,
+          "away": 2,
+          "probability": 0.0821
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 47,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 55,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1588,
+          "awayElo": 1562,
+          "eloWinProb": 0.628
+        },
+        "matchFingerprint": "31_levante_elche_Mon 23-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-24T17:18:20.794Z",
+        "auditHash": "SHA256-IMMUTABLE-2F9DF683-2026-11-24",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": true,
+        "overUnderHit": false,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_31_2_Getafe",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 22-Nov-2026",
@@ -1088,19 +1142,19 @@
       "actualOver25": true,
       "prediction": {
         "homeExpectedGoals": 0.34,
-        "awayExpectedGoals": 2.69,
-        "totalExpectedGoals": 3.03,
-        "bttsProbability": 0.2706,
-        "bttsNoProbability": 0.7294,
-        "over25Probability": 0.5777,
-        "under25Probability": 0.4223,
-        "homeWinProbability": 0.0979,
-        "drawProbability": 0.1091,
-        "awayWinProbability": 0.827,
+        "awayExpectedGoals": 2.71,
+        "totalExpectedGoals": 3.05,
+        "bttsProbability": 0.2702,
+        "bttsNoProbability": 0.7298,
+        "over25Probability": 0.5818,
+        "under25Probability": 0.4182,
+        "homeWinProbability": 0.0961,
+        "drawProbability": 0.1072,
+        "awayWinProbability": 0.8298,
         "predictedScore": {
           "home": 0,
           "away": 2,
-          "probability": 0.1744
+          "probability": 0.1737
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 46,
@@ -1108,13 +1162,13 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1556,
+          "homeElo": 1552,
           "awayElo": 1831,
-          "eloWinProb": 0.23
+          "eloWinProb": 0.226
         },
         "matchFingerprint": "31_getafe_atletico madrid_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:42.794Z",
-        "auditHash": "SHA256-IMMUTABLE-2A19C8EB-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:20.794Z",
+        "auditHash": "SHA256-IMMUTABLE-5D09C05-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1125,7 +1179,7 @@
       }
     },
     {
-      "id": "res_31_2_Osasuna",
+      "id": "res_31_3_Osasuna",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 22-Nov-2026",
@@ -1144,17 +1198,17 @@
         "homeExpectedGoals": 1.21,
         "awayExpectedGoals": 0.2,
         "totalExpectedGoals": 1.41,
-        "bttsProbability": 0.1308,
-        "bttsNoProbability": 0.8692,
-        "over25Probability": 0.1691,
-        "under25Probability": 0.8309,
-        "homeWinProbability": 0.6661,
-        "drawProbability": 0.3138,
-        "awayWinProbability": 0.1299,
+        "bttsProbability": 0.131,
+        "bttsNoProbability": 0.869,
+        "over25Probability": 0.1699,
+        "under25Probability": 0.8301,
+        "homeWinProbability": 0.6668,
+        "drawProbability": 0.3129,
+        "awayWinProbability": 0.1298,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.2918
+          "probability": 0.2916
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 74,
@@ -1167,8 +1221,8 @@
           "eloWinProb": 0.735
         },
         "matchFingerprint": "31_osasuna_malaga_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:42.794Z",
-        "auditHash": "SHA256-IMMUTABLE-50F4D7DC-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:20.794Z",
+        "auditHash": "SHA256-IMMUTABLE-7BDE5BBD-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1179,7 +1233,7 @@
       }
     },
     {
-      "id": "res_31_3_RacingSantander",
+      "id": "res_31_4_RacingSantander",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 22-Nov-2026",
@@ -1195,16 +1249,16 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 3.28,
+        "homeExpectedGoals": 3.29,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 7.28,
+        "totalExpectedGoals": 7.29,
         "bttsProbability": 0.8783,
         "bttsNoProbability": 0.1217,
-        "over25Probability": 0.9067,
-        "under25Probability": 0.0933,
-        "homeWinProbability": 0.3662,
+        "over25Probability": 0.9066,
+        "under25Probability": 0.0934,
+        "homeWinProbability": 0.367,
         "drawProbability": 0.1464,
-        "awayWinProbability": 0.4935,
+        "awayWinProbability": 0.4926,
         "predictedScore": {
           "home": 3,
           "away": 3,
@@ -1221,8 +1275,8 @@
           "eloWinProb": 0.48
         },
         "matchFingerprint": "31_racing santander_real sociedad_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:42.794Z",
-        "auditHash": "SHA256-IMMUTABLE-3DF1226E-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:20.794Z",
+        "auditHash": "SHA256-IMMUTABLE-74699C75-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1233,7 +1287,7 @@
       }
     },
     {
-      "id": "res_31_4_Barcelona",
+      "id": "res_31_5_Barcelona",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 22-Nov-2026",
@@ -1252,12 +1306,12 @@
         "homeExpectedGoals": 4.5,
         "awayExpectedGoals": 1.02,
         "totalExpectedGoals": 5.52,
-        "bttsProbability": 0.5785,
-        "bttsNoProbability": 0.4215,
-        "over25Probability": 0.8264,
-        "under25Probability": 0.1736,
-        "homeWinProbability": 0.8421,
-        "drawProbability": 0.0603,
+        "bttsProbability": 0.5791,
+        "bttsNoProbability": 0.4209,
+        "over25Probability": 0.8265,
+        "under25Probability": 0.1735,
+        "homeWinProbability": 0.8419,
+        "drawProbability": 0.0604,
         "awayWinProbability": 0.0625,
         "predictedScore": {
           "home": 4,
@@ -1275,8 +1329,8 @@
           "eloWinProb": 0.884
         },
         "matchFingerprint": "31_barcelona_villarreal_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:42.794Z",
-        "auditHash": "SHA256-IMMUTABLE-6D117624-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:20.795Z",
+        "auditHash": "SHA256-IMMUTABLE-1302955D-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1287,7 +1341,7 @@
       }
     },
     {
-      "id": "res_31_5_RealMadrid",
+      "id": "res_31_6_RealMadrid",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1303,20 +1357,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 3.94,
+        "homeExpectedGoals": 3.95,
         "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 4.14,
-        "bttsProbability": 0.1699,
-        "bttsNoProbability": 0.8301,
-        "over25Probability": 0.7341,
-        "under25Probability": 0.2659,
-        "homeWinProbability": 0.8973,
-        "drawProbability": 0.0326,
+        "totalExpectedGoals": 4.15,
+        "bttsProbability": 0.1698,
+        "bttsNoProbability": 0.8302,
+        "over25Probability": 0.7351,
+        "under25Probability": 0.2649,
+        "homeWinProbability": 0.8971,
+        "drawProbability": 0.0323,
         "awayWinProbability": 0.0504,
         "predictedScore": {
           "home": 3,
           "away": 0,
-          "probability": 0.1623
+          "probability": 0.1618
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 66,
@@ -1329,8 +1383,8 @@
           "eloWinProb": 0.864
         },
         "matchFingerprint": "31_real madrid_celta de vigo_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:42.795Z",
-        "auditHash": "SHA256-IMMUTABLE-CC32A64-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:20.795Z",
+        "auditHash": "SHA256-IMMUTABLE-18F8087E-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1341,7 +1395,7 @@
       }
     },
     {
-      "id": "res_31_6_Sevilla",
+      "id": "res_31_7_Sevilla",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1357,20 +1411,20 @@
       "actualBtts": true,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 0.9,
+        "homeExpectedGoals": 0.91,
         "awayExpectedGoals": 1.51,
         "totalExpectedGoals": 2.42,
-        "bttsProbability": 0.4711,
-        "bttsNoProbability": 0.5289,
-        "over25Probability": 0.4343,
-        "under25Probability": 0.5657,
-        "homeWinProbability": 0.3067,
-        "drawProbability": 0.2746,
+        "bttsProbability": 0.4722,
+        "bttsNoProbability": 0.5278,
+        "over25Probability": 0.4356,
+        "under25Probability": 0.5644,
+        "homeWinProbability": 0.3069,
+        "drawProbability": 0.2742,
         "awayWinProbability": 0.5147,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1294
+          "probability": 0.1293
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1383,8 +1437,8 @@
           "eloWinProb": 0.471
         },
         "matchFingerprint": "31_sevilla_real betis_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:42.795Z",
-        "auditHash": "SHA256-IMMUTABLE-1D298142-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:20.795Z",
+        "auditHash": "SHA256-IMMUTABLE-4F4FD8A6-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1395,7 +1449,7 @@
       }
     },
     {
-      "id": "res_31_7_RayoVallecano",
+      "id": "res_31_8_RayoVallecano",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1411,16 +1465,16 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 1.07,
+        "homeExpectedGoals": 1.08,
         "awayExpectedGoals": 0.97,
         "totalExpectedGoals": 2.04,
-        "bttsProbability": 0.4159,
-        "bttsNoProbability": 0.5841,
-        "over25Probability": 0.3341,
-        "under25Probability": 0.6659,
-        "homeWinProbability": 0.4542,
-        "drawProbability": 0.3204,
-        "awayWinProbability": 0.3375,
+        "bttsProbability": 0.4169,
+        "bttsNoProbability": 0.5831,
+        "over25Probability": 0.3354,
+        "under25Probability": 0.6646,
+        "homeWinProbability": 0.4546,
+        "drawProbability": 0.32,
+        "awayWinProbability": 0.3374,
         "predictedScore": {
           "home": 1,
           "away": 1,
@@ -1432,13 +1486,13 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1582,
-          "awayElo": 1566,
+          "homeElo": 1578,
+          "awayElo": 1562,
           "eloWinProb": 0.615
         },
         "matchFingerprint": "31_rayo vallecano_valencia_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:42.795Z",
-        "auditHash": "SHA256-IMMUTABLE-5A91B8B5-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:20.795Z",
+        "auditHash": "SHA256-IMMUTABLE-EE05418-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1449,7 +1503,7 @@
       }
     },
     {
-      "id": "res_31_8_Alaves",
+      "id": "res_31_9_Alaves",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1465,20 +1519,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 2.29,
+        "homeExpectedGoals": 2.3,
         "awayExpectedGoals": 0.82,
-        "totalExpectedGoals": 3.11,
-        "bttsProbability": 0.5069,
-        "bttsNoProbability": 0.4931,
-        "over25Probability": 0.5985,
-        "under25Probability": 0.4015,
-        "homeWinProbability": 0.6709,
-        "drawProbability": 0.1871,
-        "awayWinProbability": 0.2058,
+        "totalExpectedGoals": 3.12,
+        "bttsProbability": 0.5078,
+        "bttsNoProbability": 0.4922,
+        "over25Probability": 0.6002,
+        "under25Probability": 0.3998,
+        "homeWinProbability": 0.6715,
+        "drawProbability": 0.1865,
+        "awayWinProbability": 0.2056,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1168
+          "probability": 0.1166
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1491,8 +1545,8 @@
           "eloWinProb": 0.623
         },
         "matchFingerprint": "31_alaves_deportivo de la coruna_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:42.795Z",
-        "auditHash": "SHA256-IMMUTABLE-47B4BB25-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:20.795Z",
+        "auditHash": "SHA256-IMMUTABLE-6E38C31C-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1503,7 +1557,7 @@
       }
     },
     {
-      "id": "res_31_9_AthleticBilbao",
+      "id": "res_31_10_AthleticBilbao",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Fri 20-Nov-2026",
@@ -1521,18 +1575,18 @@
       "prediction": {
         "homeExpectedGoals": 1.18,
         "awayExpectedGoals": 0.7,
-        "totalExpectedGoals": 1.87,
-        "bttsProbability": 0.3552,
-        "bttsNoProbability": 0.6448,
-        "over25Probability": 0.2894,
-        "under25Probability": 0.7106,
-        "homeWinProbability": 0.5232,
-        "drawProbability": 0.323,
-        "awayWinProbability": 0.2669,
+        "totalExpectedGoals": 1.88,
+        "bttsProbability": 0.3561,
+        "bttsNoProbability": 0.6439,
+        "over25Probability": 0.2906,
+        "under25Probability": 0.7094,
+        "homeWinProbability": 0.5237,
+        "drawProbability": 0.3224,
+        "awayWinProbability": 0.2667,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1728
+          "probability": 0.1725
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1545,8 +1599,8 @@
           "eloWinProb": 0.631
         },
         "matchFingerprint": "31_athletic bilbao_espanyol_Fri 20-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:42.795Z",
-        "auditHash": "SHA256-IMMUTABLE-9997652-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:20.795Z",
+        "auditHash": "SHA256-IMMUTABLE-E229D96-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1557,7 +1611,7 @@
       }
     },
     {
-      "id": "res_31_10_AtleticoMadrid",
+      "id": "res_31_11_AtleticoMadrid",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1573,20 +1627,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.42,
-        "awayExpectedGoals": 3.46,
-        "totalExpectedGoals": 4.88,
-        "bttsProbability": 0.7179,
-        "bttsNoProbability": 0.2821,
-        "over25Probability": 0.8398,
-        "under25Probability": 0.1602,
+        "homeExpectedGoals": 1.43,
+        "awayExpectedGoals": 3.47,
+        "totalExpectedGoals": 4.89,
+        "bttsProbability": 0.7188,
+        "bttsNoProbability": 0.2812,
+        "over25Probability": 0.8405,
+        "under25Probability": 0.1595,
         "homeWinProbability": 0.2304,
-        "drawProbability": 0.1297,
-        "awayWinProbability": 0.6688,
+        "drawProbability": 0.1296,
+        "awayWinProbability": 0.6687,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0744
+          "probability": 0.0743
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 44,
@@ -1599,8 +1653,8 @@
           "eloWinProb": 0.446
         },
         "matchFingerprint": "31_atletico madrid_barcelona_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:42.795Z",
-        "auditHash": "SHA256-IMMUTABLE-3C514EE6-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:20.795Z",
+        "auditHash": "SHA256-IMMUTABLE-5D4C0269-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1611,7 +1665,7 @@
       }
     },
     {
-      "id": "res_31_11_CeltadeVigo",
+      "id": "res_31_12_CeltadeVigo",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1627,34 +1681,34 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 1.21,
-        "awayExpectedGoals": 0.24,
-        "totalExpectedGoals": 1.46,
-        "bttsProbability": 0.1559,
-        "bttsNoProbability": 0.8441,
-        "over25Probability": 0.1801,
-        "under25Probability": 0.8199,
-        "homeWinProbability": 0.6269,
-        "drawProbability": 0.3155,
-        "awayWinProbability": 0.168,
+        "homeExpectedGoals": 1.18,
+        "awayExpectedGoals": 0.25,
+        "totalExpectedGoals": 1.43,
+        "bttsProbability": 0.1581,
+        "bttsNoProbability": 0.8419,
+        "over25Probability": 0.1743,
+        "under25Probability": 0.8257,
+        "homeWinProbability": 0.61,
+        "drawProbability": 0.3235,
+        "awayWinProbability": 0.1797,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.2786
+          "probability": 0.2778
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 69,
+        "bttsConfidence": 68,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 64,
+        "overUnderConfidence": 65,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1611,
-          "awayElo": 1569,
-          "eloWinProb": 0.649
+          "awayElo": 1588,
+          "eloWinProb": 0.624
         },
         "matchFingerprint": "31_celta de vigo_levante_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:42.795Z",
-        "auditHash": "SHA256-IMMUTABLE-3D779D17-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:20.795Z",
+        "auditHash": "SHA256-IMMUTABLE-445E81B9-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1665,7 +1719,7 @@
       }
     },
     {
-      "id": "res_31_12_Villarreal",
+      "id": "res_31_13_Villarreal",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1681,20 +1735,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 2.65,
+        "homeExpectedGoals": 2.68,
         "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 2.85,
-        "bttsProbability": 0.1693,
-        "bttsNoProbability": 0.8307,
-        "over25Probability": 0.5371,
-        "under25Probability": 0.4629,
-        "homeWinProbability": 0.8228,
-        "drawProbability": 0.0963,
-        "awayWinProbability": 0.1107,
+        "totalExpectedGoals": 2.88,
+        "bttsProbability": 0.1695,
+        "bttsNoProbability": 0.8305,
+        "over25Probability": 0.5424,
+        "under25Probability": 0.4576,
+        "homeWinProbability": 0.8257,
+        "drawProbability": 0.0943,
+        "awayWinProbability": 0.1089,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.203
+          "probability": 0.2017
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 66,
@@ -1703,12 +1757,12 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1647,
-          "awayElo": 1556,
-          "eloWinProb": 0.711
+          "awayElo": 1552,
+          "eloWinProb": 0.715
         },
         "matchFingerprint": "31_villarreal_getafe_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:42.795Z",
-        "auditHash": "SHA256-IMMUTABLE-761C204A-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:20.795Z",
+        "auditHash": "SHA256-IMMUTABLE-7E1AED97-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1719,7 +1773,7 @@
       }
     },
     {
-      "id": "res_31_13_RealSociedad",
+      "id": "res_31_14_RealSociedad",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1735,20 +1789,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 3.24,
+        "homeExpectedGoals": 3.27,
         "awayExpectedGoals": 0.79,
-        "totalExpectedGoals": 4.03,
-        "bttsProbability": 0.5181,
-        "bttsNoProbability": 0.4819,
-        "over25Probability": 0.748,
-        "under25Probability": 0.252,
-        "homeWinProbability": 0.7973,
-        "drawProbability": 0.1079,
-        "awayWinProbability": 0.1209,
+        "totalExpectedGoals": 4.05,
+        "bttsProbability": 0.5167,
+        "bttsNoProbability": 0.4833,
+        "over25Probability": 0.7509,
+        "under25Probability": 0.2491,
+        "homeWinProbability": 0.8006,
+        "drawProbability": 0.1058,
+        "awayWinProbability": 0.1184,
         "predictedScore": {
           "home": 3,
           "away": 0,
-          "probability": 0.1007
+          "probability": 0.1008
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1757,12 +1811,12 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1713,
-          "awayElo": 1582,
-          "eloWinProb": 0.756
+          "awayElo": 1578,
+          "eloWinProb": 0.76
         },
         "matchFingerprint": "31_real sociedad_rayo vallecano_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:42.795Z",
-        "auditHash": "SHA256-IMMUTABLE-45BB74BD-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:20.795Z",
+        "auditHash": "SHA256-IMMUTABLE-45E0508F-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1773,7 +1827,7 @@
       }
     },
     {
-      "id": "res_31_14_Elche",
+      "id": "res_31_15_Elche",
       "leagueId": "31",
       "leagueName": "La Liga",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1790,33 +1844,33 @@
       "actualOver25": false,
       "prediction": {
         "homeExpectedGoals": 0.45,
-        "awayExpectedGoals": 3.75,
-        "totalExpectedGoals": 4.21,
-        "bttsProbability": 0.3439,
-        "bttsNoProbability": 0.6561,
-        "over25Probability": 0.7527,
-        "under25Probability": 0.2473,
-        "homeWinProbability": 0.1154,
-        "drawProbability": 0.0564,
-        "awayWinProbability": 0.8234,
+        "awayExpectedGoals": 3.72,
+        "totalExpectedGoals": 4.17,
+        "bttsProbability": 0.342,
+        "bttsNoProbability": 0.658,
+        "over25Probability": 0.7494,
+        "under25Probability": 0.2506,
+        "homeWinProbability": 0.1186,
+        "drawProbability": 0.0576,
+        "awayWinProbability": 0.8206,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.1313
+          "probability": 0.1327
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 51,
+        "overUnderConfidence": 50,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1555,
+          "homeElo": 1562,
           "awayElo": 1767,
-          "eloWinProb": 0.3
+          "eloWinProb": 0.309
         },
         "matchFingerprint": "31_elche_real betis_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:42.795Z",
-        "auditHash": "SHA256-IMMUTABLE-2ED8175F-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:20.795Z",
+        "auditHash": "SHA256-IMMUTABLE-1AB5B16A-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1824,60 +1878,6 @@
         "overUnderHit": false,
         "bothHit": false,
         "exactScoreHit": false
-      }
-    },
-    {
-      "id": "res_31_15_Valencia",
-      "leagueId": "31",
-      "leagueName": "La Liga",
-      "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "20:00",
-      "homeTeam": "Valencia",
-      "awayTeam": "Real Madrid",
-      "score": "0-3",
-      "homeGoals": 0,
-      "awayGoals": 3,
-      "totalGoals": 3,
-      "actualBtts": false,
-      "actualOver25": true,
-      "prediction": {
-        "homeExpectedGoals": 0.25,
-        "awayExpectedGoals": 4,
-        "totalExpectedGoals": 4.25,
-        "bttsProbability": 0.2067,
-        "bttsNoProbability": 0.7933,
-        "over25Probability": 0.7452,
-        "under25Probability": 0.2548,
-        "homeWinProbability": 0.0751,
-        "drawProbability": 0.0342,
-        "awayWinProbability": 0.8694,
-        "predictedScore": {
-          "home": 0,
-          "away": 3,
-          "probability": 0.1522
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 59,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 49,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1566,
-          "awayElo": 1867,
-          "eloWinProb": 0.204
-        },
-        "matchFingerprint": "31_valencia_real madrid_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:42.795Z",
-        "auditHash": "SHA256-IMMUTABLE-369C552F-2026-11-23",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": true,
-        "overUnderHit": true,
-        "bothHit": true,
-        "exactScoreHit": true
       }
     }
   ],
@@ -2316,8 +2316,39 @@
       "sntF": 4.8,
       "sntA": 5.7
     },
-    "Rayo Vallecano": {
+    "Levante": {
       "pos": 15,
+      "team": "Levante",
+      "p": 13,
+      "hw": 2,
+      "hd": 2,
+      "hl": 2,
+      "hf": 14,
+      "ha": 13,
+      "aw": 0,
+      "ad": 4,
+      "al": 3,
+      "af": 3,
+      "aa": 9,
+      "gd": -5,
+      "pts": 12,
+      "ppg": 0.92,
+      "form": "DWLLdD",
+      "ycF": 1.6,
+      "ycA": 2,
+      "rcF": 0,
+      "rcA": 0,
+      "psF": 44,
+      "psA": 56,
+      "cF": 2.7,
+      "cA": 4.7,
+      "stF": 1.6,
+      "stA": 5.6,
+      "sntF": 4.7,
+      "sntA": 6.7
+    },
+    "Rayo Vallecano": {
+      "pos": 16,
       "team": "Rayo Vallecano",
       "p": 12,
       "hw": 3,
@@ -2348,7 +2379,7 @@
       "sntA": 6.5
     },
     "Valencia": {
-      "pos": 16,
+      "pos": 17,
       "team": "Valencia",
       "p": 13,
       "hw": 0,
@@ -2379,7 +2410,7 @@
       "sntA": 6.8
     },
     "Getafe": {
-      "pos": 17,
+      "pos": 18,
       "team": "Getafe",
       "p": 13,
       "hw": 3,
@@ -2409,67 +2440,36 @@
       "sntF": 4.2,
       "sntA": 5.7
     },
-    "Levante": {
-      "pos": 18,
-      "team": "Levante",
-      "p": 12,
-      "hw": 2,
-      "hd": 1,
-      "hl": 2,
-      "hf": 13,
-      "ha": 12,
-      "aw": 0,
-      "ad": 4,
-      "al": 3,
-      "af": 3,
-      "aa": 9,
-      "gd": -5,
-      "pts": 11,
-      "ppg": 0.91,
-      "form": "DDWLLd",
-      "ycF": 1.6,
-      "ycA": 2,
-      "rcF": 0,
-      "rcA": 0,
-      "psF": 44,
-      "psA": 56,
-      "cF": 2.7,
-      "cA": 4.7,
-      "stF": 1.6,
-      "stA": 5.6,
-      "sntF": 4.7,
-      "sntA": 6.7
-    },
     "Elche": {
       "pos": 19,
       "team": "Elche",
-      "p": 12,
+      "p": 13,
       "hw": 0,
       "hd": 1,
       "hl": 5,
       "hf": 4,
       "ha": 14,
       "aw": 2,
-      "ad": 3,
+      "ad": 4,
       "al": 1,
-      "af": 10,
-      "aa": 6,
+      "af": 11,
+      "aa": 7,
       "gd": -6,
-      "pts": 10,
-      "ppg": 0.83,
-      "form": "WddWLL",
-      "ycF": 2.5,
-      "ycA": 2.3,
+      "pts": 11,
+      "ppg": 0.84,
+      "form": "ddWLLD",
+      "ycF": 2.3,
+      "ycA": 2.6,
       "rcF": 0,
       "rcA": 0,
       "psF": 46,
       "psA": 54,
-      "cF": 4.7,
+      "cF": 4.1,
       "cA": 5,
-      "stF": 5,
-      "stA": 4.7,
-      "sntF": 3.2,
-      "sntA": 8.3
+      "stF": 4.6,
+      "stA": 4.3,
+      "sntF": 3,
+      "sntA": 8.1
     },
     "Malaga": {
       "pos": 20,
@@ -2509,28 +2509,28 @@
     "bttsHits": 12,
     "bttsAccuracy": 80,
     "overUnderEvaluated": 15,
-    "overUnderHits": 12,
-    "overUnderAccuracy": 80,
-    "overallAccuracy": 80,
-    "exactScoreHits": 4,
-    "exactScoreAccuracy": 26.7,
+    "overUnderHits": 11,
+    "overUnderAccuracy": 73.3,
+    "overallAccuracy": 76.7,
+    "exactScoreHits": 3,
+    "exactScoreAccuracy": 20,
     "confusionMatrix": {
       "btts": {
-        "predictedYesActualYes": 4,
+        "predictedYesActualYes": 5,
         "predictedYesActualNo": 1,
         "predictedNoActualYes": 2,
-        "predictedNoActualNo": 8
+        "predictedNoActualNo": 7
       },
       "overUnder": {
-        "predictedOverActualOver": 7,
-        "predictedOverActualUnder": 3,
+        "predictedOverActualOver": 6,
+        "predictedOverActualUnder": 4,
         "predictedUnderActualOver": 0,
         "predictedUnderActualUnder": 5
       }
     },
-    "logLoss": 0.492,
-    "brierScore": 0.1585,
-    "simulatedRoi": 52.8
+    "logLoss": 0.5341,
+    "brierScore": 0.1771,
+    "simulatedRoi": 46.4
   },
   "parameters": {
     "homeAdvantage": 1.18,

@@ -1,109 +1,38 @@
 {
   "leagueId": "33",
   "leagueName": "Serie A",
-  "timestamp": "2026-11-23T17:46:45.637Z",
+  "timestamp": "2026-11-24T17:18:24.157Z",
   "fixtures": [
     {
-      "id": "fix_33_1_Monza",
-      "leagueId": "33",
-      "leagueName": "Serie A",
-      "dateRaw": "Mon 23/11",
-      "dateIso": "2026-11-23T12:00:00.000Z",
-      "daysFromNow": 0,
-      "time": "19:45",
-      "homeTeam": "Monza",
-      "awayTeam": "Fiorentina",
-      "odds": {
-        "home": 3.9,
-        "draw": 4.11,
-        "away": 1.94
-      },
-      "prediction": {
-        "homeExpectedGoals": 3.12,
-        "awayExpectedGoals": 2.66,
-        "totalExpectedGoals": 5.78,
-        "bttsProbability": 0.8711,
-        "bttsNoProbability": 0.1289,
-        "over25Probability": 0.9067,
-        "under25Probability": 0.0933,
-        "homeWinProbability": 0.5024,
-        "drawProbability": 0.1702,
-        "awayWinProbability": 0.3735,
-        "predictedScore": {
-          "home": 3,
-          "away": 2,
-          "probability": 0.0553
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 74,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 81,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1539,
-          "awayElo": 1566,
-          "eloWinProb": 0.554
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 3.12,
-        "awayExpectedGoals": 2.66,
-        "totalExpectedGoals": 5.78,
-        "bttsProbability": 0.8711,
-        "bttsNoProbability": 0.1289,
-        "over25Probability": 0.9067,
-        "under25Probability": 0.0933,
-        "homeWinProbability": 0.5024,
-        "drawProbability": 0.1702,
-        "awayWinProbability": 0.3735,
-        "predictedScore": {
-          "home": 3,
-          "away": 2,
-          "probability": 0.0553
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 74,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 81,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1539,
-          "awayElo": 1566,
-          "eloWinProb": 0.554
-        }
-      },
-      "confidenceScore": 91
-    },
-    {
-      "id": "fix_33_2_Venezia",
+      "id": "fix_33_1_Venezia",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Fri 27/11",
       "dateIso": "2026-11-27T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "19:45",
       "homeTeam": "Venezia",
       "awayTeam": "Bologna",
       "odds": {
-        "home": 3.6,
-        "draw": 3.62,
-        "away": 2.16
+        "home": 3.48,
+        "draw": 3.58,
+        "away": 2.23
       },
       "prediction": {
         "homeExpectedGoals": 0.41,
-        "awayExpectedGoals": 2.99,
-        "totalExpectedGoals": 3.4,
-        "bttsProbability": 0.317,
-        "bttsNoProbability": 0.683,
-        "over25Probability": 0.6482,
-        "under25Probability": 0.3518,
-        "homeWinProbability": 0.1294,
-        "drawProbability": 0.0934,
-        "awayWinProbability": 0.8023,
+        "awayExpectedGoals": 3.02,
+        "totalExpectedGoals": 3.42,
+        "bttsProbability": 0.3154,
+        "bttsNoProbability": 0.6846,
+        "over25Probability": 0.652,
+        "under25Probability": 0.348,
+        "homeWinProbability": 0.1289,
+        "drawProbability": 0.0915,
+        "awayWinProbability": 0.8037,
         "predictedScore": {
           "home": 0,
-          "away": 2,
-          "probability": 0.1494
+          "away": 3,
+          "probability": 0.1493
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -118,19 +47,19 @@
       },
       "pred": {
         "homeExpectedGoals": 0.41,
-        "awayExpectedGoals": 2.99,
-        "totalExpectedGoals": 3.4,
-        "bttsProbability": 0.317,
-        "bttsNoProbability": 0.683,
-        "over25Probability": 0.6482,
-        "under25Probability": 0.3518,
-        "homeWinProbability": 0.1294,
-        "drawProbability": 0.0934,
-        "awayWinProbability": 0.8023,
+        "awayExpectedGoals": 3.02,
+        "totalExpectedGoals": 3.42,
+        "bttsProbability": 0.3154,
+        "bttsNoProbability": 0.6846,
+        "over25Probability": 0.652,
+        "under25Probability": 0.348,
+        "homeWinProbability": 0.1289,
+        "drawProbability": 0.0915,
+        "awayWinProbability": 0.8037,
         "predictedScore": {
           "home": 0,
-          "away": 2,
-          "probability": 0.1494
+          "away": 3,
+          "probability": 0.1493
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -146,12 +75,12 @@
       "confidenceScore": 68
     },
     {
-      "id": "fix_33_3_Frosinone",
+      "id": "fix_33_2_Frosinone",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "14:00",
       "homeTeam": "Frosinone",
       "awayTeam": "Parma",
@@ -164,17 +93,17 @@
         "homeExpectedGoals": 4.5,
         "awayExpectedGoals": 0.46,
         "totalExpectedGoals": 4.96,
-        "bttsProbability": 0.3323,
-        "bttsNoProbability": 0.6677,
+        "bttsProbability": 0.3328,
+        "bttsNoProbability": 0.6672,
         "over25Probability": 0.7852,
         "under25Probability": 0.2148,
-        "homeWinProbability": 0.8482,
-        "drawProbability": 0.0326,
-        "awayWinProbability": 0.0743,
+        "homeWinProbability": 0.8494,
+        "drawProbability": 0.0327,
+        "awayWinProbability": 0.073,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1201
+          "probability": 0.12
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -183,25 +112,25 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1723,
-          "awayElo": 1543,
-          "eloWinProb": 0.804
+          "awayElo": 1539,
+          "eloWinProb": 0.807
         }
       },
       "pred": {
         "homeExpectedGoals": 4.5,
         "awayExpectedGoals": 0.46,
         "totalExpectedGoals": 4.96,
-        "bttsProbability": 0.3323,
-        "bttsNoProbability": 0.6677,
+        "bttsProbability": 0.3328,
+        "bttsNoProbability": 0.6672,
         "over25Probability": 0.7852,
         "under25Probability": 0.2148,
-        "homeWinProbability": 0.8482,
-        "drawProbability": 0.0326,
-        "awayWinProbability": 0.0743,
+        "homeWinProbability": 0.8494,
+        "drawProbability": 0.0327,
+        "awayWinProbability": 0.073,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1201
+          "probability": 0.12
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -210,19 +139,19 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1723,
-          "awayElo": 1543,
-          "eloWinProb": 0.804
+          "awayElo": 1539,
+          "eloWinProb": 0.807
         }
       },
       "confidenceScore": 79
     },
     {
-      "id": "fix_33_4_Torino",
+      "id": "fix_33_3_Torino",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "17:00",
       "homeTeam": "Torino",
       "awayTeam": "Lazio",
@@ -232,20 +161,20 @@
         "away": 2.14
       },
       "prediction": {
-        "homeExpectedGoals": 0.41,
+        "homeExpectedGoals": 0.4,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 4.41,
-        "bttsProbability": 0.3118,
-        "bttsNoProbability": 0.6882,
-        "over25Probability": 0.7645,
-        "under25Probability": 0.2355,
+        "totalExpectedGoals": 4.4,
+        "bttsProbability": 0.3101,
+        "bttsNoProbability": 0.6899,
+        "over25Probability": 0.7641,
+        "under25Probability": 0.2359,
         "homeWinProbability": 0.0949,
-        "drawProbability": 0.0441,
-        "awayWinProbability": 0.8432,
+        "drawProbability": 0.0439,
+        "awayWinProbability": 0.8434,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.1301
+          "probability": 0.1305
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -259,20 +188,20 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.41,
+        "homeExpectedGoals": 0.4,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 4.41,
-        "bttsProbability": 0.3118,
-        "bttsNoProbability": 0.6882,
-        "over25Probability": 0.7645,
-        "under25Probability": 0.2355,
+        "totalExpectedGoals": 4.4,
+        "bttsProbability": 0.3101,
+        "bttsNoProbability": 0.6899,
+        "over25Probability": 0.7641,
+        "under25Probability": 0.2359,
         "homeWinProbability": 0.0949,
-        "drawProbability": 0.0441,
-        "awayWinProbability": 0.8432,
+        "drawProbability": 0.0439,
+        "awayWinProbability": 0.8434,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.1301
+          "probability": 0.1305
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -288,12 +217,12 @@
       "confidenceScore": 76
     },
     {
-      "id": "fix_33_5_InterMilan",
+      "id": "fix_33_4_InterMilan",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "19:45",
       "homeTeam": "Inter Milan",
       "awayTeam": "Genoa",
@@ -303,20 +232,20 @@
         "away": 9.6
       },
       "prediction": {
-        "homeExpectedGoals": 3.9,
-        "awayExpectedGoals": 0.59,
-        "totalExpectedGoals": 4.49,
-        "bttsProbability": 0.4191,
-        "bttsNoProbability": 0.5809,
-        "over25Probability": 0.7803,
-        "under25Probability": 0.2197,
-        "homeWinProbability": 0.8507,
-        "drawProbability": 0.0594,
-        "awayWinProbability": 0.0811,
+        "homeExpectedGoals": 3.88,
+        "awayExpectedGoals": 0.6,
+        "totalExpectedGoals": 4.47,
+        "bttsProbability": 0.4221,
+        "bttsNoProbability": 0.5779,
+        "over25Probability": 0.7793,
+        "under25Probability": 0.2207,
+        "homeWinProbability": 0.8502,
+        "drawProbability": 0.0608,
+        "awayWinProbability": 0.0816,
         "predictedScore": {
           "home": 3,
           "away": 0,
-          "probability": 0.1106
+          "probability": 0.1107
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -330,20 +259,20 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 3.9,
-        "awayExpectedGoals": 0.59,
-        "totalExpectedGoals": 4.49,
-        "bttsProbability": 0.4191,
-        "bttsNoProbability": 0.5809,
-        "over25Probability": 0.7803,
-        "under25Probability": 0.2197,
-        "homeWinProbability": 0.8507,
-        "drawProbability": 0.0594,
-        "awayWinProbability": 0.0811,
+        "homeExpectedGoals": 3.88,
+        "awayExpectedGoals": 0.6,
+        "totalExpectedGoals": 4.47,
+        "bttsProbability": 0.4221,
+        "bttsNoProbability": 0.5779,
+        "over25Probability": 0.7793,
+        "under25Probability": 0.2207,
+        "homeWinProbability": 0.8502,
+        "drawProbability": 0.0608,
+        "awayWinProbability": 0.0816,
         "predictedScore": {
           "home": 3,
           "away": 0,
-          "probability": 0.1106
+          "probability": 0.1107
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -359,35 +288,35 @@
       "confidenceScore": 78
     },
     {
-      "id": "fix_33_6_Udinese",
+      "id": "fix_33_5_Udinese",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "11:30",
       "homeTeam": "Udinese",
       "awayTeam": "Fiorentina",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 3.15,
+        "draw": 3.81,
+        "away": 2.3
       },
       "prediction": {
-        "homeExpectedGoals": 0.96,
-        "awayExpectedGoals": 3.21,
-        "totalExpectedGoals": 4.17,
-        "bttsProbability": 0.5859,
-        "bttsNoProbability": 0.4141,
-        "over25Probability": 0.7689,
-        "under25Probability": 0.2311,
-        "homeWinProbability": 0.2289,
-        "drawProbability": 0.1211,
-        "awayWinProbability": 0.6813,
+        "homeExpectedGoals": 1.14,
+        "awayExpectedGoals": 2.99,
+        "totalExpectedGoals": 4.12,
+        "bttsProbability": 0.641,
+        "bttsNoProbability": 0.359,
+        "over25Probability": 0.768,
+        "under25Probability": 0.232,
+        "homeWinProbability": 0.2589,
+        "drawProbability": 0.1465,
+        "awayWinProbability": 0.6384,
         "predictedScore": {
-          "home": 0,
-          "away": 3,
-          "probability": 0.0849
+          "home": 1,
+          "away": 2,
+          "probability": 0.0821
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -396,25 +325,25 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1512,
-          "awayElo": 1566,
-          "eloWinProb": 0.516
+          "awayElo": 1553,
+          "eloWinProb": 0.534
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.96,
-        "awayExpectedGoals": 3.21,
-        "totalExpectedGoals": 4.17,
-        "bttsProbability": 0.5859,
-        "bttsNoProbability": 0.4141,
-        "over25Probability": 0.7689,
-        "under25Probability": 0.2311,
-        "homeWinProbability": 0.2289,
-        "drawProbability": 0.1211,
-        "awayWinProbability": 0.6813,
+        "homeExpectedGoals": 1.14,
+        "awayExpectedGoals": 2.99,
+        "totalExpectedGoals": 4.12,
+        "bttsProbability": 0.641,
+        "bttsNoProbability": 0.359,
+        "over25Probability": 0.768,
+        "under25Probability": 0.232,
+        "homeWinProbability": 0.2589,
+        "drawProbability": 0.1465,
+        "awayWinProbability": 0.6384,
         "predictedScore": {
-          "home": 0,
-          "away": 3,
-          "probability": 0.0849
+          "home": 1,
+          "away": 2,
+          "probability": 0.0821
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -423,42 +352,42 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1512,
-          "awayElo": 1566,
-          "eloWinProb": 0.516
+          "awayElo": 1553,
+          "eloWinProb": 0.534
         }
       },
       "confidenceScore": 77
     },
     {
-      "id": "fix_33_7_Sassuolo",
+      "id": "fix_33_6_Sassuolo",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "14:00",
       "homeTeam": "Sassuolo",
       "awayTeam": "Napoli",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 4.84,
+        "draw": 4.46,
+        "away": 1.71
       },
       "prediction": {
-        "homeExpectedGoals": 1.2,
-        "awayExpectedGoals": 3.94,
-        "totalExpectedGoals": 5.14,
-        "bttsProbability": 0.6543,
-        "bttsNoProbability": 0.3457,
-        "over25Probability": 0.8391,
-        "under25Probability": 0.1609,
-        "homeWinProbability": 0.1639,
-        "drawProbability": 0.0932,
-        "awayWinProbability": 0.7446,
+        "homeExpectedGoals": 1.19,
+        "awayExpectedGoals": 3.99,
+        "totalExpectedGoals": 5.18,
+        "bttsProbability": 0.6484,
+        "bttsNoProbability": 0.3516,
+        "over25Probability": 0.839,
+        "under25Probability": 0.161,
+        "homeWinProbability": 0.1597,
+        "drawProbability": 0.0897,
+        "awayWinProbability": 0.749,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0717
+          "probability": 0.0708
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -466,26 +395,26 @@
         "overUnderConfidence": 68,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1530,
+          "homeElo": 1526,
           "awayElo": 1704,
-          "eloWinProb": 0.348
+          "eloWinProb": 0.343
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.2,
-        "awayExpectedGoals": 3.94,
-        "totalExpectedGoals": 5.14,
-        "bttsProbability": 0.6543,
-        "bttsNoProbability": 0.3457,
-        "over25Probability": 0.8391,
-        "under25Probability": 0.1609,
-        "homeWinProbability": 0.1639,
-        "drawProbability": 0.0932,
-        "awayWinProbability": 0.7446,
+        "homeExpectedGoals": 1.19,
+        "awayExpectedGoals": 3.99,
+        "totalExpectedGoals": 5.18,
+        "bttsProbability": 0.6484,
+        "bttsNoProbability": 0.3516,
+        "over25Probability": 0.839,
+        "under25Probability": 0.161,
+        "homeWinProbability": 0.1597,
+        "drawProbability": 0.0897,
+        "awayWinProbability": 0.749,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0717
+          "probability": 0.0708
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -493,119 +422,119 @@
         "overUnderConfidence": 68,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1530,
+          "homeElo": 1526,
           "awayElo": 1704,
-          "eloWinProb": 0.348
+          "eloWinProb": 0.343
         }
       },
       "confidenceScore": 84
     },
     {
-      "id": "fix_33_8_ASRoma",
+      "id": "fix_33_7_ASRoma",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "17:00",
       "homeTeam": "AS Roma",
       "awayTeam": "Monza",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 1.21,
+        "draw": 8.2,
+        "away": 15
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.46,
-        "totalExpectedGoals": 4.96,
-        "bttsProbability": 0.3343,
-        "bttsNoProbability": 0.6657,
-        "over25Probability": 0.7855,
-        "under25Probability": 0.2145,
-        "homeWinProbability": 0.886,
-        "drawProbability": 0.0328,
-        "awayWinProbability": 0.0363,
+        "awayExpectedGoals": 0.52,
+        "totalExpectedGoals": 5.02,
+        "bttsProbability": 0.366,
+        "bttsNoProbability": 0.634,
+        "over25Probability": 0.7903,
+        "under25Probability": 0.2097,
+        "homeWinProbability": 0.8744,
+        "drawProbability": 0.0356,
+        "awayWinProbability": 0.0462,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1197
+          "probability": 0.113
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 57,
+        "overUnderConfidence": 58,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1881,
-          "awayElo": 1539,
-          "eloWinProb": 0.912
+          "awayElo": 1587,
+          "eloWinProb": 0.888
         }
       },
       "pred": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.46,
-        "totalExpectedGoals": 4.96,
-        "bttsProbability": 0.3343,
-        "bttsNoProbability": 0.6657,
-        "over25Probability": 0.7855,
-        "under25Probability": 0.2145,
-        "homeWinProbability": 0.886,
-        "drawProbability": 0.0328,
-        "awayWinProbability": 0.0363,
+        "awayExpectedGoals": 0.52,
+        "totalExpectedGoals": 5.02,
+        "bttsProbability": 0.366,
+        "bttsNoProbability": 0.634,
+        "over25Probability": 0.7903,
+        "under25Probability": 0.2097,
+        "homeWinProbability": 0.8744,
+        "drawProbability": 0.0356,
+        "awayWinProbability": 0.0462,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1197
+          "probability": 0.113
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 57,
+        "overUnderConfidence": 58,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1881,
-          "awayElo": 1539,
-          "eloWinProb": 0.912
+          "awayElo": 1587,
+          "eloWinProb": 0.888
         }
       },
       "confidenceScore": 79
     },
     {
-      "id": "fix_33_9_Como",
+      "id": "fix_33_8_Como",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "19:45",
       "homeTeam": "Como",
       "awayTeam": "Juventus",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 2.17,
+        "draw": 3.77,
+        "away": 3.44
       },
       "prediction": {
-        "homeExpectedGoals": 1.6,
+        "homeExpectedGoals": 1.59,
         "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 1.8,
-        "bttsProbability": 0.1479,
-        "bttsNoProbability": 0.8521,
-        "over25Probability": 0.2702,
-        "under25Probability": 0.7298,
-        "homeWinProbability": 0.7078,
-        "drawProbability": 0.2282,
-        "awayWinProbability": 0.1437,
+        "totalExpectedGoals": 1.79,
+        "bttsProbability": 0.1476,
+        "bttsNoProbability": 0.8524,
+        "over25Probability": 0.2674,
+        "under25Probability": 0.7326,
+        "homeWinProbability": 0.7063,
+        "drawProbability": 0.2302,
+        "awayWinProbability": 0.144,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.2609
+          "probability": 0.262
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 70,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 46,
+        "overUnderConfidence": 47,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1793,
@@ -614,25 +543,25 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.6,
+        "homeExpectedGoals": 1.59,
         "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 1.8,
-        "bttsProbability": 0.1479,
-        "bttsNoProbability": 0.8521,
-        "over25Probability": 0.2702,
-        "under25Probability": 0.7298,
-        "homeWinProbability": 0.7078,
-        "drawProbability": 0.2282,
-        "awayWinProbability": 0.1437,
+        "totalExpectedGoals": 1.79,
+        "bttsProbability": 0.1476,
+        "bttsNoProbability": 0.8524,
+        "over25Probability": 0.2674,
+        "under25Probability": 0.7326,
+        "homeWinProbability": 0.7063,
+        "drawProbability": 0.2302,
+        "awayWinProbability": 0.144,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.2609
+          "probability": 0.262
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 70,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 46,
+        "overUnderConfidence": 47,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1793,
@@ -643,12 +572,12 @@
       "confidenceScore": 85
     },
     {
-      "id": "fix_33_10_Lecce",
+      "id": "fix_33_9_Lecce",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Mon 30/11",
-      "dateIso": "2026-11-23T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-30T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "17:30",
       "homeTeam": "Lecce",
       "awayTeam": "Atalanta",
@@ -658,20 +587,20 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.06,
-        "awayExpectedGoals": 2.03,
-        "totalExpectedGoals": 3.09,
-        "bttsProbability": 0.5724,
-        "bttsNoProbability": 0.4276,
-        "over25Probability": 0.5956,
-        "under25Probability": 0.4044,
-        "homeWinProbability": 0.2892,
-        "drawProbability": 0.222,
-        "awayWinProbability": 0.5657,
+        "homeExpectedGoals": 1.04,
+        "awayExpectedGoals": 2.06,
+        "totalExpectedGoals": 3.11,
+        "bttsProbability": 0.5707,
+        "bttsNoProbability": 0.4293,
+        "over25Probability": 0.599,
+        "under25Probability": 0.401,
+        "homeWinProbability": 0.2831,
+        "drawProbability": 0.2188,
+        "awayWinProbability": 0.5738,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1037
+          "probability": 0.1022
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -679,26 +608,26 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1563,
+          "homeElo": 1559,
           "awayElo": 1640,
-          "eloWinProb": 0.483
+          "eloWinProb": 0.477
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.06,
-        "awayExpectedGoals": 2.03,
-        "totalExpectedGoals": 3.09,
-        "bttsProbability": 0.5724,
-        "bttsNoProbability": 0.4276,
-        "over25Probability": 0.5956,
-        "under25Probability": 0.4044,
-        "homeWinProbability": 0.2892,
-        "drawProbability": 0.222,
-        "awayWinProbability": 0.5657,
+        "homeExpectedGoals": 1.04,
+        "awayExpectedGoals": 2.06,
+        "totalExpectedGoals": 3.11,
+        "bttsProbability": 0.5707,
+        "bttsNoProbability": 0.4293,
+        "over25Probability": 0.599,
+        "under25Probability": 0.401,
+        "homeWinProbability": 0.2831,
+        "drawProbability": 0.2188,
+        "awayWinProbability": 0.5738,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1037
+          "probability": 0.1022
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -706,20 +635,20 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1563,
+          "homeElo": 1559,
           "awayElo": 1640,
-          "eloWinProb": 0.483
+          "eloWinProb": 0.477
         }
       },
       "confidenceScore": 60
     },
     {
-      "id": "fix_33_11_Cagliari",
+      "id": "fix_33_10_Cagliari",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Mon 30/11",
-      "dateIso": "2026-11-23T12:00:00.000Z",
-      "daysFromNow": 0,
+      "dateIso": "2026-11-30T12:00:00.000Z",
+      "daysFromNow": 6,
       "time": "19:45",
       "homeTeam": "Cagliari",
       "awayTeam": "AC Milan",
@@ -730,15 +659,15 @@
       },
       "prediction": {
         "homeExpectedGoals": 0.3,
-        "awayExpectedGoals": 1.27,
-        "totalExpectedGoals": 1.57,
-        "bttsProbability": 0.191,
-        "bttsNoProbability": 0.809,
-        "over25Probability": 0.2081,
-        "under25Probability": 0.7919,
-        "homeWinProbability": 0.174,
-        "drawProbability": 0.3054,
-        "awayWinProbability": 0.6275,
+        "awayExpectedGoals": 1.28,
+        "totalExpectedGoals": 1.58,
+        "bttsProbability": 0.1906,
+        "bttsNoProbability": 0.8094,
+        "over25Probability": 0.2103,
+        "under25Probability": 0.7897,
+        "homeWinProbability": 0.1731,
+        "drawProbability": 0.303,
+        "awayWinProbability": 0.6299,
         "predictedScore": {
           "home": 0,
           "away": 1,
@@ -757,15 +686,15 @@
       },
       "pred": {
         "homeExpectedGoals": 0.3,
-        "awayExpectedGoals": 1.27,
-        "totalExpectedGoals": 1.57,
-        "bttsProbability": 0.191,
-        "bttsNoProbability": 0.809,
-        "over25Probability": 0.2081,
-        "under25Probability": 0.7919,
-        "homeWinProbability": 0.174,
-        "drawProbability": 0.3054,
-        "awayWinProbability": 0.6275,
+        "awayExpectedGoals": 1.28,
+        "totalExpectedGoals": 1.58,
+        "bttsProbability": 0.1906,
+        "bttsNoProbability": 0.8094,
+        "over25Probability": 0.2103,
+        "under25Probability": 0.7897,
+        "homeWinProbability": 0.1731,
+        "drawProbability": 0.303,
+        "awayWinProbability": 0.6299,
         "predictedScore": {
           "home": 0,
           "away": 1,
@@ -785,12 +714,12 @@
       "confidenceScore": 81
     },
     {
-      "id": "fix_33_12_Bologna",
+      "id": "fix_33_11_Bologna",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Fri 04/12",
       "dateIso": "2026-11-27T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "19:45",
       "homeTeam": "Bologna",
       "awayTeam": "AS Roma",
@@ -800,20 +729,20 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 0.68,
+        "homeExpectedGoals": 0.67,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 4.68,
-        "bttsProbability": 0.4596,
-        "bttsNoProbability": 0.5404,
-        "over25Probability": 0.7943,
-        "under25Probability": 0.2057,
-        "homeWinProbability": 0.1303,
-        "drawProbability": 0.0608,
-        "awayWinProbability": 0.797,
+        "totalExpectedGoals": 4.67,
+        "bttsProbability": 0.4574,
+        "bttsNoProbability": 0.5426,
+        "over25Probability": 0.7939,
+        "under25Probability": 0.2061,
+        "homeWinProbability": 0.1301,
+        "drawProbability": 0.0605,
+        "awayWinProbability": 0.7973,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.0992
+          "probability": 0.0996
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -827,20 +756,20 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.68,
+        "homeExpectedGoals": 0.67,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 4.68,
-        "bttsProbability": 0.4596,
-        "bttsNoProbability": 0.5404,
-        "over25Probability": 0.7943,
-        "under25Probability": 0.2057,
-        "homeWinProbability": 0.1303,
-        "drawProbability": 0.0608,
-        "awayWinProbability": 0.797,
+        "totalExpectedGoals": 4.67,
+        "bttsProbability": 0.4574,
+        "bttsNoProbability": 0.5426,
+        "over25Probability": 0.7939,
+        "under25Probability": 0.2061,
+        "homeWinProbability": 0.1301,
+        "drawProbability": 0.0605,
+        "awayWinProbability": 0.7973,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.0992
+          "probability": 0.0996
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -856,12 +785,12 @@
       "confidenceScore": 79
     },
     {
-      "id": "fix_33_13_Monza",
+      "id": "fix_33_12_Monza",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "14:00",
       "homeTeam": "Monza",
       "awayTeam": "Como",
@@ -871,68 +800,68 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.18,
-        "awayExpectedGoals": 4,
-        "totalExpectedGoals": 5.18,
-        "bttsProbability": 0.6459,
-        "bttsNoProbability": 0.3541,
-        "over25Probability": 0.8385,
-        "under25Probability": 0.1615,
-        "homeWinProbability": 0.1273,
-        "drawProbability": 0.089,
-        "awayWinProbability": 0.7816,
+        "homeExpectedGoals": 1.45,
+        "awayExpectedGoals": 3.19,
+        "totalExpectedGoals": 4.64,
+        "bttsProbability": 0.7239,
+        "bttsNoProbability": 0.2761,
+        "over25Probability": 0.8252,
+        "under25Probability": 0.1748,
+        "homeWinProbability": 0.1976,
+        "drawProbability": 0.1469,
+        "awayWinProbability": 0.696,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0708
+          "probability": 0.0757
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
+        "bttsConfidence": 45,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 68,
+        "overUnderConfidence": 65,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1539,
+          "homeElo": 1587,
           "awayElo": 1793,
-          "eloWinProb": 0.252
+          "eloWinProb": 0.308
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.18,
-        "awayExpectedGoals": 4,
-        "totalExpectedGoals": 5.18,
-        "bttsProbability": 0.6459,
-        "bttsNoProbability": 0.3541,
-        "over25Probability": 0.8385,
-        "under25Probability": 0.1615,
-        "homeWinProbability": 0.1273,
-        "drawProbability": 0.089,
-        "awayWinProbability": 0.7816,
+        "homeExpectedGoals": 1.45,
+        "awayExpectedGoals": 3.19,
+        "totalExpectedGoals": 4.64,
+        "bttsProbability": 0.7239,
+        "bttsNoProbability": 0.2761,
+        "over25Probability": 0.8252,
+        "under25Probability": 0.1748,
+        "homeWinProbability": 0.1976,
+        "drawProbability": 0.1469,
+        "awayWinProbability": 0.696,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0708
+          "probability": 0.0757
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
+        "bttsConfidence": 45,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 68,
+        "overUnderConfidence": 65,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1539,
+          "homeElo": 1587,
           "awayElo": 1793,
-          "eloWinProb": 0.252
+          "eloWinProb": 0.308
         }
       },
-      "confidenceScore": 84
+      "confidenceScore": 83
     },
     {
-      "id": "fix_33_14_Frosinone",
+      "id": "fix_33_13_Frosinone",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "17:00",
       "homeTeam": "Frosinone",
       "awayTeam": "Inter Milan",
@@ -942,18 +871,18 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 3.02,
-        "awayExpectedGoals": 2.1,
+        "homeExpectedGoals": 3,
+        "awayExpectedGoals": 2.11,
         "totalExpectedGoals": 5.11,
-        "bttsProbability": 0.8244,
-        "bttsNoProbability": 0.1756,
-        "over25Probability": 0.8709,
-        "under25Probability": 0.1291,
-        "homeWinProbability": 0.5104,
-        "drawProbability": 0.1728,
-        "awayWinProbability": 0.3683,
+        "bttsProbability": 0.8258,
+        "bttsNoProbability": 0.1742,
+        "over25Probability": 0.8711,
+        "under25Probability": 0.1289,
+        "homeWinProbability": 0.5064,
+        "drawProbability": 0.1739,
+        "awayWinProbability": 0.3718,
         "predictedScore": {
-          "home": 3,
+          "home": 2,
           "away": 2,
           "probability": 0.0605
         },
@@ -969,18 +898,18 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 3.02,
-        "awayExpectedGoals": 2.1,
+        "homeExpectedGoals": 3,
+        "awayExpectedGoals": 2.11,
         "totalExpectedGoals": 5.11,
-        "bttsProbability": 0.8244,
-        "bttsNoProbability": 0.1756,
-        "over25Probability": 0.8709,
-        "under25Probability": 0.1291,
-        "homeWinProbability": 0.5104,
-        "drawProbability": 0.1728,
-        "awayWinProbability": 0.3683,
+        "bttsProbability": 0.8258,
+        "bttsNoProbability": 0.1742,
+        "over25Probability": 0.8711,
+        "under25Probability": 0.1289,
+        "homeWinProbability": 0.5064,
+        "drawProbability": 0.1739,
+        "awayWinProbability": 0.3718,
         "predictedScore": {
-          "home": 3,
+          "home": 2,
           "away": 2,
           "probability": 0.0605
         },
@@ -998,12 +927,12 @@
       "confidenceScore": 87
     },
     {
-      "id": "fix_33_15_Napoli",
+      "id": "fix_33_14_Napoli",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "19:45",
       "homeTeam": "Napoli",
       "awayTeam": "Lecce",
@@ -1013,20 +942,20 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 3.11,
+        "homeExpectedGoals": 3.1,
         "awayExpectedGoals": 0.56,
         "totalExpectedGoals": 3.66,
-        "bttsProbability": 0.4043,
-        "bttsNoProbability": 0.5957,
+        "bttsProbability": 0.4049,
+        "bttsNoProbability": 0.5951,
         "over25Probability": 0.6937,
         "under25Probability": 0.3063,
-        "homeWinProbability": 0.8211,
-        "drawProbability": 0.0987,
-        "awayWinProbability": 0.1054,
+        "homeWinProbability": 0.8223,
+        "drawProbability": 0.0989,
+        "awayWinProbability": 0.1041,
         "predictedScore": {
           "home": 3,
           "away": 0,
-          "probability": 0.1282
+          "probability": 0.128
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1035,25 +964,25 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1704,
-          "awayElo": 1563,
-          "eloWinProb": 0.766
+          "awayElo": 1559,
+          "eloWinProb": 0.77
         }
       },
       "pred": {
-        "homeExpectedGoals": 3.11,
+        "homeExpectedGoals": 3.1,
         "awayExpectedGoals": 0.56,
         "totalExpectedGoals": 3.66,
-        "bttsProbability": 0.4043,
-        "bttsNoProbability": 0.5957,
+        "bttsProbability": 0.4049,
+        "bttsNoProbability": 0.5951,
         "over25Probability": 0.6937,
         "under25Probability": 0.3063,
-        "homeWinProbability": 0.8211,
-        "drawProbability": 0.0987,
-        "awayWinProbability": 0.1054,
+        "homeWinProbability": 0.8223,
+        "drawProbability": 0.0989,
+        "awayWinProbability": 0.1041,
         "predictedScore": {
           "home": 3,
           "away": 0,
-          "probability": 0.1282
+          "probability": 0.128
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1062,16 +991,141 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1704,
-          "awayElo": 1563,
-          "eloWinProb": 0.766
+          "awayElo": 1559,
+          "eloWinProb": 0.77
         }
       },
       "confidenceScore": 69
+    },
+    {
+      "id": "fix_33_15_Genoa",
+      "leagueId": "33",
+      "leagueName": "Serie A",
+      "dateRaw": "Sun 06/12",
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysFromNow": 5,
+      "time": "11:30",
+      "homeTeam": "Genoa",
+      "awayTeam": "Torino",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 1,
+        "awayExpectedGoals": 1.01,
+        "totalExpectedGoals": 2.01,
+        "bttsProbability": 0.4107,
+        "bttsNoProbability": 0.5893,
+        "over25Probability": 0.3269,
+        "under25Probability": 0.6731,
+        "homeWinProbability": 0.4377,
+        "drawProbability": 0.3235,
+        "awayWinProbability": 0.352,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1434
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1656,
+          "awayElo": 1628,
+          "eloWinProb": 0.631
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1,
+        "awayExpectedGoals": 1.01,
+        "totalExpectedGoals": 2.01,
+        "bttsProbability": 0.4107,
+        "bttsNoProbability": 0.5893,
+        "over25Probability": 0.3269,
+        "under25Probability": 0.6731,
+        "homeWinProbability": 0.4377,
+        "drawProbability": 0.3235,
+        "awayWinProbability": 0.352,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1434
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1656,
+          "awayElo": 1628,
+          "eloWinProb": 0.631
+        }
+      },
+      "confidenceScore": 67
     }
   ],
   "results": [
     {
-      "id": "res_33_1_Atalanta",
+      "id": "res_33_1_Monza",
+      "leagueId": "33",
+      "leagueName": "Serie A",
+      "dateRaw": "Mon 23-Nov-2026",
+      "dateIso": "2026-11-30T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "19:45",
+      "homeTeam": "Monza",
+      "awayTeam": "Fiorentina",
+      "score": "3-0",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "totalGoals": 3,
+      "actualBtts": false,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 4.08,
+        "awayExpectedGoals": 1.71,
+        "totalExpectedGoals": 5.79,
+        "bttsProbability": 0.7605,
+        "bttsNoProbability": 0.2395,
+        "over25Probability": 0.8716,
+        "under25Probability": 0.1284,
+        "homeWinProbability": 0.6955,
+        "drawProbability": 0.1101,
+        "awayWinProbability": 0.1965,
+        "predictedScore": {
+          "home": 4,
+          "away": 1,
+          "probability": 0.0604
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 52,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 74,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1587,
+          "awayElo": 1553,
+          "eloWinProb": 0.639
+        },
+        "matchFingerprint": "33_monza_fiorentina_Mon 23-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-24T17:18:24.155Z",
+        "auditHash": "SHA256-IMMUTABLE-5B0CFF6-2026-11-24",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": false,
+        "overUnderHit": true,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_33_2_Atalanta",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sun 22-Nov-2026",
@@ -1087,20 +1141,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.98,
+        "homeExpectedGoals": 1.97,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 5.98,
-        "bttsProbability": 0.8021,
-        "bttsNoProbability": 0.1979,
-        "over25Probability": 0.885,
-        "under25Probability": 0.115,
-        "homeWinProbability": 0.2033,
-        "drawProbability": 0.1236,
-        "awayWinProbability": 0.6824,
+        "totalExpectedGoals": 5.97,
+        "bttsProbability": 0.8004,
+        "bttsNoProbability": 0.1996,
+        "over25Probability": 0.8844,
+        "under25Probability": 0.1156,
+        "homeWinProbability": 0.2023,
+        "drawProbability": 0.1232,
+        "awayWinProbability": 0.6838,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0535
+          "probability": 0.0538
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 60,
@@ -1113,8 +1167,8 @@
           "eloWinProb": 0.315
         },
         "matchFingerprint": "33_atalanta_inter milan_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:45.635Z",
-        "auditHash": "SHA256-IMMUTABLE-72E965B8-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:24.155Z",
+        "auditHash": "SHA256-IMMUTABLE-4780CEAA-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1125,7 +1179,7 @@
       }
     },
     {
-      "id": "res_33_2_ACMilan",
+      "id": "res_33_3_ACMilan",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sun 22-Nov-2026",
@@ -1142,24 +1196,24 @@
       "actualOver25": true,
       "prediction": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 1.31,
-        "totalExpectedGoals": 5.81,
-        "bttsProbability": 0.6603,
-        "bttsNoProbability": 0.3397,
-        "over25Probability": 0.8424,
-        "under25Probability": 0.1576,
-        "homeWinProbability": 0.7615,
-        "drawProbability": 0.074,
-        "awayWinProbability": 0.134,
+        "awayExpectedGoals": 1.32,
+        "totalExpectedGoals": 5.82,
+        "bttsProbability": 0.663,
+        "bttsNoProbability": 0.337,
+        "over25Probability": 0.843,
+        "under25Probability": 0.157,
+        "homeWinProbability": 0.7607,
+        "drawProbability": 0.0745,
+        "awayWinProbability": 0.1346,
         "predictedScore": {
           "home": 4,
           "away": 1,
-          "probability": 0.0671
+          "probability": 0.0669
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 68,
+        "overUnderConfidence": 69,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1817,
@@ -1167,8 +1221,8 @@
           "eloWinProb": 0.714
         },
         "matchFingerprint": "33_ac milan_frosinone_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:45.635Z",
-        "auditHash": "SHA256-IMMUTABLE-94110CE-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:24.155Z",
+        "auditHash": "SHA256-IMMUTABLE-1D8EFB77-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1179,7 +1233,7 @@
       }
     },
     {
-      "id": "res_33_3_Bologna",
+      "id": "res_33_4_Bologna",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sun 22-Nov-2026",
@@ -1195,20 +1249,20 @@
       "actualBtts": true,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 2.39,
-        "awayExpectedGoals": 1.04,
-        "totalExpectedGoals": 3.43,
-        "bttsProbability": 0.591,
-        "bttsNoProbability": 0.409,
-        "over25Probability": 0.6631,
-        "under25Probability": 0.3369,
-        "homeWinProbability": 0.7122,
-        "drawProbability": 0.189,
-        "awayWinProbability": 0.1628,
+        "homeExpectedGoals": 2.37,
+        "awayExpectedGoals": 1.05,
+        "totalExpectedGoals": 3.42,
+        "bttsProbability": 0.593,
+        "bttsNoProbability": 0.407,
+        "over25Probability": 0.6619,
+        "under25Probability": 0.3381,
+        "homeWinProbability": 0.7091,
+        "drawProbability": 0.1908,
+        "awayWinProbability": 0.1648,
         "predictedScore": {
           "home": 2,
           "away": 1,
-          "probability": 0.0962
+          "probability": 0.0964
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1221,8 +1275,8 @@
           "eloWinProb": 0.803
         },
         "matchFingerprint": "33_bologna_udinese_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:45.635Z",
-        "auditHash": "SHA256-IMMUTABLE-3B750B05-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:24.155Z",
+        "auditHash": "SHA256-IMMUTABLE-6998B421-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1233,7 +1287,7 @@
       }
     },
     {
-      "id": "res_33_4_Sassuolo",
+      "id": "res_33_5_Sassuolo",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sun 22-Nov-2026",
@@ -1249,20 +1303,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 1.04,
-        "awayExpectedGoals": 2.18,
-        "totalExpectedGoals": 3.22,
-        "bttsProbability": 0.5777,
-        "bttsNoProbability": 0.4223,
-        "over25Probability": 0.6222,
-        "under25Probability": 0.3778,
-        "homeWinProbability": 0.2517,
-        "drawProbability": 0.2078,
-        "awayWinProbability": 0.612,
+        "homeExpectedGoals": 1.03,
+        "awayExpectedGoals": 2.21,
+        "totalExpectedGoals": 3.24,
+        "bttsProbability": 0.5755,
+        "bttsNoProbability": 0.4245,
+        "over25Probability": 0.6258,
+        "under25Probability": 0.3742,
+        "homeWinProbability": 0.2459,
+        "drawProbability": 0.2044,
+        "awayWinProbability": 0.6199,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.0987
+          "probability": 0.0985
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1270,13 +1324,13 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1530,
+          "homeElo": 1526,
           "awayElo": 1656,
-          "eloWinProb": 0.413
+          "eloWinProb": 0.408
         },
         "matchFingerprint": "33_sassuolo_genoa_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:45.636Z",
-        "auditHash": "SHA256-IMMUTABLE-10F3E671-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:24.155Z",
+        "auditHash": "SHA256-IMMUTABLE-6A2CA599-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1287,7 +1341,7 @@
       }
     },
     {
-      "id": "res_33_5_Juventus",
+      "id": "res_33_6_Juventus",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sun 22-Nov-2026",
@@ -1329,8 +1383,8 @@
           "eloWinProb": 0.856
         },
         "matchFingerprint": "33_juventus_venezia_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:45.636Z",
-        "auditHash": "SHA256-IMMUTABLE-2BE811D7-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:24.156Z",
+        "auditHash": "SHA256-IMMUTABLE-E1C5595-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1341,7 +1395,7 @@
       }
     },
     {
-      "id": "res_33_6_Napoli",
+      "id": "res_33_7_Napoli",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1357,20 +1411,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 1.58,
-        "awayExpectedGoals": 0.65,
+        "homeExpectedGoals": 1.57,
+        "awayExpectedGoals": 0.66,
         "totalExpectedGoals": 2.23,
-        "bttsProbability": 0.3876,
-        "bttsNoProbability": 0.6124,
-        "over25Probability": 0.3853,
-        "under25Probability": 0.6147,
-        "homeWinProbability": 0.6257,
-        "drawProbability": 0.2637,
-        "awayWinProbability": 0.2028,
+        "bttsProbability": 0.3888,
+        "bttsNoProbability": 0.6112,
+        "over25Probability": 0.384,
+        "under25Probability": 0.616,
+        "homeWinProbability": 0.623,
+        "drawProbability": 0.2653,
+        "awayWinProbability": 0.2044,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1627
+          "probability": 0.1624
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1383,8 +1437,8 @@
           "eloWinProb": 0.692
         },
         "matchFingerprint": "33_napoli_torino_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:45.636Z",
-        "auditHash": "SHA256-IMMUTABLE-754FE09C-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:24.156Z",
+        "auditHash": "SHA256-IMMUTABLE-5839426D-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1395,7 +1449,7 @@
       }
     },
     {
-      "id": "res_33_7_Parma",
+      "id": "res_33_8_Parma",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1411,34 +1465,34 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 0.31,
+        "homeExpectedGoals": 0.3,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 4.31,
-        "bttsProbability": 0.2477,
-        "bttsNoProbability": 0.7523,
-        "over25Probability": 0.7525,
-        "under25Probability": 0.2475,
-        "homeWinProbability": 0.065,
-        "drawProbability": 0.0379,
-        "awayWinProbability": 0.8772,
+        "totalExpectedGoals": 4.3,
+        "bttsProbability": 0.245,
+        "bttsNoProbability": 0.755,
+        "over25Probability": 0.752,
+        "under25Probability": 0.248,
+        "homeWinProbability": 0.0637,
+        "drawProbability": 0.0377,
+        "awayWinProbability": 0.8786,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.1436
+          "probability": 0.1441
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 50,
+        "bttsConfidence": 51,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 51,
+        "overUnderConfidence": 50,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1543,
+          "homeElo": 1539,
           "awayElo": 1881,
-          "eloWinProb": 0.172
+          "eloWinProb": 0.169
         },
         "matchFingerprint": "33_parma_as roma_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:45.636Z",
-        "auditHash": "SHA256-IMMUTABLE-D5B310E-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:24.156Z",
+        "auditHash": "SHA256-IMMUTABLE-2345164C-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1449,7 +1503,7 @@
       }
     },
     {
-      "id": "res_33_8_Como",
+      "id": "res_33_9_Como",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1465,20 +1519,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 2.92,
+        "homeExpectedGoals": 2.9,
         "awayExpectedGoals": 0.2,
-        "totalExpectedGoals": 3.12,
-        "bttsProbability": 0.1712,
-        "bttsNoProbability": 0.8288,
-        "over25Probability": 0.5933,
-        "under25Probability": 0.4067,
-        "homeWinProbability": 0.8583,
-        "drawProbability": 0.0769,
-        "awayWinProbability": 0.085,
+        "totalExpectedGoals": 3.1,
+        "bttsProbability": 0.1711,
+        "bttsNoProbability": 0.8289,
+        "over25Probability": 0.5894,
+        "under25Probability": 0.4106,
+        "homeWinProbability": 0.8576,
+        "drawProbability": 0.0782,
+        "awayWinProbability": 0.0851,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1881
+          "probability": 0.1893
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 66,
@@ -1491,8 +1545,8 @@
           "eloWinProb": 0.778
         },
         "matchFingerprint": "33_como_cagliari_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:45.636Z",
-        "auditHash": "SHA256-IMMUTABLE-60C953A2-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:24.156Z",
+        "auditHash": "SHA256-IMMUTABLE-3BADF7F1-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1503,7 +1557,7 @@
       }
     },
     {
-      "id": "res_33_9_Lazio",
+      "id": "res_33_10_Lazio",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1520,19 +1574,19 @@
       "actualOver25": true,
       "prediction": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.31,
-        "totalExpectedGoals": 4.81,
-        "bttsProbability": 0.2443,
-        "bttsNoProbability": 0.7557,
+        "awayExpectedGoals": 0.32,
+        "totalExpectedGoals": 4.82,
+        "bttsProbability": 0.2447,
+        "bttsNoProbability": 0.7553,
         "over25Probability": 0.7723,
         "under25Probability": 0.2277,
-        "homeWinProbability": 0.8894,
-        "drawProbability": 0.0257,
-        "awayWinProbability": 0.0376,
+        "homeWinProbability": 0.8901,
+        "drawProbability": 0.0258,
+        "awayWinProbability": 0.0369,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1386
+          "probability": 0.1385
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 51,
@@ -1541,12 +1595,12 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1883,
-          "awayElo": 1563,
-          "eloWinProb": 0.902
+          "awayElo": 1559,
+          "eloWinProb": 0.904
         },
         "matchFingerprint": "33_lazio_lecce_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:45.636Z",
-        "auditHash": "SHA256-IMMUTABLE-478C7CD0-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:24.156Z",
+        "auditHash": "SHA256-IMMUTABLE-16292560-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1557,7 +1611,7 @@
       }
     },
     {
-      "id": "res_33_10_Fiorentina",
+      "id": "res_33_11_Fiorentina",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1573,34 +1627,34 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 0.9,
-        "awayExpectedGoals": 2.98,
-        "totalExpectedGoals": 3.89,
-        "bttsProbability": 0.5612,
-        "bttsNoProbability": 0.4388,
-        "over25Probability": 0.7331,
-        "under25Probability": 0.2669,
-        "homeWinProbability": 0.1729,
-        "drawProbability": 0.133,
-        "awayWinProbability": 0.7332,
+        "homeExpectedGoals": 0.89,
+        "awayExpectedGoals": 3.07,
+        "totalExpectedGoals": 3.96,
+        "bttsProbability": 0.5561,
+        "bttsNoProbability": 0.4439,
+        "over25Probability": 0.7418,
+        "under25Probability": 0.2582,
+        "homeWinProbability": 0.1627,
+        "drawProbability": 0.1258,
+        "awayWinProbability": 0.7467,
         "predictedScore": {
           "home": 0,
-          "away": 2,
-          "probability": 0.0913
+          "away": 3,
+          "probability": 0.0922
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 47,
+        "overUnderConfidence": 48,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1566,
+          "homeElo": 1553,
           "awayElo": 1741,
-          "eloWinProb": 0.347
+          "eloWinProb": 0.33
         },
         "matchFingerprint": "33_fiorentina_juventus_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:45.636Z",
-        "auditHash": "SHA256-IMMUTABLE-39D233E3-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:24.156Z",
+        "auditHash": "SHA256-IMMUTABLE-4BE51FDE-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1611,7 +1665,7 @@
       }
     },
     {
-      "id": "res_33_11_InterMilan",
+      "id": "res_33_12_InterMilan",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1627,20 +1681,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 3.39,
-        "awayExpectedGoals": 1.49,
-        "totalExpectedGoals": 4.88,
-        "bttsProbability": 0.7334,
-        "bttsNoProbability": 0.2666,
-        "over25Probability": 0.842,
-        "under25Probability": 0.158,
-        "homeWinProbability": 0.6919,
-        "drawProbability": 0.137,
-        "awayWinProbability": 0.2042,
+        "homeExpectedGoals": 3.37,
+        "awayExpectedGoals": 1.5,
+        "totalExpectedGoals": 4.87,
+        "bttsProbability": 0.7361,
+        "bttsNoProbability": 0.2639,
+        "over25Probability": 0.8419,
+        "under25Probability": 0.1581,
+        "homeWinProbability": 0.689,
+        "drawProbability": 0.1389,
+        "awayWinProbability": 0.2064,
         "predictedScore": {
           "home": 3,
           "away": 1,
-          "probability": 0.0735
+          "probability": 0.0734
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 47,
@@ -1653,8 +1707,8 @@
           "eloWinProb": 0.656
         },
         "matchFingerprint": "33_inter milan_como_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:45.636Z",
-        "auditHash": "SHA256-IMMUTABLE-53C47ED6-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:24.156Z",
+        "auditHash": "SHA256-IMMUTABLE-3AD64486-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1665,7 +1719,7 @@
       }
     },
     {
-      "id": "res_33_12_Genoa",
+      "id": "res_33_13_Genoa",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1682,19 +1736,19 @@
       "actualOver25": true,
       "prediction": {
         "homeExpectedGoals": 0.64,
-        "awayExpectedGoals": 2.21,
-        "totalExpectedGoals": 2.85,
-        "bttsProbability": 0.4268,
-        "bttsNoProbability": 0.5732,
-        "over25Probability": 0.5408,
-        "under25Probability": 0.4592,
-        "homeWinProbability": 0.1856,
-        "drawProbability": 0.184,
-        "awayWinProbability": 0.6935,
+        "awayExpectedGoals": 2.23,
+        "totalExpectedGoals": 2.87,
+        "bttsProbability": 0.4256,
+        "bttsNoProbability": 0.5744,
+        "over25Probability": 0.544,
+        "under25Probability": 0.456,
+        "homeWinProbability": 0.1843,
+        "drawProbability": 0.1817,
+        "awayWinProbability": 0.6962,
         "predictedScore": {
           "home": 0,
           "away": 2,
-          "probability": 0.1407
+          "probability": 0.141
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1707,8 +1761,8 @@
           "eloWinProb": 0.365
         },
         "matchFingerprint": "33_genoa_ac milan_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:45.636Z",
-        "auditHash": "SHA256-IMMUTABLE-1015CC8-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:24.156Z",
+        "auditHash": "SHA256-IMMUTABLE-F6E37D9-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1719,7 +1773,7 @@
       }
     },
     {
-      "id": "res_33_13_Monza",
+      "id": "res_33_14_Monza",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1735,34 +1789,34 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 2.09,
-        "awayExpectedGoals": 1.77,
-        "totalExpectedGoals": 3.86,
-        "bttsProbability": 0.7301,
-        "bttsNoProbability": 0.2699,
-        "over25Probability": 0.7386,
-        "under25Probability": 0.2614,
-        "homeWinProbability": 0.4503,
-        "drawProbability": 0.2181,
-        "awayWinProbability": 0.4067,
+        "homeExpectedGoals": 2.57,
+        "awayExpectedGoals": 1.38,
+        "totalExpectedGoals": 3.95,
+        "bttsProbability": 0.692,
+        "bttsNoProbability": 0.308,
+        "over25Probability": 0.7496,
+        "under25Probability": 0.2504,
+        "homeWinProbability": 0.5851,
+        "drawProbability": 0.1865,
+        "awayWinProbability": 0.2904,
         "predictedScore": {
-          "home": 1,
+          "home": 2,
           "away": 1,
-          "probability": 0.0827
+          "probability": 0.0877
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 46,
+        "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 48,
+        "overUnderConfidence": 50,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1539,
+          "homeElo": 1587,
           "awayElo": 1640,
-          "eloWinProb": 0.448
+          "eloWinProb": 0.517
         },
         "matchFingerprint": "33_monza_atalanta_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:45.636Z",
-        "auditHash": "SHA256-IMMUTABLE-1496CA5A-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:24.156Z",
+        "auditHash": "SHA256-IMMUTABLE-2879B9E0-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
@@ -1773,7 +1827,7 @@
       }
     },
     {
-      "id": "res_33_14_Napoli",
+      "id": "res_33_15_Napoli",
       "leagueId": "33",
       "leagueName": "Serie A",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1789,20 +1843,20 @@
       "actualBtts": true,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 0.61,
-        "awayExpectedGoals": 2.39,
-        "totalExpectedGoals": 3,
-        "bttsProbability": 0.4171,
-        "bttsNoProbability": 0.5829,
-        "over25Probability": 0.5729,
-        "under25Probability": 0.4271,
-        "homeWinProbability": 0.1663,
-        "drawProbability": 0.1624,
-        "awayWinProbability": 0.726,
+        "homeExpectedGoals": 0.6,
+        "awayExpectedGoals": 2.41,
+        "totalExpectedGoals": 3.01,
+        "bttsProbability": 0.4158,
+        "bttsNoProbability": 0.5842,
+        "over25Probability": 0.5763,
+        "under25Probability": 0.4237,
+        "homeWinProbability": 0.1652,
+        "drawProbability": 0.16,
+        "awayWinProbability": 0.7286,
         "predictedScore": {
           "home": 0,
           "away": 2,
-          "probability": 0.1424
+          "probability": 0.1425
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1815,68 +1869,14 @@
           "eloWinProb": 0.342
         },
         "matchFingerprint": "33_napoli_lazio_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:45.636Z",
-        "auditHash": "SHA256-IMMUTABLE-8A07A5C-2026-11-23",
+        "lockedAt": "2026-11-24T17:18:24.156Z",
+        "auditHash": "SHA256-IMMUTABLE-1377CDDB-2026-11-24",
         "isImmutable": true
       },
       "evaluation": {
         "bttsHit": false,
         "overUnderHit": false,
         "bothHit": false,
-        "exactScoreHit": false
-      }
-    },
-    {
-      "id": "res_33_15_ASRoma",
-      "leagueId": "33",
-      "leagueName": "Serie A",
-      "dateRaw": "Sat 07-Nov-2026",
-      "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "19:45",
-      "homeTeam": "AS Roma",
-      "awayTeam": "Sassuolo",
-      "score": "3-0",
-      "homeGoals": 3,
-      "awayGoals": 0,
-      "totalGoals": 3,
-      "actualBtts": false,
-      "actualOver25": true,
-      "prediction": {
-        "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.32,
-        "totalExpectedGoals": 4.82,
-        "bttsProbability": 0.2481,
-        "bttsNoProbability": 0.7519,
-        "over25Probability": 0.7728,
-        "under25Probability": 0.2272,
-        "homeWinProbability": 0.8943,
-        "drawProbability": 0.026,
-        "awayWinProbability": 0.0325,
-        "predictedScore": {
-          "home": 4,
-          "away": 0,
-          "probability": 0.1378
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 50,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 55,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1881,
-          "awayElo": 1530,
-          "eloWinProb": 0.916
-        },
-        "matchFingerprint": "33_as roma_sassuolo_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-23T17:46:45.636Z",
-        "auditHash": "SHA256-IMMUTABLE-656DE112-2026-11-23",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": true,
-        "overUnderHit": true,
-        "bothHit": true,
         "exactScoreHit": false
       }
     }
@@ -2285,8 +2285,39 @@
       "sntF": 4.5,
       "sntA": 8
     },
-    "Lecce": {
+    "Monza": {
       "pos": 14,
+      "team": "Monza",
+      "p": 12,
+      "hw": 3,
+      "hd": 0,
+      "hl": 3,
+      "hf": 12,
+      "ha": 9,
+      "aw": 0,
+      "ad": 1,
+      "al": 5,
+      "af": 8,
+      "aa": 16,
+      "gd": -5,
+      "pts": 10,
+      "ppg": 0.83,
+      "form": "WLLLLW",
+      "ycF": 1.3,
+      "ycA": 2.3,
+      "rcF": 0,
+      "rcA": 0,
+      "psF": 45,
+      "psA": 56,
+      "cF": 4,
+      "cA": 4.7,
+      "stF": 5.3,
+      "stA": 5,
+      "sntF": 4,
+      "sntA": 4.7
+    },
+    "Lecce": {
+      "pos": 15,
       "team": "Lecce",
       "p": 12,
       "hw": 1,
@@ -2317,9 +2348,9 @@
       "sntA": 6
     },
     "Fiorentina": {
-      "pos": 15,
+      "pos": 16,
       "team": "Fiorentina",
-      "p": 11,
+      "p": 12,
       "hw": 0,
       "hd": 3,
       "hl": 3,
@@ -2327,28 +2358,28 @@
       "ha": 13,
       "aw": 2,
       "ad": 0,
-      "al": 3,
+      "al": 4,
       "af": 10,
-      "aa": 12,
-      "gd": -8,
+      "aa": 15,
+      "gd": -11,
       "pts": 9,
-      "ppg": 0.81,
-      "form": "LLLDWD",
-      "ycF": 2.4,
-      "ycA": 2.2,
+      "ppg": 0.75,
+      "form": "LLDWDL",
+      "ycF": 2.2,
+      "ycA": 1.8,
       "rcF": 0,
       "rcA": 0,
-      "psF": 44,
-      "psA": 56,
-      "cF": 3,
-      "cA": 3.6,
-      "stF": 5,
-      "stA": 5.8,
-      "sntF": 4.6,
-      "sntA": 7
+      "psF": 46,
+      "psA": 55,
+      "cF": 3.7,
+      "cA": 3.5,
+      "stF": 5.5,
+      "stA": 5.7,
+      "sntF": 4.8,
+      "sntA": 6.5
     },
     "Parma": {
-      "pos": 16,
+      "pos": 17,
       "team": "Parma",
       "p": 12,
       "hw": 1,
@@ -2379,7 +2410,7 @@
       "sntA": 10.2
     },
     "Sassuolo": {
-      "pos": 17,
+      "pos": 18,
       "team": "Sassuolo",
       "p": 12,
       "hw": 2,
@@ -2408,37 +2439,6 @@
       "stA": 7.2,
       "sntF": 5.2,
       "sntA": 6.3
-    },
-    "Monza": {
-      "pos": 18,
-      "team": "Monza",
-      "p": 11,
-      "hw": 2,
-      "hd": 0,
-      "hl": 3,
-      "hf": 9,
-      "ha": 9,
-      "aw": 0,
-      "ad": 1,
-      "al": 5,
-      "af": 8,
-      "aa": 16,
-      "gd": -8,
-      "pts": 7,
-      "ppg": 0.63,
-      "form": "LWLLLL",
-      "ycF": 1.3,
-      "ycA": 2.3,
-      "rcF": 0,
-      "rcA": 0,
-      "psF": 45,
-      "psA": 56,
-      "cF": 4,
-      "cA": 4.7,
-      "stF": 5.3,
-      "stA": 5,
-      "sntF": 4,
-      "sntA": 4.7
     },
     "Udinese": {
       "pos": 19,
@@ -2506,20 +2506,20 @@
   "backtest": {
     "totalMatches": 15,
     "bttsEvaluated": 15,
-    "bttsHits": 9,
-    "bttsAccuracy": 60,
+    "bttsHits": 8,
+    "bttsAccuracy": 53.3,
     "overUnderEvaluated": 15,
     "overUnderHits": 9,
     "overUnderAccuracy": 60,
-    "overallAccuracy": 60,
+    "overallAccuracy": 56.7,
     "exactScoreHits": 3,
     "exactScoreAccuracy": 20,
     "confusionMatrix": {
       "btts": {
         "predictedYesActualYes": 4,
-        "predictedYesActualNo": 3,
+        "predictedYesActualNo": 4,
         "predictedNoActualYes": 3,
-        "predictedNoActualNo": 5
+        "predictedNoActualNo": 4
       },
       "overUnder": {
         "predictedOverActualOver": 8,
@@ -2528,9 +2528,9 @@
         "predictedUnderActualUnder": 1
       }
     },
-    "logLoss": 0.6518,
-    "brierScore": 0.2311,
-    "simulatedRoi": 14.6
+    "logLoss": 0.6834,
+    "brierScore": 0.2461,
+    "simulatedRoi": 8.2
   },
   "parameters": {
     "homeAdvantage": 1.18,
