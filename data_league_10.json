@@ -1,157 +1,15 @@
 {
   "leagueId": "10",
   "leagueName": "Scottish Premiership",
-  "timestamp": "2026-11-24T17:18:29.181Z",
+  "timestamp": "2026-11-25T16:59:32.967Z",
   "fixtures": [
     {
-      "id": "fix_10_1_Hibernian",
-      "leagueId": "10",
-      "leagueName": "Scottish Premiership",
-      "dateRaw": "Tue 24/11",
-      "dateIso": "2026-11-24T12:00:00.000Z",
-      "daysFromNow": 0,
-      "time": "19:45",
-      "homeTeam": "Hibernian",
-      "awayTeam": "Dundee",
-      "odds": {
-        "home": 1.64,
-        "draw": 4.3,
-        "away": 5
-      },
-      "prediction": {
-        "homeExpectedGoals": 0.65,
-        "awayExpectedGoals": 1.79,
-        "totalExpectedGoals": 2.44,
-        "bttsProbability": 0.4032,
-        "bttsNoProbability": 0.5968,
-        "over25Probability": 0.44,
-        "under25Probability": 0.56,
-        "homeWinProbability": 0.2559,
-        "drawProbability": 0.2341,
-        "awayWinProbability": 0.5916,
-        "predictedScore": {
-          "home": 0,
-          "away": 1,
-          "probability": 0.1502
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 0.85,
-        "eloBlend": {
-          "homeElo": 1599,
-          "awayElo": 1662,
-          "eloWinProb": 0.503
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 0.65,
-        "awayExpectedGoals": 1.79,
-        "totalExpectedGoals": 2.44,
-        "bttsProbability": 0.4032,
-        "bttsNoProbability": 0.5968,
-        "over25Probability": 0.44,
-        "under25Probability": 0.56,
-        "homeWinProbability": 0.2559,
-        "drawProbability": 0.2341,
-        "awayWinProbability": 0.5916,
-        "predictedScore": {
-          "home": 0,
-          "away": 1,
-          "probability": 0.1502
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 0.85,
-        "eloBlend": {
-          "homeElo": 1599,
-          "awayElo": 1662,
-          "eloWinProb": 0.503
-        }
-      },
-      "confidenceScore": 60
-    },
-    {
-      "id": "fix_10_2_Rangers",
-      "leagueId": "10",
-      "leagueName": "Scottish Premiership",
-      "dateRaw": "Tue 24/11",
-      "dateIso": "2026-11-24T12:00:00.000Z",
-      "daysFromNow": 0,
-      "time": "20:00",
-      "homeTeam": "Rangers",
-      "awayTeam": "Aberdeen",
-      "odds": {
-        "home": 1.25,
-        "draw": 6.8,
-        "away": 11
-      },
-      "prediction": {
-        "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.57,
-        "totalExpectedGoals": 5.07,
-        "bttsProbability": 0.3913,
-        "bttsNoProbability": 0.6087,
-        "over25Probability": 0.7943,
-        "under25Probability": 0.2057,
-        "homeWinProbability": 0.8465,
-        "drawProbability": 0.038,
-        "awayWinProbability": 0.0725,
-        "predictedScore": {
-          "home": 4,
-          "away": 0,
-          "probability": 0.1077
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 59,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1832,
-          "awayElo": 1639,
-          "eloWinProb": 0.815
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 0.57,
-        "totalExpectedGoals": 5.07,
-        "bttsProbability": 0.3913,
-        "bttsNoProbability": 0.6087,
-        "over25Probability": 0.7943,
-        "under25Probability": 0.2057,
-        "homeWinProbability": 0.8465,
-        "drawProbability": 0.038,
-        "awayWinProbability": 0.0725,
-        "predictedScore": {
-          "home": 4,
-          "away": 0,
-          "probability": 0.1077
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 59,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1832,
-          "awayElo": 1639,
-          "eloWinProb": 0.815
-        }
-      },
-      "confidenceScore": 79
-    },
-    {
-      "id": "fix_10_3_Aberdeen",
+      "id": "fix_10_1_Aberdeen",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "15:00",
       "homeTeam": "Aberdeen",
       "awayTeam": "Dundee",
@@ -161,20 +19,20 @@
         "away": 3.85
       },
       "prediction": {
-        "homeExpectedGoals": 0.69,
-        "awayExpectedGoals": 1.01,
-        "totalExpectedGoals": 1.7,
-        "bttsProbability": 0.325,
-        "bttsNoProbability": 0.675,
-        "over25Probability": 0.2432,
-        "under25Probability": 0.7568,
-        "homeWinProbability": 0.3498,
-        "drawProbability": 0.3491,
-        "awayWinProbability": 0.4233,
+        "homeExpectedGoals": 0.73,
+        "awayExpectedGoals": 0.96,
+        "totalExpectedGoals": 1.69,
+        "bttsProbability": 0.3279,
+        "bttsNoProbability": 0.6721,
+        "over25Probability": 0.2403,
+        "under25Probability": 0.7597,
+        "homeWinProbability": 0.3654,
+        "drawProbability": 0.354,
+        "awayWinProbability": 0.4045,
         "predictedScore": {
           "home": 0,
           "away": 0,
-          "probability": 0.19
+          "probability": 0.1922
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -182,26 +40,26 @@
         "overUnderConfidence": 44,
         "iicdScore": 0.85,
         "eloBlend": {
-          "homeElo": 1639,
-          "awayElo": 1662,
+          "homeElo": 1636,
+          "awayElo": 1659,
           "eloWinProb": 0.56
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.69,
-        "awayExpectedGoals": 1.01,
-        "totalExpectedGoals": 1.7,
-        "bttsProbability": 0.325,
-        "bttsNoProbability": 0.675,
-        "over25Probability": 0.2432,
-        "under25Probability": 0.7568,
-        "homeWinProbability": 0.3498,
-        "drawProbability": 0.3491,
-        "awayWinProbability": 0.4233,
+        "homeExpectedGoals": 0.73,
+        "awayExpectedGoals": 0.96,
+        "totalExpectedGoals": 1.69,
+        "bttsProbability": 0.3279,
+        "bttsNoProbability": 0.6721,
+        "over25Probability": 0.2403,
+        "under25Probability": 0.7597,
+        "homeWinProbability": 0.3654,
+        "drawProbability": 0.354,
+        "awayWinProbability": 0.4045,
         "predictedScore": {
           "home": 0,
           "away": 0,
-          "probability": 0.19
+          "probability": 0.1922
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -209,20 +67,20 @@
         "overUnderConfidence": 44,
         "iicdScore": 0.85,
         "eloBlend": {
-          "homeElo": 1639,
-          "awayElo": 1662,
+          "homeElo": 1636,
+          "awayElo": 1659,
           "eloWinProb": 0.56
         }
       },
       "confidenceScore": 76
     },
     {
-      "id": "fix_10_4_DundeeUtd",
+      "id": "fix_10_2_DundeeUtd",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "15:00",
       "homeTeam": "Dundee Utd",
       "awayTeam": "St Johnstone",
@@ -232,20 +90,20 @@
         "away": 4.7
       },
       "prediction": {
-        "homeExpectedGoals": 1.76,
+        "homeExpectedGoals": 1.74,
         "awayExpectedGoals": 0.57,
-        "totalExpectedGoals": 2.33,
-        "bttsProbability": 0.3653,
-        "bttsNoProbability": 0.6347,
-        "over25Probability": 0.412,
-        "under25Probability": 0.588,
-        "homeWinProbability": 0.6584,
-        "drawProbability": 0.2335,
-        "awayWinProbability": 0.1895,
+        "totalExpectedGoals": 2.31,
+        "bttsProbability": 0.3634,
+        "bttsNoProbability": 0.6366,
+        "over25Probability": 0.4049,
+        "under25Probability": 0.5951,
+        "homeWinProbability": 0.6544,
+        "drawProbability": 0.2374,
+        "awayWinProbability": 0.1911,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1653
+          "probability": 0.1672
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -259,20 +117,20 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.76,
+        "homeExpectedGoals": 1.74,
         "awayExpectedGoals": 0.57,
-        "totalExpectedGoals": 2.33,
-        "bttsProbability": 0.3653,
-        "bttsNoProbability": 0.6347,
-        "over25Probability": 0.412,
-        "under25Probability": 0.588,
-        "homeWinProbability": 0.6584,
-        "drawProbability": 0.2335,
-        "awayWinProbability": 0.1895,
+        "totalExpectedGoals": 2.31,
+        "bttsProbability": 0.3634,
+        "bttsNoProbability": 0.6366,
+        "over25Probability": 0.4049,
+        "under25Probability": 0.5951,
+        "homeWinProbability": 0.6544,
+        "drawProbability": 0.2374,
+        "awayWinProbability": 0.1911,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1653
+          "probability": 0.1672
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -285,15 +143,15 @@
           "eloWinProb": 0.66
         }
       },
-      "confidenceScore": 63
+      "confidenceScore": 64
     },
     {
-      "id": "fix_10_5_Rangers",
+      "id": "fix_10_3_Rangers",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "15:00",
       "homeTeam": "Rangers",
       "awayTeam": "Falkirk",
@@ -303,68 +161,68 @@
         "away": 10
       },
       "prediction": {
-        "homeExpectedGoals": 2.19,
-        "awayExpectedGoals": 0.68,
-        "totalExpectedGoals": 2.87,
-        "bttsProbability": 0.4415,
-        "bttsNoProbability": 0.5585,
-        "over25Probability": 0.5457,
-        "under25Probability": 0.4543,
-        "homeWinProbability": 0.7031,
-        "drawProbability": 0.1878,
-        "awayWinProbability": 0.1736,
+        "homeExpectedGoals": 2.43,
+        "awayExpectedGoals": 0.91,
+        "totalExpectedGoals": 3.34,
+        "bttsProbability": 0.546,
+        "bttsNoProbability": 0.454,
+        "over25Probability": 0.6442,
+        "under25Probability": 0.3558,
+        "homeWinProbability": 0.7049,
+        "drawProbability": 0.1785,
+        "awayWinProbability": 0.1768,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1362
+          "probability": 0.105
         },
-        "bttsPick": "BTTS_NO",
+        "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1832,
+          "homeElo": 1857,
           "awayElo": 1765,
-          "eloWinProb": 0.681
+          "eloWinProb": 0.712
         }
       },
       "pred": {
-        "homeExpectedGoals": 2.19,
-        "awayExpectedGoals": 0.68,
-        "totalExpectedGoals": 2.87,
-        "bttsProbability": 0.4415,
-        "bttsNoProbability": 0.5585,
-        "over25Probability": 0.5457,
-        "under25Probability": 0.4543,
-        "homeWinProbability": 0.7031,
-        "drawProbability": 0.1878,
-        "awayWinProbability": 0.1736,
+        "homeExpectedGoals": 2.43,
+        "awayExpectedGoals": 0.91,
+        "totalExpectedGoals": 3.34,
+        "bttsProbability": 0.546,
+        "bttsNoProbability": 0.454,
+        "over25Probability": 0.6442,
+        "under25Probability": 0.3558,
+        "homeWinProbability": 0.7049,
+        "drawProbability": 0.1785,
+        "awayWinProbability": 0.1768,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1362
+          "probability": 0.105
         },
-        "bttsPick": "BTTS_NO",
+        "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1832,
+          "homeElo": 1857,
           "awayElo": 1765,
-          "eloWinProb": 0.681
+          "eloWinProb": 0.712
         }
       },
-      "confidenceScore": 56
+      "confidenceScore": 64
     },
     {
-      "id": "fix_10_6_StMirren",
+      "id": "fix_10_4_StMirren",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "15:00",
       "homeTeam": "St Mirren",
       "awayTeam": "Kilmarnock",
@@ -374,68 +232,68 @@
         "away": 3.25
       },
       "prediction": {
-        "homeExpectedGoals": 1.87,
+        "homeExpectedGoals": 1.83,
         "awayExpectedGoals": 0.82,
-        "totalExpectedGoals": 2.69,
-        "bttsProbability": 0.4788,
-        "bttsNoProbability": 0.5212,
-        "over25Probability": 0.5035,
-        "under25Probability": 0.4965,
-        "homeWinProbability": 0.6375,
-        "drawProbability": 0.2315,
-        "awayWinProbability": 0.2116,
+        "totalExpectedGoals": 2.65,
+        "bttsProbability": 0.4773,
+        "bttsNoProbability": 0.5227,
+        "over25Probability": 0.4946,
+        "under25Probability": 0.5054,
+        "homeWinProbability": 0.6288,
+        "drawProbability": 0.2365,
+        "awayWinProbability": 0.2171,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1207
+          "probability": 0.1224
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
+        "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1608,
+          "homeElo": 1604,
           "awayElo": 1544,
-          "eloWinProb": 0.678
+          "eloWinProb": 0.673
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.87,
+        "homeExpectedGoals": 1.83,
         "awayExpectedGoals": 0.82,
-        "totalExpectedGoals": 2.69,
-        "bttsProbability": 0.4788,
-        "bttsNoProbability": 0.5212,
-        "over25Probability": 0.5035,
-        "under25Probability": 0.4965,
-        "homeWinProbability": 0.6375,
-        "drawProbability": 0.2315,
-        "awayWinProbability": 0.2116,
+        "totalExpectedGoals": 2.65,
+        "bttsProbability": 0.4773,
+        "bttsNoProbability": 0.5227,
+        "over25Probability": 0.4946,
+        "under25Probability": 0.5054,
+        "homeWinProbability": 0.6288,
+        "drawProbability": 0.2365,
+        "awayWinProbability": 0.2171,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.1207
+          "probability": 0.1224
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
+        "overUnderPick": "UNDER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1608,
+          "homeElo": 1604,
           "awayElo": 1544,
-          "eloWinProb": 0.678
+          "eloWinProb": 0.673
         }
       },
       "confidenceScore": 52
     },
     {
-      "id": "fix_10_7_Motherwell",
+      "id": "fix_10_5_Motherwell",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "17:45",
       "homeTeam": "Motherwell",
       "awayTeam": "Hibernian",
@@ -445,20 +303,20 @@
         "away": 2.5
       },
       "prediction": {
-        "homeExpectedGoals": 0.63,
-        "awayExpectedGoals": 1.61,
-        "totalExpectedGoals": 2.24,
-        "bttsProbability": 0.3812,
-        "bttsNoProbability": 0.6188,
-        "over25Probability": 0.3887,
-        "under25Probability": 0.6113,
-        "homeWinProbability": 0.3041,
-        "drawProbability": 0.2578,
-        "awayWinProbability": 0.5282,
+        "homeExpectedGoals": 0.59,
+        "awayExpectedGoals": 1.77,
+        "totalExpectedGoals": 2.35,
+        "bttsProbability": 0.3738,
+        "bttsNoProbability": 0.6262,
+        "over25Probability": 0.4176,
+        "under25Probability": 0.5824,
+        "homeWinProbability": 0.2697,
+        "drawProbability": 0.2341,
+        "awayWinProbability": 0.5778,
         "predictedScore": {
           "home": 0,
           "away": 1,
-          "probability": 0.1645
+          "probability": 0.162
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -466,26 +324,26 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1615,
-          "awayElo": 1599,
-          "eloWinProb": 0.615
+          "homeElo": 1611,
+          "awayElo": 1632,
+          "eloWinProb": 0.563
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.63,
-        "awayExpectedGoals": 1.61,
-        "totalExpectedGoals": 2.24,
-        "bttsProbability": 0.3812,
-        "bttsNoProbability": 0.6188,
-        "over25Probability": 0.3887,
-        "under25Probability": 0.6113,
-        "homeWinProbability": 0.3041,
-        "drawProbability": 0.2578,
-        "awayWinProbability": 0.5282,
+        "homeExpectedGoals": 0.59,
+        "awayExpectedGoals": 1.77,
+        "totalExpectedGoals": 2.35,
+        "bttsProbability": 0.3738,
+        "bttsNoProbability": 0.6262,
+        "over25Probability": 0.4176,
+        "under25Probability": 0.5824,
+        "homeWinProbability": 0.2697,
+        "drawProbability": 0.2341,
+        "awayWinProbability": 0.5778,
         "predictedScore": {
           "home": 0,
           "away": 1,
-          "probability": 0.1645
+          "probability": 0.162
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -493,48 +351,48 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1615,
-          "awayElo": 1599,
-          "eloWinProb": 0.615
+          "homeElo": 1611,
+          "awayElo": 1632,
+          "eloWinProb": 0.563
         }
       },
-      "confidenceScore": 62
+      "confidenceScore": 63
     },
     {
-      "id": "fix_10_8_Hearts",
+      "id": "fix_10_6_Hearts",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "15:00",
       "homeTeam": "Hearts",
       "awayTeam": "Celtic",
       "odds": {
-        "home": 3.63,
-        "draw": 4.19,
-        "away": 1.87
+        "home": 3.6,
+        "draw": 4.1,
+        "away": 1.9
       },
       "prediction": {
-        "homeExpectedGoals": 1.6,
+        "homeExpectedGoals": 1.57,
         "awayExpectedGoals": 2.68,
-        "totalExpectedGoals": 4.28,
-        "bttsProbability": 0.7412,
-        "bttsNoProbability": 0.2588,
-        "over25Probability": 0.7934,
-        "under25Probability": 0.2066,
-        "homeWinProbability": 0.2854,
-        "drawProbability": 0.1838,
-        "awayWinProbability": 0.5909,
+        "totalExpectedGoals": 4.25,
+        "bttsProbability": 0.7363,
+        "bttsNoProbability": 0.2637,
+        "over25Probability": 0.7902,
+        "under25Probability": 0.2098,
+        "homeWinProbability": 0.2823,
+        "drawProbability": 0.1832,
+        "awayWinProbability": 0.5943,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.0796
+          "probability": 0.0803
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 48,
+        "bttsConfidence": 47,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 59,
+        "overUnderConfidence": 58,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1769,
@@ -543,25 +401,25 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.6,
+        "homeExpectedGoals": 1.57,
         "awayExpectedGoals": 2.68,
-        "totalExpectedGoals": 4.28,
-        "bttsProbability": 0.7412,
-        "bttsNoProbability": 0.2588,
-        "over25Probability": 0.7934,
-        "under25Probability": 0.2066,
-        "homeWinProbability": 0.2854,
-        "drawProbability": 0.1838,
-        "awayWinProbability": 0.5909,
+        "totalExpectedGoals": 4.25,
+        "bttsProbability": 0.7363,
+        "bttsNoProbability": 0.2637,
+        "over25Probability": 0.7902,
+        "under25Probability": 0.2098,
+        "homeWinProbability": 0.2823,
+        "drawProbability": 0.1832,
+        "awayWinProbability": 0.5943,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.0796
+          "probability": 0.0803
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 48,
+        "bttsConfidence": 47,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 59,
+        "overUnderConfidence": 58,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1769,
@@ -572,12 +430,12 @@
       "confidenceScore": 79
     },
     {
-      "id": "fix_10_9_Dundee",
+      "id": "fix_10_7_Dundee",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Wed 02/12",
       "dateIso": "2026-11-25T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "19:45",
       "homeTeam": "Dundee",
       "awayTeam": "Celtic",
@@ -587,68 +445,68 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 0.73,
+        "homeExpectedGoals": 0.69,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 4.73,
-        "bttsProbability": 0.4824,
-        "bttsNoProbability": 0.5176,
-        "over25Probability": 0.7993,
-        "under25Probability": 0.2007,
-        "homeWinProbability": 0.1164,
-        "drawProbability": 0.0637,
-        "awayWinProbability": 0.809,
+        "totalExpectedGoals": 4.69,
+        "bttsProbability": 0.4644,
+        "bttsNoProbability": 0.5356,
+        "over25Probability": 0.7954,
+        "under25Probability": 0.2046,
+        "homeWinProbability": 0.1137,
+        "drawProbability": 0.0614,
+        "awayWinProbability": 0.8132,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.0944
+          "probability": 0.0982
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 51,
+        "overUnderConfidence": 50,
         "iicdScore": 0.85,
         "eloBlend": {
-          "homeElo": 1662,
+          "homeElo": 1659,
           "awayElo": 1889,
-          "eloWinProb": 0.282
+          "eloWinProb": 0.279
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.73,
+        "homeExpectedGoals": 0.69,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 4.73,
-        "bttsProbability": 0.4824,
-        "bttsNoProbability": 0.5176,
-        "over25Probability": 0.7993,
-        "under25Probability": 0.2007,
-        "homeWinProbability": 0.1164,
-        "drawProbability": 0.0637,
-        "awayWinProbability": 0.809,
+        "totalExpectedGoals": 4.69,
+        "bttsProbability": 0.4644,
+        "bttsNoProbability": 0.5356,
+        "over25Probability": 0.7954,
+        "under25Probability": 0.2046,
+        "homeWinProbability": 0.1137,
+        "drawProbability": 0.0614,
+        "awayWinProbability": 0.8132,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.0944
+          "probability": 0.0982
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 51,
+        "overUnderConfidence": 50,
         "iicdScore": 0.85,
         "eloBlend": {
-          "homeElo": 1662,
+          "homeElo": 1659,
           "awayElo": 1889,
-          "eloWinProb": 0.282
+          "eloWinProb": 0.279
         }
       },
       "confidenceScore": 80
     },
     {
-      "id": "fix_10_10_Falkirk",
+      "id": "fix_10_8_Falkirk",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Wed 02/12",
       "dateIso": "2026-11-25T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "19:45",
       "homeTeam": "Falkirk",
       "awayTeam": "Motherwell",
@@ -658,68 +516,68 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 3.54,
-        "awayExpectedGoals": 1.02,
-        "totalExpectedGoals": 4.56,
-        "bttsProbability": 0.6042,
-        "bttsNoProbability": 0.3958,
-        "over25Probability": 0.8045,
-        "under25Probability": 0.1955,
-        "homeWinProbability": 0.7935,
-        "drawProbability": 0.104,
-        "awayWinProbability": 0.1205,
+        "homeExpectedGoals": 3.5,
+        "awayExpectedGoals": 1.01,
+        "totalExpectedGoals": 4.52,
+        "bttsProbability": 0.6024,
+        "bttsNoProbability": 0.3976,
+        "over25Probability": 0.8013,
+        "under25Probability": 0.1987,
+        "homeWinProbability": 0.794,
+        "drawProbability": 0.1057,
+        "awayWinProbability": 0.1198,
         "predictedScore": {
           "home": 3,
           "away": 1,
-          "probability": 0.0789
+          "probability": 0.0793
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 61,
+        "overUnderConfidence": 60,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1765,
-          "awayElo": 1615,
-          "eloWinProb": 0.775
+          "awayElo": 1611,
+          "eloWinProb": 0.779
         }
       },
       "pred": {
-        "homeExpectedGoals": 3.54,
-        "awayExpectedGoals": 1.02,
-        "totalExpectedGoals": 4.56,
-        "bttsProbability": 0.6042,
-        "bttsNoProbability": 0.3958,
-        "over25Probability": 0.8045,
-        "under25Probability": 0.1955,
-        "homeWinProbability": 0.7935,
-        "drawProbability": 0.104,
-        "awayWinProbability": 0.1205,
+        "homeExpectedGoals": 3.5,
+        "awayExpectedGoals": 1.01,
+        "totalExpectedGoals": 4.52,
+        "bttsProbability": 0.6024,
+        "bttsNoProbability": 0.3976,
+        "over25Probability": 0.8013,
+        "under25Probability": 0.1987,
+        "homeWinProbability": 0.794,
+        "drawProbability": 0.1057,
+        "awayWinProbability": 0.1198,
         "predictedScore": {
           "home": 3,
           "away": 1,
-          "probability": 0.0789
+          "probability": 0.0793
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 61,
+        "overUnderConfidence": 60,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1765,
-          "awayElo": 1615,
-          "eloWinProb": 0.775
+          "awayElo": 1611,
+          "eloWinProb": 0.779
         }
       },
       "confidenceScore": 80
     },
     {
-      "id": "fix_10_11_Hearts",
+      "id": "fix_10_9_Hearts",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Wed 02/12",
       "dateIso": "2026-11-25T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "19:45",
       "homeTeam": "Hearts",
       "awayTeam": "Aberdeen",
@@ -730,19 +588,19 @@
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 1.39,
-        "totalExpectedGoals": 5.89,
-        "bttsProbability": 0.6793,
-        "bttsNoProbability": 0.3207,
-        "over25Probability": 0.8464,
-        "under25Probability": 0.1536,
-        "homeWinProbability": 0.7693,
-        "drawProbability": 0.0777,
+        "awayExpectedGoals": 1.41,
+        "totalExpectedGoals": 5.91,
+        "bttsProbability": 0.6839,
+        "bttsNoProbability": 0.3161,
+        "over25Probability": 0.8474,
+        "under25Probability": 0.1526,
+        "homeWinProbability": 0.7688,
+        "drawProbability": 0.0787,
         "awayWinProbability": 0.1238,
         "predictedScore": {
           "home": 4,
           "away": 1,
-          "probability": 0.0656
+          "probability": 0.0653
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -751,25 +609,25 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1769,
-          "awayElo": 1639,
-          "eloWinProb": 0.754
+          "awayElo": 1636,
+          "eloWinProb": 0.758
         }
       },
       "pred": {
         "homeExpectedGoals": 4.5,
-        "awayExpectedGoals": 1.39,
-        "totalExpectedGoals": 5.89,
-        "bttsProbability": 0.6793,
-        "bttsNoProbability": 0.3207,
-        "over25Probability": 0.8464,
-        "under25Probability": 0.1536,
-        "homeWinProbability": 0.7693,
-        "drawProbability": 0.0777,
+        "awayExpectedGoals": 1.41,
+        "totalExpectedGoals": 5.91,
+        "bttsProbability": 0.6839,
+        "bttsNoProbability": 0.3161,
+        "over25Probability": 0.8474,
+        "under25Probability": 0.1526,
+        "homeWinProbability": 0.7688,
+        "drawProbability": 0.0787,
         "awayWinProbability": 0.1238,
         "predictedScore": {
           "home": 4,
           "away": 1,
-          "probability": 0.0656
+          "probability": 0.0653
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -778,19 +636,19 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1769,
-          "awayElo": 1639,
-          "eloWinProb": 0.754
+          "awayElo": 1636,
+          "eloWinProb": 0.758
         }
       },
       "confidenceScore": 85
     },
     {
-      "id": "fix_10_12_Kilmarnock",
+      "id": "fix_10_10_Kilmarnock",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Wed 02/12",
       "dateIso": "2026-11-25T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "19:45",
       "homeTeam": "Kilmarnock",
       "awayTeam": "Hibernian",
@@ -800,68 +658,68 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 0.88,
-        "awayExpectedGoals": 3.05,
-        "totalExpectedGoals": 3.93,
-        "bttsProbability": 0.5523,
-        "bttsNoProbability": 0.4477,
-        "over25Probability": 0.7381,
-        "under25Probability": 0.2619,
-        "homeWinProbability": 0.2271,
-        "drawProbability": 0.1265,
-        "awayWinProbability": 0.6822,
+        "homeExpectedGoals": 0.82,
+        "awayExpectedGoals": 3.32,
+        "totalExpectedGoals": 4.14,
+        "bttsProbability": 0.531,
+        "bttsNoProbability": 0.469,
+        "over25Probability": 0.7616,
+        "under25Probability": 0.2384,
+        "homeWinProbability": 0.1986,
+        "drawProbability": 0.1046,
+        "awayWinProbability": 0.7202,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.0931
+          "probability": 0.097
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 48,
+        "overUnderConfidence": 52,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1544,
-          "awayElo": 1599,
-          "eloWinProb": 0.514
+          "awayElo": 1632,
+          "eloWinProb": 0.467
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.88,
-        "awayExpectedGoals": 3.05,
-        "totalExpectedGoals": 3.93,
-        "bttsProbability": 0.5523,
-        "bttsNoProbability": 0.4477,
-        "over25Probability": 0.7381,
-        "under25Probability": 0.2619,
-        "homeWinProbability": 0.2271,
-        "drawProbability": 0.1265,
-        "awayWinProbability": 0.6822,
+        "homeExpectedGoals": 0.82,
+        "awayExpectedGoals": 3.32,
+        "totalExpectedGoals": 4.14,
+        "bttsProbability": 0.531,
+        "bttsNoProbability": 0.469,
+        "over25Probability": 0.7616,
+        "under25Probability": 0.2384,
+        "homeWinProbability": 0.1986,
+        "drawProbability": 0.1046,
+        "awayWinProbability": 0.7202,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.0931
+          "probability": 0.097
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 48,
+        "overUnderConfidence": 52,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1544,
-          "awayElo": 1599,
-          "eloWinProb": 0.514
+          "awayElo": 1632,
+          "eloWinProb": 0.467
         }
       },
-      "confidenceScore": 74
+      "confidenceScore": 76
     },
     {
-      "id": "fix_10_13_Rangers",
+      "id": "fix_10_11_Rangers",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Wed 02/12",
       "dateIso": "2026-11-25T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "19:45",
       "homeTeam": "Rangers",
       "awayTeam": "Dundee Utd",
@@ -871,68 +729,68 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 3,
-        "awayExpectedGoals": 0.68,
-        "totalExpectedGoals": 3.69,
-        "bttsProbability": 0.4666,
-        "bttsNoProbability": 0.5334,
-        "over25Probability": 0.7,
-        "under25Probability": 0.3,
-        "homeWinProbability": 0.7907,
-        "drawProbability": 0.1156,
-        "awayWinProbability": 0.1263,
+        "homeExpectedGoals": 3.33,
+        "awayExpectedGoals": 0.91,
+        "totalExpectedGoals": 4.24,
+        "bttsProbability": 0.5668,
+        "bttsNoProbability": 0.4332,
+        "over25Probability": 0.7741,
+        "under25Probability": 0.2259,
+        "homeWinProbability": 0.791,
+        "drawProbability": 0.1102,
+        "awayWinProbability": 0.1239,
         "predictedScore": {
           "home": 3,
           "away": 0,
-          "probability": 0.1134
+          "probability": 0.0886
         },
-        "bttsPick": "BTTS_NO",
+        "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
+        "overUnderConfidence": 55,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1832,
+          "homeElo": 1857,
           "awayElo": 1719,
-          "eloWinProb": 0.736
+          "eloWinProb": 0.763
         }
       },
       "pred": {
-        "homeExpectedGoals": 3,
-        "awayExpectedGoals": 0.68,
-        "totalExpectedGoals": 3.69,
-        "bttsProbability": 0.4666,
-        "bttsNoProbability": 0.5334,
-        "over25Probability": 0.7,
-        "under25Probability": 0.3,
-        "homeWinProbability": 0.7907,
-        "drawProbability": 0.1156,
-        "awayWinProbability": 0.1263,
+        "homeExpectedGoals": 3.33,
+        "awayExpectedGoals": 0.91,
+        "totalExpectedGoals": 4.24,
+        "bttsProbability": 0.5668,
+        "bttsNoProbability": 0.4332,
+        "over25Probability": 0.7741,
+        "under25Probability": 0.2259,
+        "homeWinProbability": 0.791,
+        "drawProbability": 0.1102,
+        "awayWinProbability": 0.1239,
         "predictedScore": {
           "home": 3,
           "away": 0,
-          "probability": 0.1134
+          "probability": 0.0886
         },
-        "bttsPick": "BTTS_NO",
+        "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
+        "overUnderConfidence": 55,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1832,
+          "homeElo": 1857,
           "awayElo": 1719,
-          "eloWinProb": 0.736
+          "eloWinProb": 0.763
         }
       },
-      "confidenceScore": 70
+      "confidenceScore": 77
     },
     {
-      "id": "fix_10_14_StJohnstone",
+      "id": "fix_10_12_StJohnstone",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Wed 02/12",
       "dateIso": "2026-11-25T12:00:00.000Z",
-      "daysFromNow": 1,
+      "daysFromNow": 0,
       "time": "19:45",
       "homeTeam": "St Johnstone",
       "awayTeam": "St Mirren",
@@ -942,20 +800,20 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 2.8,
+        "homeExpectedGoals": 2.77,
         "awayExpectedGoals": 0.57,
-        "totalExpectedGoals": 3.37,
-        "bttsProbability": 0.4081,
-        "bttsNoProbability": 0.5919,
-        "over25Probability": 0.6463,
-        "under25Probability": 0.3537,
-        "homeWinProbability": 0.7701,
-        "drawProbability": 0.1221,
-        "awayWinProbability": 0.1453,
+        "totalExpectedGoals": 3.34,
+        "bttsProbability": 0.4059,
+        "bttsNoProbability": 0.5941,
+        "over25Probability": 0.6405,
+        "under25Probability": 0.3595,
+        "homeWinProbability": 0.7704,
+        "drawProbability": 0.1242,
+        "awayWinProbability": 0.144,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1347
+          "probability": 0.1363
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -964,25 +822,25 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1669,
-          "awayElo": 1608,
-          "eloWinProb": 0.674
+          "awayElo": 1604,
+          "eloWinProb": 0.679
         }
       },
       "pred": {
-        "homeExpectedGoals": 2.8,
+        "homeExpectedGoals": 2.77,
         "awayExpectedGoals": 0.57,
-        "totalExpectedGoals": 3.37,
-        "bttsProbability": 0.4081,
-        "bttsNoProbability": 0.5919,
-        "over25Probability": 0.6463,
-        "under25Probability": 0.3537,
-        "homeWinProbability": 0.7701,
-        "drawProbability": 0.1221,
-        "awayWinProbability": 0.1453,
+        "totalExpectedGoals": 3.34,
+        "bttsProbability": 0.4059,
+        "bttsNoProbability": 0.5941,
+        "over25Probability": 0.6405,
+        "under25Probability": 0.3595,
+        "homeWinProbability": 0.7704,
+        "drawProbability": 0.1242,
+        "awayWinProbability": 0.144,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1347
+          "probability": 0.1363
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -991,19 +849,19 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1669,
-          "awayElo": 1608,
-          "eloWinProb": 0.674
+          "awayElo": 1604,
+          "eloWinProb": 0.679
         }
       },
-      "confidenceScore": 65
+      "confidenceScore": 64
     },
     {
-      "id": "fix_10_15_Aberdeen",
+      "id": "fix_10_13_Aberdeen",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "15:00",
       "homeTeam": "Aberdeen",
       "awayTeam": "Dundee Utd",
@@ -1013,20 +871,20 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 0.68,
-        "awayExpectedGoals": 1.96,
+        "homeExpectedGoals": 0.67,
+        "awayExpectedGoals": 1.97,
         "totalExpectedGoals": 2.64,
-        "bttsProbability": 0.4272,
-        "bttsNoProbability": 0.5728,
-        "over25Probability": 0.4901,
-        "under25Probability": 0.5099,
-        "homeWinProbability": 0.2411,
-        "drawProbability": 0.2141,
-        "awayWinProbability": 0.6191,
+        "bttsProbability": 0.4236,
+        "bttsNoProbability": 0.5764,
+        "over25Probability": 0.4904,
+        "under25Probability": 0.5096,
+        "homeWinProbability": 0.2377,
+        "drawProbability": 0.2122,
+        "awayWinProbability": 0.6237,
         "predictedScore": {
           "home": 0,
           "away": 2,
-          "probability": 0.1377
+          "probability": 0.1391
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1034,26 +892,26 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1639,
+          "homeElo": 1636,
           "awayElo": 1719,
-          "eloWinProb": 0.478
+          "eloWinProb": 0.474
         }
       },
       "pred": {
-        "homeExpectedGoals": 0.68,
-        "awayExpectedGoals": 1.96,
+        "homeExpectedGoals": 0.67,
+        "awayExpectedGoals": 1.97,
         "totalExpectedGoals": 2.64,
-        "bttsProbability": 0.4272,
-        "bttsNoProbability": 0.5728,
-        "over25Probability": 0.4901,
-        "under25Probability": 0.5099,
-        "homeWinProbability": 0.2411,
-        "drawProbability": 0.2141,
-        "awayWinProbability": 0.6191,
+        "bttsProbability": 0.4236,
+        "bttsNoProbability": 0.5764,
+        "over25Probability": 0.4904,
+        "under25Probability": 0.5096,
+        "homeWinProbability": 0.2377,
+        "drawProbability": 0.2122,
+        "awayWinProbability": 0.6237,
         "predictedScore": {
           "home": 0,
           "away": 2,
-          "probability": 0.1377
+          "probability": 0.1391
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1061,17 +919,267 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1639,
+          "homeElo": 1636,
           "awayElo": 1719,
-          "eloWinProb": 0.478
+          "eloWinProb": 0.474
         }
       },
-      "confidenceScore": 57
+      "confidenceScore": 58
+    },
+    {
+      "id": "fix_10_14_Celtic",
+      "leagueId": "10",
+      "leagueName": "Scottish Premiership",
+      "dateRaw": "Sat 05/12",
+      "dateIso": "2026-11-28T12:00:00.000Z",
+      "daysFromNow": 3,
+      "time": "15:00",
+      "homeTeam": "Celtic",
+      "awayTeam": "St Johnstone",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.28,
+        "totalExpectedGoals": 4.78,
+        "bttsProbability": 0.2224,
+        "bttsNoProbability": 0.7776,
+        "over25Probability": 0.7692,
+        "under25Probability": 0.2308,
+        "homeWinProbability": 0.8685,
+        "drawProbability": 0.0242,
+        "awayWinProbability": 0.0595,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.1432
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 56,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 54,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1889,
+          "awayElo": 1669,
+          "eloWinProb": 0.838
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.28,
+        "totalExpectedGoals": 4.78,
+        "bttsProbability": 0.2224,
+        "bttsNoProbability": 0.7776,
+        "over25Probability": 0.7692,
+        "under25Probability": 0.2308,
+        "homeWinProbability": 0.8685,
+        "drawProbability": 0.0242,
+        "awayWinProbability": 0.0595,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.1432
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 56,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 54,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1889,
+          "awayElo": 1669,
+          "eloWinProb": 0.838
+        }
+      },
+      "confidenceScore": 78
+    },
+    {
+      "id": "fix_10_15_Dundee",
+      "leagueId": "10",
+      "leagueName": "Scottish Premiership",
+      "dateRaw": "Sat 05/12",
+      "dateIso": "2026-11-28T12:00:00.000Z",
+      "daysFromNow": 3,
+      "time": "15:00",
+      "homeTeam": "Dundee",
+      "awayTeam": "Falkirk",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 1,
+        "awayExpectedGoals": 2.83,
+        "totalExpectedGoals": 3.83,
+        "bttsProbability": 0.5927,
+        "bttsNoProbability": 0.4073,
+        "over25Probability": 0.7277,
+        "under25Probability": 0.2723,
+        "homeWinProbability": 0.2202,
+        "drawProbability": 0.15,
+        "awayWinProbability": 0.6767,
+        "predictedScore": {
+          "home": 0,
+          "away": 2,
+          "probability": 0.0869
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.85,
+        "eloBlend": {
+          "homeElo": 1659,
+          "awayElo": 1765,
+          "eloWinProb": 0.441
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1,
+        "awayExpectedGoals": 2.83,
+        "totalExpectedGoals": 3.83,
+        "bttsProbability": 0.5927,
+        "bttsNoProbability": 0.4073,
+        "over25Probability": 0.7277,
+        "under25Probability": 0.2723,
+        "homeWinProbability": 0.2202,
+        "drawProbability": 0.15,
+        "awayWinProbability": 0.6767,
+        "predictedScore": {
+          "home": 0,
+          "away": 2,
+          "probability": 0.0869
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.85,
+        "eloBlend": {
+          "homeElo": 1659,
+          "awayElo": 1765,
+          "eloWinProb": 0.441
+        }
+      },
+      "confidenceScore": 73
     }
   ],
   "results": [
     {
-      "id": "res_10_1_Motherwell",
+      "id": "res_10_1_Rangers",
+      "leagueId": "10",
+      "leagueName": "Scottish Premiership",
+      "dateRaw": "Tue 24-Nov-2026",
+      "dateIso": "2026-12-01T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "20:00",
+      "homeTeam": "Rangers",
+      "awayTeam": "Aberdeen",
+      "score": "3-2",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "totalGoals": 5,
+      "actualBtts": true,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 4.5,
+        "awayExpectedGoals": 0.77,
+        "totalExpectedGoals": 5.27,
+        "bttsProbability": 0.4852,
+        "bttsNoProbability": 0.5148,
+        "over25Probability": 0.8097,
+        "under25Probability": 0.1903,
+        "homeWinProbability": 0.8428,
+        "drawProbability": 0.0479,
+        "awayWinProbability": 0.0698,
+        "predictedScore": {
+          "home": 4,
+          "away": 0,
+          "probability": 0.088
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 62,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1857,
+          "awayElo": 1636,
+          "eloWinProb": 0.838
+        },
+        "matchFingerprint": "10_rangers_aberdeen_Tue 24-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-25T16:59:32.965Z",
+        "auditHash": "SHA256-IMMUTABLE-6A29BFC2-2026-11-25",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": false,
+        "overUnderHit": true,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_10_2_Hibernian",
+      "leagueId": "10",
+      "leagueName": "Scottish Premiership",
+      "dateRaw": "Tue 24-Nov-2026",
+      "dateIso": "2026-12-01T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "19:45",
+      "homeTeam": "Hibernian",
+      "awayTeam": "Dundee",
+      "score": "2-1",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "totalGoals": 3,
+      "actualBtts": true,
+      "actualOver25": true,
+      "prediction": {
+        "homeExpectedGoals": 0.91,
+        "awayExpectedGoals": 1.5,
+        "totalExpectedGoals": 2.41,
+        "bttsProbability": 0.4727,
+        "bttsNoProbability": 0.5273,
+        "over25Probability": 0.4335,
+        "under25Probability": 0.5665,
+        "homeWinProbability": 0.339,
+        "drawProbability": 0.2761,
+        "awayWinProbability": 0.4814,
+        "predictedScore": {
+          "home": 1,
+          "away": 1,
+          "probability": 0.1301
+        },
+        "bttsPick": "BTTS_NO",
+        "bttsConfidence": 40,
+        "overUnderPick": "UNDER_2_5",
+        "overUnderConfidence": 40,
+        "iicdScore": 0.85,
+        "eloBlend": {
+          "homeElo": 1632,
+          "awayElo": 1659,
+          "eloWinProb": 0.554
+        },
+        "matchFingerprint": "10_hibernian_dundee_Tue 24-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-25T16:59:32.965Z",
+        "auditHash": "SHA256-IMMUTABLE-1AD81A51-2026-11-25",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": false,
+        "overUnderHit": false,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_10_3_Motherwell",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1087,34 +1195,34 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 0.39,
-        "awayExpectedGoals": 2.65,
-        "totalExpectedGoals": 3.04,
-        "bttsProbability": 0.299,
-        "bttsNoProbability": 0.701,
-        "over25Probability": 0.5793,
-        "under25Probability": 0.4207,
-        "homeWinProbability": 0.1241,
-        "drawProbability": 0.1171,
-        "awayWinProbability": 0.796,
+        "homeExpectedGoals": 0.36,
+        "awayExpectedGoals": 2.77,
+        "totalExpectedGoals": 3.14,
+        "bttsProbability": 0.2861,
+        "bttsNoProbability": 0.7139,
+        "over25Probability": 0.599,
+        "under25Probability": 0.401,
+        "homeWinProbability": 0.1088,
+        "drawProbability": 0.1048,
+        "awayWinProbability": 0.818,
         "predictedScore": {
           "home": 0,
           "away": 2,
-          "probability": 0.1685
+          "probability": 0.167
         },
         "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
+        "bttsConfidence": 43,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1615,
-          "awayElo": 1832,
-          "eloWinProb": 0.294
+          "homeElo": 1611,
+          "awayElo": 1857,
+          "eloWinProb": 0.261
         },
         "matchFingerprint": "10_motherwell_rangers_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:29.179Z",
-        "auditHash": "SHA256-IMMUTABLE-38671595-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:32.965Z",
+        "auditHash": "SHA256-IMMUTABLE-592F1DDB-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1125,7 +1233,7 @@
       }
     },
     {
-      "id": "res_10_2_Dundee",
+      "id": "res_10_4_Dundee",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1141,34 +1249,34 @@
       "actualBtts": false,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.95,
+        "homeExpectedGoals": 1.84,
         "awayExpectedGoals": 4,
-        "totalExpectedGoals": 5.95,
-        "bttsProbability": 0.7983,
-        "bttsNoProbability": 0.2017,
-        "over25Probability": 0.8837,
-        "under25Probability": 0.1163,
-        "homeWinProbability": 0.2447,
-        "drawProbability": 0.1226,
-        "awayWinProbability": 0.6418,
+        "totalExpectedGoals": 5.84,
+        "bttsProbability": 0.7839,
+        "bttsNoProbability": 0.2161,
+        "over25Probability": 0.8789,
+        "under25Probability": 0.1211,
+        "homeWinProbability": 0.2353,
+        "drawProbability": 0.1188,
+        "awayWinProbability": 0.6538,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0542
+          "probability": 0.057
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 51,
+        "bttsConfidence": 48,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 65,
+        "overUnderConfidence": 64,
         "iicdScore": 0.85,
         "eloBlend": {
-          "homeElo": 1662,
+          "homeElo": 1659,
           "awayElo": 1769,
-          "eloWinProb": 0.44
+          "eloWinProb": 0.436
         },
         "matchFingerprint": "10_dundee_hearts_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:29.179Z",
-        "auditHash": "SHA256-IMMUTABLE-7F9D0C1B-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:32.965Z",
+        "auditHash": "SHA256-IMMUTABLE-13C94795-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1179,7 +1287,7 @@
       }
     },
     {
-      "id": "res_10_3_Celtic",
+      "id": "res_10_5_Celtic",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1198,17 +1306,17 @@
         "homeExpectedGoals": 4.5,
         "awayExpectedGoals": 0.21,
         "totalExpectedGoals": 4.71,
-        "bttsProbability": 0.1741,
-        "bttsNoProbability": 0.8259,
-        "over25Probability": 0.7625,
-        "under25Probability": 0.2375,
-        "homeWinProbability": 0.8863,
+        "bttsProbability": 0.1732,
+        "bttsNoProbability": 0.8268,
+        "over25Probability": 0.7624,
+        "under25Probability": 0.2376,
+        "homeWinProbability": 0.8872,
         "drawProbability": 0.0209,
-        "awayWinProbability": 0.0438,
+        "awayWinProbability": 0.043,
         "predictedScore": {
           "home": 4,
           "away": 0,
-          "probability": 0.1533
+          "probability": 0.1535
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 65,
@@ -1217,12 +1325,12 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1889,
-          "awayElo": 1608,
-          "eloWinProb": 0.88
+          "awayElo": 1604,
+          "eloWinProb": 0.882
         },
         "matchFingerprint": "10_celtic_st mirren_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:29.179Z",
-        "auditHash": "SHA256-IMMUTABLE-42384747-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:32.966Z",
+        "auditHash": "SHA256-IMMUTABLE-61A2D22B-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1233,7 +1341,7 @@
       }
     },
     {
-      "id": "res_10_4_Falkirk",
+      "id": "res_10_6_Falkirk",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1249,20 +1357,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 2.69,
+        "homeExpectedGoals": 2.64,
         "awayExpectedGoals": 0.52,
-        "totalExpectedGoals": 3.21,
-        "bttsProbability": 0.3785,
-        "bttsNoProbability": 0.6215,
-        "over25Probability": 0.6148,
-        "under25Probability": 0.3852,
-        "homeWinProbability": 0.7839,
-        "drawProbability": 0.127,
-        "awayWinProbability": 0.1293,
+        "totalExpectedGoals": 3.16,
+        "bttsProbability": 0.3776,
+        "bttsNoProbability": 0.6224,
+        "over25Probability": 0.6062,
+        "under25Probability": 0.3938,
+        "homeWinProbability": 0.7808,
+        "drawProbability": 0.1308,
+        "awayWinProbability": 0.1304,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1462
+          "probability": 0.1478
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1275,8 +1383,8 @@
           "eloWinProb": 0.716
         },
         "matchFingerprint": "10_falkirk_st johnstone_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:29.179Z",
-        "auditHash": "SHA256-IMMUTABLE-325905D1-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:32.966Z",
+        "auditHash": "SHA256-IMMUTABLE-35A9F4C3-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1287,7 +1395,7 @@
       }
     },
     {
-      "id": "res_10_5_Hibernian",
+      "id": "res_10_7_Hibernian",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1303,45 +1411,45 @@
       "actualBtts": false,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 0.64,
-        "awayExpectedGoals": 3.48,
-        "totalExpectedGoals": 4.11,
-        "bttsProbability": 0.4461,
-        "bttsNoProbability": 0.5539,
-        "over25Probability": 0.7522,
-        "under25Probability": 0.2478,
-        "homeWinProbability": 0.1688,
-        "drawProbability": 0.0825,
-        "awayWinProbability": 0.7607,
+        "homeExpectedGoals": 0.83,
+        "awayExpectedGoals": 3.09,
+        "totalExpectedGoals": 3.92,
+        "bttsProbability": 0.5353,
+        "bttsNoProbability": 0.4647,
+        "over25Probability": 0.7365,
+        "under25Probability": 0.2635,
+        "homeWinProbability": 0.2065,
+        "drawProbability": 0.1208,
+        "awayWinProbability": 0.706,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.1146
+          "probability": 0.0971
         },
-        "bttsPick": "BTTS_NO",
+        "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 50,
+        "overUnderConfidence": 47,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1599,
+          "homeElo": 1632,
           "awayElo": 1719,
-          "eloWinProb": 0.422
+          "eloWinProb": 0.468
         },
         "matchFingerprint": "10_hibernian_dundee utd_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:29.179Z",
-        "auditHash": "SHA256-IMMUTABLE-8A6F351-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:32.966Z",
+        "auditHash": "SHA256-IMMUTABLE-52F6B30C-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
-        "bttsHit": true,
+        "bttsHit": false,
         "overUnderHit": true,
-        "bothHit": true,
+        "bothHit": false,
         "exactScoreHit": false
       }
     },
     {
-      "id": "res_10_6_Kilmarnock",
+      "id": "res_10_8_Kilmarnock",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1357,34 +1465,34 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.51,
-        "awayExpectedGoals": 3.56,
-        "totalExpectedGoals": 5.08,
-        "bttsProbability": 0.7369,
-        "bttsNoProbability": 0.2631,
-        "over25Probability": 0.8522,
-        "under25Probability": 0.1478,
-        "homeWinProbability": 0.2373,
-        "drawProbability": 0.1281,
-        "awayWinProbability": 0.6604,
+        "homeExpectedGoals": 1.63,
+        "awayExpectedGoals": 3.62,
+        "totalExpectedGoals": 5.25,
+        "bttsProbability": 0.7592,
+        "bttsNoProbability": 0.2408,
+        "over25Probability": 0.863,
+        "under25Probability": 0.137,
+        "homeWinProbability": 0.2458,
+        "drawProbability": 0.13,
+        "awayWinProbability": 0.649,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0712
+          "probability": 0.0676
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 47,
+        "bttsConfidence": 52,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 70,
+        "overUnderConfidence": 73,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1544,
-          "awayElo": 1639,
-          "eloWinProb": 0.457
+          "awayElo": 1636,
+          "eloWinProb": 0.461
         },
         "matchFingerprint": "10_kilmarnock_aberdeen_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:29.180Z",
-        "auditHash": "SHA256-IMMUTABLE-28C4C879-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:32.966Z",
+        "auditHash": "SHA256-IMMUTABLE-3FBAA04A-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1395,7 +1503,7 @@
       }
     },
     {
-      "id": "res_10_7_Celtic",
+      "id": "res_10_9_Celtic",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1414,8 +1522,8 @@
         "homeExpectedGoals": 4.5,
         "awayExpectedGoals": 0.23,
         "totalExpectedGoals": 4.73,
-        "bttsProbability": 0.1878,
-        "bttsNoProbability": 0.8122,
+        "bttsProbability": 0.1879,
+        "bttsNoProbability": 0.8121,
         "over25Probability": 0.7644,
         "under25Probability": 0.2356,
         "homeWinProbability": 0.8973,
@@ -1437,8 +1545,8 @@
           "eloWinProb": 0.914
         },
         "matchFingerprint": "10_celtic_kilmarnock_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:29.180Z",
-        "auditHash": "SHA256-IMMUTABLE-487D1821-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:32.966Z",
+        "auditHash": "SHA256-IMMUTABLE-591F4867-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1449,7 +1557,7 @@
       }
     },
     {
-      "id": "res_10_8_Hearts",
+      "id": "res_10_10_Hearts",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1465,25 +1573,25 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 2.32,
+        "homeExpectedGoals": 2.28,
         "awayExpectedGoals": 1.67,
-        "totalExpectedGoals": 3.98,
-        "bttsProbability": 0.733,
-        "bttsNoProbability": 0.267,
-        "over25Probability": 0.7566,
-        "under25Probability": 0.2434,
-        "homeWinProbability": 0.5461,
-        "drawProbability": 0.2067,
-        "awayWinProbability": 0.3175,
+        "totalExpectedGoals": 3.95,
+        "bttsProbability": 0.7303,
+        "bttsNoProbability": 0.2697,
+        "over25Probability": 0.7513,
+        "under25Probability": 0.2487,
+        "homeWinProbability": 0.5413,
+        "drawProbability": 0.2089,
+        "awayWinProbability": 0.3211,
         "predictedScore": {
           "home": 2,
           "away": 1,
-          "probability": 0.0833
+          "probability": 0.0837
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 47,
+        "bttsConfidence": 46,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 51,
+        "overUnderConfidence": 50,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1769,
@@ -1491,8 +1599,8 @@
           "eloWinProb": 0.598
         },
         "matchFingerprint": "10_hearts_falkirk_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:29.180Z",
-        "auditHash": "SHA256-IMMUTABLE-1A265015-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:32.966Z",
+        "auditHash": "SHA256-IMMUTABLE-1A7BE830-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1503,7 +1611,7 @@
       }
     },
     {
-      "id": "res_10_9_StMirren",
+      "id": "res_10_11_StMirren",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 07-Nov-2026",
@@ -1519,20 +1627,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 0.53,
-        "awayExpectedGoals": 2.87,
-        "totalExpectedGoals": 3.4,
-        "bttsProbability": 0.3854,
-        "bttsNoProbability": 0.6146,
-        "over25Probability": 0.6505,
-        "under25Probability": 0.3495,
-        "homeWinProbability": 0.1264,
-        "drawProbability": 0.1127,
-        "awayWinProbability": 0.7943,
+        "homeExpectedGoals": 0.5,
+        "awayExpectedGoals": 3,
+        "totalExpectedGoals": 3.5,
+        "bttsProbability": 0.3694,
+        "bttsNoProbability": 0.6306,
+        "over25Probability": 0.6669,
+        "under25Probability": 0.3331,
+        "homeWinProbability": 0.1103,
+        "drawProbability": 0.1004,
+        "awayWinProbability": 0.8166,
         "predictedScore": {
           "home": 0,
-          "away": 2,
-          "probability": 0.1378
+          "away": 3,
+          "probability": 0.1365
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1540,24 +1648,24 @@
         "overUnderConfidence": 40,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1608,
-          "awayElo": 1832,
-          "eloWinProb": 0.286
+          "homeElo": 1604,
+          "awayElo": 1857,
+          "eloWinProb": 0.253
         },
         "matchFingerprint": "10_st mirren_rangers_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:29.180Z",
-        "auditHash": "SHA256-IMMUTABLE-1889BE5E-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:32.966Z",
+        "auditHash": "SHA256-IMMUTABLE-3EEC6E74-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
         "bttsHit": true,
         "overUnderHit": false,
         "bothHit": false,
-        "exactScoreHit": true
+        "exactScoreHit": false
       }
     },
     {
-      "id": "res_10_10_Aberdeen",
+      "id": "res_10_12_Aberdeen",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 07-Nov-2026",
@@ -1573,34 +1681,34 @@
       "actualBtts": false,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 0.57,
-        "awayExpectedGoals": 1.25,
-        "totalExpectedGoals": 1.82,
-        "bttsProbability": 0.3161,
-        "bttsNoProbability": 0.6839,
-        "over25Probability": 0.2739,
-        "under25Probability": 0.7261,
-        "homeWinProbability": 0.3318,
-        "drawProbability": 0.3138,
-        "awayWinProbability": 0.4642,
+        "homeExpectedGoals": 0.53,
+        "awayExpectedGoals": 1.37,
+        "totalExpectedGoals": 1.9,
+        "bttsProbability": 0.314,
+        "bttsNoProbability": 0.686,
+        "over25Probability": 0.2958,
+        "under25Probability": 0.7042,
+        "homeWinProbability": 0.299,
+        "drawProbability": 0.2933,
+        "awayWinProbability": 0.5103,
         "predictedScore": {
           "home": 0,
           "away": 1,
-          "probability": 0.196
+          "probability": 0.1981
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 45,
+        "overUnderConfidence": 41,
         "iicdScore": 1,
         "eloBlend": {
-          "homeElo": 1639,
-          "awayElo": 1599,
-          "eloWinProb": 0.647
+          "homeElo": 1636,
+          "awayElo": 1632,
+          "eloWinProb": 0.598
         },
         "matchFingerprint": "10_aberdeen_hibernian_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:29.180Z",
-        "auditHash": "SHA256-IMMUTABLE-6329D21C-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:32.966Z",
+        "auditHash": "SHA256-IMMUTABLE-F9B2F5-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1611,7 +1719,7 @@
       }
     },
     {
-      "id": "res_10_11_DundeeUtd",
+      "id": "res_10_13_DundeeUtd",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 07-Nov-2026",
@@ -1627,20 +1735,20 @@
       "actualBtts": true,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 2.32,
+        "homeExpectedGoals": 2.3,
         "awayExpectedGoals": 1.11,
-        "totalExpectedGoals": 3.44,
-        "bttsProbability": 0.6093,
-        "bttsNoProbability": 0.3907,
-        "over25Probability": 0.6649,
-        "under25Probability": 0.3351,
-        "homeWinProbability": 0.6674,
-        "drawProbability": 0.1974,
-        "awayWinProbability": 0.2025,
+        "totalExpectedGoals": 3.41,
+        "bttsProbability": 0.6061,
+        "bttsNoProbability": 0.3939,
+        "over25Probability": 0.6596,
+        "under25Probability": 0.3404,
+        "homeWinProbability": 0.6673,
+        "drawProbability": 0.1991,
+        "awayWinProbability": 0.2016,
         "predictedScore": {
           "home": 2,
           "away": 1,
-          "probability": 0.0966
+          "probability": 0.097
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1649,12 +1757,12 @@
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1719,
-          "awayElo": 1615,
-          "eloWinProb": 0.726
+          "awayElo": 1611,
+          "eloWinProb": 0.73
         },
         "matchFingerprint": "10_dundee utd_motherwell_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:29.180Z",
-        "auditHash": "SHA256-IMMUTABLE-7C869FCE-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:32.966Z",
+        "auditHash": "SHA256-IMMUTABLE-26D12DAD-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1665,7 +1773,7 @@
       }
     },
     {
-      "id": "res_10_12_StJohnstone",
+      "id": "res_10_14_StJohnstone",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sat 07-Nov-2026",
@@ -1681,20 +1789,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.72,
-        "awayExpectedGoals": 1.07,
-        "totalExpectedGoals": 2.8,
-        "bttsProbability": 0.547,
-        "bttsNoProbability": 0.453,
-        "over25Probability": 0.5293,
-        "under25Probability": 0.4707,
-        "homeWinProbability": 0.5481,
-        "drawProbability": 0.2516,
-        "awayWinProbability": 0.288,
+        "homeExpectedGoals": 1.83,
+        "awayExpectedGoals": 1.01,
+        "totalExpectedGoals": 2.84,
+        "bttsProbability": 0.5397,
+        "bttsNoProbability": 0.4603,
+        "over25Probability": 0.5385,
+        "under25Probability": 0.4615,
+        "homeWinProbability": 0.5746,
+        "drawProbability": 0.2413,
+        "awayWinProbability": 0.2681,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1196
+          "probability": 0.1147
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1703,12 +1811,12 @@
         "iicdScore": 0.85,
         "eloBlend": {
           "homeElo": 1669,
-          "awayElo": 1662,
-          "eloWinProb": 0.602
+          "awayElo": 1659,
+          "eloWinProb": 0.606
         },
         "matchFingerprint": "10_st johnstone_dundee_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:29.180Z",
-        "auditHash": "SHA256-IMMUTABLE-237C4C2D-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:32.966Z",
+        "auditHash": "SHA256-IMMUTABLE-4A84275E-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1719,7 +1827,7 @@
       }
     },
     {
-      "id": "res_10_13_Falkirk",
+      "id": "res_10_15_Falkirk",
       "leagueId": "10",
       "leagueName": "Scottish Premiership",
       "dateRaw": "Sun 01-Nov-2026",
@@ -1735,20 +1843,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 0.93,
+        "homeExpectedGoals": 0.92,
         "awayExpectedGoals": 2.06,
-        "totalExpectedGoals": 2.99,
-        "bttsProbability": 0.5335,
-        "bttsNoProbability": 0.4665,
-        "over25Probability": 0.5727,
-        "under25Probability": 0.4273,
-        "homeWinProbability": 0.247,
-        "drawProbability": 0.2158,
-        "awayWinProbability": 0.6118,
+        "totalExpectedGoals": 2.97,
+        "bttsProbability": 0.5282,
+        "bttsNoProbability": 0.4718,
+        "over25Probability": 0.5694,
+        "under25Probability": 0.4306,
+        "homeWinProbability": 0.245,
+        "drawProbability": 0.2152,
+        "awayWinProbability": 0.6143,
         "predictedScore": {
           "home": 0,
           "away": 2,
-          "probability": 0.1066
+          "probability": 0.1082
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1761,8 +1869,8 @@
           "eloWinProb": 0.416
         },
         "matchFingerprint": "10_falkirk_celtic_Sun 01-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:29.180Z",
-        "auditHash": "SHA256-IMMUTABLE-26A7F661-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:32.966Z",
+        "auditHash": "SHA256-IMMUTABLE-5A02BD88-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1770,114 +1878,6 @@
         "overUnderHit": false,
         "bothHit": false,
         "exactScoreHit": false
-      }
-    },
-    {
-      "id": "res_10_14_Kilmarnock",
-      "leagueId": "10",
-      "leagueName": "Scottish Premiership",
-      "dateRaw": "Sat 31-Oct-2026",
-      "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "15:00",
-      "homeTeam": "Kilmarnock",
-      "awayTeam": "St Johnstone",
-      "score": "2-2",
-      "homeGoals": 2,
-      "awayGoals": 2,
-      "totalGoals": 4,
-      "actualBtts": true,
-      "actualOver25": true,
-      "prediction": {
-        "homeExpectedGoals": 1.35,
-        "awayExpectedGoals": 1.73,
-        "totalExpectedGoals": 3.08,
-        "bttsProbability": 0.6163,
-        "bttsNoProbability": 0.3837,
-        "over25Probability": 0.595,
-        "under25Probability": 0.405,
-        "homeWinProbability": 0.3362,
-        "drawProbability": 0.2475,
-        "awayWinProbability": 0.5026,
-        "predictedScore": {
-          "home": 1,
-          "away": 1,
-          "probability": 0.1136
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 40,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1544,
-          "awayElo": 1669,
-          "eloWinProb": 0.415
-        },
-        "matchFingerprint": "10_kilmarnock_st johnstone_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:29.180Z",
-        "auditHash": "SHA256-IMMUTABLE-586868F7-2026-11-24",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": true,
-        "overUnderHit": true,
-        "bothHit": true,
-        "exactScoreHit": false
-      }
-    },
-    {
-      "id": "res_10_15_Motherwell",
-      "leagueId": "10",
-      "leagueName": "Scottish Premiership",
-      "dateRaw": "Sat 31-Oct-2026",
-      "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "15:00",
-      "homeTeam": "Motherwell",
-      "awayTeam": "St Mirren",
-      "score": "1-0",
-      "homeGoals": 1,
-      "awayGoals": 0,
-      "totalGoals": 1,
-      "actualBtts": false,
-      "actualOver25": false,
-      "prediction": {
-        "homeExpectedGoals": 1.11,
-        "awayExpectedGoals": 0.62,
-        "totalExpectedGoals": 1.73,
-        "bttsProbability": 0.3174,
-        "bttsNoProbability": 0.6826,
-        "over25Probability": 0.2513,
-        "under25Probability": 0.7487,
-        "homeWinProbability": 0.5142,
-        "drawProbability": 0.3362,
-        "awayWinProbability": 0.2673,
-        "predictedScore": {
-          "home": 1,
-          "away": 0,
-          "probability": 0.1894
-        },
-        "bttsPick": "BTTS_NO",
-        "bttsConfidence": 40,
-        "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 50,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1615,
-          "awayElo": 1608,
-          "eloWinProb": 0.602
-        },
-        "matchFingerprint": "10_motherwell_st mirren_Sat 31-Oct_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:29.180Z",
-        "auditHash": "SHA256-IMMUTABLE-5BE62E37-2026-11-24",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": true,
-        "overUnderHit": true,
-        "bothHit": true,
-        "exactScoreHit": true
       }
     }
   ],
@@ -1916,21 +1916,21 @@
     "Rangers": {
       "pos": 2,
       "team": "Rangers",
-      "p": 13,
-      "hw": 4,
+      "p": 14,
+      "hw": 5,
       "hd": 0,
       "hl": 1,
-      "hf": 10,
-      "ha": 3,
+      "hf": 13,
+      "ha": 5,
       "aw": 5,
       "ad": 3,
       "al": 0,
       "af": 13,
       "aa": 7,
-      "gd": 13,
-      "pts": 30,
-      "ppg": 2.3,
-      "form": "WDWDWW",
+      "gd": 14,
+      "pts": 33,
+      "ppg": 2.35,
+      "form": "DWDWWW",
       "ycF": 2.4,
       "ycA": 2.4,
       "rcF": 0,
@@ -2024,18 +2024,18 @@
       "pts": 20,
       "ppg": 1.53,
       "form": "WDWDDW",
-      "ycF": 2.2,
+      "ycF": 2.1,
       "ycA": 2,
       "rcF": 0,
       "rcA": 0,
       "psF": 42,
-      "psA": 58,
-      "cF": 5.3,
-      "cA": 6.3,
-      "stF": 4.2,
-      "stA": 5,
-      "sntF": 4.7,
-      "sntA": 8.3
+      "psA": 59,
+      "cF": 5,
+      "cA": 6.1,
+      "stF": 4,
+      "stA": 4.7,
+      "sntF": 5,
+      "sntA": 8
     },
     "St Johnstone": {
       "pos": 6,
@@ -2071,7 +2071,7 @@
     "Dundee": {
       "pos": 7,
       "team": "Dundee",
-      "p": 13,
+      "p": 14,
       "hw": 3,
       "hd": 2,
       "hl": 2,
@@ -2079,18 +2079,18 @@
       "ha": 15,
       "aw": 2,
       "ad": 0,
-      "al": 4,
-      "af": 7,
-      "aa": 8,
-      "gd": -5,
+      "al": 5,
+      "af": 8,
+      "aa": 10,
+      "gd": -6,
       "pts": 17,
-      "ppg": 1.3,
-      "form": "WDLWLL"
+      "ppg": 1.21,
+      "form": "DLWLLL"
     },
     "Aberdeen": {
       "pos": 8,
       "team": "Aberdeen",
-      "p": 13,
+      "p": 14,
       "hw": 2,
       "hd": 1,
       "hl": 4,
@@ -2098,28 +2098,59 @@
       "ha": 9,
       "aw": 2,
       "ad": 1,
-      "al": 3,
-      "af": 11,
-      "aa": 11,
-      "gd": -4,
+      "al": 4,
+      "af": 13,
+      "aa": 14,
+      "gd": -5,
       "pts": 14,
-      "ppg": 1.07,
-      "form": "LWLLLW",
-      "ycF": 1.7,
-      "ycA": 1.3,
+      "ppg": 1,
+      "form": "WLLLWL",
+      "ycF": 2,
+      "ycA": 1.4,
       "rcF": 0,
       "rcA": 0,
-      "psF": 45,
-      "psA": 55,
+      "psF": 44,
+      "psA": 56,
+      "cF": 4.6,
+      "cA": 7.1,
+      "stF": 4.1,
+      "stA": 6.4,
+      "sntF": 4.4,
+      "sntA": 6.6
+    },
+    "Hibernian": {
+      "pos": 9,
+      "team": "Hibernian",
+      "p": 14,
+      "hw": 1,
+      "hd": 1,
+      "hl": 6,
+      "hf": 7,
+      "ha": 16,
+      "aw": 3,
+      "ad": 1,
+      "al": 2,
+      "af": 10,
+      "aa": 6,
+      "gd": -5,
+      "pts": 14,
+      "ppg": 1,
+      "form": "LLDWLW",
+      "ycF": 1.2,
+      "ycA": 2.2,
+      "rcF": 0,
+      "rcA": 0,
+      "psF": 50,
+      "psA": 50,
       "cF": 4.8,
-      "cA": 8,
+      "cA": 5.2,
       "stF": 3.8,
-      "stA": 6.7,
-      "sntF": 4.8,
-      "sntA": 6.3
+      "stA": 4.8,
+      "sntF": 4.2,
+      "sntA": 5.5
     },
     "St Mirren": {
-      "pos": 9,
+      "pos": 10,
       "team": "St Mirren",
       "p": 14,
       "hw": 2,
@@ -2150,7 +2181,7 @@
       "sntA": 4.9
     },
     "Motherwell": {
-      "pos": 10,
+      "pos": 11,
       "team": "Motherwell",
       "p": 14,
       "hw": 2,
@@ -2179,37 +2210,6 @@
       "stA": 6,
       "sntF": 4.6,
       "sntA": 6.3
-    },
-    "Hibernian": {
-      "pos": 11,
-      "team": "Hibernian",
-      "p": 13,
-      "hw": 0,
-      "hd": 1,
-      "hl": 6,
-      "hf": 5,
-      "ha": 15,
-      "aw": 3,
-      "ad": 1,
-      "al": 2,
-      "af": 10,
-      "aa": 6,
-      "gd": -6,
-      "pts": 11,
-      "ppg": 0.84,
-      "form": "LLLDWL",
-      "ycF": 1.2,
-      "ycA": 2.2,
-      "rcF": 0,
-      "rcA": 0,
-      "psF": 50,
-      "psA": 50,
-      "cF": 4.8,
-      "cA": 5.2,
-      "stF": 3.8,
-      "stA": 4.8,
-      "sntF": 4.2,
-      "sntA": 5.5
     },
     "Kilmarnock": {
       "pos": 12,
@@ -2246,31 +2246,31 @@
   "backtest": {
     "totalMatches": 15,
     "bttsEvaluated": 15,
-    "bttsHits": 10,
-    "bttsAccuracy": 66.7,
+    "bttsHits": 7,
+    "bttsAccuracy": 46.7,
     "overUnderEvaluated": 15,
-    "overUnderHits": 10,
-    "overUnderAccuracy": 66.7,
-    "overallAccuracy": 66.7,
-    "exactScoreHits": 2,
-    "exactScoreAccuracy": 13.3,
+    "overUnderHits": 9,
+    "overUnderAccuracy": 60,
+    "overallAccuracy": 53.3,
+    "exactScoreHits": 0,
+    "exactScoreAccuracy": 0,
     "confusionMatrix": {
       "btts": {
-        "predictedYesActualYes": 5,
-        "predictedYesActualNo": 2,
-        "predictedNoActualYes": 3,
-        "predictedNoActualNo": 5
+        "predictedYesActualYes": 4,
+        "predictedYesActualNo": 3,
+        "predictedNoActualYes": 5,
+        "predictedNoActualNo": 3
       },
       "overUnder": {
         "predictedOverActualOver": 9,
         "predictedOverActualUnder": 4,
-        "predictedUnderActualOver": 1,
-        "predictedUnderActualUnder": 1
+        "predictedUnderActualOver": 2,
+        "predictedUnderActualUnder": 0
       }
     },
-    "logLoss": 0.6623,
-    "brierScore": 0.2334,
-    "simulatedRoi": 27.3
+    "logLoss": 0.6919,
+    "brierScore": 0.2488,
+    "simulatedRoi": 1.9
   },
   "parameters": {
     "homeAdvantage": 1.18,

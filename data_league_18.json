@@ -1,7 +1,7 @@
 {
   "leagueId": "18",
   "leagueName": "Europa League",
-  "timestamp": "2026-11-24T17:18:32.678Z",
+  "timestamp": "2026-11-25T16:59:39.831Z",
   "fixtures": [
     {
       "id": "fix_18_1_Besiktas",
@@ -9,7 +9,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-26T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:45",
       "homeTeam": "Besiktas",
       "awayTeam": "Hapoel Be'er Sheva",
@@ -80,13 +80,13 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-26T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:45",
       "homeTeam": "Celta de Vigo",
       "awayTeam": "Bournemouth",
       "odds": {
         "home": 3.65,
-        "draw": 3.56,
+        "draw": 3.55,
         "away": 2.1
       },
       "prediction": {
@@ -151,7 +151,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-26T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:45",
       "homeTeam": "Dinamo Zagreb",
       "awayTeam": "Leverkusen",
@@ -222,14 +222,14 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-26T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:45",
       "homeTeam": "Marseille",
       "awayTeam": "Levski Sofia",
       "odds": {
-        "home": 1.46,
-        "draw": 4.76,
-        "away": 7.3
+        "home": 1.38,
+        "draw": 5.27,
+        "away": 8.6
       },
       "prediction": {
         "homeExpectedGoals": 0.25,
@@ -293,7 +293,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-26T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:45",
       "homeTeam": "Olympiacos",
       "awayTeam": "AC Milan",
@@ -364,7 +364,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-26T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:45",
       "homeTeam": "Plzen",
       "awayTeam": "Benfica",
@@ -435,7 +435,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-26T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:45",
       "homeTeam": "Salzburg",
       "awayTeam": "Ararat Armenia",
@@ -506,7 +506,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-26T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "17:45",
       "homeTeam": "Union St Gilloise",
       "awayTeam": "Lech Poznan",
@@ -577,14 +577,14 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-26T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "20:00",
       "homeTeam": "Crystal Palace",
       "awayTeam": "Real Sociedad",
       "odds": {
-        "home": 2.08,
-        "draw": 4.07,
-        "away": 3.29
+        "home": 2.07,
+        "draw": 4.13,
+        "away": 3.28
       },
       "prediction": {
         "homeExpectedGoals": 1.05,
@@ -648,7 +648,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-26T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "20:00",
       "homeTeam": "Ferencvaros",
       "awayTeam": "NK Celje",
@@ -719,14 +719,14 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-26T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "20:00",
       "homeTeam": "Hoffenheim",
       "awayTeam": "Sturm Graz",
       "odds": {
-        "home": 1.37,
-        "draw": 5.53,
-        "away": 8.3
+        "home": 1.34,
+        "draw": 5.78,
+        "away": 9
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
@@ -790,14 +790,14 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-26T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "20:00",
       "homeTeam": "Juventus",
       "awayTeam": "Omonia Nicosia",
       "odds": {
-        "home": 1.2,
+        "home": 1.19,
         "draw": 7.6,
-        "away": 15.5
+        "away": 16.25
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
@@ -861,7 +861,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-26T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "20:00",
       "homeTeam": "N.E.C.",
       "awayTeam": "Rennes",
@@ -932,7 +932,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-26T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "20:00",
       "homeTeam": "OFI Crete",
       "awayTeam": "Anderlecht",
@@ -1003,7 +1003,7 @@
       "leagueName": "Europa League",
       "dateRaw": "Thu 26/11",
       "dateIso": "2026-11-26T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "20:00",
       "homeTeam": "Olympique Lyonnais",
       "awayTeam": "Lillestrom",
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.406
         },
         "matchFingerprint": "18_az alkmaar_juventus_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:32.676Z",
-        "auditHash": "SHA256-IMMUTABLE-C89B6BF-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:39.829Z",
+        "auditHash": "SHA256-IMMUTABLE-4902FBB1-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.944
         },
         "matchFingerprint": "18_benfica_lech poznan_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:32.676Z",
-        "auditHash": "SHA256-IMMUTABLE-60E0A2CE-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:39.829Z",
+        "auditHash": "SHA256-IMMUTABLE-62A61840-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.238
         },
         "matchFingerprint": "18_celta de vigo_union st gilloise_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:32.676Z",
-        "auditHash": "SHA256-IMMUTABLE-6765982C-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:39.829Z",
+        "auditHash": "SHA256-IMMUTABLE-5C2122E2-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.311
         },
         "matchFingerprint": "18_celtic_besiktas_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:32.676Z",
-        "auditHash": "SHA256-IMMUTABLE-20F64055-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:39.829Z",
+        "auditHash": "SHA256-IMMUTABLE-1B83049D-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.32
         },
         "matchFingerprint": "18_hapoel be'er sheva_ofi crete_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:32.676Z",
-        "auditHash": "SHA256-IMMUTABLE-37F253C4-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:39.829Z",
+        "auditHash": "SHA256-IMMUTABLE-486F12E-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.863
         },
         "matchFingerprint": "18_leverkusen_marseille_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:32.676Z",
-        "auditHash": "SHA256-IMMUTABLE-1E3CFBCD-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:39.829Z",
+        "auditHash": "SHA256-IMMUTABLE-1E3C4925-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.602
         },
         "matchFingerprint": "18_sturm graz_nk celje_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:32.676Z",
-        "auditHash": "SHA256-IMMUTABLE-66518577-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:39.829Z",
+        "auditHash": "SHA256-IMMUTABLE-5D353597-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.577
         },
         "matchFingerprint": "18_sunderland_dinamo zagreb_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:32.676Z",
-        "auditHash": "SHA256-IMMUTABLE-40060FB0-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:39.829Z",
+        "auditHash": "SHA256-IMMUTABLE-38CCABE-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.835
         },
         "matchFingerprint": "18_torreense_ararat armenia_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:32.676Z",
-        "auditHash": "SHA256-IMMUTABLE-21E48082-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:39.829Z",
+        "auditHash": "SHA256-IMMUTABLE-1A94C470-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.187
         },
         "matchFingerprint": "18_ac milan_ferencvaros_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:32.676Z",
-        "auditHash": "SHA256-IMMUTABLE-3CF0F067-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:39.829Z",
+        "auditHash": "SHA256-IMMUTABLE-796A3559-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.733
         },
         "matchFingerprint": "18_anderlecht_salzburg_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:32.676Z",
-        "auditHash": "SHA256-IMMUTABLE-6748BABE-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:39.829Z",
+        "auditHash": "SHA256-IMMUTABLE-2ACF75CC-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.644
         },
         "matchFingerprint": "18_crystal palace_hoffenheim_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:32.676Z",
-        "auditHash": "SHA256-IMMUTABLE-D7514E3-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:39.829Z",
+        "auditHash": "SHA256-IMMUTABLE-2F04300F-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.796
         },
         "matchFingerprint": "18_levski sofia_jagiellonia bialystok_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:32.676Z",
-        "auditHash": "SHA256-IMMUTABLE-465B28A6-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:39.829Z",
+        "auditHash": "SHA256-IMMUTABLE-9E1E3B4-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.493
         },
         "matchFingerprint": "18_lillestrom_plzen_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:32.676Z",
-        "auditHash": "SHA256-IMMUTABLE-28D93E41-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:39.830Z",
+        "auditHash": "SHA256-IMMUTABLE-65528089-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.653
         },
         "matchFingerprint": "18_n.e.c._omonia nicosia_Thu 05-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:32.676Z",
-        "auditHash": "SHA256-IMMUTABLE-957399B-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:39.830Z",
+        "auditHash": "SHA256-IMMUTABLE-45D07BE3-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {

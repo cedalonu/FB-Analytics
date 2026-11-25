@@ -1,7 +1,7 @@
 {
   "leagueId": "33",
   "leagueName": "Serie A",
-  "timestamp": "2026-11-24T17:18:24.157Z",
+  "timestamp": "2026-11-25T16:59:29.177Z",
   "fixtures": [
     {
       "id": "fix_33_1_Venezia",
@@ -9,7 +9,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Fri 27/11",
       "dateIso": "2026-11-27T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "19:45",
       "homeTeam": "Venezia",
       "awayTeam": "Bologna",
@@ -80,7 +80,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "14:00",
       "homeTeam": "Frosinone",
       "awayTeam": "Parma",
@@ -151,7 +151,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "17:00",
       "homeTeam": "Torino",
       "awayTeam": "Lazio",
@@ -222,7 +222,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "19:45",
       "homeTeam": "Inter Milan",
       "awayTeam": "Genoa",
@@ -293,7 +293,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "11:30",
       "homeTeam": "Udinese",
       "awayTeam": "Fiorentina",
@@ -364,7 +364,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "14:00",
       "homeTeam": "Sassuolo",
       "awayTeam": "Napoli",
@@ -435,7 +435,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "17:00",
       "homeTeam": "AS Roma",
       "awayTeam": "Monza",
@@ -506,7 +506,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "19:45",
       "homeTeam": "Como",
       "awayTeam": "Juventus",
@@ -577,14 +577,14 @@
       "leagueName": "Serie A",
       "dateRaw": "Mon 30/11",
       "dateIso": "2026-11-30T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "17:30",
       "homeTeam": "Lecce",
       "awayTeam": "Atalanta",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 3.89,
+        "draw": 4.04,
+        "away": 1.96
       },
       "prediction": {
         "homeExpectedGoals": 1.04,
@@ -648,14 +648,14 @@
       "leagueName": "Serie A",
       "dateRaw": "Mon 30/11",
       "dateIso": "2026-11-30T12:00:00.000Z",
-      "daysFromNow": 6,
+      "daysFromNow": 5,
       "time": "19:45",
       "homeTeam": "Cagliari",
       "awayTeam": "AC Milan",
       "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
+        "home": 4.94,
+        "draw": 4.03,
+        "away": 1.77
       },
       "prediction": {
         "homeExpectedGoals": 0.3,
@@ -719,7 +719,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Fri 04/12",
       "dateIso": "2026-11-27T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "19:45",
       "homeTeam": "Bologna",
       "awayTeam": "AS Roma",
@@ -790,7 +790,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "14:00",
       "homeTeam": "Monza",
       "awayTeam": "Como",
@@ -861,7 +861,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "17:00",
       "homeTeam": "Frosinone",
       "awayTeam": "Inter Milan",
@@ -932,7 +932,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "19:45",
       "homeTeam": "Napoli",
       "awayTeam": "Lecce",
@@ -1003,7 +1003,7 @@
       "leagueName": "Serie A",
       "dateRaw": "Sun 06/12",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 5,
+      "daysFromNow": 4,
       "time": "11:30",
       "homeTeam": "Genoa",
       "awayTeam": "Torino",
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.639
         },
         "matchFingerprint": "33_monza_fiorentina_Mon 23-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:24.155Z",
-        "auditHash": "SHA256-IMMUTABLE-5B0CFF6-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:29.172Z",
+        "auditHash": "SHA256-IMMUTABLE-45949557-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.315
         },
         "matchFingerprint": "33_atalanta_inter milan_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:24.155Z",
-        "auditHash": "SHA256-IMMUTABLE-4780CEAA-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:29.172Z",
+        "auditHash": "SHA256-IMMUTABLE-789B6BF5-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.714
         },
         "matchFingerprint": "33_ac milan_frosinone_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:24.155Z",
-        "auditHash": "SHA256-IMMUTABLE-1D8EFB77-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:29.172Z",
+        "auditHash": "SHA256-IMMUTABLE-5D72C0D8-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.803
         },
         "matchFingerprint": "33_bologna_udinese_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:24.155Z",
-        "auditHash": "SHA256-IMMUTABLE-6998B421-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:29.172Z",
+        "auditHash": "SHA256-IMMUTABLE-5683867E-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.408
         },
         "matchFingerprint": "33_sassuolo_genoa_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:24.155Z",
-        "auditHash": "SHA256-IMMUTABLE-6A2CA599-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:29.172Z",
+        "auditHash": "SHA256-IMMUTABLE-2A48E038-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.856
         },
         "matchFingerprint": "33_juventus_venezia_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:24.156Z",
-        "auditHash": "SHA256-IMMUTABLE-E1C5595-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:29.172Z",
+        "auditHash": "SHA256-IMMUTABLE-31C76FEB-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.692
         },
         "matchFingerprint": "33_napoli_torino_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:24.156Z",
-        "auditHash": "SHA256-IMMUTABLE-5839426D-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:29.172Z",
+        "auditHash": "SHA256-IMMUTABLE-18557CED-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.169
         },
         "matchFingerprint": "33_parma_as roma_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:24.156Z",
-        "auditHash": "SHA256-IMMUTABLE-2345164C-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:29.172Z",
+        "auditHash": "SHA256-IMMUTABLE-1C9EAF34-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.778
         },
         "matchFingerprint": "33_como_cagliari_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:24.156Z",
-        "auditHash": "SHA256-IMMUTABLE-3BADF7F1-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:29.172Z",
+        "auditHash": "SHA256-IMMUTABLE-7B91BD71-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.904
         },
         "matchFingerprint": "33_lazio_lecce_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:24.156Z",
-        "auditHash": "SHA256-IMMUTABLE-16292560-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:29.173Z",
+        "auditHash": "SHA256-IMMUTABLE-560CEAC1-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.33
         },
         "matchFingerprint": "33_fiorentina_juventus_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:24.156Z",
-        "auditHash": "SHA256-IMMUTABLE-4BE51FDE-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:29.173Z",
+        "auditHash": "SHA256-IMMUTABLE-C015A7D-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.656
         },
         "matchFingerprint": "33_inter milan_como_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:24.156Z",
-        "auditHash": "SHA256-IMMUTABLE-3AD64486-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:29.173Z",
+        "auditHash": "SHA256-IMMUTABLE-50D80DB-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.365
         },
         "matchFingerprint": "33_genoa_ac milan_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:24.156Z",
-        "auditHash": "SHA256-IMMUTABLE-F6E37D9-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:29.173Z",
+        "auditHash": "SHA256-IMMUTABLE-30758D88-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.517
         },
         "matchFingerprint": "33_monza_atalanta_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:24.156Z",
-        "auditHash": "SHA256-IMMUTABLE-2879B9E0-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:29.173Z",
+        "auditHash": "SHA256-IMMUTABLE-176A0B81-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.342
         },
         "matchFingerprint": "33_napoli_lazio_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-24T17:18:24.156Z",
-        "auditHash": "SHA256-IMMUTABLE-1377CDDB-2026-11-24",
+        "lockedAt": "2026-11-25T16:59:29.173Z",
+        "auditHash": "SHA256-IMMUTABLE-2C6BF786-2026-11-25",
         "isImmutable": true
       },
       "evaluation": {
