@@ -1,180 +1,38 @@
 {
   "leagueId": "77",
   "leagueName": "Liga MX",
-  "timestamp": "2026-11-25T16:59:51.076Z",
+  "timestamp": "2026-11-26T16:40:20.213Z",
   "fixtures": [
     {
-      "id": "fix_77_1_Toluca",
-      "leagueId": "77",
-      "leagueName": "Liga MX",
-      "dateRaw": "Thu 26/11",
-      "dateIso": "2026-11-26T12:00:00.000Z",
-      "daysFromNow": 1,
-      "time": "01:00",
-      "homeTeam": "Toluca",
-      "awayTeam": "Club Atlas",
-      "odds": {
-        "home": 1.46,
-        "draw": 5.07,
-        "away": 6.3
-      },
-      "prediction": {
-        "homeExpectedGoals": 3.66,
-        "awayExpectedGoals": 2.24,
-        "totalExpectedGoals": 5.91,
-        "bttsProbability": 0.8399,
-        "bttsNoProbability": 0.1601,
-        "over25Probability": 0.8979,
-        "under25Probability": 0.1021,
-        "homeWinProbability": 0.621,
-        "drawProbability": 0.1461,
-        "awayWinProbability": 0.2608,
-        "predictedScore": {
-          "home": 3,
-          "away": 2,
-          "probability": 0.0561
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 68,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 80,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1801,
-          "awayElo": 1767,
-          "eloWinProb": 0.639
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 3.66,
-        "awayExpectedGoals": 2.24,
-        "totalExpectedGoals": 5.91,
-        "bttsProbability": 0.8399,
-        "bttsNoProbability": 0.1601,
-        "over25Probability": 0.8979,
-        "under25Probability": 0.1021,
-        "homeWinProbability": 0.621,
-        "drawProbability": 0.1461,
-        "awayWinProbability": 0.2608,
-        "predictedScore": {
-          "home": 3,
-          "away": 2,
-          "probability": 0.0561
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 68,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 80,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1801,
-          "awayElo": 1767,
-          "eloWinProb": 0.639
-        }
-      },
-      "confidenceScore": 90
-    },
-    {
-      "id": "fix_77_2_Monterrey",
-      "leagueId": "77",
-      "leagueName": "Liga MX",
-      "dateRaw": "Thu 26/11",
-      "dateIso": "2026-11-26T12:00:00.000Z",
-      "daysFromNow": 1,
-      "time": "03:10",
-      "homeTeam": "Monterrey",
-      "awayTeam": "Club America",
-      "odds": {
-        "home": 2.36,
-        "draw": 3.34,
-        "away": 3.19
-      },
-      "prediction": {
-        "homeExpectedGoals": 2.78,
-        "awayExpectedGoals": 3.05,
-        "totalExpectedGoals": 5.83,
-        "bttsProbability": 0.8754,
-        "bttsNoProbability": 0.1246,
-        "over25Probability": 0.9092,
-        "under25Probability": 0.0908,
-        "homeWinProbability": 0.4113,
-        "drawProbability": 0.1712,
-        "awayWinProbability": 0.464,
-        "predictedScore": {
-          "home": 2,
-          "away": 3,
-          "probability": 0.0537
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 75,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 82,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1773,
-          "awayElo": 1837,
-          "eloWinProb": 0.501
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 2.78,
-        "awayExpectedGoals": 3.05,
-        "totalExpectedGoals": 5.83,
-        "bttsProbability": 0.8754,
-        "bttsNoProbability": 0.1246,
-        "over25Probability": 0.9092,
-        "under25Probability": 0.0908,
-        "homeWinProbability": 0.4113,
-        "drawProbability": 0.1712,
-        "awayWinProbability": 0.464,
-        "predictedScore": {
-          "home": 2,
-          "away": 3,
-          "probability": 0.0537
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 75,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 82,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1773,
-          "awayElo": 1837,
-          "eloWinProb": 0.501
-        }
-      },
-      "confidenceScore": 91
-    },
-    {
-      "id": "fix_77_3_CFPachuca",
+      "id": "fix_77_1_CFPachuca",
       "leagueId": "77",
       "leagueName": "Liga MX",
       "dateRaw": "Fri 27/11",
       "dateIso": "2026-11-27T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "01:00",
       "homeTeam": "CF Pachuca",
       "awayTeam": "Guadalajara",
       "odds": {
-        "home": 2.74,
-        "draw": 3.27,
-        "away": 2.66
+        "home": 2.87,
+        "draw": 3.16,
+        "away": 2.69
       },
       "prediction": {
-        "homeExpectedGoals": 1.06,
-        "awayExpectedGoals": 2.2,
-        "totalExpectedGoals": 3.26,
-        "bttsProbability": 0.5857,
-        "bttsNoProbability": 0.4143,
-        "over25Probability": 0.6313,
-        "under25Probability": 0.3687,
-        "homeWinProbability": 0.2695,
-        "drawProbability": 0.2062,
-        "awayWinProbability": 0.5952,
+        "homeExpectedGoals": 1.07,
+        "awayExpectedGoals": 2.23,
+        "totalExpectedGoals": 3.3,
+        "bttsProbability": 0.589,
+        "bttsNoProbability": 0.411,
+        "over25Probability": 0.638,
+        "under25Probability": 0.362,
+        "homeWinProbability": 0.2681,
+        "drawProbability": 0.2038,
+        "awayWinProbability": 0.598,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.0984
+          "probability": 0.0981
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -188,20 +46,20 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.06,
-        "awayExpectedGoals": 2.2,
-        "totalExpectedGoals": 3.26,
-        "bttsProbability": 0.5857,
-        "bttsNoProbability": 0.4143,
-        "over25Probability": 0.6313,
-        "under25Probability": 0.3687,
-        "homeWinProbability": 0.2695,
-        "drawProbability": 0.2062,
-        "awayWinProbability": 0.5952,
+        "homeExpectedGoals": 1.07,
+        "awayExpectedGoals": 2.23,
+        "totalExpectedGoals": 3.3,
+        "bttsProbability": 0.589,
+        "bttsNoProbability": 0.411,
+        "over25Probability": 0.638,
+        "under25Probability": 0.362,
+        "homeWinProbability": 0.2681,
+        "drawProbability": 0.2038,
+        "awayWinProbability": 0.598,
         "predictedScore": {
           "home": 1,
           "away": 2,
-          "probability": 0.0984
+          "probability": 0.0981
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -214,43 +72,43 @@
           "eloWinProb": 0.461
         }
       },
-      "confidenceScore": 63
+      "confidenceScore": 64
     },
     {
-      "id": "fix_77_4_ClubLeon",
+      "id": "fix_77_2_ClubLeon",
       "leagueId": "77",
       "leagueName": "Liga MX",
       "dateRaw": "Fri 27/11",
       "dateIso": "2026-11-27T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "03:10",
       "homeTeam": "Club Leon",
       "awayTeam": "Cruz Azul",
       "odds": {
-        "home": 3.2,
-        "draw": 3.6,
-        "away": 2.2
+        "home": 3.28,
+        "draw": 3.64,
+        "away": 2.19
       },
       "prediction": {
-        "homeExpectedGoals": 2.02,
-        "awayExpectedGoals": 2.68,
-        "totalExpectedGoals": 4.69,
-        "bttsProbability": 0.8038,
-        "bttsNoProbability": 0.1962,
-        "over25Probability": 0.8397,
-        "under25Probability": 0.1603,
-        "homeWinProbability": 0.3517,
-        "drawProbability": 0.1881,
-        "awayWinProbability": 0.5212,
+        "homeExpectedGoals": 2.03,
+        "awayExpectedGoals": 2.71,
+        "totalExpectedGoals": 4.74,
+        "bttsProbability": 0.8064,
+        "bttsNoProbability": 0.1936,
+        "over25Probability": 0.8436,
+        "under25Probability": 0.1564,
+        "homeWinProbability": 0.3496,
+        "drawProbability": 0.1865,
+        "awayWinProbability": 0.524,
         "predictedScore": {
           "home": 2,
           "away": 2,
-          "probability": 0.0667
+          "probability": 0.0661
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 61,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 68,
+        "overUnderConfidence": 69,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1758,
@@ -259,25 +117,25 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 2.02,
-        "awayExpectedGoals": 2.68,
-        "totalExpectedGoals": 4.69,
-        "bttsProbability": 0.8038,
-        "bttsNoProbability": 0.1962,
-        "over25Probability": 0.8397,
-        "under25Probability": 0.1603,
-        "homeWinProbability": 0.3517,
-        "drawProbability": 0.1881,
-        "awayWinProbability": 0.5212,
+        "homeExpectedGoals": 2.03,
+        "awayExpectedGoals": 2.71,
+        "totalExpectedGoals": 4.74,
+        "bttsProbability": 0.8064,
+        "bttsNoProbability": 0.1936,
+        "over25Probability": 0.8436,
+        "under25Probability": 0.1564,
+        "homeWinProbability": 0.3496,
+        "drawProbability": 0.1865,
+        "awayWinProbability": 0.524,
         "predictedScore": {
           "home": 2,
           "away": 2,
-          "probability": 0.0667
+          "probability": 0.0661
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 61,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 68,
+        "overUnderConfidence": 69,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1758,
@@ -288,154 +146,12 @@
       "confidenceScore": 84
     },
     {
-      "id": "fix_77_5_ClubAmerica",
+      "id": "fix_77_3_CruzAzul",
       "leagueId": "77",
       "leagueName": "Liga MX",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 3,
-      "time": "21:00",
-      "homeTeam": "Club America",
-      "awayTeam": "Monterrey",
-      "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
-      },
-      "prediction": {
-        "homeExpectedGoals": 2.75,
-        "awayExpectedGoals": 1.04,
-        "totalExpectedGoals": 3.79,
-        "bttsProbability": 0.6043,
-        "bttsNoProbability": 0.3957,
-        "over25Probability": 0.7219,
-        "under25Probability": 0.2781,
-        "homeWinProbability": 0.7054,
-        "drawProbability": 0.1589,
-        "awayWinProbability": 0.1865,
-        "predictedScore": {
-          "home": 2,
-          "away": 1,
-          "probability": 0.0889
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 44,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1837,
-          "awayElo": 1773,
-          "eloWinProb": 0.678
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 2.75,
-        "awayExpectedGoals": 1.04,
-        "totalExpectedGoals": 3.79,
-        "bttsProbability": 0.6043,
-        "bttsNoProbability": 0.3957,
-        "over25Probability": 0.7219,
-        "under25Probability": 0.2781,
-        "homeWinProbability": 0.7054,
-        "drawProbability": 0.1589,
-        "awayWinProbability": 0.1865,
-        "predictedScore": {
-          "home": 2,
-          "away": 1,
-          "probability": 0.0889
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 44,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1837,
-          "awayElo": 1773,
-          "eloWinProb": 0.678
-        }
-      },
-      "confidenceScore": 72
-    },
-    {
-      "id": "fix_77_6_ClubAtlas",
-      "leagueId": "77",
-      "leagueName": "Liga MX",
-      "dateRaw": "Sat 28/11",
-      "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 3,
-      "time": "21:00",
-      "homeTeam": "Club Atlas",
-      "awayTeam": "Toluca",
-      "odds": {
-        "home": null,
-        "draw": null,
-        "away": null
-      },
-      "prediction": {
-        "homeExpectedGoals": 1.6,
-        "awayExpectedGoals": 2.76,
-        "totalExpectedGoals": 4.36,
-        "bttsProbability": 0.7453,
-        "bttsNoProbability": 0.2547,
-        "over25Probability": 0.8025,
-        "under25Probability": 0.1975,
-        "homeWinProbability": 0.3234,
-        "drawProbability": 0.1791,
-        "awayWinProbability": 0.5551,
-        "predictedScore": {
-          "home": 1,
-          "away": 2,
-          "probability": 0.0778
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 49,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 61,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1767,
-          "awayElo": 1801,
-          "eloWinProb": 0.544
-        }
-      },
-      "pred": {
-        "homeExpectedGoals": 1.6,
-        "awayExpectedGoals": 2.76,
-        "totalExpectedGoals": 4.36,
-        "bttsProbability": 0.7453,
-        "bttsNoProbability": 0.2547,
-        "over25Probability": 0.8025,
-        "under25Probability": 0.1975,
-        "homeWinProbability": 0.3234,
-        "drawProbability": 0.1791,
-        "awayWinProbability": 0.5551,
-        "predictedScore": {
-          "home": 1,
-          "away": 2,
-          "probability": 0.0778
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 49,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 61,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1767,
-          "awayElo": 1801,
-          "eloWinProb": 0.544
-        }
-      },
-      "confidenceScore": 80
-    },
-    {
-      "id": "fix_77_7_CruzAzul",
-      "leagueId": "77",
-      "leagueName": "Liga MX",
-      "dateRaw": "Sat 28/11",
-      "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "21:00",
       "homeTeam": "Cruz Azul",
       "awayTeam": "Club Leon",
@@ -445,23 +161,23 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 3.07,
-        "awayExpectedGoals": 1.36,
-        "totalExpectedGoals": 4.42,
-        "bttsProbability": 0.7007,
-        "bttsNoProbability": 0.2993,
-        "over25Probability": 0.8041,
-        "under25Probability": 0.1959,
-        "homeWinProbability": 0.7018,
-        "drawProbability": 0.1511,
-        "awayWinProbability": 0.1912,
+        "homeExpectedGoals": 3.08,
+        "awayExpectedGoals": 1.37,
+        "totalExpectedGoals": 4.46,
+        "bttsProbability": 0.7051,
+        "bttsNoProbability": 0.2949,
+        "over25Probability": 0.8074,
+        "under25Probability": 0.1926,
+        "homeWinProbability": 0.7008,
+        "drawProbability": 0.1509,
+        "awayWinProbability": 0.1921,
         "predictedScore": {
           "home": 3,
           "away": 1,
-          "probability": 0.0782
+          "probability": 0.0778
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
+        "bttsConfidence": 41,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 61,
         "iicdScore": 1,
@@ -472,23 +188,23 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 3.07,
-        "awayExpectedGoals": 1.36,
-        "totalExpectedGoals": 4.42,
-        "bttsProbability": 0.7007,
-        "bttsNoProbability": 0.2993,
-        "over25Probability": 0.8041,
-        "under25Probability": 0.1959,
-        "homeWinProbability": 0.7018,
-        "drawProbability": 0.1511,
-        "awayWinProbability": 0.1912,
+        "homeExpectedGoals": 3.08,
+        "awayExpectedGoals": 1.37,
+        "totalExpectedGoals": 4.46,
+        "bttsProbability": 0.7051,
+        "bttsNoProbability": 0.2949,
+        "over25Probability": 0.8074,
+        "under25Probability": 0.1926,
+        "homeWinProbability": 0.7008,
+        "drawProbability": 0.1509,
+        "awayWinProbability": 0.1921,
         "predictedScore": {
           "home": 3,
           "away": 1,
-          "probability": 0.0782
+          "probability": 0.0778
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
+        "bttsConfidence": 41,
         "overUnderPick": "OVER_2_5",
         "overUnderConfidence": 61,
         "iicdScore": 1,
@@ -498,15 +214,15 @@
           "eloWinProb": 0.705
         }
       },
-      "confidenceScore": 80
+      "confidenceScore": 81
     },
     {
-      "id": "fix_77_8_Guadalajara",
+      "id": "fix_77_4_Guadalajara",
       "leagueId": "77",
       "leagueName": "Liga MX",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "21:00",
       "homeTeam": "Guadalajara",
       "awayTeam": "CF Pachuca",
@@ -516,20 +232,20 @@
         "away": null
       },
       "prediction": {
-        "homeExpectedGoals": 1.48,
-        "awayExpectedGoals": 1.24,
-        "totalExpectedGoals": 2.72,
-        "bttsProbability": 0.555,
-        "bttsNoProbability": 0.445,
-        "over25Probability": 0.51,
-        "under25Probability": 0.49,
-        "homeWinProbability": 0.5228,
-        "drawProbability": 0.2696,
-        "awayWinProbability": 0.3018,
+        "homeExpectedGoals": 1.49,
+        "awayExpectedGoals": 1.25,
+        "totalExpectedGoals": 2.74,
+        "bttsProbability": 0.5596,
+        "bttsNoProbability": 0.4404,
+        "over25Probability": 0.5156,
+        "under25Probability": 0.4844,
+        "homeWinProbability": 0.5217,
+        "drawProbability": 0.2685,
+        "awayWinProbability": 0.3037,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1283
+          "probability": 0.1276
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -543,20 +259,20 @@
         }
       },
       "pred": {
-        "homeExpectedGoals": 1.48,
-        "awayExpectedGoals": 1.24,
-        "totalExpectedGoals": 2.72,
-        "bttsProbability": 0.555,
-        "bttsNoProbability": 0.445,
-        "over25Probability": 0.51,
-        "under25Probability": 0.49,
-        "homeWinProbability": 0.5228,
-        "drawProbability": 0.2696,
-        "awayWinProbability": 0.3018,
+        "homeExpectedGoals": 1.49,
+        "awayExpectedGoals": 1.25,
+        "totalExpectedGoals": 2.74,
+        "bttsProbability": 0.5596,
+        "bttsNoProbability": 0.4404,
+        "over25Probability": 0.5156,
+        "under25Probability": 0.4844,
+        "homeWinProbability": 0.5217,
+        "drawProbability": 0.2685,
+        "awayWinProbability": 0.3037,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1283
+          "probability": 0.1276
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -570,11 +286,261 @@
         }
       },
       "confidenceScore": 56
+    },
+    {
+      "id": "fix_77_5_ClubAtlas",
+      "leagueId": "77",
+      "leagueName": "Liga MX",
+      "dateRaw": "Sun 29/11",
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysFromNow": 3,
+      "time": "01:00",
+      "homeTeam": "Club Atlas",
+      "awayTeam": "Toluca",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 1.55,
+        "awayExpectedGoals": 2.86,
+        "totalExpectedGoals": 4.41,
+        "bttsProbability": 0.7389,
+        "bttsNoProbability": 0.2611,
+        "over25Probability": 0.8068,
+        "under25Probability": 0.1932,
+        "homeWinProbability": 0.311,
+        "drawProbability": 0.1716,
+        "awayWinProbability": 0.5714,
+        "predictedScore": {
+          "home": 1,
+          "away": 2,
+          "probability": 0.077
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 48,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 61,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1767,
+          "awayElo": 1801,
+          "eloWinProb": 0.544
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 1.55,
+        "awayExpectedGoals": 2.86,
+        "totalExpectedGoals": 4.41,
+        "bttsProbability": 0.7389,
+        "bttsNoProbability": 0.2611,
+        "over25Probability": 0.8068,
+        "under25Probability": 0.1932,
+        "homeWinProbability": 0.311,
+        "drawProbability": 0.1716,
+        "awayWinProbability": 0.5714,
+        "predictedScore": {
+          "home": 1,
+          "away": 2,
+          "probability": 0.077
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 48,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 61,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1767,
+          "awayElo": 1801,
+          "eloWinProb": 0.544
+        }
+      },
+      "confidenceScore": 81
+    },
+    {
+      "id": "fix_77_6_ClubAmerica",
+      "leagueId": "77",
+      "leagueName": "Liga MX",
+      "dateRaw": "Sun 29/11",
+      "dateIso": "2026-11-29T12:00:00.000Z",
+      "daysFromNow": 3,
+      "time": "03:10",
+      "homeTeam": "Club America",
+      "awayTeam": "Monterrey",
+      "odds": {
+        "home": null,
+        "draw": null,
+        "away": null
+      },
+      "prediction": {
+        "homeExpectedGoals": 2.71,
+        "awayExpectedGoals": 1.03,
+        "totalExpectedGoals": 3.74,
+        "bttsProbability": 0.6001,
+        "bttsNoProbability": 0.3999,
+        "over25Probability": 0.7152,
+        "under25Probability": 0.2848,
+        "homeWinProbability": 0.7035,
+        "drawProbability": 0.1612,
+        "awayWinProbability": 0.1873,
+        "predictedScore": {
+          "home": 2,
+          "away": 1,
+          "probability": 0.0898
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 43,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1837,
+          "awayElo": 1773,
+          "eloWinProb": 0.678
+        }
+      },
+      "pred": {
+        "homeExpectedGoals": 2.71,
+        "awayExpectedGoals": 1.03,
+        "totalExpectedGoals": 3.74,
+        "bttsProbability": 0.6001,
+        "bttsNoProbability": 0.3999,
+        "over25Probability": 0.7152,
+        "under25Probability": 0.2848,
+        "homeWinProbability": 0.7035,
+        "drawProbability": 0.1612,
+        "awayWinProbability": 0.1873,
+        "predictedScore": {
+          "home": 2,
+          "away": 1,
+          "probability": 0.0898
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 40,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 43,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1837,
+          "awayElo": 1773,
+          "eloWinProb": 0.678
+        }
+      },
+      "confidenceScore": 72
     }
   ],
   "results": [
     {
-      "id": "res_77_1_ClubQueretaro",
+      "id": "res_77_1_Monterrey",
+      "leagueId": "77",
+      "leagueName": "Liga MX",
+      "dateRaw": "Thu 26-Nov-2026",
+      "dateIso": "2026-11-26T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "03:10",
+      "homeTeam": "Monterrey",
+      "awayTeam": "Club America",
+      "score": "0-0",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "totalGoals": 0,
+      "actualBtts": false,
+      "actualOver25": false,
+      "prediction": {
+        "homeExpectedGoals": 2.18,
+        "awayExpectedGoals": 2.43,
+        "totalExpectedGoals": 4.61,
+        "bttsProbability": 0.8076,
+        "bttsNoProbability": 0.1924,
+        "over25Probability": 0.8334,
+        "under25Probability": 0.1666,
+        "homeWinProbability": 0.4065,
+        "drawProbability": 0.1968,
+        "awayWinProbability": 0.462,
+        "predictedScore": {
+          "home": 2,
+          "away": 2,
+          "probability": 0.0698
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 62,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 67,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1773,
+          "awayElo": 1837,
+          "eloWinProb": 0.501
+        },
+        "matchFingerprint": "77_monterrey_club america_Thu 26-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-26T16:40:20.211Z",
+        "auditHash": "SHA256-IMMUTABLE-2229ABDF-2026-11-26",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": false,
+        "overUnderHit": false,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_77_2_Toluca",
+      "leagueId": "77",
+      "leagueName": "Liga MX",
+      "dateRaw": "Thu 26-Nov-2026",
+      "dateIso": "2026-11-26T12:00:00.000Z",
+      "daysAgo": 0,
+      "time": "01:00",
+      "homeTeam": "Toluca",
+      "awayTeam": "Club Atlas",
+      "score": "2-0",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "totalGoals": 2,
+      "actualBtts": false,
+      "actualOver25": false,
+      "prediction": {
+        "homeExpectedGoals": 3.79,
+        "awayExpectedGoals": 1.73,
+        "totalExpectedGoals": 5.51,
+        "bttsProbability": 0.7727,
+        "bttsNoProbability": 0.2273,
+        "over25Probability": 0.8727,
+        "under25Probability": 0.1273,
+        "homeWinProbability": 0.6824,
+        "drawProbability": 0.125,
+        "awayWinProbability": 0.2105,
+        "predictedScore": {
+          "home": 3,
+          "away": 1,
+          "probability": 0.063
+        },
+        "bttsPick": "BTTS_SI",
+        "bttsConfidence": 55,
+        "overUnderPick": "OVER_2_5",
+        "overUnderConfidence": 75,
+        "iicdScore": 1,
+        "eloBlend": {
+          "homeElo": 1801,
+          "awayElo": 1767,
+          "eloWinProb": 0.639
+        },
+        "matchFingerprint": "77_toluca_club atlas_Thu 26-Nov_1.18_0.35_0.2_0.5_0.5",
+        "lockedAt": "2026-11-26T16:40:20.212Z",
+        "auditHash": "SHA256-IMMUTABLE-42178EF4-2026-11-26",
+        "isImmutable": true
+      },
+      "evaluation": {
+        "bttsHit": false,
+        "overUnderHit": false,
+        "bothHit": false,
+        "exactScoreHit": false
+      }
+    },
+    {
+      "id": "res_77_3_ClubQueretaro",
       "leagueId": "77",
       "leagueName": "Liga MX",
       "dateRaw": "Mon 23-Nov-2026",
@@ -590,20 +556,20 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.66,
-        "awayExpectedGoals": 1.04,
-        "totalExpectedGoals": 2.69,
-        "bttsProbability": 0.5289,
-        "bttsNoProbability": 0.4711,
-        "over25Probability": 0.5047,
-        "under25Probability": 0.4953,
-        "homeWinProbability": 0.5788,
-        "drawProbability": 0.258,
-        "awayWinProbability": 0.2533,
+        "homeExpectedGoals": 1.67,
+        "awayExpectedGoals": 1.05,
+        "totalExpectedGoals": 2.72,
+        "bttsProbability": 0.5337,
+        "bttsNoProbability": 0.4663,
+        "over25Probability": 0.5099,
+        "under25Probability": 0.4901,
+        "homeWinProbability": 0.5779,
+        "drawProbability": 0.2572,
+        "awayWinProbability": 0.2547,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.123
+          "probability": 0.1226
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -616,8 +582,8 @@
           "eloWinProb": 0.702
         },
         "matchFingerprint": "77_club queretaro_necaxa_Mon 23-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:51.071Z",
-        "auditHash": "SHA256-IMMUTABLE-28216142-2026-11-25",
+        "lockedAt": "2026-11-26T16:40:20.212Z",
+        "auditHash": "SHA256-IMMUTABLE-3D8B9A0D-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -628,7 +594,7 @@
       }
     },
     {
-      "id": "res_77_2_Guadalajara",
+      "id": "res_77_4_Guadalajara",
       "leagueId": "77",
       "leagueName": "Liga MX",
       "dateRaw": "Sun 22-Nov-2026",
@@ -644,25 +610,25 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 2.36,
-        "awayExpectedGoals": 1.48,
-        "totalExpectedGoals": 3.84,
-        "bttsProbability": 0.7018,
-        "bttsNoProbability": 0.2982,
-        "over25Probability": 0.7345,
-        "under25Probability": 0.2655,
-        "homeWinProbability": 0.5823,
-        "drawProbability": 0.2031,
-        "awayWinProbability": 0.2836,
+        "homeExpectedGoals": 2.37,
+        "awayExpectedGoals": 1.5,
+        "totalExpectedGoals": 3.87,
+        "bttsProbability": 0.7064,
+        "bttsNoProbability": 0.2936,
+        "over25Probability": 0.7392,
+        "under25Probability": 0.2608,
+        "homeWinProbability": 0.5811,
+        "drawProbability": 0.2026,
+        "awayWinProbability": 0.2852,
         "predictedScore": {
           "home": 2,
           "away": 1,
-          "probability": 0.0885
+          "probability": 0.0878
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 40,
+        "bttsConfidence": 41,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 47,
+        "overUnderConfidence": 48,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1862,
@@ -670,8 +636,8 @@
           "eloWinProb": 0.617
         },
         "matchFingerprint": "77_guadalajara_cruz azul_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:51.071Z",
-        "auditHash": "SHA256-IMMUTABLE-152E58E1-2026-11-25",
+        "lockedAt": "2026-11-26T16:40:20.212Z",
+        "auditHash": "SHA256-IMMUTABLE-8C50E12-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -682,7 +648,7 @@
       }
     },
     {
-      "id": "res_77_3_TigresUANL",
+      "id": "res_77_5_TigresUANL",
       "leagueId": "77",
       "leagueName": "Liga MX",
       "dateRaw": "Sun 22-Nov-2026",
@@ -698,25 +664,25 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 1.59,
-        "awayExpectedGoals": 3.43,
-        "totalExpectedGoals": 5.02,
-        "bttsProbability": 0.7533,
-        "bttsNoProbability": 0.2467,
-        "over25Probability": 0.8527,
-        "under25Probability": 0.1473,
-        "homeWinProbability": 0.1997,
-        "drawProbability": 0.1387,
-        "awayWinProbability": 0.6943,
+        "homeExpectedGoals": 1.44,
+        "awayExpectedGoals": 3.07,
+        "totalExpectedGoals": 4.51,
+        "bttsProbability": 0.7199,
+        "bttsNoProbability": 0.2801,
+        "over25Probability": 0.814,
+        "under25Probability": 0.186,
+        "homeWinProbability": 0.2049,
+        "drawProbability": 0.1542,
+        "awayWinProbability": 0.686,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0706
+          "probability": 0.0764
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 51,
+        "bttsConfidence": 44,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 71,
+        "overUnderConfidence": 63,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1635,
@@ -724,8 +690,8 @@
           "eloWinProb": 0.312
         },
         "matchFingerprint": "77_tigres uanl_club america_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:51.071Z",
-        "auditHash": "SHA256-IMMUTABLE-534733F7-2026-11-25",
+        "lockedAt": "2026-11-26T16:40:20.212Z",
+        "auditHash": "SHA256-IMMUTABLE-1D5B8740-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -736,7 +702,7 @@
       }
     },
     {
-      "id": "res_77_4_PumasUNAM",
+      "id": "res_77_6_PumasUNAM",
       "leagueId": "77",
       "leagueName": "Liga MX",
       "dateRaw": "Sun 22-Nov-2026",
@@ -752,20 +718,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 1.35,
-        "awayExpectedGoals": 2.09,
-        "totalExpectedGoals": 3.44,
-        "bttsProbability": 0.6544,
-        "bttsNoProbability": 0.3456,
-        "over25Probability": 0.6673,
-        "under25Probability": 0.3327,
-        "homeWinProbability": 0.3184,
-        "drawProbability": 0.2211,
-        "awayWinProbability": 0.5369,
+        "homeExpectedGoals": 1.36,
+        "awayExpectedGoals": 2.07,
+        "totalExpectedGoals": 3.43,
+        "bttsProbability": 0.6541,
+        "bttsNoProbability": 0.3459,
+        "over25Probability": 0.665,
+        "under25Probability": 0.335,
+        "homeWinProbability": 0.321,
+        "drawProbability": 0.2226,
+        "awayWinProbability": 0.5334,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.0958
+          "probability": 0.0965
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -778,8 +744,8 @@
           "eloWinProb": 0.464
         },
         "matchFingerprint": "77_pumas unam_monterrey_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:51.071Z",
-        "auditHash": "SHA256-IMMUTABLE-28574594-2026-11-25",
+        "lockedAt": "2026-11-26T16:40:20.212Z",
+        "auditHash": "SHA256-IMMUTABLE-103D1DD2-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -790,7 +756,7 @@
       }
     },
     {
-      "id": "res_77_5_SantosLaguna",
+      "id": "res_77_7_SantosLaguna",
       "leagueId": "77",
       "leagueName": "Liga MX",
       "dateRaw": "Sat 21-Nov-2026",
@@ -807,24 +773,24 @@
       "actualOver25": true,
       "prediction": {
         "homeExpectedGoals": 1.21,
-        "awayExpectedGoals": 0.49,
-        "totalExpectedGoals": 1.7,
-        "bttsProbability": 0.2777,
-        "bttsNoProbability": 0.7223,
-        "over25Probability": 0.2419,
-        "under25Probability": 0.7581,
-        "homeWinProbability": 0.5436,
-        "drawProbability": 0.3216,
-        "awayWinProbability": 0.2473,
+        "awayExpectedGoals": 0.5,
+        "totalExpectedGoals": 1.71,
+        "bttsProbability": 0.2812,
+        "bttsNoProbability": 0.7188,
+        "over25Probability": 0.2451,
+        "under25Probability": 0.7549,
+        "homeWinProbability": 0.5435,
+        "drawProbability": 0.3205,
+        "awayWinProbability": 0.2481,
         "predictedScore": {
           "home": 1,
           "away": 0,
-          "probability": 0.2148
+          "probability": 0.2132
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 44,
         "overUnderPick": "UNDER_2_5",
-        "overUnderConfidence": 52,
+        "overUnderConfidence": 51,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1735,
@@ -832,8 +798,8 @@
           "eloWinProb": 0.56
         },
         "matchFingerprint": "77_santos laguna_club leon_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:51.071Z",
-        "auditHash": "SHA256-IMMUTABLE-4FA48AD3-2026-11-25",
+        "lockedAt": "2026-11-26T16:40:20.212Z",
+        "auditHash": "SHA256-IMMUTABLE-67840BB7-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -844,7 +810,7 @@
       }
     },
     {
-      "id": "res_77_6_CFPachuca",
+      "id": "res_77_8_CFPachuca",
       "leagueId": "77",
       "leagueName": "Liga MX",
       "dateRaw": "Sat 21-Nov-2026",
@@ -860,25 +826,25 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 2.07,
-        "awayExpectedGoals": 1.91,
-        "totalExpectedGoals": 3.98,
-        "bttsProbability": 0.7474,
-        "bttsNoProbability": 0.2526,
-        "over25Probability": 0.7573,
-        "under25Probability": 0.2427,
-        "homeWinProbability": 0.466,
-        "drawProbability": 0.2158,
-        "awayWinProbability": 0.3924,
+        "homeExpectedGoals": 2.08,
+        "awayExpectedGoals": 1.98,
+        "totalExpectedGoals": 4.06,
+        "bttsProbability": 0.7566,
+        "bttsNoProbability": 0.2434,
+        "over25Probability": 0.7683,
+        "under25Probability": 0.2317,
+        "homeWinProbability": 0.4591,
+        "drawProbability": 0.2136,
+        "awayWinProbability": 0.4005,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.0782
+          "probability": 0.0752
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 49,
+        "bttsConfidence": 51,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 51,
+        "overUnderConfidence": 54,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1770,
@@ -886,8 +852,8 @@
           "eloWinProb": 0.549
         },
         "matchFingerprint": "77_cf pachuca_toluca_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:51.071Z",
-        "auditHash": "SHA256-IMMUTABLE-1C025A0E-2026-11-25",
+        "lockedAt": "2026-11-26T16:40:20.212Z",
+        "auditHash": "SHA256-IMMUTABLE-3DB4743C-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -898,7 +864,7 @@
       }
     },
     {
-      "id": "res_77_7_ClubTijuana",
+      "id": "res_77_9_ClubTijuana",
       "leagueId": "77",
       "leagueName": "Liga MX",
       "dateRaw": "Sat 21-Nov-2026",
@@ -914,20 +880,20 @@
       "actualBtts": false,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 2.58,
+        "homeExpectedGoals": 2.59,
         "awayExpectedGoals": 0.4,
-        "totalExpectedGoals": 2.98,
-        "bttsProbability": 0.3044,
-        "bttsNoProbability": 0.6956,
-        "over25Probability": 0.5664,
-        "under25Probability": 0.4336,
-        "homeWinProbability": 0.8173,
-        "drawProbability": 0.1245,
-        "awayWinProbability": 0.0985,
+        "totalExpectedGoals": 2.99,
+        "bttsProbability": 0.3079,
+        "bttsNoProbability": 0.6921,
+        "over25Probability": 0.5701,
+        "under25Probability": 0.4299,
+        "homeWinProbability": 0.8174,
+        "drawProbability": 0.1239,
+        "awayWinProbability": 0.0986,
         "predictedScore": {
           "home": 2,
           "away": 0,
-          "probability": 0.1695
+          "probability": 0.1682
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -940,8 +906,8 @@
           "eloWinProb": 0.785
         },
         "matchFingerprint": "77_club tijuana_atlante fc_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:51.071Z",
-        "auditHash": "SHA256-IMMUTABLE-639B9CA-2026-11-25",
+        "lockedAt": "2026-11-26T16:40:20.212Z",
+        "auditHash": "SHA256-IMMUTABLE-54F1B5B6-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -952,7 +918,7 @@
       }
     },
     {
-      "id": "res_77_8_FCJuarez",
+      "id": "res_77_10_FCJuarez",
       "leagueId": "77",
       "leagueName": "Liga MX",
       "dateRaw": "Sat 21-Nov-2026",
@@ -968,25 +934,25 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 0.91,
-        "awayExpectedGoals": 3.88,
-        "totalExpectedGoals": 4.8,
-        "bttsProbability": 0.5607,
-        "bttsNoProbability": 0.4393,
-        "over25Probability": 0.8125,
-        "under25Probability": 0.1875,
-        "homeWinProbability": 0.1248,
-        "drawProbability": 0.0797,
-        "awayWinProbability": 0.7944,
+        "homeExpectedGoals": 0.95,
+        "awayExpectedGoals": 3.37,
+        "totalExpectedGoals": 4.32,
+        "bttsProbability": 0.5809,
+        "bttsNoProbability": 0.4191,
+        "over25Probability": 0.7833,
+        "under25Probability": 0.2167,
+        "homeWinProbability": 0.1394,
+        "drawProbability": 0.1097,
+        "awayWinProbability": 0.7749,
         "predictedScore": {
           "home": 0,
           "away": 3,
-          "probability": 0.0807
+          "probability": 0.0849
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 63,
+        "overUnderConfidence": 57,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1536,
@@ -994,8 +960,8 @@
           "eloWinProb": 0.278
         },
         "matchFingerprint": "77_fc juarez_club atlas_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:51.071Z",
-        "auditHash": "SHA256-IMMUTABLE-72646239-2026-11-25",
+        "lockedAt": "2026-11-26T16:40:20.212Z",
+        "auditHash": "SHA256-IMMUTABLE-783A570C-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -1006,7 +972,7 @@
       }
     },
     {
-      "id": "res_77_9_Puebla",
+      "id": "res_77_11_Puebla",
       "leagueId": "77",
       "leagueName": "Liga MX",
       "dateRaw": "Sat 21-Nov-2026",
@@ -1023,19 +989,19 @@
       "actualOver25": false,
       "prediction": {
         "homeExpectedGoals": 1.24,
-        "awayExpectedGoals": 1.52,
-        "totalExpectedGoals": 2.76,
-        "bttsProbability": 0.5614,
-        "bttsNoProbability": 0.4386,
-        "over25Probability": 0.52,
-        "under25Probability": 0.48,
-        "homeWinProbability": 0.4067,
-        "drawProbability": 0.2664,
-        "awayWinProbability": 0.42,
+        "awayExpectedGoals": 1.54,
+        "totalExpectedGoals": 2.78,
+        "bttsProbability": 0.5657,
+        "bttsNoProbability": 0.4343,
+        "over25Probability": 0.5262,
+        "under25Probability": 0.4738,
+        "homeWinProbability": 0.4054,
+        "drawProbability": 0.2647,
+        "awayWinProbability": 0.4224,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1265
+          "probability": 0.1255
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1048,8 +1014,8 @@
           "eloWinProb": 0.602
         },
         "matchFingerprint": "77_puebla_atletico san luis_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:51.071Z",
-        "auditHash": "SHA256-IMMUTABLE-63012E54-2026-11-25",
+        "lockedAt": "2026-11-26T16:40:20.212Z",
+        "auditHash": "SHA256-IMMUTABLE-A1F131B-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -1060,7 +1026,7 @@
       }
     },
     {
-      "id": "res_77_10_ClubQueretaro",
+      "id": "res_77_12_ClubQueretaro",
       "leagueId": "77",
       "leagueName": "Liga MX",
       "dateRaw": "Sat 14-Nov-2026",
@@ -1077,19 +1043,19 @@
       "actualOver25": false,
       "prediction": {
         "homeExpectedGoals": 1.04,
-        "awayExpectedGoals": 1.86,
-        "totalExpectedGoals": 2.9,
-        "bttsProbability": 0.551,
-        "bttsNoProbability": 0.449,
-        "over25Probability": 0.5524,
-        "under25Probability": 0.4476,
-        "homeWinProbability": 0.289,
-        "drawProbability": 0.2384,
-        "awayWinProbability": 0.5556,
+        "awayExpectedGoals": 1.84,
+        "totalExpectedGoals": 2.88,
+        "bttsProbability": 0.5508,
+        "bttsNoProbability": 0.4492,
+        "over25Probability": 0.5496,
+        "under25Probability": 0.4504,
+        "homeWinProbability": 0.2912,
+        "drawProbability": 0.2401,
+        "awayWinProbability": 0.5524,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1129
+          "probability": 0.1138
         },
         "bttsPick": "BTTS_SI",
         "bttsConfidence": 40,
@@ -1102,8 +1068,8 @@
           "eloWinProb": 0.45
         },
         "matchFingerprint": "77_club queretaro_monterrey_Sat 14-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:51.071Z",
-        "auditHash": "SHA256-IMMUTABLE-71D65266-2026-11-25",
+        "lockedAt": "2026-11-26T16:40:20.212Z",
+        "auditHash": "SHA256-IMMUTABLE-6851AAB5-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -1114,7 +1080,7 @@
       }
     },
     {
-      "id": "res_77_11_ClubLeon",
+      "id": "res_77_13_ClubLeon",
       "leagueId": "77",
       "leagueName": "Liga MX",
       "dateRaw": "Mon 09-Nov-2026",
@@ -1130,20 +1096,20 @@
       "actualBtts": true,
       "actualOver25": false,
       "prediction": {
-        "homeExpectedGoals": 0.84,
-        "awayExpectedGoals": 1.7,
-        "totalExpectedGoals": 2.54,
-        "bttsProbability": 0.4722,
-        "bttsNoProbability": 0.5278,
-        "over25Probability": 0.4661,
-        "under25Probability": 0.5339,
-        "homeWinProbability": 0.2714,
-        "drawProbability": 0.2528,
-        "awayWinProbability": 0.5641,
+        "homeExpectedGoals": 0.85,
+        "awayExpectedGoals": 1.72,
+        "totalExpectedGoals": 2.57,
+        "bttsProbability": 0.4758,
+        "bttsNoProbability": 0.5242,
+        "over25Probability": 0.4727,
+        "under25Probability": 0.5273,
+        "homeWinProbability": 0.2702,
+        "drawProbability": 0.2503,
+        "awayWinProbability": 0.5669,
         "predictedScore": {
           "home": 0,
           "away": 1,
-          "probability": 0.1269
+          "probability": 0.1252
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1156,8 +1122,8 @@
           "eloWinProb": 0.444
         },
         "matchFingerprint": "77_club leon_guadalajara_Mon 09-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:51.071Z",
-        "auditHash": "SHA256-IMMUTABLE-3F76F2C1-2026-11-25",
+        "lockedAt": "2026-11-26T16:40:20.212Z",
+        "auditHash": "SHA256-IMMUTABLE-70B347B9-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -1168,7 +1134,7 @@
       }
     },
     {
-      "id": "res_77_12_ClubQueretaro",
+      "id": "res_77_14_ClubQueretaro",
       "leagueId": "77",
       "leagueName": "Liga MX",
       "dateRaw": "Mon 09-Nov-2026",
@@ -1185,19 +1151,19 @@
       "actualOver25": false,
       "prediction": {
         "homeExpectedGoals": 0.96,
-        "awayExpectedGoals": 1.26,
-        "totalExpectedGoals": 2.22,
-        "bttsProbability": 0.4492,
-        "bttsNoProbability": 0.5508,
-        "over25Probability": 0.3818,
-        "under25Probability": 0.6182,
-        "homeWinProbability": 0.388,
-        "drawProbability": 0.3015,
-        "awayWinProbability": 0.416,
+        "awayExpectedGoals": 1.28,
+        "totalExpectedGoals": 2.24,
+        "bttsProbability": 0.4532,
+        "bttsNoProbability": 0.5468,
+        "over25Probability": 0.3873,
+        "under25Probability": 0.6127,
+        "homeWinProbability": 0.3869,
+        "drawProbability": 0.2995,
+        "awayWinProbability": 0.4184,
         "predictedScore": {
           "home": 1,
           "away": 1,
-          "probability": 0.1393
+          "probability": 0.1388
         },
         "bttsPick": "BTTS_NO",
         "bttsConfidence": 40,
@@ -1210,8 +1176,8 @@
           "eloWinProb": 0.599
         },
         "matchFingerprint": "77_club queretaro_puebla_Mon 09-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:51.071Z",
-        "auditHash": "SHA256-IMMUTABLE-66EB55C-2026-11-25",
+        "lockedAt": "2026-11-26T16:40:20.212Z",
+        "auditHash": "SHA256-IMMUTABLE-240C04A4-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -1222,7 +1188,7 @@
       }
     },
     {
-      "id": "res_77_13_PumasUNAM",
+      "id": "res_77_15_PumasUNAM",
       "leagueId": "77",
       "leagueName": "Liga MX",
       "dateRaw": "Sun 08-Nov-2026",
@@ -1238,25 +1204,25 @@
       "actualBtts": true,
       "actualOver25": true,
       "prediction": {
-        "homeExpectedGoals": 1.4,
-        "awayExpectedGoals": 4,
-        "totalExpectedGoals": 5.4,
-        "bttsProbability": 0.7031,
-        "bttsNoProbability": 0.2969,
-        "over25Probability": 0.8542,
-        "under25Probability": 0.1458,
-        "homeWinProbability": 0.1835,
-        "drawProbability": 0.1001,
-        "awayWinProbability": 0.7181,
+        "homeExpectedGoals": 1.27,
+        "awayExpectedGoals": 3.62,
+        "totalExpectedGoals": 4.89,
+        "bttsProbability": 0.6786,
+        "bttsNoProbability": 0.3214,
+        "over25Probability": 0.8341,
+        "under25Probability": 0.1659,
+        "homeWinProbability": 0.1873,
+        "drawProbability": 0.113,
+        "awayWinProbability": 0.7185,
         "predictedScore": {
           "home": 1,
           "away": 3,
-          "probability": 0.0674
+          "probability": 0.0755
         },
         "bttsPick": "BTTS_SI",
-        "bttsConfidence": 41,
+        "bttsConfidence": 40,
         "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 71,
+        "overUnderConfidence": 67,
         "iicdScore": 1,
         "eloBlend": {
           "homeElo": 1683,
@@ -1264,122 +1230,14 @@
           "eloWinProb": 0.375
         },
         "matchFingerprint": "77_pumas unam_club america_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:51.071Z",
-        "auditHash": "SHA256-IMMUTABLE-500CB37E-2026-11-25",
+        "lockedAt": "2026-11-26T16:40:20.212Z",
+        "auditHash": "SHA256-IMMUTABLE-5DBECB3B-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
         "bttsHit": true,
         "overUnderHit": true,
         "bothHit": true,
-        "exactScoreHit": false
-      }
-    },
-    {
-      "id": "res_77_14_TigresUANL",
-      "leagueId": "77",
-      "leagueName": "Liga MX",
-      "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "01:00",
-      "homeTeam": "Tigres UANL",
-      "awayTeam": "Cruz Azul",
-      "score": "2-3",
-      "homeGoals": 2,
-      "awayGoals": 3,
-      "totalGoals": 5,
-      "actualBtts": true,
-      "actualOver25": true,
-      "prediction": {
-        "homeExpectedGoals": 1.38,
-        "awayExpectedGoals": 2.94,
-        "totalExpectedGoals": 4.32,
-        "bttsProbability": 0.7035,
-        "bttsNoProbability": 0.2965,
-        "over25Probability": 0.7941,
-        "under25Probability": 0.2059,
-        "homeWinProbability": 0.2034,
-        "drawProbability": 0.1605,
-        "awayWinProbability": 0.6853,
-        "predictedScore": {
-          "home": 1,
-          "away": 2,
-          "probability": 0.0794
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 41,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 59,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1635,
-          "awayElo": 1844,
-          "eloWinProb": 0.304
-        },
-        "matchFingerprint": "77_tigres uanl_cruz azul_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:51.071Z",
-        "auditHash": "SHA256-IMMUTABLE-35A601A3-2026-11-25",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": true,
-        "overUnderHit": true,
-        "bothHit": true,
-        "exactScoreHit": false
-      }
-    },
-    {
-      "id": "res_77_15_Toluca",
-      "leagueId": "77",
-      "leagueName": "Liga MX",
-      "dateRaw": "Sun 08-Nov-2026",
-      "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysAgo": 0,
-      "time": "01:00",
-      "homeTeam": "Toluca",
-      "awayTeam": "Monterrey",
-      "score": "4-0",
-      "homeGoals": 4,
-      "awayGoals": 0,
-      "totalGoals": 4,
-      "actualBtts": false,
-      "actualOver25": true,
-      "prediction": {
-        "homeExpectedGoals": 3.77,
-        "awayExpectedGoals": 1.51,
-        "totalExpectedGoals": 5.28,
-        "bttsProbability": 0.733,
-        "bttsNoProbability": 0.267,
-        "over25Probability": 0.8582,
-        "under25Probability": 0.1418,
-        "homeWinProbability": 0.7013,
-        "drawProbability": 0.117,
-        "awayWinProbability": 0.1976,
-        "predictedScore": {
-          "home": 3,
-          "away": 1,
-          "probability": 0.0687
-        },
-        "bttsPick": "BTTS_SI",
-        "bttsConfidence": 47,
-        "overUnderPick": "OVER_2_5",
-        "overUnderConfidence": 72,
-        "iicdScore": 1,
-        "eloBlend": {
-          "homeElo": 1801,
-          "awayElo": 1773,
-          "eloWinProb": 0.631
-        },
-        "matchFingerprint": "77_toluca_monterrey_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:51.071Z",
-        "auditHash": "SHA256-IMMUTABLE-3DBF7888-2026-11-25",
-        "isImmutable": true
-      },
-      "evaluation": {
-        "bttsHit": false,
-        "overUnderHit": true,
-        "bothHit": false,
         "exactScoreHit": false
       }
     }
@@ -1457,26 +1315,26 @@
       "hf": 15,
       "ha": 8,
       "aw": 5,
-      "ad": 2,
+      "ad": 3,
       "al": 2,
       "af": 23,
       "aa": 16,
       "gd": 14,
       "pts": 30,
       "ppg": 1.76,
-      "form": "WLDDDL",
-      "ycF": 2.6,
-      "ycA": 3.7,
-      "rcF": 0,
-      "rcA": 0,
+      "form": "LDDDLd",
+      "ycF": 2.9,
+      "ycA": 3.3,
+      "rcF": 0.1,
+      "rcA": 0.1,
       "psF": 53,
       "psA": 47,
-      "cF": 6.1,
-      "cA": 4.9,
-      "stF": 7.1,
-      "stA": 4.9,
-      "sntF": 5.6,
-      "sntA": 5.4
+      "cF": 6.7,
+      "cA": 4.7,
+      "stF": 7.2,
+      "stA": 4.5,
+      "sntF": 5.4,
+      "sntA": 5.6
     },
     "Club Atlas": {
       "pos": 4,
@@ -1489,34 +1347,34 @@
       "ha": 21,
       "aw": 6,
       "ad": 1,
-      "al": 1,
+      "al": 2,
       "af": 17,
-      "aa": 12,
+      "aa": 14,
       "gd": -3,
       "pts": 28,
       "ppg": 1.64,
-      "form": "WLWWLD",
-      "ycF": 1.8,
+      "form": "LWWLDL",
+      "ycF": 1.7,
       "ycA": 1.3,
       "rcF": 0.1,
       "rcA": 0.1,
-      "psF": 52,
-      "psA": 48,
-      "cF": 6.1,
+      "psF": 51,
+      "psA": 49,
+      "cF": 6,
       "cA": 7,
-      "stF": 5.3,
-      "stA": 4.9,
-      "sntF": 4.5,
-      "sntA": 7
+      "stF": 5.2,
+      "stA": 5,
+      "sntF": 4.3,
+      "sntA": 7.2
     },
     "Toluca": {
       "pos": 5,
       "team": "Toluca",
       "p": 17,
-      "hw": 4,
+      "hw": 5,
       "hd": 2,
       "hl": 2,
-      "hf": 22,
+      "hf": 24,
       "ha": 11,
       "aw": 3,
       "ad": 4,
@@ -1526,7 +1384,7 @@
       "gd": 12,
       "pts": 27,
       "ppg": 1.58,
-      "form": "DDDDWL",
+      "form": "DDDWLW",
       "ycF": 1.8,
       "ycA": 2.4,
       "rcF": 0.2,
@@ -1545,7 +1403,7 @@
       "team": "Monterrey",
       "p": 17,
       "hw": 4,
-      "hd": 2,
+      "hd": 3,
       "hl": 2,
       "hf": 16,
       "ha": 11,
@@ -1557,7 +1415,7 @@
       "gd": 4,
       "pts": 27,
       "ppg": 1.58,
-      "form": "WLDLWW",
+      "form": "LDLWWd",
       "ycF": 2,
       "ycA": 2,
       "rcF": 0.8,
@@ -1947,31 +1805,31 @@
   "backtest": {
     "totalMatches": 15,
     "bttsEvaluated": 15,
-    "bttsHits": 7,
-    "bttsAccuracy": 46.7,
+    "bttsHits": 6,
+    "bttsAccuracy": 40,
     "overUnderEvaluated": 15,
-    "overUnderHits": 7,
-    "overUnderAccuracy": 46.7,
-    "overallAccuracy": 46.7,
+    "overUnderHits": 5,
+    "overUnderAccuracy": 33.3,
+    "overallAccuracy": 36.7,
     "exactScoreHits": 1,
     "exactScoreAccuracy": 6.7,
     "confusionMatrix": {
       "btts": {
-        "predictedYesActualYes": 5,
-        "predictedYesActualNo": 6,
+        "predictedYesActualYes": 4,
+        "predictedYesActualNo": 7,
         "predictedNoActualYes": 2,
         "predictedNoActualNo": 2
       },
       "overUnder": {
-        "predictedOverActualOver": 5,
-        "predictedOverActualUnder": 7,
+        "predictedOverActualOver": 3,
+        "predictedOverActualUnder": 9,
         "predictedUnderActualOver": 1,
         "predictedUnderActualUnder": 2
       }
     },
-    "logLoss": 0.8249,
-    "brierScore": 0.3083,
-    "simulatedRoi": -10.9
+    "logLoss": 0.9825,
+    "brierScore": 0.3736,
+    "simulatedRoi": -30
   },
   "parameters": {
     "homeAdvantage": 1.18,

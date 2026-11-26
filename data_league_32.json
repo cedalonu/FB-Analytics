@@ -1,7 +1,7 @@
 {
   "leagueId": "32",
   "leagueName": "Bundesliga",
-  "timestamp": "2026-11-25T16:59:25.087Z",
+  "timestamp": "2026-11-26T16:39:59.280Z",
   "fixtures": [
     {
       "id": "fix_32_1_WerderBremen",
@@ -9,14 +9,14 @@
       "leagueName": "Bundesliga",
       "dateRaw": "Fri 27/11",
       "dateIso": "2026-11-27T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "19:30",
       "homeTeam": "Werder Bremen",
       "awayTeam": "Borussia Monchengladbach",
       "odds": {
-        "home": 1.82,
-        "draw": 4.36,
-        "away": 4.26
+        "home": 1.75,
+        "draw": 4.46,
+        "away": 4.51
       },
       "prediction": {
         "homeExpectedGoals": 4.5,
@@ -80,7 +80,7 @@
       "leagueName": "Bundesliga",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "14:30",
       "homeTeam": "FC Koln",
       "awayTeam": "Elversberg",
@@ -151,13 +151,13 @@
       "leagueName": "Bundesliga",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "14:30",
       "homeTeam": "Hamburger",
       "awayTeam": "Bayern Munich",
       "odds": {
-        "home": 10.3,
-        "draw": 7.07,
+        "home": 10.7,
+        "draw": 6.91,
         "away": 1.29
       },
       "prediction": {
@@ -222,7 +222,7 @@
       "leagueName": "Bundesliga",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "14:30",
       "homeTeam": "Mainz",
       "awayTeam": "Union Berlin",
@@ -293,7 +293,7 @@
       "leagueName": "Bundesliga",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "14:30",
       "homeTeam": "SC Paderborn 07",
       "awayTeam": "Schalke",
@@ -364,7 +364,7 @@
       "leagueName": "Bundesliga",
       "dateRaw": "Sat 28/11",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "17:30",
       "homeTeam": "VFB Stuttgart",
       "awayTeam": "Eintracht Frankfurt",
@@ -435,14 +435,14 @@
       "leagueName": "Bundesliga",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "14:30",
       "homeTeam": "Freiburg",
       "awayTeam": "RB Leipzig",
       "odds": {
-        "home": 2.67,
-        "draw": 4.07,
-        "away": 2.53
+        "home": 2.78,
+        "draw": 4.06,
+        "away": 2.44
       },
       "prediction": {
         "homeExpectedGoals": 4.41,
@@ -506,14 +506,14 @@
       "leagueName": "Bundesliga",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "16:30",
       "homeTeam": "Hoffenheim",
       "awayTeam": "Augsburg",
       "odds": {
-        "home": 1.74,
-        "draw": 4.77,
-        "away": 4.36
+        "home": 1.76,
+        "draw": 4.72,
+        "away": 4.26
       },
       "prediction": {
         "homeExpectedGoals": 4.49,
@@ -577,7 +577,7 @@
       "leagueName": "Bundesliga",
       "dateRaw": "Sun 29/11",
       "dateIso": "2026-11-29T12:00:00.000Z",
-      "daysFromNow": 4,
+      "daysFromNow": 3,
       "time": "18:30",
       "homeTeam": "Borussia Dortmund",
       "awayTeam": "Leverkusen",
@@ -648,7 +648,7 @@
       "leagueName": "Bundesliga",
       "dateRaw": "Fri 04/12",
       "dateIso": "2026-11-27T12:00:00.000Z",
-      "daysFromNow": 2,
+      "daysFromNow": 1,
       "time": "19:30",
       "homeTeam": "Bayern Munich",
       "awayTeam": "SC Paderborn 07",
@@ -719,7 +719,7 @@
       "leagueName": "Bundesliga",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "14:30",
       "homeTeam": "Augsburg",
       "awayTeam": "FC Koln",
@@ -790,7 +790,7 @@
       "leagueName": "Bundesliga",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "14:30",
       "homeTeam": "Freiburg",
       "awayTeam": "Hoffenheim",
@@ -861,7 +861,7 @@
       "leagueName": "Bundesliga",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "14:30",
       "homeTeam": "Leverkusen",
       "awayTeam": "Borussia Monchengladbach",
@@ -932,7 +932,7 @@
       "leagueName": "Bundesliga",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "14:30",
       "homeTeam": "RB Leipzig",
       "awayTeam": "Mainz",
@@ -1003,7 +1003,7 @@
       "leagueName": "Bundesliga",
       "dateRaw": "Sat 05/12",
       "dateIso": "2026-11-28T12:00:00.000Z",
-      "daysFromNow": 3,
+      "daysFromNow": 2,
       "time": "14:30",
       "homeTeam": "Union Berlin",
       "awayTeam": "Hamburger",
@@ -1113,8 +1113,8 @@
           "eloWinProb": 0.772
         },
         "matchFingerprint": "32_werder bremen_hamburger_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:25.084Z",
-        "auditHash": "SHA256-IMMUTABLE-40CEADEE-2026-11-25",
+        "lockedAt": "2026-11-26T16:39:59.277Z",
+        "auditHash": "SHA256-IMMUTABLE-579E2F8A-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -1167,8 +1167,8 @@
           "eloWinProb": 0.657
         },
         "matchFingerprint": "32_augsburg_mainz_Sun 22-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:25.084Z",
-        "auditHash": "SHA256-IMMUTABLE-36BE3CB1-2026-11-25",
+        "lockedAt": "2026-11-26T16:39:59.277Z",
+        "auditHash": "SHA256-IMMUTABLE-1FEEBB15-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -1221,8 +1221,8 @@
           "eloWinProb": 0.433
         },
         "matchFingerprint": "32_schalke_vfb stuttgart_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:25.084Z",
-        "auditHash": "SHA256-IMMUTABLE-8490DC4-2026-11-25",
+        "lockedAt": "2026-11-26T16:39:59.277Z",
+        "auditHash": "SHA256-IMMUTABLE-1F188F60-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -1275,8 +1275,8 @@
           "eloWinProb": 0.164
         },
         "matchFingerprint": "32_borussia monchengladbach_borussia dortmund_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:25.084Z",
-        "auditHash": "SHA256-IMMUTABLE-36DCD25F-2026-11-25",
+        "lockedAt": "2026-11-26T16:39:59.277Z",
+        "auditHash": "SHA256-IMMUTABLE-200D50C3-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -1329,8 +1329,8 @@
           "eloWinProb": 0.648
         },
         "matchFingerprint": "32_eintracht frankfurt_hoffenheim_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:25.084Z",
-        "auditHash": "SHA256-IMMUTABLE-4EE32133-2026-11-25",
+        "lockedAt": "2026-11-26T16:39:59.277Z",
+        "auditHash": "SHA256-IMMUTABLE-65B2A2CF-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -1383,8 +1383,8 @@
           "eloWinProb": 0.371
         },
         "matchFingerprint": "32_elversberg_freiburg_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:25.084Z",
-        "auditHash": "SHA256-IMMUTABLE-BAF4D59-2026-11-25",
+        "lockedAt": "2026-11-26T16:39:59.277Z",
+        "auditHash": "SHA256-IMMUTABLE-227ECEF5-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -1437,8 +1437,8 @@
           "eloWinProb": 0.8
         },
         "matchFingerprint": "32_leverkusen_sc paderborn 07_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:25.084Z",
-        "auditHash": "SHA256-IMMUTABLE-263E8F14-2026-11-25",
+        "lockedAt": "2026-11-26T16:39:59.277Z",
+        "auditHash": "SHA256-IMMUTABLE-F6F0D78-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -1491,8 +1491,8 @@
           "eloWinProb": 0.2
         },
         "matchFingerprint": "32_union berlin_rb leipzig_Sat 21-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:25.084Z",
-        "auditHash": "SHA256-IMMUTABLE-112B5DE3-2026-11-25",
+        "lockedAt": "2026-11-26T16:39:59.278Z",
+        "auditHash": "SHA256-IMMUTABLE-5A423D8-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -1545,8 +1545,8 @@
           "eloWinProb": 0.856
         },
         "matchFingerprint": "32_bayern munich_fc koln_Fri 20-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:25.084Z",
-        "auditHash": "SHA256-IMMUTABLE-56F5647C-2026-11-25",
+        "lockedAt": "2026-11-26T16:39:59.278Z",
+        "auditHash": "SHA256-IMMUTABLE-6DC4E637-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -1599,8 +1599,8 @@
           "eloWinProb": 0.702
         },
         "matchFingerprint": "32_hoffenheim_schalke_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:25.084Z",
-        "auditHash": "SHA256-IMMUTABLE-54F8E24D-2026-11-25",
+        "lockedAt": "2026-11-26T16:39:59.278Z",
+        "auditHash": "SHA256-IMMUTABLE-3E296092-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -1653,8 +1653,8 @@
           "eloWinProb": 0.89
         },
         "matchFingerprint": "32_freiburg_union berlin_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:25.085Z",
-        "auditHash": "SHA256-IMMUTABLE-684426E0-2026-11-25",
+        "lockedAt": "2026-11-26T16:39:59.278Z",
+        "auditHash": "SHA256-IMMUTABLE-7F13A87C-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -1707,8 +1707,8 @@
           "eloWinProb": 0.363
         },
         "matchFingerprint": "32_fc koln_leverkusen_Sun 08-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:25.085Z",
-        "auditHash": "SHA256-IMMUTABLE-3FED8691-2026-11-25",
+        "lockedAt": "2026-11-26T16:39:59.278Z",
+        "auditHash": "SHA256-IMMUTABLE-56BD082D-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -1761,8 +1761,8 @@
           "eloWinProb": 0.48
         },
         "matchFingerprint": "32_vfb stuttgart_werder bremen_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:25.085Z",
-        "auditHash": "SHA256-IMMUTABLE-1AD6F3C7-2026-11-25",
+        "lockedAt": "2026-11-26T16:39:59.278Z",
+        "auditHash": "SHA256-IMMUTABLE-31A67563-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -1815,8 +1815,8 @@
           "eloWinProb": 0.807
         },
         "matchFingerprint": "32_borussia dortmund_elversberg_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:25.085Z",
-        "auditHash": "SHA256-IMMUTABLE-15D053DD-2026-11-25",
+        "lockedAt": "2026-11-26T16:39:59.278Z",
+        "auditHash": "SHA256-IMMUTABLE-FF2DBF-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
@@ -1869,8 +1869,8 @@
           "eloWinProb": 0.27
         },
         "matchFingerprint": "32_mainz_bayern munich_Sat 07-Nov_1.18_0.35_0.2_0.5_0.5",
-        "lockedAt": "2026-11-25T16:59:25.085Z",
-        "auditHash": "SHA256-IMMUTABLE-7F176E4D-2026-11-25",
+        "lockedAt": "2026-11-26T16:39:59.278Z",
+        "auditHash": "SHA256-IMMUTABLE-6847ECB1-2026-11-26",
         "isImmutable": true
       },
       "evaluation": {
